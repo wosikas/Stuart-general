@@ -49,8 +49,12 @@ def load_a(pack):
             continue
         st = (rep.get("source_status") or {}).get("reddit") or {}
         items = (rep.get("items_by_source") or {}).get("reddit") or []
-        runs.append({"run": f.stem, "state": st.get("state", "missing"),
-                     "items": len(items), "detail": st.get("detail")})
+        state, detail = st.get("state", "missing"), st.get("detail") or ""
+        # last30days reports "ok" even when sub-requests were rate-limited; surface it.
+        if state == "ok" and re.search(r"rate-limited|HTTP 429|HTTP 503", detail):
+            state = "partial"
+        runs.append({"run": f.stem, "state": state, "items": len(items), "detail": detail,
+                     "planner": (rep.get("provider_runtime") or {}).get("planner_model")})
         for it in items:
             m = POST_ID.search(it.get("url") or "")
             posts.append({
@@ -158,8 +162,9 @@ def main():
         md.append(f"| r/{r['subreddit']} | {r['posts_in_window']} | {r['from_A']} | {r['from_B']} | "
                   f"{r['threads_with_comments']} | {r['earliest'] or '-'} | {r['latest'] or '-'} | "
                   f"{r['B_state']} | {r['verdict']}{': ' + '; '.join(r['problems']) if r['problems'] else ''} |")
-    md += ["", "## Source A runs (last30days)", "| Run | Reddit state | Items |", "|---|---|---|"]
-    md += [f"| {r['run']} | {r['state']} | {r.get('items', '-')} |" for r in a_runs] or ["| none | not-run | - |"]
+    md += ["", "## Source A runs (last30days)", "| Run | Reddit state | Items | Planner | Detail |", "|---|---|---|---|---|"]
+    md += [f"| {r['run']} | {r['state']} | {r.get('items', '-')} | {r.get('planner') or '-'} | {(r.get('detail') or '')[:90]} |"
+           for r in a_runs] or ["| none | not-run | - | - | - |"]
     md += ["", "Failure states (rate-limited, unreachable, error, unavailable) mean coverage is unknown, "
            "not that nobody discussed the topic."]
     (pack / "coverage.md").write_text("\n".join(md) + "\n")
