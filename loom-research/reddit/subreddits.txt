@@ -1,0 +1,7 @@
+# One subreddit per line, no r/ prefix. Same list as the Reddit data access request.
+PKMS
+ObsidianMD
+Notion
+logseq
+NoteTaking
+ClaudeAI

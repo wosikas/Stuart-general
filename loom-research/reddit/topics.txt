@@ -1,0 +1,7 @@
+# One last30days topic per line. Each runs against every subreddit in subreddits.txt.
+note taking app frustrations
+second brain AI
+Obsidian Claude
+LLM wiki personal knowledge base
+quick capture notes mobile
+switching note app
