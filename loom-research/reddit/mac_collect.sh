@@ -8,12 +8,14 @@
 #   L30_ENGINE   path to last30days.py (default: ~/.claude/skills/last30days/scripts/last30days.py)
 #   DAYS         lookback window (default 30)
 #   PAUSE        seconds between topics (default 60)
+#   SOURCES      last30days sources (default reddit,x; X needs last30days X setup)
 set -euo pipefail
 
 HERE="$(cd "$(dirname "$0")" && pwd)"
 ENGINE="${L30_ENGINE:-$HOME/.claude/skills/last30days/scripts/last30days.py}"
 DAYS="${DAYS:-30}"
 PAUSE="${PAUSE:-60}"
+SOURCES="${SOURCES:-reddit,x}"
 PUSH=0
 [[ "${1:-}" == "--push" ]] && PUSH=1
 
@@ -39,7 +41,7 @@ while IFS= read -r topic; do
   slug="$(echo "$topic" | tr '[:upper:]' '[:lower:]' | tr -cs 'a-z0-9' '-' | sed 's/^-//;s/-$//')"
   echo "== $topic"
   python3 "$ENGINE" "$topic" \
-    --search reddit --subreddits "$SUBS" --deep --days "$DAYS" \
+    --search "$SOURCES" --subreddits "$SUBS" --deep --days "$DAYS" \
     --emit json --json-profile raw --output "$OUT/$slug.json" \
     || echo "   run failed for '$topic' (coverage check will show it)"
 done < "$HERE/topics.txt"
