@@ -10,7 +10,17 @@ this repo. Copy it into the repo where you do UI work.
 
 ## The design board
 
-One board per project, published as one Artifact link that never changes. In Figma
+The rules and hooks are global, but every design artifact is per project. Each project
+gets its own board, decisions and link in its own `design/` folder:
+
+```
+your-app/design/
+├── board/index.html   the board
+├── board/LINK         the board's published link
+└── decisions/*.md     one file per approved feature
+```
+
+The board is published as one Artifact link that never changes. In Figma
 projects it is one page called "Design board" with a Figma Section per part.
 
 ```

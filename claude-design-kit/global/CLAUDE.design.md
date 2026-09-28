@@ -43,8 +43,18 @@ screen, and the one thing it must make obvious.
 - Real microcopy on every control.
 - Light and dark if the product supports both.
 
-**Where it goes: one design board.** All design work for the project lives on a single
-board. Do not create separate mockup pages or scattered files.
+**Where it goes: one design board per project.** These rules are the same everywhere,
+but every design artifact belongs to the project it was made for. Each project has its
+own board, its own decisions and its own link, all kept inside that project's `design/`
+folder. Nothing design-related is ever stored in `~/.claude`.
+- **First design task in a project:** if `design/board/LINK` does not exist, create
+  `design/board/index.html` with a Foundations section built from this project's
+  tokens, publish it as a new Artifact, and save the link in `design/board/LINK`.
+- **Later tasks:** read `design/board/LINK` and add to that board.
+- Never add to, copy from or link to another project's board. Foundations always come
+  from the current project's own tokens.
+- All design work for the project lives on its single board. Do not create separate
+  mockup pages or scattered files.
 - The board is `design/board/index.html`, published as one Artifact whose link stays
   the same. Store that link in `design/board/LINK`. In a new session, read it and
   republish to that link rather than creating a new board. If the
