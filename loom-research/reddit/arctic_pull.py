@@ -69,7 +69,8 @@ def pull_sub(sub, start, end, max_posts, n_threads):
         data = get("posts/search", {
             "subreddit": sub, "after": int(start.timestamp()), "before": before,
             "sort": "desc", "limit": 100,
-            "fields": "id,title,selftext,score,num_comments,created_utc,permalink",
+            # "permalink" is not an accepted field name here; the URL is rebuilt from id.
+            "fields": "id,title,selftext,score,num_comments,created_utc",
         }).get("data") or []
         if not data:
             break
@@ -78,6 +79,8 @@ def pull_sub(sub, start, end, max_posts, n_threads):
         if len(data) < 100:
             break
     posts = posts[:max_posts]
+    for p in posts:
+        p["url"] = f"https://www.reddit.com/r/{sub}/comments/{p['id']}/"
     for p in sorted(posts, key=lambda p: p.get("num_comments") or 0, reverse=True)[:n_threads]:
         if (p.get("num_comments") or 0) == 0:
             continue
