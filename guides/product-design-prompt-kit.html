@@ -1,0 +1,841 @@
+<title>Product Design Prompt Kit</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --bg:#F5F6F9; --surface:#FFFFFF; --surface-2:#ECEFF4; --ink:#151922; --ink-2:#465063; --ink-3:#737C90;
+  --line:#D9DEE7; --accent:#D3235A; --accent-ink:#FFFFFF; --accent-soft:#FBE4EB; --blue:#2A52CF;
+  --good:#1D7F55; --bad:#B23A3E; --code-bg:#F0F2F7;
+  --display:"Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
+  --body:"IBM Plex Sans", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --r:10px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --bg:#10131A; --surface:#171B24; --surface-2:#202533; --ink:#E8EBF2; --ink-2:#B1B8C7; --ink-3:#848CA2;
+    --line:#2B3141; --accent:#FF5E8C; --accent-ink:#1B0610; --accent-soft:#3A1727; --blue:#86A2FF;
+    --good:#56C792; --bad:#FF7A7E; --code-bg:#1C2130;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#10131A; --surface:#171B24; --surface-2:#202533; --ink:#E8EBF2; --ink-2:#B1B8C7; --ink-3:#848CA2;
+  --line:#2B3141; --accent:#FF5E8C; --accent-ink:#1B0610; --accent-soft:#3A1727; --blue:#86A2FF;
+  --good:#56C792; --bad:#FF7A7E; --code-bg:#1C2130;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion: reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.6;padding-inline:16px;padding-block:0 64px}
+a{color:var(--blue)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+h1,h2,h3{font-family:var(--display);line-height:1.12;text-wrap:balance;margin:0}
+h1{font-size:clamp(2.2rem,5.5vw,3.6rem);font-weight:800;letter-spacing:-.02em}
+h2{font-size:clamp(1.6rem,3.2vw,2.1rem);font-weight:700;letter-spacing:-.01em}
+h3{font-size:1.2rem;font-weight:700}
+p{margin:0}
+.eyebrow{font-family:var(--mono);font-size:.75rem;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+.muted{color:var(--ink-2)}
+.small{font-size:.875rem}
+.layout{max-width:1200px;margin-inline:auto;display:grid;grid-template-columns:210px minmax(0,1fr);gap:48px}
+nav.toc{position:sticky;top:env(safe-area-inset-top,0px);align-self:start;padding-block:40px;display:flex;flex-direction:column;gap:2px}
+nav.toc a{color:var(--ink-2);text-decoration:none;font-size:.9rem;padding:6px 10px;border-radius:6px;border-left:2px solid transparent}
+nav.toc a:hover{color:var(--ink);background:var(--surface-2)}
+nav.toc a.on{color:var(--ink);border-left-color:var(--accent);background:var(--surface)}
+nav.toc .toc-title{font-family:var(--mono);font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);padding:0 10px 8px}
+main{min-width:0;display:flex;flex-direction:column;gap:88px;padding-block:40px}
+section{scroll-margin-top:24px;display:flex;flex-direction:column;gap:22px}
+.sec-head{display:flex;flex-direction:column;gap:10px;max-width:68ch}
+.lede{font-size:1.1rem;color:var(--ink-2);max-width:62ch}
+.chips-toc{display:none;flex-wrap:wrap;gap:8px}
+.chips-toc a{font-size:.82rem;text-decoration:none;color:var(--ink-2);background:var(--surface);border:1px solid var(--line);padding:4px 10px;border-radius:999px}
+
+.hero{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:48px;align-items:center}
+.hero-copy{display:flex;flex-direction:column;gap:20px}
+.specimen{display:grid;grid-template-columns:auto 230px;gap:24px;align-items:center}
+.phone{position:relative;width:250px;height:510px;border:9px solid var(--ink);border-radius:38px;background:#F3F4F7}
+.phone .screen{position:absolute;inset:0;border-radius:29px;overflow:hidden;background:#F3F4F7}
+.ph-status{height:34px;display:flex;justify-content:space-between;align-items:center;padding:0 22px;font:600 11px var(--body);color:#1a1d24}
+.ph-title{padding:6px 18px 10px;font:700 22px var(--display);color:#1a1d24}
+.ph-row{margin:0 16px 10px;height:46px;border-radius:10px;background:#fff;display:flex;flex-direction:column;justify-content:center;gap:6px;padding:0 12px}
+.ph-row i{display:block;height:7px;border-radius:4px;background:#D5D9E2}
+.ph-row i:last-child{width:55%;background:#E6E9EF}
+.ph-scrim{position:absolute;inset:0;background:rgba(10,12,18,.42)}
+.ph-sheet{position:absolute;left:0;right:0;bottom:0;height:62%;background:#fff;border-radius:18px 18px 0 0;padding:8px 16px 18px;display:flex;flex-direction:column;gap:10px}
+.ph-grab{width:36px;height:5px;border-radius:3px;background:#C9CDD6;margin:0 auto 4px}
+.ph-sheet-title{font:700 15px var(--body);color:#1a1d24;display:flex;justify-content:space-between;align-items:center}
+.ph-sheet-title span{font:500 13px var(--body);color:#2A52CF}
+.ph-input{flex:1;border-radius:10px;background:#F2F3F7;padding:10px 12px;font:400 13px var(--body);color:#6E7484}
+.ph-chip{align-self:flex-start;font:500 11px var(--body);color:#465063;background:#ECEFF4;border-radius:999px;padding:4px 10px}
+.ph-btn{height:44px;border-radius:12px;background:#D3235A;color:#fff;font:600 14px var(--body);display:flex;align-items:center;justify-content:center}
+.pin{position:absolute;width:22px;height:22px;border-radius:50%;background:var(--accent);color:var(--accent-ink);font:600 11px var(--mono);display:flex;align-items:center;justify-content:center;box-shadow:0 0 0 3px var(--bg);z-index:3}
+.redline{position:absolute;z-index:2}
+.redline.h{height:0;border-top:1px solid var(--accent)}
+.redline.h::before,.redline.h::after{content:"";position:absolute;top:-5px;width:1px;height:9px;background:var(--accent)}
+.redline.h::before{left:0}.redline.h::after{right:0}
+.redline.v{width:0;border-left:1px solid var(--accent)}
+.redline.v::before,.redline.v::after{content:"";position:absolute;left:-5px;height:1px;width:9px;background:var(--accent)}
+.redline.v::before{top:0}.redline.v::after{bottom:0}
+.redline b{position:absolute;font:500 10px var(--mono);color:var(--accent);background:#fff;padding:0 3px;white-space:nowrap}
+.legend{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px;font-size:.86rem}
+.legend li{display:grid;grid-template-columns:22px 1fr;gap:10px;align-items:start}
+.legend .n{width:22px;height:22px;border-radius:50%;background:var(--accent);color:var(--accent-ink);font:600 11px var(--mono);display:flex;align-items:center;justify-content:center}
+.legend strong{display:block;font-weight:600;color:var(--ink)}
+.legend span{color:var(--ink-2)}
+
+.planes{display:flex;flex-direction:column;gap:6px}
+.plane{display:grid;grid-template-columns:150px minmax(0,1.3fr) minmax(0,1fr);gap:20px;align-items:start;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px 18px}
+.plane .pn{font-family:var(--display);font-weight:700;font-size:1.1rem}
+.plane .pn small{display:block;font-family:var(--mono);font-weight:400;font-size:.72rem;color:var(--ink-3);letter-spacing:.04em;text-transform:uppercase;margin-top:2px}
+.plane .q{color:var(--ink-2);font-size:.94rem}
+.plane .ex{font-family:var(--mono);font-size:.8rem;color:var(--ink);background:var(--code-bg);border-radius:6px;padding:8px 10px}
+.axis{display:flex;justify-content:space-between;font-family:var(--mono);font-size:.72rem;color:var(--ink-3);letter-spacing:.05em;text-transform:uppercase;padding:0 4px}
+.why{font-size:.95rem;color:var(--ink-2);max-width:70ch}
+
+.tbl-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:var(--r);background:var(--surface)}
+table{border-collapse:collapse;width:100%;min-width:760px;font-size:.9rem}
+th,td{text-align:left;vertical-align:top;padding:11px 14px;border-bottom:1px solid var(--line)}
+th{font-family:var(--mono);font-weight:500;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);background:var(--surface-2)}
+tr:last-child td{border-bottom:0}
+td.stage{font-family:var(--mono);font-size:.78rem;color:var(--accent);white-space:nowrap}
+td strong{font-weight:600}
+
+.compare{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.6fr);gap:16px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:18px;display:flex;flex-direction:column;gap:12px}
+.card-label{font-family:var(--mono);font-size:.72rem;letter-spacing:.06em;text-transform:uppercase}
+.card-label.bad{color:var(--bad)}.card-label.good{color:var(--good)}
+.prompt-text{font-family:var(--mono);font-size:.82rem;line-height:1.65;white-space:pre-wrap;word-break:break-word;margin:0;color:var(--ink)}
+.anat{display:flex;flex-direction:column;gap:8px}
+.anat-row{display:grid;grid-template-columns:130px minmax(0,1fr);gap:14px;padding-top:8px;border-top:1px dashed var(--line)}
+.anat-row:first-child{border-top:0;padding-top:0}
+.anat-row .k{font-family:var(--mono);font-size:.74rem;color:var(--accent);text-transform:uppercase;letter-spacing:.05em;padding-top:2px}
+.anat-row .v{font-family:var(--mono);font-size:.82rem;line-height:1.6}
+
+.builder{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);gap:20px;align-items:start}
+.form{display:flex;flex-direction:column;gap:14px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:18px}
+.field{display:flex;flex-direction:column;gap:5px}
+.field label,.fieldset-label{font-size:.8rem;font-weight:600;color:var(--ink-2)}
+.field input,.field select,.field textarea{font:inherit;font-size:.9rem;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:7px;padding:8px 10px;width:100%}
+.field textarea{min-height:64px;resize:vertical}
+.field .hint{font-size:.76rem;color:var(--ink-3)}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.checks{display:flex;flex-direction:column;gap:6px}
+.checks label{display:flex;gap:9px;align-items:flex-start;font-size:.87rem;color:var(--ink);cursor:pointer}
+.checks input{margin-top:4px;accent-color:var(--accent)}
+.output{position:sticky;top:calc(env(safe-area-inset-top,0px) + 16px);display:flex;flex-direction:column;gap:10px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:18px}
+.output-head{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.output pre{max-height:560px;overflow:auto;background:var(--code-bg);border-radius:8px;padding:14px}
+.btn{font:600 .85rem var(--body);border:0;border-radius:7px;padding:8px 14px;cursor:pointer;background:var(--accent);color:var(--accent-ink)}
+.btn.ghost{background:transparent;color:var(--ink-2);border:1px solid var(--line)}
+.btn:hover{filter:brightness(1.06)}
+.count{font-family:var(--mono);font-size:.74rem;color:var(--ink-3)}
+
+.tpl-tabs{display:flex;flex-wrap:wrap;gap:6px}
+.tpl-tabs button{font:500 .82rem var(--body);background:var(--surface);color:var(--ink-2);border:1px solid var(--line);border-radius:999px;padding:5px 12px;cursor:pointer}
+.tpl-tabs button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.tpl-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:14px}
+.tpl{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px;display:flex;flex-direction:column;gap:10px}
+.tpl-top{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.tpl .stage-tag{font-family:var(--mono);font-size:.7rem;color:var(--accent);text-transform:uppercase;letter-spacing:.06em;white-space:nowrap}
+.tpl .answers{font-size:.87rem;color:var(--ink-2)}
+.tpl details summary{cursor:pointer;font-size:.85rem;font-weight:600;color:var(--blue)}
+.tpl details pre{margin-top:10px;background:var(--code-bg);border-radius:8px;padding:12px;max-height:380px;overflow:auto}
+.tpl-actions{display:flex;gap:8px;margin-top:auto;flex-wrap:wrap}
+
+.gl-controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.gl-controls input{font:inherit;font-size:.92rem;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:9px 12px;flex:1 1 240px;min-width:0}
+.gl-cats{display:flex;flex-wrap:wrap;gap:6px}
+.gl-cats button{font:500 .78rem var(--body);background:var(--surface);color:var(--ink-2);border:1px solid var(--line);border-radius:999px;padding:4px 11px;cursor:pointer}
+.gl-cats button[aria-pressed="true"]{background:var(--accent-soft);color:var(--ink);border-color:var(--accent)}
+.gl-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.term{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px 16px;display:flex;flex-direction:column;gap:7px}
+.term-top{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.term h3{font-size:1.02rem}
+.term .cat{font-family:var(--mono);font-size:.66rem;color:var(--ink-3);text-transform:uppercase;letter-spacing:.05em;white-space:nowrap}
+.term p{font-size:.88rem;color:var(--ink-2)}
+.term .say{font-family:var(--mono);font-size:.78rem;color:var(--ink);background:var(--code-bg);border-left:2px solid var(--accent);border-radius:0 6px 6px 0;padding:7px 10px}
+.gl-empty{color:var(--ink-3);font-size:.9rem}
+
+.phrases{display:flex;flex-wrap:wrap;gap:8px}
+.phrase{font:400 .85rem var(--body);text-align:left;background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:8px 12px;cursor:pointer;max-width:100%}
+.phrase:hover{border-color:var(--accent)}
+.phrase .hint{display:block;font-size:.72rem;color:var(--ink-3);font-family:var(--mono);text-transform:uppercase;letter-spacing:.05em}
+
+.checklist{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:10px}
+.ck{display:flex;gap:10px;align-items:flex-start;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;cursor:pointer;font-size:.9rem}
+.ck input{margin-top:5px;accent-color:var(--good)}
+.ck strong{display:block;font-weight:600}
+.ck span{color:var(--ink-2);font-size:.84rem}
+.ck-bar{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.meter{flex:1 1 200px;height:6px;background:var(--surface-2);border-radius:3px;overflow:hidden;min-width:120px}
+.meter i{display:block;height:100%;width:0;background:var(--good);transition:width .2s}
+
+.traps{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:12px}
+.trap{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px 16px;display:flex;flex-direction:column;gap:8px}
+.trap .from{font-family:var(--mono);font-size:.8rem;color:var(--bad);text-decoration:line-through;text-decoration-thickness:1px}
+.trap .to{font-family:var(--mono);font-size:.8rem;color:var(--good)}
+.trap p{font-size:.86rem;color:var(--ink-2)}
+
+.reads{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
+.read{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px 16px;display:flex;flex-direction:column;gap:6px}
+.read h3{font-size:1rem}
+.read .by{font-size:.8rem;color:var(--ink-3)}
+.read p{font-size:.87rem;color:var(--ink-2)}
+.read .for{font-family:var(--mono);font-size:.7rem;color:var(--accent);text-transform:uppercase;letter-spacing:.05em}
+
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--bg);font-size:.86rem;padding:9px 16px;border-radius:8px;z-index:50}
+footer{max-width:1200px;margin-inline:auto;color:var(--ink-3);font-size:.8rem;border-top:1px solid var(--line);padding-top:20px}
+
+@media (max-width:1060px){
+  .hero{grid-template-columns:1fr}
+  .builder{grid-template-columns:1fr}
+  .output{position:static}
+}
+@media (max-width:900px){
+  .layout{grid-template-columns:1fr;gap:0}
+  nav.toc{display:none}
+  .chips-toc{display:flex}
+  .compare{grid-template-columns:1fr}
+  .plane{grid-template-columns:1fr;gap:8px}
+}
+@media (max-width:560px){
+  .specimen{grid-template-columns:1fr;justify-items:center}
+  .legend{width:100%}
+  .row2{grid-template-columns:1fr}
+  .anat-row{grid-template-columns:1fr;gap:2px}
+  .tpl-list,.gl-grid,.checklist,.traps,.reads{grid-template-columns:1fr}
+  main{gap:64px}
+}
+</style>
+
+<div class="layout">
+  <nav class="toc" aria-label="Sections">
+    <div class="toc-title">Prompt kit</div>
+    <a href="#think">How designers think</a>
+    <a href="#process">Artefacts by stage</a>
+    <a href="#anatomy">Anatomy of a prompt</a>
+    <a href="#builder">Prompt builder</a>
+    <a href="#templates">Template library</a>
+    <a href="#vocab">Vocabulary</a>
+    <a href="#feedback">Feedback phrases</a>
+    <a href="#platforms">Web vs mobile</a>
+    <a href="#review">Review checklist</a>
+    <a href="#traps">Common traps</a>
+    <a href="#read">Go deeper</a>
+  </nav>
+
+  <main>
+    <section id="top" class="hero" aria-label="Introduction">
+      <div class="hero-copy">
+        <div class="eyebrow">A field guide for directing AI on UX and UI</div>
+        <h1>Product Design Prompt Kit</h1>
+        <p class="lede">Experienced product designers don't ask for "a nice screen". They name the user, the job, the platform, the states and the stage of work, then judge the result against known principles. This kit gives you that vocabulary, the order to work in, and prompts you can copy.</p>
+        <p class="muted">The running example is a quick-capture sheet for Loom: jot a note in seconds, with no filing decision. Swap in your own feature wherever you see brackets.</p>
+        <div class="chips-toc" aria-label="Jump to section">
+          <a href="#think">Think</a><a href="#process">Artefacts</a><a href="#anatomy">Anatomy</a><a href="#builder">Builder</a><a href="#templates">Templates</a><a href="#vocab">Vocabulary</a><a href="#feedback">Feedback</a><a href="#platforms">Web vs mobile</a><a href="#review">Checklist</a><a href="#traps">Traps</a><a href="#read">Reading</a>
+        </div>
+      </div>
+
+      <div class="specimen" aria-label="Annotated mobile screen showing design vocabulary">
+        <div class="phone" aria-hidden="true">
+          <div class="screen">
+            <div class="ph-status"><span>9:41</span><span>●●● ▮</span></div>
+            <div class="ph-title">Notes</div>
+            <div class="ph-row"><i></i><i></i></div>
+            <div class="ph-row"><i></i><i></i></div>
+            <div class="ph-row"><i></i><i></i></div>
+            <div class="ph-scrim"></div>
+            <div class="ph-sheet">
+              <div class="ph-grab"></div>
+              <div class="ph-sheet-title">Quick note <span>Cancel</span></div>
+              <div class="ph-input">What's on your mind?</div>
+              <div class="ph-chip">Goes to Inbox · file it later</div>
+              <div class="ph-btn">Save note</div>
+            </div>
+          </div>
+          <span class="pin" style="top:92px;right:-12px">1</span>
+          <span class="pin" style="top:180px;left:50%;transform:translateX(-50%)">2</span>
+          <span class="pin" style="top:250px;right:-12px">3</span>
+          <span class="pin" style="top:386px;left:-12px">4</span>
+          <span class="pin" style="bottom:30px;left:-12px">5</span>
+          <span class="redline h" style="left:0;width:16px;bottom:66px"><b style="left:-3px;top:-17px">16</b></span>
+          <span class="redline v" style="right:24px;height:44px;bottom:18px"><b style="right:5px;top:14px">44</b></span>
+        </div>
+        <ol class="legend">
+          <li><span class="n">1</span><div><strong>Scrim</strong><span>Dims the page behind to signal a modal state.</span></div></li>
+          <li><span class="n">2</span><div><strong>Bottom sheet and grabber</strong><span>Keeps context visible. The handle is a signifier that it can be dragged away.</span></div></li>
+          <li><span class="n">3</span><div><strong>Placeholder microcopy</strong><span>Invites input in the user's voice, not the system's.</span></div></li>
+          <li><span class="n">4</span><div><strong>Reassurance chip</strong><span>Removes the filing decision. Progressive disclosure hides folders until later.</span></div></li>
+          <li><span class="n">5</span><div><strong>Primary action in the thumb zone</strong><span>One filled button at the bottom, where thumbs reach.</span></div></li>
+          <li><span class="n" style="background:transparent;color:var(--accent);border:1px solid var(--accent)">↔</span><div><strong>Redlines</strong><span>Spec measurements: a 16pt side margin and a 44pt touch target.</span></div></li>
+        </ol>
+      </div>
+    </section>
+
+    <section id="think">
+      <div class="sec-head">
+        <div class="eyebrow">01 · Mental model</div>
+        <h2>Work from the bottom plane up</h2>
+        <p class="lede">Jesse James Garrett's five planes are how designers sequence decisions. Each plane constrains the one above it. Most weak AI output comes from asking for the top plane while the lower ones are still blank.</p>
+      </div>
+      <div class="axis"><span>Concrete · what people see</span><span>UI</span></div>
+      <div class="planes" id="planes"></div>
+      <div class="axis"><span>Abstract · why it exists</span><span>UX</span></div>
+      <p class="why"><strong>The rule:</strong> write one prompt per plane and feed each answer into the next. The strategy answer becomes context for the flow prompt. The flow becomes input for the wireframe prompt. This habit, more than any vocabulary, is what makes prompting sound like a designer.</p>
+    </section>
+
+    <section id="process">
+      <div class="sec-head">
+        <div class="eyebrow">02 · Artefacts</div>
+        <h2>What designers create, stage by stage</h2>
+        <p class="lede">Designers follow the Double Diamond: explore the problem widely, converge on the real one, explore solutions widely, converge on one. Each stage produces named artefacts. Asking for an artefact by name is the quickest way to sound like a designer.</p>
+      </div>
+      <div class="tbl-wrap">
+        <table>
+          <thead><tr><th>Stage</th><th>Artefact</th><th>Question it answers</th><th>Ask for it when</th></tr></thead>
+          <tbody id="deliv-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="anatomy">
+      <div class="sec-head">
+        <div class="eyebrow">03 · Structure</div>
+        <h2>Anatomy of a designer's prompt</h2>
+        <p class="lede">The difference isn't fancy words. Every decision the AI would otherwise guess has already been made.</p>
+      </div>
+      <div class="compare">
+        <div class="card">
+          <div class="card-label bad">How most people ask</div>
+          <pre class="prompt-text">Design a quick capture screen for my notes app. Make it modern and clean.</pre>
+          <p class="small muted">The AI must guess the user, the platform, the entry point, what "done" means, which states matter and what to hand back. It guesses the average, which is why the result looks generic.</p>
+        </div>
+        <div class="card">
+          <div class="card-label good">How a product designer asks</div>
+          <div class="anat" id="anat"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="builder">
+      <div class="sec-head">
+        <div class="eyebrow">04 · Tool</div>
+        <h2>Prompt builder</h2>
+        <p class="lede">Fill in what you know and pick an artefact. The prompt updates as you type. Your entries are remembered in this browser only.</p>
+      </div>
+      <div class="builder">
+        <form class="form" id="bform" autocomplete="off">
+          <div class="field"><label for="f-product">Product and feature</label>
+            <input id="f-product" value="Loom, a personal notes app. Feature: Quick Capture."></div>
+          <div class="field"><label for="f-user">Who the user is and their situation</label>
+            <textarea id="f-user">People who jot ideas throughout the day, often one-handed and mid-task, and who hate deciding where a note belongs.</textarea></div>
+          <div class="field"><label for="f-job">Job to be done and what success looks like</label>
+            <textarea id="f-job">Capture a thought in under five seconds from anywhere, with no filing decision. Success: capture is used daily and fewer ideas are lost.</textarea></div>
+          <div class="row2">
+            <div class="field"><label for="f-deliv">Artefact</label><select id="f-deliv"></select></div>
+            <div class="field"><label for="f-platform">Platform</label><select id="f-platform"></select></div>
+          </div>
+          <div class="row2">
+            <div class="field"><label for="f-fid">Fidelity</label><select id="f-fid"></select></div>
+            <div class="field"><label for="f-ds">Design system</label><select id="f-ds"></select></div>
+          </div>
+          <div class="field"><label for="f-cons">Constraints and references</label>
+            <textarea id="f-cons">Must work offline and sync later. Brand feels calm and quiet. Reference: the speed of Apple Notes' lock-screen capture.</textarea>
+            <span class="hint">Tech stack, brand adjectives, apps to learn from, things that must not change.</span></div>
+          <div class="fieldset-label">Also ask for</div>
+          <div class="checks" id="f-checks"></div>
+        </form>
+        <div class="output" aria-live="polite">
+          <div class="output-head">
+            <h3>Your prompt</h3>
+            <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap"><span class="count" id="wc"></span><button type="button" class="btn ghost" id="reset">Reset</button><button type="button" class="btn" id="copy-built">Copy prompt</button></div>
+          </div>
+          <pre class="prompt-text" id="built" tabindex="0"></pre>
+        </div>
+      </div>
+    </section>
+
+    <section id="templates">
+      <div class="sec-head">
+        <div class="eyebrow">05 · Library</div>
+        <h2>Template library</h2>
+        <p class="lede">Eighteen prompts, one per standard artefact. Replace the bracketed parts. Run them roughly in stage order, pasting each answer into the next prompt as context.</p>
+      </div>
+      <div class="tpl-tabs" id="tpl-tabs" role="group" aria-label="Filter by stage"></div>
+      <div class="tpl-list" id="tpl-list"></div>
+    </section>
+
+    <section id="vocab">
+      <div class="sec-head">
+        <div class="eyebrow">06 · Language</div>
+        <h2>Vocabulary</h2>
+        <p class="lede">The terms designers use daily, what they mean, and how each sounds inside a prompt. The precise term tells the AI which body of practice to draw on.</p>
+      </div>
+      <div class="gl-controls">
+        <input type="search" id="gl-q" placeholder="Search terms, e.g. affordance, empty state, tokens" aria-label="Search vocabulary">
+        <span class="count" id="gl-count"></span>
+      </div>
+      <div class="gl-cats" id="gl-cats" role="group" aria-label="Filter by category"></div>
+      <div class="gl-grid" id="gl-grid"></div>
+    </section>
+
+    <section id="feedback">
+      <div class="sec-head">
+        <div class="eyebrow">07 · Iteration</div>
+        <h2>Feedback phrases for the second prompt</h2>
+        <p class="lede">The first output is a draft. Designers steer with short, specific critique. Tap a phrase to copy it.</p>
+      </div>
+      <div class="phrases" id="phrases"></div>
+    </section>
+
+    <section id="platforms">
+      <div class="sec-head">
+        <div class="eyebrow">08 · Platforms</div>
+        <h2>Web vs mobile: what changes</h2>
+        <p class="lede">Name the platform in every prompt. The conventions differ enough that a design for one feels wrong on another.</p>
+      </div>
+      <div class="tbl-wrap">
+        <table>
+          <thead><tr><th>Concern</th><th>iOS (Apple HIG)</th><th>Android (Material 3)</th><th>Web</th></tr></thead>
+          <tbody id="plat-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="review">
+      <div class="sec-head">
+        <div class="eyebrow">09 · Judgement</div>
+        <h2>Review checklist for AI output</h2>
+        <p class="lede">A designer's value is as much in judging as in making. Run each design the AI returns through these questions. Any "no" becomes your next feedback prompt.</p>
+      </div>
+      <div class="ck-bar"><div class="meter" aria-hidden="true"><i id="meter"></i></div><span class="count" id="ck-count"></span><button type="button" class="btn ghost" id="ck-reset">Clear</button></div>
+      <div class="checklist" id="checklist"></div>
+    </section>
+
+    <section id="traps">
+      <div class="sec-head">
+        <div class="eyebrow">10 · Pitfalls</div>
+        <h2>Common traps and the designer's version</h2>
+      </div>
+      <div class="traps" id="trap-list"></div>
+    </section>
+
+    <section id="read">
+      <div class="sec-head">
+        <div class="eyebrow">11 · Go deeper</div>
+        <h2>Where to build real depth</h2>
+        <p class="lede">If you read only two, make them Refactoring UI for visual design and Don't Make Me Think for usability. Both are short and practical.</p>
+      </div>
+      <div class="reads" id="reads"></div>
+    </section>
+  </main>
+</div>
+<footer>Product Design Prompt Kit. Figures follow Apple HIG, Material 3 and WCAG 2.2 as published. Check the live guidelines before shipping.</footer>
+
+<script>
+(function(){
+const $ = (s,el=document)=>el.querySelector(s);
+const esc = s => String(s).replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const store = {
+  get(k){ try{ return JSON.parse(localStorage.getItem('pdpk:'+k)); }catch(e){ return null; } },
+  set(k,v){ try{ localStorage.setItem('pdpk:'+k, JSON.stringify(v)); }catch(e){} }
+};
+let toastT;
+function toast(msg){
+  let t = $('.toast'); if(!t){ t=document.createElement('div'); t.className='toast'; t.setAttribute('role','status'); document.body.appendChild(t); }
+  t.textContent = msg; t.hidden=false; clearTimeout(toastT); toastT=setTimeout(()=>{t.hidden=true},1800);
+}
+function copyText(text, el){
+  const fallback = ()=>{
+    if(el){ const r=document.createRange(); r.selectNodeContents(el); const s=getSelection(); s.removeAllRanges(); s.addRange(r); toast('Selected. Press Ctrl or Cmd + C to copy'); }
+  };
+  try{ navigator.clipboard.writeText(text).then(()=>toast('Copied'), fallback); }catch(e){ fallback(); }
+}
+
+const planes = [
+  {n:'Surface',s:'Visual design',q:'What does it look like? Colour, type, spacing, imagery, motion, polish.',ex:'"Apply our tokens to the wireframe. One primary action, clear type hierarchy, dark mode."'},
+  {n:'Skeleton',s:'Interface and layout',q:'Where does each element go on the screen, and in what priority?',ex:'"Wireframe these three screens at low fidelity, with annotations."'},
+  {n:'Structure',s:'Flows and information architecture',q:'How do screens connect? What are the steps, branches and navigation?',ex:'"Map the user flow from lock screen to saved note, including edge cases."'},
+  {n:'Scope',s:'Features and requirements',q:'What exactly are we building for v1, and what is out?',ex:'"List v1 requirements as user stories with acceptance criteria. Mark what is out of scope."'},
+  {n:'Strategy',s:'User needs and business goals',q:'Who is this for, what job do they need done, and how will we know it worked?',ex:'"Write a problem brief with the job-to-be-done and HEART success metrics."'}
+];
+$('#planes').innerHTML = planes.map(p=>`<div class="plane"><div class="pn">${p.n}<small>${p.s}</small></div><div class="q">${p.q}</div><div class="ex">${esc(p.ex)}</div></div>`).join('');
+
+const D = [
+ {id:'brief',stage:'Discover',name:'Problem brief',answers:'What problem, for whom, and how will we know it worked?',when:'Before any screens exist.',
+  ask:'Write a one-page product design brief for [feature]. Include: the problem statement in the user\'s own words, target users and their context of use, the core job-to-be-done, how people cope today, the assumptions we are making ranked by risk, success metrics using the HEART framework (happiness, engagement, adoption, retention, task success), v1 scope, what is explicitly out of scope, and open questions.',
+  output:'A structured document with a heading per part. Call out the single riskiest assumption.'},
+ {id:'personas',stage:'Discover',name:'Proto-personas and job stories',answers:'Who exactly are we designing for, and in what situation?',when:'You have a rough audience but no research yet.',
+  ask:'Draft 2 to 3 proto-personas for [product], clearly labelled as assumptions to validate. For each: goals, frustrations, context of use (device, place, time pressure, one hand or two), tech comfort, and one job story written as "When [situation], I want to [motivation], so I can [outcome]." Then list which assumptions a user interview should test first.',
+  output:'One short card per persona, then a ranked list of assumptions to test.'},
+ {id:'interview',stage:'Discover',name:'Interview guide',answers:'What should we ask real users so we learn rather than confirm?',when:'Before building, to test the brief.',
+  ask:'Write a 30-minute user interview guide to learn how [users] currently [do the job]. Open with a warm-up, then past-behaviour questions ("Tell me about the last time you..."). Avoid leading, yes/no and hypothetical "would you use" questions. Add follow-up probes for each question and a wrap-up. Include a 5-question screener to recruit the right participants.',
+  output:'The screener, then the guide with timings per section.'},
+ {id:'compet',stage:'Discover',name:'Competitive UX audit',answers:'What patterns do users already expect, and where is the gap?',when:'Early, to avoid reinventing solved patterns.',
+  ask:'Do a competitive UX audit of how [competitor apps] handle [job]. For each: entry point, number of taps on the happy path, UI patterns used, what they do well, and where users get stuck. Finish with the patterns that are now table stakes (Jakob\'s law: users expect your app to work like the ones they already use) and one gap we could own.',
+  output:'A comparison table, then table stakes, then the opportunity.'},
+ {id:'journey',stage:'Define',name:'Journey map',answers:'Where in the whole experience does it hurt most?',when:'You need to choose which moment to design for.',
+  ask:'Create a current-state journey map for [persona] doing [job]. Stages across the top. For each stage list: actions, touchpoints, thoughts, emotional state (low, neutral, high), pain points and opportunities. Highlight the moment of highest friction and explain why.',
+  output:'A table with stages as columns, followed by the top three opportunities.'},
+ {id:'stories',stage:'Define',name:'Requirements and user stories',answers:'What exactly is in v1, and how will we know each piece is done?',when:'The problem is agreed and you are scoping.',
+  ask:'Turn the brief for [feature] into v1 requirements. Write user stories as "As a [user], I want [action], so that [outcome]", each with acceptance criteria in Given/When/Then form. Prioritise with MoSCoW (must, should, could, won\'t) and list what is deliberately out of scope.',
+  output:'A prioritised table of stories with acceptance criteria.'},
+ {id:'ia',stage:'Define',name:'Information architecture',answers:'How is everything organised and named, and how do people move around?',when:'Before designing navigation or adding a new area.',
+  ask:'Propose the information architecture for [product]: a sitemap as a nested list, the primary navigation model and why (tab bar, sidebar, hub-and-spoke, etc.), what lives in global versus local navigation, section names in users\' language rather than internal jargon, and where search fits. Give one alternative structure and the trade-off. Suggest a card-sorting study to validate the naming.',
+  output:'Nested sitemap, navigation rationale, the alternative, and a validation plan.'},
+ {id:'flow',stage:'Define',name:'User flow',answers:'What are all the steps and branches to get the job done?',when:'Before wireframes. Flows come before screens.',
+  ask:'Map the user flow for [task] from entry point to success. Show every screen and decision as a step. Do the happy path first, then branches for: first-time user, no network, validation errors, permission denied, empty data, interrupted mid-task, and undo. Count the taps on the happy path and suggest how to remove at least one.',
+  output:'A numbered step list, then a Mermaid flowchart of the whole flow.'},
+ {id:'wire',stage:'Develop',name:'Wireframes',answers:'What goes on each screen, in what priority?',when:'The flow is agreed and you want layouts that are cheap to change.',
+  ask:'Produce low-fidelity wireframes for [screens] in the flow above. Greyscale only, real content rather than lorem ipsum, and focus on layout, hierarchy and content priority. Annotate each screen with: the primary action, why key elements sit where they do, and what is hidden behind progressive disclosure.',
+  output:'Simple HTML wireframes I can open in a browser, with numbered annotations beside each screen.'},
+ {id:'hifi',stage:'Develop',name:'High-fidelity mockup',answers:'What does the finished screen look and feel like?',when:'Wireframes are approved.',
+  ask:'Design the high-fidelity UI for [screen]. Establish clear visual hierarchy with exactly one primary action. Use an 8-point spacing scale, a defined type scale, and colour roles (primary, surface, on-surface, and semantic success, warning, error). Show these states side by side: default, empty, loading (skeleton), error and success.',
+  output:'Working HTML and CSS (or React with Tailwind) I can open in a browser, with the design tokens defined at the top.'},
+ {id:'proto',stage:'Develop',name:'Clickable prototype',answers:'Does the flow feel right when you actually tap through it?',when:'Before usability testing or showing stakeholders.',
+  ask:'Build a clickable prototype of [flow] that I can tap through on a phone or in a browser. Link every screen in the flow, include realistic content, simulate loading and one error, and make transitions match the platform. Keep it throwaway: no backend.',
+  output:'A single HTML file with all screens and working navigation between them.'},
+ {id:'system',stage:'Develop',name:'Design system and tokens',answers:'What are the reusable rules so every screen stays consistent?',when:'You have two or more screens, or before building many.',
+  ask:'Define a starter design system for [product]. Design tokens for: colour (a primitive palette plus semantic roles, in light and dark), typography (type scale with size, line height and weight per step), spacing (4- or 8-point scale), corner radius, elevation, and motion (durations and easing). Then a core component list: button, text input, select, checkbox, switch, card, list row, tabs, modal or sheet, toast, empty state. Brand personality: [three adjectives].',
+  output:'Tokens as JSON and as CSS custom properties, then a table of components with their variants.'},
+ {id:'component',stage:'Develop',name:'Component spec',answers:'Exactly how does one component look and behave in every case?',when:'Handing a component to engineering, or standardising it.',
+  ask:'Write a full spec for the [component]. Include: anatomy (named parts), variants (for example primary, secondary, tertiary, destructive, and sizes), every state (default, hover, focus-visible, pressed, disabled, loading, selected, error), behaviour rules, content guidelines (label length, truncation), accessibility (role, keyboard interaction, screen-reader label, minimum target size) and do/don\'t examples.',
+  output:'A spec document plus a rendered HTML preview of every variant and state.'},
+ {id:'motion',stage:'Develop',name:'Interaction and motion spec',answers:'What happens when the user acts, and how does it feel?',when:'Screens exist but feel static or unclear.',
+  ask:'Specify the interactions for [feature]. For each interaction: the trigger, the immediate feedback (within 100 ms), the transition with duration and easing, and what happens on failure. Use optimistic UI where it is safe. Prefer undo over confirmation dialogs for reversible actions. Respect the reduced-motion setting.',
+  output:'A table of interactions, then a short prototype of the key one.'},
+ {id:'copy',stage:'Develop',name:'UX writing and microcopy',answers:'What exactly do the words say?',when:'Any time. Words are half the interface.',
+  ask:'Write the microcopy for [flow]: screen titles, button labels (verb first, say what will happen), empty states (what this is, why it is empty, what to do next), error messages (what happened and how to fix it, no blame, no jargon), confirmations, tooltips and onboarding hints. Voice: [voice]. Give two options for each key string with character counts.',
+  output:'A table of strings grouped by screen.'},
+ {id:'heur',stage:'Deliver',name:'Heuristic review',answers:'What is wrong with this design, and how bad is it?',when:'After every significant AI output, or on your current app.',
+  ask:'Run a heuristic evaluation of [the attached screen or flow] against Nielsen\'s 10 usability heuristics. For each issue: the heuristic violated, where it occurs, severity from 0 (not a problem) to 4 (usability catastrophe), and a concrete fix. Then list the three changes that would most improve the experience.',
+  output:'An issues table sorted by severity, then the top three fixes.'},
+ {id:'a11y',stage:'Deliver',name:'Accessibility audit',answers:'Can everyone use it, including with a screen reader or keyboard?',when:'Before hand-off and before launch.',
+  ask:'Audit [screen] against WCAG 2.2 level AA. Check: text contrast (4.5:1 for normal text, 3:1 for large text and UI parts), focus order and visible focus, keyboard-only operation, screen-reader names and roles, target size, meaning conveyed by colour alone, text enlarged to 200% or Dynamic Type, and reduced motion.',
+  output:'Issues with the WCAG success criterion number, severity and the fix.'},
+ {id:'resp',stage:'Deliver',name:'Responsive and platform adaptation',answers:'How does this work on every screen size and platform?',when:'A design exists for one size only.',
+  ask:'Adapt [screen] across breakpoints: mobile (about 375 px), tablet (about 768 px) and desktop (1280 px and up). Describe what reflows, what collapses into menus or sheets, what becomes hover versus tap, and how navigation changes (for example a bottom tab bar on mobile and a sidebar on desktop). On native, follow Apple HIG and Material 3 conventions respectively.',
+  output:'The screen rendered at each breakpoint, with a list of changes between them.'},
+ {id:'test',stage:'Deliver',name:'Usability test plan',answers:'Does it actually work for real people?',when:'You have a clickable prototype.',
+  ask:'Write a moderated usability test plan for [prototype]. Include: goals, criteria for 5 participants, 4 to 6 realistic task scenarios worded without hints, what to observe, a success criterion per task, post-task questions including the Single Ease Question, and how to synthesise findings afterwards.',
+  output:'A test script I can read aloud, plus a note-taking grid.'},
+ {id:'handoff',stage:'Deliver',name:'Developer handoff spec',answers:'Can engineering build it without guessing?',when:'The design is final.',
+  ask:'Prepare a developer handoff spec for [screen]: layout and spacing in tokens, component names mapped to our library, all states and edge cases, responsive behaviour, interaction and animation values, final copy strings, accessibility notes, analytics events to fire, and open questions for engineering.',
+  output:'A spec document organised by screen region, with an open-questions list at the end.'}
+];
+$('#deliv-body').innerHTML = D.map(d=>`<tr><td class="stage">${d.stage}</td><td><strong>${esc(d.name)}</strong></td><td>${esc(d.answers)}</td><td class="muted">${esc(d.when)}</td></tr>`).join('');
+
+const anat = [
+ ['Role','Act as a senior product designer.'],
+ ['Context','Loom is a personal notes app. We are adding Quick Capture.'],
+ ['User','People who jot ideas all day, often one-handed and mid-task, who hate deciding where a note belongs.'],
+ ['Job & success','Capture a thought in under 5 seconds with no filing decision. Success: daily use, fewer lost ideas.'],
+ ['Platform','iOS app. Follow Apple HIG: bottom sheet, 44pt targets, Dynamic Type.'],
+ ['Artefact','Mid-fidelity screens for the capture sheet, reached from a home-screen widget and an in-app button.'],
+ ['States & edges','Show empty, typing, saving, saved (with undo), offline-queued, and a very long note.'],
+ ['Constraints','Calm, quiet brand. Works offline. Learn from Apple Notes lock-screen capture.'],
+ ['Output','HTML I can open, one frame per state, with a one-line rationale per key decision.'],
+ ['Process','Ask up to 3 clarifying questions first if anything critical is missing.']
+];
+$('#anat').innerHTML = anat.map(a=>`<div class="anat-row"><div class="k">${a[0]}</div><div class="v">${esc(a[1])}</div></div>`).join('');
+
+const PLAT = [
+ ['ios','iOS app','iOS app. Follow Apple Human Interface Guidelines: 44×44 pt minimum touch targets, tab bar and navigation stack, sheets for focused tasks, SF Pro with Dynamic Type, swipe-back gesture.'],
+ ['android','Android app','Android app. Follow Material 3: 48×48 dp minimum touch targets, navigation bar, top app bar, bottom sheets, a FAB where appropriate, Roboto, dynamic colour, system back.'],
+ ['cross','Cross-platform mobile','Cross-platform mobile app (iOS and Android). Shared visual design, but native conventions for navigation, back behaviour and system controls on each platform.'],
+ ['rweb','Responsive web','Responsive web app. Mobile-first, breakpoints around 375, 768 and 1280 px. Must work with touch, mouse and keyboard.'],
+ ['dweb','Desktop web','Desktop web app. Denser layout, sidebar navigation, hover states, keyboard shortcuts and a command palette where useful.']
+];
+const FID = [
+ ['lo','Low fidelity','Low fidelity: greyscale boxes and real text, no styling. Focus on structure and priority.'],
+ ['mid','Mid fidelity','Mid fidelity: real layout, spacing and type hierarchy, minimal colour.'],
+ ['hi','High fidelity','High fidelity: final visual design with colour, type, spacing, icons and polish.']
+];
+const DS = [
+ ['propose','Propose one','No design system yet. Propose a small token set (colour roles, type scale, 8-point spacing, radius) and use it consistently.'],
+ ['native','Platform native','Use the platform\'s native components and system styles wherever possible.'],
+ ['m3','Material 3','Use Material 3 components and tokens.'],
+ ['shadcn','shadcn/ui + Tailwind','Use shadcn/ui components with Tailwind CSS utility classes.'],
+ ['own','Our own tokens','Use our existing design tokens, pasted below: [paste tokens]. Do not invent new colours or sizes.']
+];
+const CHECKS = [
+ ['states','Every state',true,'Design every state: empty, loading, partial, error, success and offline.'],
+ ['edges','Edge cases',true,'Handle edge cases: first-time use, very long text, zero, one and many items, slow network, and permission denied.'],
+ ['a11y','Accessibility (WCAG 2.2 AA)',true,'Meet WCAG 2.2 AA: text contrast of at least 4.5:1, visible focus, screen-reader labels, adequate target sizes and support for larger text.'],
+ ['dark','Dark mode',false,'Include dark mode using semantic colour tokens, not simply inverted colours.'],
+ ['options','2 to 3 directions first',false,'Before detailing anything, give me 2 to 3 distinct directions with the trade-off of each, and recommend one.'],
+ ['rationale','Rationale for decisions',true,'For each key decision, give a one-line rationale tied to the user\'s goal or a named UX principle.'],
+ ['questions','Clarifying questions first',true,'If anything critical is missing, ask me up to 3 clarifying questions before you start.']
+];
+const fill = (sel, arr) => { $(sel).innerHTML = arr.map(a=>`<option value="${a[0]}">${esc(a[1])}</option>`).join(''); };
+$('#f-deliv').innerHTML = ['Discover','Define','Develop','Deliver'].map(st=>`<optgroup label="${st}">`+D.filter(d=>d.stage===st).map(d=>`<option value="${d.id}">${esc(d.name)}</option>`).join('')+'</optgroup>').join('');
+fill('#f-platform',PLAT); fill('#f-fid',FID); fill('#f-ds',DS);
+$('#f-checks').innerHTML = CHECKS.map(c=>`<label><input type="checkbox" id="c-${c[0]}" ${c[2]?'checked':''}> <span>${esc(c[1])}</span></label>`).join('');
+
+const fieldIds = ['f-product','f-user','f-job','f-deliv','f-platform','f-fid','f-ds','f-cons'];
+const defaults = {};
+fieldIds.forEach(id=>defaults[id]=$('#'+id).value);
+defaults['f-deliv']='hifi'; defaults['f-platform']='ios'; defaults['f-fid']='mid'; defaults['f-ds']='native';
+CHECKS.forEach(c=>defaults['c-'+c[0]]=c[2]);
+function applyState(st){
+  fieldIds.forEach(id=>{ if(st[id]!=null) $('#'+id).value = st[id]; });
+  CHECKS.forEach(c=>{ const k='c-'+c[0]; if(st[k]!=null) $('#'+k).checked = !!st[k]; });
+}
+applyState(Object.assign({}, defaults, store.get('builder')||{}));
+
+function build(){
+  const v = id => $('#'+id).value.trim();
+  const d = D.find(x=>x.id===v('f-deliv')) || D[0];
+  const plat = PLAT.find(p=>p[0]===v('f-platform')) || PLAT[0];
+  const fid = FID.find(p=>p[0]===v('f-fid')) || FID[1];
+  const ds = DS.find(p=>p[0]===v('f-ds')) || DS[0];
+  const feature = v('f-product') || '[product and feature]';
+  const ask = d.ask.replace(/\[(feature|product)\]/g, feature.replace(/\.$/,''));
+  const L = [];
+  L.push('Act as a senior product designer.','','CONTEXT');
+  L.push('Product: '+feature);
+  L.push('Users: '+(v('f-user')||'[who, and their situation]'));
+  L.push('Job to be done: '+(v('f-job')||'[what they need to get done, and what success looks like]'));
+  L.push('Platform: '+plat[2]);
+  L.push('','TASK: '+d.name.toUpperCase(), ask);
+  if(['wire','hifi','proto','system','component','resp','motion'].includes(d.id)) L.push('','Fidelity: '+fid[2]);
+  L.push('Design system: '+ds[2]);
+  if(v('f-cons')) L.push('','CONSTRAINTS AND REFERENCES', v('f-cons'));
+  const extras = CHECKS.filter(c=>$('#c-'+c[0]).checked && c[0]!=='questions');
+  if(extras.length){ L.push('','REQUIREMENTS'); extras.forEach(c=>L.push('- '+c[3])); }
+  L.push('','OUTPUT', d.output);
+  if($('#c-questions').checked) L.push('', CHECKS[CHECKS.length-1][3]);
+  const txt = L.join('\n');
+  $('#built').textContent = txt;
+  $('#wc').textContent = txt.split(/\s+/).filter(Boolean).length+' words';
+  const st={}; fieldIds.forEach(id=>st[id]=$('#'+id).value); CHECKS.forEach(c=>st['c-'+c[0]]=$('#c-'+c[0]).checked);
+  store.set('builder', st);
+}
+$('#bform').addEventListener('input', build);
+$('#bform').addEventListener('change', build);
+$('#bform').addEventListener('submit', e=>e.preventDefault());
+$('#copy-built').addEventListener('click', ()=>copyText($('#built').textContent, $('#built')));
+$('#reset').addEventListener('click', ()=>{ applyState(defaults); build(); toast('Reset to the example'); });
+build();
+
+function tplText(d){
+  return `Act as a senior product designer.
+
+Context: [product, in one line]. Users: [who they are and their situation]. Platform: [iOS / Android / responsive web / desktop web].
+
+Task: ${d.ask}
+
+Constraints: [design system or tokens, brand adjectives, tech stack, reference apps, anything that must not change].
+
+Output: ${d.output} Give a one-line rationale for each key decision.
+
+If anything critical is missing, ask me up to 3 clarifying questions before you start.`;
+}
+let tplStage = 'All';
+$('#tpl-tabs').innerHTML = ['All','Discover','Define','Develop','Deliver'].map(s=>`<button type="button" data-s="${s}" aria-pressed="${s==='All'}">${s}</button>`).join('');
+function renderTpl(){
+  $('#tpl-list').innerHTML = D.filter(d=>tplStage==='All'||d.stage===tplStage).map(d=>`
+   <article class="tpl"><div class="tpl-top"><h3>${esc(d.name)}</h3><span class="stage-tag">${d.stage}</span></div>
+   <p class="answers">${esc(d.answers)}</p>
+   <details><summary>Show prompt</summary><pre class="prompt-text" id="tpl-${d.id}">${esc(tplText(d))}</pre></details>
+   <div class="tpl-actions"><button type="button" class="btn" data-copy="${d.id}">Copy prompt</button><button type="button" class="btn ghost" data-use="${d.id}">Open in builder</button></div></article>`).join('');
+}
+$('#tpl-tabs').addEventListener('click', e=>{ const b=e.target.closest('button'); if(!b) return; tplStage=b.dataset.s; $('#tpl-tabs').querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed', String(x===b))); renderTpl(); });
+$('#tpl-list').addEventListener('click', e=>{
+  const c=e.target.closest('[data-copy]'); if(c){ const d=D.find(x=>x.id===c.dataset.copy); copyText(tplText(d), $('#tpl-'+d.id)); return; }
+  const u=e.target.closest('[data-use]'); if(u){ $('#f-deliv').value=u.dataset.use; build(); $('#builder').scrollIntoView(); }
+});
+renderTpl();
+
+const G = [
+ ['Strategy','Job to be done (JTBD)','The progress a person is trying to make in a situation. Focuses on the goal, not the feature.','Frame this around the job: when I have a passing thought, I want to park it instantly so I can get back to what I was doing.'],
+ ['Strategy','Problem statement','One sentence naming the user, their need and why it matters, with no solution baked in.','Start from this problem statement and don\'t assume the answer is a new screen.'],
+ ['Strategy','How might we (HMW)','A question that reframes a problem as an opportunity, used to generate ideas.','Give me 10 "How might we" questions from these pain points.'],
+ ['Strategy','Persona / proto-persona','A representative user profile. "Proto" means based on assumptions, not research yet.','Design for the proto-persona "the interrupted thinker", not a generic user.'],
+ ['Strategy','Mental model','What users believe about how a system works. Good design matches it.','What mental model do users bring from Apple Notes, and where does our design break it?'],
+ ['Strategy','HEART metrics','Google\'s framework: Happiness, Engagement, Adoption, Retention, Task success.','Define HEART metrics for this feature with one signal each.'],
+ ['Strategy','MVP / v1 scope','The smallest version that tests the core value. Everything else is explicitly deferred.','Cut this to the smallest lovable v1 and list what is deferred.'],
+ ['Strategy','Assumption mapping','Listing beliefs and ranking them by importance and evidence to decide what to test first.','Map the assumptions behind this design on importance versus evidence.'],
+ ['Structure','Information architecture (IA)','How content is organised, labelled and connected so people can find things.','Propose the IA before any screens, with labels in users\' words.'],
+ ['Structure','Sitemap','A hierarchy of every page or screen.','Give me the sitemap as a nested list.'],
+ ['Structure','User flow','The path a user takes through screens and decisions to finish a task.','Map the user flow including every error branch.'],
+ ['Structure','Happy path','The ideal route with no errors or detours. Design it first, but never only it.','Show the happy path, then every unhappy path.'],
+ ['Structure','Edge case','An unusual but real situation: empty data, huge data, no network, odd input.','List the edge cases for this screen and show how each is handled.'],
+ ['Structure','Empty state','What a screen shows when there is no content yet. A chance to teach and invite action.','Design the empty state with a one-line explanation and a clear first action.'],
+ ['Structure','Progressive disclosure','Showing only what is needed now and revealing advanced options on demand.','Use progressive disclosure: hide folder choice behind "More options".'],
+ ['Structure','Onboarding / first-run experience','How a new user learns the product on first open.','Design a first-run experience that reaches the first saved note in under 30 seconds.'],
+ ['Structure','Navigation model','The overall pattern for moving around: tab bar, sidebar, stack, hub-and-spoke.','Which navigation model fits, and why not the alternatives?'],
+ ['Structure','Entry point','Where a user starts a flow: widget, notification, deep link, button.','List every entry point into capture and design for each.'],
+ ['Visual','Visual hierarchy','The order in which the eye reads a screen, set by size, weight, colour and position.','Tighten the visual hierarchy so the note field dominates and metadata recedes.'],
+ ['Visual','Grid / 8-point system','A layout grid plus a spacing scale in multiples of 8 (or 4) for consistent rhythm.','Align everything to an 8-point spacing scale: 4, 8, 16, 24, 32, 48.'],
+ ['Visual','Type scale','A fixed set of font sizes with defined ratios, line heights and weights.','Use a type scale of no more than 5 sizes and name each step.'],
+ ['Visual','Whitespace','Empty space that groups, separates and gives focus.','Increase whitespace around the input so it feels calm.'],
+ ['Visual','Density','How much information fits in a space. Compact suits experts, comfortable suits casual use.','Offer comfortable and compact density for the list view.'],
+ ['Visual','Contrast','Difference in brightness or colour between elements. Needed for legibility and emphasis.','Check every text colour for WCAG contrast in both themes.'],
+ ['Visual','Semantic colour roles','Colours named by purpose (primary, surface, error) rather than by hue.','Define colours as semantic roles, not hex values scattered in components.'],
+ ['Visual','Gestalt principles','How people group what they see: proximity, similarity, alignment, common region.','Use proximity to group title and date instead of adding a divider.'],
+ ['Visual','Elevation','Perceived depth via shadow or tone, showing what sits above what.','Use elevation only for the sheet and toasts; keep the list flat.'],
+ ['Visual','Iconography','A consistent icon set with matching stroke, size and metaphor.','Use one outline icon set at 24 px, and pair unfamiliar icons with a label.'],
+ ['System','Design system','Shared tokens, components, patterns and guidelines that keep a product consistent.','Build this using our design system components only.'],
+ ['System','Design tokens','Named values for colour, type, spacing, radius and motion that design and code share.','Output the design tokens as CSS custom properties and JSON.'],
+ ['System','Component','A reusable UI piece, such as a button or card, with defined variants and states.','Treat the note row as a component with variants.'],
+ ['System','Variant','A version of a component for a purpose or size: primary, secondary, destructive, small.','Give the button primary, secondary, ghost and destructive variants.'],
+ ['System','Component states','Default, hover, focus, pressed, disabled, loading, selected, error.','Show every state of this input, including focus-visible and error.'],
+ ['System','Atomic design','Brad Frost\'s model: atoms, molecules, organisms, templates, pages.','Break this screen down into atoms, molecules and organisms.'],
+ ['System','Pattern','A reusable solution to a recurring problem: search, filters, inline edit.','Use the standard inline-edit pattern rather than a separate edit screen.'],
+ ['Interaction','Affordance','What an element\'s properties suggest you can do with it. A button looks pressable.','Make the swipe action discoverable. Right now it has no affordance.'],
+ ['Interaction','Signifier','A visible cue showing where and how to act, such as a grabber handle.','Add a signifier that the sheet can be dragged down.'],
+ ['Interaction','Feedback','The system\'s immediate response to an action, so users know it worked.','Give instant feedback on save with a subtle haptic and a toast.'],
+ ['Interaction','Microinteraction','A small, single-purpose moment: a toggle, a like, a pull-to-refresh.','Design the save microinteraction: trigger, rules, feedback, loops.'],
+ ['Interaction','Optimistic UI','Showing the result immediately and syncing in the background, rolling back on failure.','Use optimistic UI for saving; queue offline and show a sync badge.'],
+ ['Interaction','Undo over confirm','Letting people reverse an action instead of interrupting them with "Are you sure?"','Replace the delete confirmation dialog with a 5-second undo toast.'],
+ ['Interaction','Modal, sheet, drawer, popover','Overlays of different weight. A modal blocks, a sheet keeps context, a popover is lightweight.','Use a bottom sheet instead of a full-screen modal so context stays visible.'],
+ ['Interaction','Toast / snackbar','A brief non-blocking message, often with one action.','Confirm with a snackbar that includes an Undo action.'],
+ ['Interaction','Skeleton screen','A grey placeholder shaped like the content, shown while loading.','Use skeleton screens rather than a spinner for the notes list.'],
+ ['Interaction','Motion and easing','Animation duration and acceleration curves that make changes feel natural.','Keep transitions to 150–250 ms, ease-out on enter and ease-in on exit.'],
+ ['Interaction','Inline validation','Checking input next to the field as the user goes, not after submit.','Validate inline on blur and never clear the user\'s input on error.'],
+ ['Mobile','Thumb zone','The area of a phone screen reachable comfortably with one thumb, mostly the lower half.','Move primary actions into the thumb zone.'],
+ ['Mobile','Touch target','The tappable area of a control. Minimum 44×44 pt on iOS, 48×48 dp on Android.','Make every touch target at least 44 pt, even if the icon is smaller.'],
+ ['Mobile','Safe area','The screen region clear of notches, rounded corners and system bars.','Respect safe areas so nothing sits under the home indicator.'],
+ ['Mobile','Tab bar / navigation bar','Bottom navigation with 3 to 5 top-level destinations.','Use a tab bar with no more than 4 destinations.'],
+ ['Mobile','Bottom sheet','A panel sliding up from the bottom for a focused task or options.','Present capture as a resizable bottom sheet with a grabber.'],
+ ['Mobile','Haptics','Tactile feedback from the device for key moments.','Add a light haptic on successful save only.'],
+ ['Mobile','Dynamic Type / font scaling','The user\'s system text-size setting. Layouts must adapt to it.','Test the layout at the largest Dynamic Type size.'],
+ ['Mobile','Deep link','A link that opens a specific screen inside the app.','Support a deep link that opens capture directly from a widget.'],
+ ['Access','WCAG 2.2 AA','The web accessibility standard most teams target. Level AA is the usual bar.','Audit this against WCAG 2.2 AA and cite success criteria.'],
+ ['Access','Contrast ratio','Normal text needs at least 4.5:1 against its background; large text and UI parts need 3:1.','Check all text for 4.5:1 contrast, including placeholder text.'],
+ ['Access','Focus state','A visible indicator showing which element has keyboard focus.','Design a clear focus-visible state for every interactive element.'],
+ ['Access','Screen reader label','Text a screen reader announces for an element, especially icon-only buttons.','Give every icon-only button an accessible label.'],
+ ['Access','Colour-independent meaning','Never use colour as the only way to convey information.','Pair the error colour with an icon and text, never colour alone.'],
+ ['Access','Reduced motion','A system setting asking apps to minimise animation.','Respect reduced motion by swapping slides for fades.'],
+ ['Content','Microcopy','The small words: labels, hints, errors, empty states.','Rewrite the microcopy to be shorter and verb-first.'],
+ ['Content','Voice and tone','Voice is the constant personality. Tone adapts to the moment.','Voice: calm and plain. Tone: warmer on empty states, direct on errors.'],
+ ['Content','Content-first design','Designing with real content before styling, to expose real lengths and priorities.','Use real note content, including a very long one, not lorem ipsum.'],
+ ['Validate','Fidelity (lo, mid, hi)','How finished a design looks. Low is fast to change, high is close to final.','Stay at low fidelity until the flow is agreed.'],
+ ['Validate','Prototype','An interactive simulation used to test flows before building.','Build a clickable prototype of the capture flow I can tap through.'],
+ ['Validate','Heuristic evaluation','An expert review against a set of principles, usually Nielsen\'s 10.','Run a heuristic evaluation and score severity 0 to 4.'],
+ ['Validate','Usability test','Watching real users try realistic tasks to find where they struggle.','Write 5 task scenarios for a usability test, with no hints in the wording.'],
+ ['Validate','A/B test','Shipping two variants to live users to compare a metric.','What would we A/B test here, and which metric decides it?'],
+ ['Validate','Design critique','Structured feedback against goals, not taste.','Critique this against the brief\'s goals, not aesthetics.'],
+ ['Validate','Handoff / redlines','Specs for engineering: measurements, tokens, states, behaviour.','Produce handoff redlines with spacing expressed in tokens.'],
+ ['Laws','Fitts\'s law','The time to hit a target depends on its size and distance. Big and close is fast.','Apply Fitts\'s law: make Save large and near the thumb.'],
+ ['Laws','Hick\'s law','More choices mean slower decisions.','Apply Hick\'s law: reduce the capture options to one.'],
+ ['Laws','Jakob\'s law','Users spend most of their time in other apps and expect yours to work the same way.','Follow Jakob\'s law and use patterns people know from Notes and Keep.'],
+ ['Laws','Tesler\'s law','Complexity can\'t be removed, only moved. Decide whether the user or the system carries it.','Where can the system absorb complexity instead of the user?'],
+ ['Laws','Doherty threshold','Responses under about 400 ms keep people in flow.','Keep capture under the Doherty threshold with an optimistic save.'],
+ ['Laws','Peak-end rule','People judge an experience by its peak and its end.','Design a satisfying end moment when a note is saved.'],
+ ['Laws','Von Restorff effect','The item that differs is the one remembered, so reserve distinctiveness for what matters.','Make only the primary action visually distinct.']
+];
+const CAT_LABEL = {Strategy:'Strategy & research',Structure:'Structure & flow',Visual:'Layout & visual',System:'Design systems',Interaction:'Interaction',Mobile:'Mobile',Access:'Accessibility',Content:'Content',Validate:'Validation & handoff',Laws:'Laws of UX'};
+let gCat='All';
+$('#gl-cats').innerHTML = ['All',...Object.keys(CAT_LABEL)].map(c=>`<button type="button" data-c="${c}" aria-pressed="${c==='All'}">${c==='All'?'All':CAT_LABEL[c]}</button>`).join('');
+function renderG(){
+  const q = $('#gl-q').value.trim().toLowerCase();
+  const list = G.filter(g=>(gCat==='All'||g[0]===gCat) && (!q || (g[1]+' '+g[2]+' '+g[3]).toLowerCase().includes(q)));
+  $('#gl-count').textContent = list.length+' of '+G.length+' terms';
+  $('#gl-grid').innerHTML = list.length ? list.map(g=>`<article class="term"><div class="term-top"><h3>${esc(g[1])}</h3><span class="cat">${CAT_LABEL[g[0]]}</span></div><p>${esc(g[2])}</p><div class="say">${esc(g[3])}</div></article>`).join('') : '<p class="gl-empty">No terms match. Try a broader word.</p>';
+}
+$('#gl-q').addEventListener('input', renderG);
+$('#gl-cats').addEventListener('click', e=>{ const b=e.target.closest('button'); if(!b) return; gCat=b.dataset.c; $('#gl-cats').querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed', String(x===b))); renderG(); });
+renderG();
+
+const P = [
+ ['Critique your own design against Nielsen\'s 10 heuristics, then fix the top 3 issues.','Self-review'],
+ ['Tighten the hierarchy. [Element] should be read first, then [element], then everything else.','Hierarchy'],
+ ['This feels busy. Remove anything that doesn\'t serve the primary task, and move secondary actions behind progressive disclosure.','Reduce noise'],
+ ['Increase information density for frequent users without shrinking touch targets below 44 pt.','Density'],
+ ['Align everything to an 8-point spacing scale and list the values you used.','Rhythm'],
+ ['Show me the empty, loading, error and success states for this screen.','States'],
+ ['What happens with a very long title, zero items, and 1,000 items? Show each.','Edge cases'],
+ ['Move the primary action into the thumb zone and keep it visible above the keyboard.','Mobile reach'],
+ ['Replace the confirmation dialog with an undo toast.','Friction'],
+ ['Use a bottom sheet instead of a full-screen modal so the user keeps context.','Overlays'],
+ ['Rewrite all labels to be verb-first and in the user\'s words, not system terms.','Copy'],
+ ['Show this at 375, 768 and 1280 px wide and list what changes.','Responsive'],
+ ['Give me two more directions that differ in layout, not just colour.','Divergence'],
+ ['Keep the layout but make the tone calmer: fewer colours, more whitespace, lighter weights.','Tone'],
+ ['Check every text and background pair for WCAG AA contrast in both themes and fix failures.','Accessibility'],
+ ['Explain why you chose this layout over the obvious alternative.','Rationale']
+];
+$('#phrases').innerHTML = P.map((p,i)=>`<button type="button" class="phrase" data-i="${i}"><span class="hint">${esc(p[1])}</span>${esc(p[0])}</button>`).join('');
+$('#phrases').addEventListener('click', e=>{ const b=e.target.closest('.phrase'); if(b) copyText(P[b.dataset.i][0], b); });
+
+const PL = [
+ ['Primary navigation','Tab bar at the bottom; navigation stack with a back chevron top-left','Navigation bar at the bottom (rail on tablets); top app bar','Top bar or sidebar; URLs and the browser back button matter'],
+ ['Minimum target','44 × 44 pt','48 × 48 dp','24 × 24 CSS px minimum under WCAG 2.2; 44 px is comfortable for touch'],
+ ['Going back','Swipe from the left edge, or the back button in the nav bar','System back gesture or button','Browser back; every meaningful state should have a URL'],
+ ['Base text size','17 pt body, scales with Dynamic Type','14–16 sp body, scales with the font size setting','16 px minimum body, scales with browser zoom'],
+ ['Overlays','Sheets (resizable), action sheets, alerts','Bottom sheets, dialogs, snackbars','Modals, drawers, popovers, toasts'],
+ ['Primary action','Top-right nav button or bottom button','Floating action button (FAB) or bottom button','Prominent button, plus a keyboard shortcut for frequent actions'],
+ ['Input','Touch, gestures, haptics','Touch, gestures, haptics','Mouse, keyboard and touch; hover exists but can\'t be relied on'],
+ ['System font','SF Pro','Roboto','Your choice; always define a fallback stack'],
+ ['Guideline source','Apple Human Interface Guidelines','Material Design 3','WCAG 2.2, plus your design system']
+];
+$('#plat-body').innerHTML = PL.map(r=>`<tr><td><strong>${esc(r[0])}</strong></td><td>${esc(r[1])}</td><td>${esc(r[2])}</td><td>${esc(r[3])}</td></tr>`).join('');
+
+const CK = [
+ ['One clear primary action','Is there exactly one thing that looks most clickable?'],
+ ['Hierarchy reads right','Squint at it. Does the eye land on the most important thing first?'],
+ ['You know where you are','Can the user tell which screen this is and how to go back?'],
+ ['All states designed','Empty, loading, error, success and offline, not only the ideal screen.'],
+ ['Edge cases hold','Very long text, zero items, one item, a thousand items.'],
+ ['Consistent spacing','Do gaps come from one scale, or are they arbitrary?'],
+ ['Restrained type','Two typefaces or fewer, and about five sizes at most.'],
+ ['Targets big enough','44 pt on iOS, 48 dp on Android, and not crammed together.'],
+ ['Contrast passes','4.5:1 for body text, 3:1 for large text and controls.'],
+ ['User\'s words','Labels say what users recognise, not internal or technical names.'],
+ ['Safe destructive actions','Deleting is undoable or clearly confirmed.'],
+ ['Platform conventions','Back gesture, navigation and controls behave as users expect.'],
+ ['Keyboard works (web)','Everything can be reached and used without a mouse.'],
+ ['Fewest steps','Could the happy path lose a tap or a field?'],
+ ['Solves the brief','Does it actually serve the job-to-be-done you started with?']
+];
+const ckSaved = store.get('checks') || {};
+$('#checklist').innerHTML = CK.map((c,i)=>`<label class="ck"><input type="checkbox" id="ck-${i}" ${ckSaved[i]?'checked':''}><div><strong>${esc(c[0])}</strong><span>${esc(c[1])}</span></div></label>`).join('');
+function ckUpdate(){
+  const st={}; let n=0; CK.forEach((c,i)=>{ const on=$('#ck-'+i).checked; st[i]=on; if(on) n++; });
+  $('#meter').style.width = (n/CK.length*100)+'%';
+  $('#ck-count').textContent = n+' of '+CK.length+' pass';
+  store.set('checks', st);
+}
+$('#checklist').addEventListener('change', ckUpdate);
+$('#ck-reset').addEventListener('click', ()=>{ CK.forEach((c,i)=>$('#ck-'+i).checked=false); ckUpdate(); });
+ckUpdate();
+
+const T = [
+ ['"Make it modern and clean."','"Calm, quiet, low density. One accent colour. Reference: Things 3."','Taste words are vague. Name density, personality and a reference app.'],
+ ['Asking for one screen in isolation','"Map the flow first, then design each screen in it."','Screens only make sense inside a flow.'],
+ ['Designing the happy path only','"Show empty, loading, error and offline states too."','Real users spend a lot of time in the unhappy paths.'],
+ ['Not naming a platform','"iOS, following Apple HIG."','Web, iOS and Android differ in navigation, targets and overlays.'],
+ ['Jumping straight to high fidelity','"Low-fidelity wireframes first."','Polish hides structural problems and makes you reluctant to change.'],
+ ['"Make it pop."','"The Save button should be read first, the date last."','Say what should draw the eye, in order.'],
+ ['Asking for everything in one prompt','"One plane per prompt, feeding each answer forward."','Big prompts produce shallow answers across the board.'],
+ ['Accepting the first output','"Critique this against Nielsen\'s heuristics, then revise."','The first draft is a starting point. Iteration is the job.'],
+ ['Asking for a feature','"Users lose ideas because filing takes too long."','Give the problem. A feature request skips better solutions.'],
+ ['Lorem ipsum content','"Use real notes, including a very long one."','Fake text hides real lengths and priorities.']
+];
+$('#trap-list').innerHTML = T.map(t=>`<div class="trap"><div class="from">${esc(t[0])}</div><div class="to">${esc(t[1])}</div><p>${esc(t[2])}</p></div>`).join('');
+
+const R = [
+ ['Refactoring UI','Adam Wathan and Steve Schoger','Visual design tactics for non-designers: hierarchy, spacing, colour, depth. The fastest route to judging UI.','Visual'],
+ ['Don\'t Make Me Think','Steve Krug','Usability basics in a weekend read. Teaches you to spot friction.','Usability'],
+ ['The Design of Everyday Things','Don Norman','Affordances, signifiers, feedback and mental models. Where much of the vocabulary comes from.','Foundations'],
+ ['Laws of UX','Jon Yablonski · lawsofux.com','Short, illustrated psychology principles you can name in prompts.','Principles'],
+ ['Apple Human Interface Guidelines','developer.apple.com/design','The rules for iOS. Read Foundations, Patterns and Components.','iOS'],
+ ['Material Design 3','m3.material.io','The rules for Android, and a strong general component reference.','Android'],
+ ['Nielsen Norman Group articles','nngroup.com/articles','Research-backed articles on almost every UX question.','Research'],
+ ['Mobbin','mobbin.com','A library of real app screens and flows. Find references to name in prompts.','References'],
+ ['WCAG 2.2 quick reference','w3.org/WAI/WCAG22/quickref','The accessibility success criteria, filterable by level.','Accessibility']
+];
+$('#reads').innerHTML = R.map(r=>`<div class="read"><span class="for">${r[3]}</span><h3>${esc(r[0])}</h3><span class="by">${esc(r[1])}</span><p>${esc(r[2])}</p></div>`).join('');
+
+const links = [...document.querySelectorAll('nav.toc a')];
+if('IntersectionObserver' in window){
+  const io = new IntersectionObserver(es=>{ es.forEach(en=>{ if(en.isIntersecting){ links.forEach(l=>l.classList.toggle('on', l.getAttribute('href')==='#'+en.target.id)); } }); }, {rootMargin:'-30% 0px -60% 0px'});
+  document.querySelectorAll('main section[id]').forEach(s=>io.observe(s));
+}
+})();
+</script>
