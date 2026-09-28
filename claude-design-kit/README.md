@@ -30,7 +30,21 @@ Design board
 Once you pick, approved options get a badge and the rest are greyed out but kept.
 Decided and built sections collapse to a summary card so the board stays readable.
 
-## Install into a project
+## Install globally (every project)
+
+On your Mac, from a clone of this repo on this branch:
+
+```bash
+./claude-design-kit/global/install.sh
+```
+
+It copies the three hooks into `~/.claude/hooks/`, adds the design rules to
+`~/.claude/CLAUDE.md` between marker comments, and merges the hooks into
+`~/.claude/settings.json`. Both files are backed up first and everything already in
+them is kept. Re-running it replaces the kit's own block and hooks without duplicating
+them. The design board and decisions still live inside each project.
+
+## Install into a single project instead
 
 ```bash
 cd /path/to/your-app

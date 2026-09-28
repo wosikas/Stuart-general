@@ -1,0 +1,35 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"$HOME\"/.claude/hooks/design-lens.sh"
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"$HOME\"/.claude/hooks/design-gate.sh"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"$HOME\"/.claude/hooks/design-check-on-stop.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
