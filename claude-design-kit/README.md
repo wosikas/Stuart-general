@@ -75,7 +75,7 @@ The hooks need `jq` and `git`.
 | `CLAUDE.design.md` | Session start and after compaction | The design stance, the gate and the board structure |
 | `design-lens.sh` | Every prompt that looks like UI work | Short reminder to classify the change and use the board |
 | `design-gate.sh` | Before Claude creates a file | Blocks new UI files until a decision file in `design/decisions/` was written in the last 12 hours |
-| `design-check-on-stop.sh` | When Claude finishes a turn | If UI files changed, reminds it to screenshot, add Built vs mockup, and critique |
+| `design-check-on-stop.sh` | When Claude finishes a turn | If Claude changed UI code this turn, sends it back once to screenshot, add Built vs mockup, and critique |
 
 ## Tuning
 

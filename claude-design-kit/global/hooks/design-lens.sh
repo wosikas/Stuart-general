@@ -1,7 +1,12 @@
 #!/usr/bin/env bash
 # UserPromptSubmit hook. Prints a short design reminder when the prompt looks like UI work.
 # Whatever this prints on exit 0 is added to Claude's context for that turn.
-prompt=$(jq -r '.prompt // empty')
+# It also stamps the start of the turn, so the Stop hook can tell which files
+# changed during this turn.
+input=$(cat)
+prompt=$(printf '%s' "$input" | jq -r '.prompt // empty')
+session=$(printf '%s' "$input" | jq -r '.session_id // "default"')
+touch "${TMPDIR:-/tmp}/claude-design-turn-$session" 2>/dev/null
 if printf '%s' "$prompt" | grep -qiE '(^|[^a-z])(ui|ux|screen|page|component|layout|design|redesign|button|form|modal|dashboard|landing|onboarding|flow|css|tailwind|figma|mockup)([^a-z]|$)'; then
 cat <<'EOF'
 [Design lens] First classify: new design / major change, or minor change.
