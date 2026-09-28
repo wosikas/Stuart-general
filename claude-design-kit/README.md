@@ -20,12 +20,14 @@ Design board
 └── Feature sections, newest first
     ├── 1. Brief
     ├── 2. Options A / B / C (desktop + mobile side by side)
+    │      each marked Pending, Approved, Approved in part, or Not chosen (greyed out)
     ├── 3. States (empty, loading, error, long content)
     ├── 4. Recommendation
     ├── 5. Decision ("Awaiting decision" until picked)
     └── 6. Built vs mockup (after implementation)
 ```
 
+Once you pick, approved options get a badge and the rest are greyed out but kept.
 Decided and built sections collapse to a summary card so the board stays readable.
 
 ## Install into a project

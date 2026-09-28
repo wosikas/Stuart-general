@@ -62,12 +62,13 @@ board. Do not create separate mockup pages or scattered files.
      change the design.
   4. **Recommendation.** Each option's idea, strength and cost in one line each, then
      the recommended option and why.
-  5. **Decision.** Which option was picked, what was combined or changed, and the
-     date. Shows "Awaiting decision" until the user picks.
+  5. **Decision.** Which option or options were approved, what was combined or
+     changed, and the date. Shows "Awaiting decision" until the user picks.
   6. **Built vs mockup.** Added after implementation: a screenshot of the real UI next
      to the chosen mockup, with any drift called out.
 - Sections that are decided and built collapse to a summary card showing the chosen
-  option and the built screenshot, so the board stays readable as it grows.
+  option and the built screenshot, so the board stays readable as it grows. The greyed
+  options stay inside the card, one click away.
 - Minor changes do not get a feature section, but any token or component they change
   still gets updated in Foundations.
 - Screenshot the board with Playwright and look at it before presenting. Fix anything
@@ -78,9 +79,28 @@ option or mix elements. Do not start implementation in the same turn. When the s
 is running unattended and nobody can answer, proceed with your recommended option and
 say clearly that you chose it.
 
-**Record the decision.** When the user picks, fill in the Decision part of the board
-section and also write `design/decisions/<feature-slug>.md` with the same content. The
-file is what unlocks building. Then implement to match the chosen option.
+**Record the decision.** When the user picks, update the board before anything else.
+- **Mark every option.** Each option carries one status: Pending, Approved or Not
+  chosen. Before a decision all options show Pending.
+- **Approved options** get an "Approved" badge with the date and a strong accent
+  border. More than one option can be approved. When the user mixes elements, mark
+  each contributing option "Approved in part" and list which elements were taken.
+- **Options not chosen** stay on the board but are greyed out: reduced opacity,
+  desaturated, and a "Not chosen" label. Never delete them, since they record what was
+  considered. The label must be text, not colour alone. Hovering or focusing a greyed
+  option restores it to full view so it can still be reviewed.
+- **In HTML**, set `data-status="pending|approved|partial|rejected"` on each option
+  and style from that attribute, so a status change is a one-word edit.
+- **In Figma**, set rejected frames to 40% opacity with a "Not chosen" label, and add
+  an "Approved" label to the chosen frames.
+- Fill in the Decision part with what was approved, what was combined or changed, and
+  the date. Update the index so the feature shows as decided.
+- Also write `design/decisions/<feature-slug>.md` with the same content. That file is
+  what unlocks building.
+- Republish the board, screenshot it to check the approved and greyed states read
+  clearly, and share the link. Then implement to match the approved option.
+- If the user later changes their mind, update the statuses and the decision file,
+  and keep a one-line history of the change in the Decision part.
 
 ### 3. While building
 
