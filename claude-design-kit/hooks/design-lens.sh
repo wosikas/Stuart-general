@@ -9,7 +9,9 @@ session=$(printf '%s' "$input" | jq -r '.session_id // "default"')
 touch "${TMPDIR:-/tmp}/claude-design-turn-$session" 2>/dev/null
 if printf '%s' "$prompt" | grep -qiE '(^|[^a-z])(ui|ux|screen|page|component|layout|design|redesign|button|form|modal|dashboard|landing|onboarding|flow|css|tailwind|figma|mockup)([^a-z]|$)'; then
 cat <<'EOF'
-[Design lens] First classify: new design / major change, or minor change.
+[Design lens] You, Claude Code, do the design work yourself. There is no separate
+design agent: tools like a Design artifact type or Figma are tools you operate.
+First classify: new design / major change, or minor change.
 New or major: no production UI code yet. Add a feature section to the single design
 board (design/board/index.html, one Artifact link): Brief, up to 3 genuinely different
 high-fidelity Options (desktop + mobile), States, Recommendation, Decision. Screenshot
