@@ -1,0 +1,431 @@
+{
+ "num": 1,
+ "slug": "ozymandias",
+ "title": "Ozymandias",
+ "poet": "Percy Bysshe Shelley",
+ "poet_dates": "1792–1822",
+ "published": "published 1818",
+ "group": "Power and pride",
+ "anchor": true,
+ "copyright": false,
+ "facts": {
+  "type": "Sonnet (14 lines)",
+  "exam": "Yes: specimen and June 2018",
+  "partner": "Storm on the Island"
+ },
+ "themes": [
+  {
+   "name": "Power",
+   "aqa": true,
+   "src": "AQA questions (specimen, 2018)"
+  },
+  {
+   "name": "Pride",
+   "aqa": true,
+   "src": "AQA mark scheme 2018 (Ozymandias question)"
+  },
+  {
+   "name": "Nature",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Time",
+   "aqa": true,
+   "src": "AQA examiners' report 2023; mark scheme 2018"
+  },
+  {
+   "name": "Tyranny",
+   "aqa": true,
+   "src": "AQA examiners' report 2023"
+  },
+  {
+   "name": "Art outlasts power",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A traveller describes a giant statue of an ancient king, now broken and lying in the empty desert.",
+  "message": "However powerful people think they are, their power doesn't last. Time and nature outlive everyone.",
+  "why": "Shelley was a radical (someone who wants big changes to society) who rejected kings and the powerful. This poem quietly mocks a tyrant."
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "“Ozymandias” is the Greek name for the Egyptian pharaoh Ramesses II. By naming the poem after a real, famous king, Shelley makes it about all-powerful rulers, not just one statue.",
+  "src": "University of Toronto; Britannica"
+ },
+ "synopsis": {
+  "setup": "The poet tells us what a traveller told him about a trip to an “antique land” (an ancient country). So we hear the story second-hand.",
+  "steps": [
+   {
+    "lines": "Lines 1–3",
+    "text": "In the desert stand two huge stone legs. The rest of the statue's body has gone."
+   },
+   {
+    "lines": "Lines 4–5",
+    "text": "Nearby, the statue's broken face lies half-buried in the sand. It still has a frown and a cruel “sneer of cold command”."
+   },
+   {
+    "lines": "Lines 6–8",
+    "text": "The sculptor understood exactly what this king was like and carved his arrogance into the stone. The king is long dead, but the carving still shows his character."
+   },
+   {
+    "lines": "Lines 9–11",
+    "text": "Words on the base boast that he is “king of kings”. They tell other powerful rulers to look at his achievements and “despair”, because they'll never match him."
+   },
+   {
+    "lines": "Lines 12–14",
+    "text": "But there are no achievements left to see. Only empty sand, stretching as far as the eye can see."
+   }
+  ],
+  "turn": "<b>The killer moment (line 12):</b> “Nothing beside remains.” Straight after the boast, three blunt words show it was empty.",
+  "ending": "On the desert, not the king. Nature and time get the last word.",
+  "tone": "Calm and quietly mocking. Shelley doesn't need to attack the king; the ruins do it for him."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–3",
+   "text": "I met a traveller from an <mark>antique land</mark><br>Who said: Two <mark>vast and trunkless legs</mark> of stone<br>Stand in the desert. Near them on the sand,",
+   "note": "Someone tells the poet about a trip to an ancient country. All that's left of a giant statue is two legs. <b>“trunkless”</b> = the body (trunk) has gone."
+  },
+  {
+   "lines": "4–5",
+   "text": "Half sunk, a <mark>shatter’d visage</mark> lies, whose frown<br>And wrinkled lip and <mark>sneer of cold command</mark>",
+   "note": "Near the legs, the broken face (<b>“visage”</b> = face) is half-buried. It still shows a cruel, bossy sneer. This king looked down on everyone."
+  },
+  {
+   "lines": "6–8",
+   "text": "Tell that its sculptor well those passions read<br>Which yet survive, stamp’d on these lifeless things,<br>The hand that <mark>mock’d</mark> them and the heart that fed;",
+   "note": "The sculptor “read” the king's feelings well and carved them in stone. <b>“mock’d”</b> means copied, and also made fun of. The art has lasted; the king hasn't."
+  },
+  {
+   "lines": "9–11",
+   "text": "And on the pedestal these words appear:<br>‘My name is Ozymandias, <mark>king of kings</mark>:<br><mark>Look on my works, ye Mighty, and despair!</mark>’",
+   "note": "The king's boast, carved on the base, tells other rulers to look at what he built and give up, because they can never match him. <b>Irony:</b> there's nothing left to look at."
+  },
+  {
+   "lines": "12–14",
+   "text": "<mark>Nothing beside remains.</mark> Round the decay<br>Of that colossal wreck, boundless and bare,<br>The <mark>lone and level sands</mark> stretch far away.",
+   "note": "Just empty desert all around the huge (“colossal”) ruin. Time and nature have beaten the “king of kings”."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "I met a traveller from an antique land",
+   "means": "the story is second-hand and very old.",
+   "why": "the king is pushed far into the past."
+  },
+  {
+   "line": "LINE 2",
+   "q": "Two vast and trunkless legs of stone",
+   "means": "huge, but broken.",
+   "why": "his ambition is now just fragments."
+  },
+  {
+   "line": "LINE 4",
+   "q": "Half sunk, a shatter’d visage lies",
+   "means": "his face is sinking into the sand.",
+   "why": "words like “sunk” and “shatter’d” show collapse."
+  },
+  {
+   "line": "LINE 5",
+   "q": "sneer of cold command",
+   "means": "he was a cruel, bossy ruler.",
+   "tech": "alliteration; the hard “c” sounds feel harsh."
+  },
+  {
+   "line": "LINE 8",
+   "q": "The hand that mock’d them and the heart that fed",
+   "means": "the artist copied, and mocked, the king.",
+   "why": "art judges the tyrant."
+  },
+  {
+   "line": "LINE 10",
+   "q": "‘My name is Ozymandias, king of kings:",
+   "means": "he thought he was the greatest ruler ever.",
+   "tech": "a boastful title, full of pride."
+  },
+  {
+   "line": "LINE 11",
+   "q": "Look on my works, ye Mighty, and despair!’",
+   "means": "give up: you'll never beat me.",
+   "tech": "a command (imperative), now ironic."
+  },
+  {
+   "line": "LINES 12 AND 14",
+   "q": "Nothing beside remains.” / “The lone and level sands stretch far away.",
+   "means": "nothing is left but desert.",
+   "tech": "a short blunt sentence, then alliteration."
+  }
+ ],
+ "form": {
+  "heading": "The form: what a sonnet is, and what Shelley does with it",
+  "explain": [
+   "A <b>14-line poem</b>, usually in <b>iambic pentameter</b>: about ten syllables a line, in a da-DUM, da-DUM rhythm.",
+   "It began in Italy and was perfected by the poet <b>Petrarch</b> in the 14th century. <span class=\"src\">Britannica; EBSCO</span>",
+   "Traditionally used for <b>love poems</b>, but later poets used it for other subjects, including politics. <span class=\"src\">Britannica; EBSCO</span> <span class=\"care\">politics: one source</span>",
+   "<b>Why poets use it:</b> it is built like an argument. It sets up a problem, then a <b>volta</b> (Italian for “turn”) changes direction to answer it. <span class=\"src\">Britannica; poets.org; Poetry Archive</span>",
+   "<b>Petrarchan (Italian):</b> 8 lines (octave) + 6 lines (sestet); rhyme ABBAABBA, then CDECDE or similar; the turn comes between lines 8 and 9: the octave sets up a problem, the sestet answers it. <span class=\"src\">Britannica; poets.org; EBSCO</span>",
+   "<b>Shakespearean (English):</b> three 4-line quatrains + a 2-line couplet; rhyme ABAB CDCD EFEF GG; the final couplet often sums up or twists the argument. <span class=\"src\">Britannica; poets.org; Poetry Archive</span>"
+  ],
+  "this_poem": [
+   "<b>So which type is Ozymandias? Neither:</b> Shelley breaks the rules.",
+   "It has <b>14 lines of iambic pentameter</b>, the traditional elements. <span class=\"src\">Gale, Poetry for Students</span>",
+   "But its rhyme scheme is <b>ABABACDCEDEFEF</b>, which matches neither type: “Rather than adhere to the English or Petrarchan rhyme schemes, Shelley does something different”. <span class=\"src\">Gale; University of Toronto</span>",
+   "There is <b>no neat rhyming couplet</b> at the end, so the poem refuses a tidy ending.",
+   "Its <b>sense</b> splits like a Petrarchan sonnet, 8 lines then 6, but the rhymes run across the split (“things” in line 7 rhymes with “kings” in line 10). <span class=\"src\">EBSCO; our check</span>",
+   "<b>Why it matters:</b> one critic suggests the rhyme scheme “gradually changes over time, just as the subject matter (Ozymandias's statue) does.” <span class=\"src\">Gale</span> A broken, shifting form for a broken, crumbling statue.",
+   "<b>The turn:</b> the octave describes the ruined statue; line 9, “And on the pedestal these words appear:”, turns to the king's own boast, and the sestet shows how hollow it is. <span class=\"care\">our reading</span> AQA's specimen mark scheme invites comments on the “use / effect of volta”."
+  ],
+  "say": "A sentence you could use: Shelley writes a sonnet, a tightly controlled form, but breaks its rules: the rhyme scheme fits neither the Petrarchan nor the Shakespearean pattern, and there is no closing couplet. Like the statue, the form itself is half-ruined, so even the shape of the poem shows that power cannot hold together."
+ },
+ "methods": [
+  {
+   "title": "Three voices, one inside another",
+   "text": "The poet, then the traveller, then the king's words on the stone. Each layer pushes the king further into the past.",
+   "term": "Frame narrative",
+   "def": "a story told inside another story."
+  },
+  {
+   "title": "Irony",
+   "text": "The boast <q>“Look on my works”</q> is followed straight away by <q>“Nothing beside remains.”</q> The poem itself proves the boast wrong.",
+   "term": "Irony",
+   "def": "when the result is the opposite of what someone meant or expected."
+  },
+  {
+   "title": "Ending on the sand",
+   "text": "The last image is the desert, not the king. AQA's 2018 mark scheme suggests writing about the sand as a “metaphor for the passing of time and impermanence of human constructions” (impermanence = not lasting).",
+   "term": "Metaphor",
+   "def": "describing one thing as if it were another."
+  },
+  {
+   "title": "A sudden stop",
+   "text": "Line 12 breaks off after <q>“Nothing beside remains.”</q> The full stop in the middle of the line is a sudden silence straight after the king's shouting.",
+   "term": "Caesura",
+   "def": "a pause or break in the middle of a line of poetry."
+  }
+ ],
+ "warn": "Examiners warn: don't write “he uses a sonnet because sonnets are love poems”. AQA's 2023 report says this argument goes nowhere. Link the form to the poem's meaning instead.",
+ "context": {
+  "timeline": [
+   {
+    "date": "1792",
+    "text": "Shelley born, Sussex"
+   },
+   {
+    "date": "1811",
+    "text": "Expelled from Oxford; George III declared insane"
+   },
+   {
+    "date": "1815",
+    "text": "Napoleon defeated at Waterloo"
+   },
+   {
+    "date": "1816",
+    "text": "Belzoni removes the giant Ramesses head from Egypt"
+   },
+   {
+    "date": "Jan 1818",
+    "text": "Ozymandias published",
+    "hi": true
+   },
+   {
+    "date": "1818",
+    "text": "Head arrives in London; Shelley moves to Italy"
+   },
+   {
+    "date": "1819",
+    "text": "Peterloo massacre"
+   },
+   {
+    "date": "1822",
+    "text": "Shelley drowns, aged 29"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Shelley was",
+    "items": [
+     {
+      "text": "Born in 1792 into a rich Sussex family; his father was an MP. Went to Eton, then Oxford.",
+      "src": "Britannica",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Britannica calls him the “most politically radical” of the Romantic poets: “He rejected the monarchy, religion, war, and commerce.”",
+      "src": "Britannica",
+      "use": "power · tyranny",
+      "care": ""
+     },
+     {
+      "text": "Oxford expelled him in 1811 for refusing to say whether he wrote a pamphlet called <i>The Necessity of Atheism</i>.",
+      "src": "Britannica; University College Oxford",
+      "use": "power · rebellion",
+      "care": ""
+     },
+     {
+      "text": "He believed poets could change society. In a later essay (published 1840) he wrote: “Poets are the unacknowledged legislators of the world.”",
+      "src": "Britannica",
+      "use": "art outlasts power",
+      "care": ""
+     },
+     {
+      "text": "He married Mary Godwin, who wrote <i>Frankenstein</i> (1818). He drowned off Italy in 1822, aged 29.",
+      "src": "Britannica",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "Britain when he wrote it",
+    "items": [
+     {
+      "text": "King George III had been declared insane in 1811, so his unpopular son ruled as Prince Regent.",
+      "src": "Britannica",
+      "use": "power · rulers",
+      "care": ""
+     },
+     {
+      "text": "Criticising the ruler was dangerous: the editors of <i>The Examiner</i>, the paper that printed Ozymandias, were jailed in 1813 for attacking the Prince Regent.",
+      "src": "Britannica; University of Iowa",
+      "use": "tyranny",
+      "care": ""
+     },
+     {
+      "text": "Napoleon, whose army had invaded Egypt in 1798, was finally defeated at Waterloo in 1815.",
+      "src": "Britannica",
+      "use": "power doesn't last",
+      "care": "link is our reading"
+     },
+     {
+      "text": "After the poem: at Peterloo (1819), soldiers attacked a peaceful protest in Manchester, killing about 11 people. Shelley answered with <i>The Mask of Anarchy</i>.",
+      "src": "Britannica; University of Manchester",
+      "use": "power vs the people",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "The real king and the real statue",
+    "items": [
+     {
+      "text": "“Ozymandias” is the Greek name for Ramesses II, a pharaoh of Egypt in the 13th century BC.",
+      "src": "University of Toronto; Britannica",
+      "use": "pride · power",
+      "care": ""
+     },
+     {
+      "text": "An ancient Greek historian, Diodorus, recorded the statue's boast: “King of Kings am I, Osymandyas. If anyone would know how great I am and where I lie, let him surpass one of my works.” Shelley's line 10 echoes it.",
+      "src": "Diodorus (University of Chicago); University of Toronto",
+      "use": "pride",
+      "care": ""
+     },
+     {
+      "text": "Members of Napoleon's expedition to Egypt are said to have tried and failed to remove a huge stone bust of Ramesses; a hole in it is said to be theirs. Belzoni removed it in 1816 and it reached the British Museum in 1818, after the poem was published.",
+      "src": "British Museum (via Google Arts &amp; Culture); Britannica",
+      "use": "power · empire",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "How the poem came about",
+    "items": [
+     {
+      "text": "Shelley wrote it in a friendly competition with his friend Horace Smith; both wrote a sonnet called “Ozymandias”.",
+      "src": "Britannica; University of Toronto",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "It appeared in <i>The Examiner</i>, a radical newspaper, on 11 January 1818, under the made-up name “Glirastes”.",
+      "src": "Britannica; University of Toronto",
+      "use": "tyranny",
+      "care": ""
+     },
+     {
+      "text": "Shelley was a second-generation Romantic, with Keats and Byron. The Romantics valued imagination, feeling and nature.",
+      "src": "Britannica",
+      "use": "nature · time",
+      "care": ""
+     },
+     {
+      "text": "AQA's 2023 examiners' report praised essays that saw the Romantics “as disrupters / advocates for social change”.",
+      "src": "AQA 2023 examiners' report",
+      "use": "power",
+      "care": ""
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Shelley published the poem in January 1818, when Britain was ruled by an unpopular Prince Regent and newspaper editors could be jailed for criticising him. By showing a king who called himself <q>“king of kings”</q> reduced to a broken statue, he suggests that every ruler's power will fade too."
+ },
+ "comparisons": [
+  {
+   "partner": "Storm on the Island",
+   "use_for": [
+    "Nature",
+    "Power"
+   ],
+   "aqa": "AQA: specimen and 2018 mark schemes",
+   "similar": [
+    "Both show human power is weaker than nature: the king's empire is now <q>“lone and level sands”</q>; the islanders are helpless as the wind <q>“strafes invisibly.”</q>",
+    "Both show confidence that turns out to be hollow: <q>“king of kings”</q> and <q>“We are prepared:”</q>"
+   ],
+   "different": [
+    "<b>Speed:</b> in Ozymandias nature wins slowly, over thousands of years. In Storm it attacks right now: <q>“Space is a salvo,”</q>",
+    "<b>Voice:</b> Ozymandias is told second-hand by a traveller, so it feels distant. Storm is spoken by a “we” living through it, so it feels close and frightening.",
+    "<b>Ending:</b> Shelley ends calmly mocking (<q>“Nothing beside remains.”</q>); Heaney ends in fear (<q>“a huge nothing that we fear.”</q>)"
+   ]
+  },
+  {
+   "partner": "My Last Duchess",
+   "use_for": [
+    "Power",
+    "Pride"
+   ],
+   "aqa": "AQA: specimen mark scheme (“despotism”); one of the two most popular partners in 2023, with London (examiners' report)",
+   "similar": [
+    "Both show an arrogant ruler, proud of his status: <q>“king of kings”</q> and <q>“My gift of a nine-hundred-years-old name”</q>",
+    "Both rulers are judged through a work of art: a statue and a portrait.",
+    "Both rulers give themselves away through their own words."
+   ],
+   "different": [
+    "<b>Whose power:</b> Ozymandias ruled a kingdom; the Duke controls one woman, and brought about her death: <q>“I gave commands; / Then all smiles stopped together.”</q>",
+    "<b>Does the power last?</b> Ozymandias's power has crumbled to nothing. The Duke's power is still alive: he is arranging his next marriage.",
+    "<b>Form:</b> a short sonnet told second-hand, against a long dramatic monologue in the Duke's own voice."
+   ]
+  },
+  {
+   "partner": "London",
+   "use_for": [
+    "Power"
+   ],
+   "aqa": "AQA: 2018 mark scheme; “an excellent choice” (2021 examiners' report)",
+   "similar": [
+    "Both poets attack those in power: a tyrant king, and the Church and palace.",
+    "Both show the marks power leaves behind: the <q>“sneer of cold command”</q> carved in stone, and <q>“Marks of weakness, marks of woe”</q> on people's faces."
+   ],
+   "different": [
+    "<b>Who suffers:</b> Shelley focuses on the ruler; Blake focuses on the ordinary people who suffer: <q>“Runs in blood down palace walls.”</q>",
+    "<b>Does the power last?</b> Shelley shows power fading. Blake shows it everywhere and still crushing people: <q>“The mind-forged manacles I hear”</q>",
+    "<b>Voice:</b> second-hand and distant, against Blake's first-person “I”, walking the streets now."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "Compare how poets present ideas about power in ‘Ozymandias’ and in one other poem from ‘Power and conflict’. (AQA, June 2018)",
+  "thesis": "Both Shelley and Heaney show that human power is weaker than it looks, but Shelley shows it fading slowly over time, while Heaney shows nature attacking it head-on.",
+  "para": "Both poets present human power as fragile when set against nature. Shelley's ruler calls himself <q>“king of kings”</q>, yet the poem replies with the blunt sentence <q>“Nothing beside remains.”</q> His empire has become <q>“lone and level sands”</q>: nature has defeated him slowly, over thousands of years. Heaney's islanders also begin confidently, claiming <q>“We are prepared”</q>, but the storm attacks them right now. The wind <q>“strafes invisibly”</q> and <q>“Space is a salvo”</q>, military words that make nature an army they cannot fight. Where Shelley ends calmly mocking the tyrant's pride, Heaney ends in fear of <q>“a huge nothing”</q>. Together they suggest that human power, whether a king's or a community's, is weaker than it looks.",
+  "why": [
+   "Opens with a clear point that answers the question about power",
+   "Short quotations from both poems, each one explained",
+   "Compares all the way through (“also”, “Where…”) and names methods"
+  ]
+ }
+}

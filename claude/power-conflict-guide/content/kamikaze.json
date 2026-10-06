@@ -1,0 +1,479 @@
+{
+ "num": 15,
+ "slug": "kamikaze",
+ "title": "Kamikaze",
+ "poet": "Beatrice Garland",
+ "poet_dates": "born 1938",
+ "published": "published 2013",
+ "group": "Identity, home and loss",
+ "anchor": false,
+ "copyright": true,
+ "facts": {
+  "type": "Narrative poem: seven six-line stanzas (42 lines), only three sentences",
+  "exam": "Yes: June 2024 (the printed poem)",
+  "partner": "Remains (your anchor); Poppies also works well"
+ },
+ "themes": [
+  {
+   "name": "Effects of conflict",
+   "aqa": true,
+   "src": "AQA question June 2024; mark schemes 2017 and 2019"
+  },
+  {
+   "name": "Conflict",
+   "aqa": true,
+   "src": "AQA mark schemes June 2022 and 2025"
+  },
+  {
+   "name": "War",
+   "aqa": true,
+   "src": "AQA examiners' report June 2022"
+  },
+  {
+   "name": "Nature",
+   "aqa": true,
+   "src": "AQA mark schemes 2019 and June 2022"
+  },
+  {
+   "name": "Power",
+   "aqa": true,
+   "src": "AQA mark schemes Nov 2021 (reactions to being controlled) and 2023 (victim of others' power)"
+  },
+  {
+   "name": "Difficult experiences",
+   "aqa": true,
+   "src": "AQA mark scheme Nov 2020"
+  },
+  {
+   "name": "Patriotism and duty",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Memory",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Isolation",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A Japanese pilot sets off on a suicide mission in the Second World War. Halfway there, the sea below reminds him of his childhood, and he turns back. At home, his wife, his neighbours and in the end his own children treat him as if he no longer exists.",
+  "message": "War does not only harm people on the battlefield. A culture of duty and honour can turn a family against a man for choosing to live, so he suffers a different kind of death.",
+  "why": "Kamikaze pilots deliberately crashed their planes into enemy ships, mostly from October 1944 to the end of the war. Garland, a poet who also worked as an NHS clinician, tells the story through the pilot's daughter. <span class=\"src\">Britannica; Templar Poetry; WJEC</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "“Kamikaze” means “divine wind”. It recalls a typhoon that scattered a Mongol invasion fleet threatening Japan in 1281. In the Second World War it became the name for Japanese pilots who made suicide attacks on enemy ships. The title names what the father was meant to become, and never does. <span class=\"care\">last sentence: our reading</span> There is an irony too: in 1281 nature saved Japan; in the poem, nature saves one man, but his country cannot forgive him. <span class=\"care\">our reading</span>",
+  "src": "Britannica; National WWII Museum; our reading"
+ },
+ "synopsis": {
+  "setup": "A pilot's daughter, now a mother herself, tells her children what happened to their grandfather. At first a narrator reports her story (“she thought”); later she speaks in her own words (“my mother”). The pilot himself never speaks.",
+  "steps": [
+   {
+    "lines": "Lines 1–6",
+    "text": "Her father sets off at sunrise on his mission. He has a flask of water, a samurai sword, a shaved head full of <q>“powerful incantations”</q>, and only enough fuel for a <q>“one-way / journey into history”</q>."
+   },
+   {
+    "lines": "Lines 7–12",
+    "text": "Halfway there, the daughter imagines, he must have looked down at the tiny fishing boats, <q>“strung out like bunting”</q> on a clear blue-green sea."
+   },
+   {
+    "lines": "Lines 13–18",
+    "text": "Under the boats, huge shoals of fish swirl in a figure of eight like a waving flag, their silver bellies flashing in the sun."
+   },
+   {
+    "lines": "Lines 19–24",
+    "text": "This makes him remember his childhood: he and his brothers on the beach, building piles of pebbles (<q>“cairns”</q>) against the waves while they waited for their father's fishing boat to come home safe."
+   },
+   {
+    "lines": "Lines 25–30",
+    "text": "The daughter breaks in to explain to her children that this was <q>“grandfather’s boat”</q>. It came home full of fish: mackerel, crabs, prawns, whitebait, and once a great tuna, <q>“the dark prince”</q>. The first sentence of the poem ends here, after 30 lines."
+   },
+   {
+    "lines": "Lines 31–36",
+    "text": "Now we learn he came back. His wife never spoke to him again or looked him in the eye. The neighbours treated him <q>“as though he no longer existed”</q>. Only the children still chatted and laughed with him."
+   },
+   {
+    "lines": "Lines 37–42",
+    "text": "Slowly the children learned to be silent too, and to live as if he had never come home and was <q>“no longer the father we loved.”</q> The daughter says that he must sometimes have wondered which was <q>“the better way to die.”</q>"
+   }
+  ],
+  "turn": "<b>The turning point:</b> line 31, <q>“And though he came back”</q>. After 30 lines of flowing, colourful memory in one long sentence, the poem jumps to his return and the language goes bare and cold. The voice also changes: the daughter now speaks as <q>“my mother”</q> and <q>“we children”</q>.",
+  "ending": "<q>“which had been the better way to die.”</q> He chose life, but his family's silence was a kind of death too. The poem does not answer the question; it leaves the reader to judge.",
+  "tone": "Calm and gentle while describing the sea, then flat, sad and regretful once he returns. The daughter does not attack anyone; she quietly admits that she joined in the silence."
+ },
+ "poem_intro": "Kamikaze is still in copyright, so the full poem is not printed here. Read it in your anthology alongside these notes. Highlighted words are the short phrases worth learning for the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–6",
+   "text": "<mark>Her father embarked at sunrise</mark> … <mark>a samurai sword</mark> … <mark>full of powerful incantations</mark> … <mark>journey into history</mark>",
+   "note": "He sets off at dawn: Japan is often called the Land of the Rising Sun (WJEC). The sword links him to the old samurai warriors and their code of honour. His shaved head is filled with chanted words, perhaps prayers or the ideas he has been taught. He carries only enough fuel to get there, not back. “History” sounds glorious, but it also means he will soon be dead and in the past."
+  },
+  {
+   "lines": "7–12",
+   "text": "<mark>she thought, / recounting it later to her children</mark> … <mark>strung out like bunting</mark> … <mark>green-blue translucent sea</mark>",
+   "note": "We learn this is a story the daughter tells her children, and that she is imagining what he saw (“he must have”). The fishing boats look like party bunting: a homely, happy image of ordinary life, the opposite of his mission. “Translucent” means clear enough to let light through."
+  },
+  {
+   "lines": "13–18",
+   "text": "<mark>like a huge flag waved</mark> … <mark>the dark shoals of fishes / flashing silver</mark>",
+   "note": "A shoal of fish swirls like a flag. A flag might suggest his country, but this one is made of living nature. The figure of eight looks like the symbol for infinity, so nature goes on and on while his life is about to end (our reading)."
+  },
+  {
+   "lines": "19–24",
+   "text": "<mark>his brothers waiting on the shore</mark> … <mark>bringing their father’s boat safe</mark>",
+   "note": "The sea makes him remember being a boy, playing with his brothers as they waited for their father to come home from fishing. A cairn is a pile of stones, sometimes used as a memorial. The memory is about a father coming home safe: exactly what he can now choose to do."
+  },
+  {
+   "lines": "25–30",
+   "text": "<mark>yes, grandfather’s boat – safe</mark> … <mark>salt-sodden, awash</mark> … <mark>a tuna, the dark prince, muscular, dangerous.</mark>",
+   "note": "The daughter's voice breaks in, explaining to her children who is who: the story is being passed down. Then a long list of fish: nature is rich and full of life. The powerful tuna, a “prince” of the sea, may suggest the strength and danger of nature. The first, 30-line sentence ends here."
+  },
+  {
+   "lines": "31–36",
+   "text": "<mark>And though he came back</mark> … <mark>my mother never spoke again</mark> … <mark>as though he no longer existed</mark> … <mark>chattered and laughed</mark>",
+   "note": "The decision itself is never shown: we just learn he came back. Now the daughter speaks for herself (“my mother”). His wife will not speak to him or meet his eyes, and the whole community acts as if he were dead. Only the children still talk and laugh."
+  },
+  {
+   "lines": "37–42",
+   "text": "<mark>we too learned / to be silent</mark> … <mark>no longer the father we loved.</mark> … <mark>the better way to die.</mark>",
+   "note": "In the end the children copy the adults and shut him out. She admits it plainly. The final lines return to her reported words (“she said”) and imagine his thought: was it better to die in the attack, or to live like this, treated as dead?"
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINES 3–4",
+   "q": "a shaven head / full of powerful incantations",
+   "means": "his head is shaved and filled with chanted words or teachings.",
+   "why": "suggests he has been filled with ideas of duty by others, not thinking for himself.",
+   "tech": "metaphor"
+  },
+  {
+   "line": "LINES 5–6",
+   "q": "a one-way / journey into history",
+   "means": "he has fuel to get there but not back; he will die and become part of history.",
+   "tech": "enjambment: the line breaks on “one-way”, so we feel the journey cut off.",
+   "why": "his death is planned from the start; “history” makes it sound glorious, but it also means he will be gone."
+  },
+  {
+   "line": "LINES 10–11",
+   "q": "little fishing boats / strung out like bunting",
+   "means": "the boats look like a string of party flags.",
+   "why": "a cheerful, homely image of ordinary life, which pulls him back.",
+   "tech": "simile"
+  },
+  {
+   "line": "LINES 16–17",
+   "q": "the dark shoals of fishes / flashing silver",
+   "means": "huge groups of fish glinting in the sunlight.",
+   "why": "nature is beautiful and alive, the opposite of his deadly mission.",
+   "tech": "sibilance and alliteration (“shoals”, “fishes”, “flashing silver”)"
+  },
+  {
+   "line": "LINE 32",
+   "q": "my mother never spoke again",
+   "means": "his wife never spoke to him again.",
+   "why": "the shift to “my” shows the daughter speaking for herself; silence is the family's punishment.",
+   "tech": "shift from third to first person"
+  },
+  {
+   "line": "LINES 34–35",
+   "q": "they treated him / as though he no longer existed",
+   "means": "the neighbours acted as if he were dead.",
+   "why": "his community's rejection is a kind of social death.",
+   "tech": "enjambment"
+  },
+  {
+   "line": "LINE 42",
+   "q": "which had been the better way to die.",
+   "means": "was it better to die in the attack or to live, rejected, as if dead?",
+   "why": "a bitter, unanswered question that ends the poem.",
+   "tech": "irony"
+  }
+ ],
+ "form": {
+  "heading": "The form: a story passed down, in tight stanzas and long sentences",
+  "explain": [
+   "A <b>narrative poem</b> tells a story. WJEC calls Kamikaze “a narrative poem” told mostly “through the reported speech of the pilot’s daughter.” <span class=\"src\">WJEC</span> <span class=\"care\">one source</span>",
+   "There is “no set rhythm or rhyme”, so it sounds like someone telling a story aloud. <span class=\"src\">WJEC</span>",
+   "<b>Enjambment</b> is when the sense of a phrase carries on “beyond the end of a line of verse.” Kamikaze uses it almost everywhere. <span class=\"src\">Britannica</span>"
+  ],
+  "this_poem": [
+   "<b>Shape:</b> seven stanzas of exactly six lines (42 lines). The neat, regular shape could suggest the order and discipline expected of the pilot, while the sentences pour freely through it. <span class=\"care\">our count; our reading</span>",
+   "<b>Only three sentences.</b> WJEC notes there are “only three sentences in the poem”, each marking a key moment. Sentence 1 (lines 1–30) is the flight and his memories, all in one breath, like a mind drifting. Sentence 2 (lines 31–40) is his return and rejection. Sentence 3 (lines 41–42) is his question. <span class=\"src\">WJEC; our count</span>",
+   "<b>Shifting voice:</b> a narrator reports what <q>“she thought”</q>; the daughter breaks in with <q>“yes, grandfather’s boat”</q>; from line 32 she speaks herself (<q>“my mother”</q>); line 41 goes back to <q>“she said”</q>. The pilot never speaks. His thoughts are only guessed: <q>“he must have”</q>. <span class=\"care\">our reading</span>",
+   "<b>Enjambment acts out the meaning:</b> <q>“a one-way / journey”</q> breaks off like the journey itself, and <q>“we too learned / to be silent”</q> lets the silence spill over the line. <span class=\"care\">our reading</span>"
+  ],
+  "say": "A sentence you could use: Garland tells Kamikaze second-hand, through a daughter's memories, so the pilot never speaks for himself; the form itself silences him, just as his family does after he returns."
+ },
+ "methods": [
+  {
+   "title": "Beautiful nature against a deadly mission",
+   "text": "The sea is full of colour, movement and life: <q>“green-blue translucent sea”</q>, fish <q>“flashing silver”</q>. Nature reminds him that life is worth living. AQA's 2019 mark scheme names the “description of the natural world in ‘Kamikaze’”.",
+   "term": "Sibilance",
+   "def": "repeating “s” and “sh” sounds, here giving a soft, shimmering feel like the sea."
+  },
+  {
+   "title": "A story told second-hand",
+   "text": "The story is reported (<q>“she thought, / recounting it later to her children”</q>) and the pilot's thoughts are guessed (<q>“he must have”</q>). We never hear him. This shows how far he has been shut out, and how the story is passed down through three generations.",
+   "term": "Narrative perspective",
+   "def": "the point of view a story is told from, such as first person (“I”) or third person (“he”)."
+  },
+  {
+   "title": "Rich lists, then bare silence",
+   "text": "Stanza 5 overflows with a list of the catch: mackerel, crabs, prawns, whitebait, tuna. After line 31 the language becomes plain and simple. The richness of life before his return is set against the emptiness after it.",
+   "term": "Listing",
+   "def": "a run of items one after another, often to show abundance or build up a picture."
+  },
+  {
+   "title": "An ironic last line",
+   "text": "He survives, yet the family behaves as if he is dead. The poem ends on <q>“the better way to die”</q>: either way, he dies. AQA's 2022 mark scheme names “the internal conflict of beliefs and attitudes towards conflict” in Kamikaze.",
+   "term": "Irony",
+   "def": "when the result is the opposite of what someone meant or expected."
+  }
+ ],
+ "context": {
+  "timeline": [
+   {
+    "date": "1281",
+    "text": "A typhoon (the “divine wind”) scatters a Mongol invasion fleet threatening Japan"
+   },
+   {
+    "date": "1938",
+    "text": "Beatrice Garland born in Surrey",
+    "care": "one source"
+   },
+   {
+    "date": "Oct 1944",
+    "text": "Battle of Leyte Gulf: kamikaze attacks become widespread"
+   },
+   {
+    "date": "Apr–Jun 1945",
+    "text": "Battle of Okinawa: the peak of kamikaze attacks"
+   },
+   {
+    "date": "15 Aug 1945",
+    "text": "Japan announces its surrender",
+    "care": "one source"
+   },
+   {
+    "date": "2013",
+    "text": "The Invention of Fireworks published by Templar, including Kamikaze",
+    "hi": true
+   },
+   {
+    "date": "2014",
+    "text": "The book is shortlisted for a Forward Prize (best first collection)"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Garland is",
+    "items": [
+     {
+      "text": "An English poet, born in Surrey in 1938.",
+      "src": "WJEC",
+      "use": "",
+      "care": "one source"
+     },
+     {
+      "text": "After an English degree she worked as an NHS clinician, teacher and researcher in psychological medicine (the study of the mind and mental health).",
+      "src": "Templar Poetry; WJEC",
+      "use": "effects of conflict · difficult experiences",
+      "care": ""
+     },
+     {
+      "text": "She has said she spends much of her day “listening to other people’s worlds”. Kamikaze tells a story from a culture outside her own experience.",
+      "src": "WJEC",
+      "use": "effects of conflict",
+      "care": "one source, quoted second-hand"
+     },
+     {
+      "text": "She has won the National Poetry Competition, one of the UK's biggest poetry prizes (WJEC dates this to 2001), and the Strokestown International Poetry Prize.",
+      "src": "Templar Poetry; WJEC",
+      "use": "",
+      "care": "year: one source"
+     },
+     {
+      "text": "Both her publisher and WJEC say her poems explore life and death in the natural world. That fits Kamikaze, where the sea pulls a man back to life.",
+      "src": "Templar Poetry; WJEC",
+      "use": "nature",
+      "care": "link to the poem: our reading"
+     }
+    ]
+   },
+   {
+    "title": "The book Kamikaze comes from",
+    "items": [
+     {
+      "text": "Kamikaze is from <i>The Invention of Fireworks</i>, Garland's first collection, published by Templar Poetry in 2013.",
+      "src": "AQA anthology; Templar Poetry; WJEC",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "The book was shortlisted in the 2014 Forward Prizes for the Felix Dennis Prize for Best First Collection. (The winner was Liz Berry's <i>Black Country</i>.)",
+      "src": "Templar Poetry; Forward Arts Foundation",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Templar says the book was “the winning submission to the 2013 Straid Collection Awards”, Templar's own prize.",
+      "src": "Templar Poetry",
+      "use": "",
+      "care": "one source"
+     },
+     {
+      "text": "No reliable source says the poem Kamikaze itself won a prize, and no reliable interview explains why she wrote it. Don't claim either.",
+      "src": "our research",
+      "use": "",
+      "care": "gap"
+     }
+    ]
+   },
+   {
+    "title": "Kamikaze pilots",
+    "items": [
+     {
+      "text": "Kamikaze pilots were Japanese pilots who in the Second World War “made deliberate suicidal crashes into enemy targets, usually ships.”",
+      "src": "Britannica; WJEC",
+      "use": "war · conflict",
+      "care": ""
+     },
+     {
+      "text": "Britannica says the attacks were most common from the Battle of Leyte Gulf (“October 1944”) “to the end of the war.” They peaked at Okinawa (April–June 1945).",
+      "src": "Britannica",
+      "use": "war",
+      "care": ""
+     },
+     {
+      "text": "Most planes were ordinary fighters or light bombers loaded with bombs and extra fuel tanks. The poem's fuel for a <q>“one-way”</q> trip fits this.",
+      "src": "Britannica",
+      "use": "war · power",
+      "care": "link to the poem: our reading"
+     },
+     {
+      "text": "Thousands of pilots died: the Guardian says “more than 3 800” by the end of the war.",
+      "src": "Guardian (2015); WJEC",
+      "use": "effects of conflict",
+      "care": "exact figure: one source"
+     },
+     {
+      "text": "Don't write that kamikaze pilots attacked Pearl Harbor (1941). Some revision notes say so, but Britannica does not: it says the attacks were most common from October 1944, and that the first US ship sunk by one was at Leyte Gulf that month.",
+      "src": "Britannica",
+      "use": "accuracy",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "Honour, duty and coming home (background, not facts from the poem)",
+    "items": [
+     {
+      "text": "Bushidō was the samurai warriors' code. Britannica says the samurai's “supreme obligation” was to his lord, even if this hurt his own parents.",
+      "src": "Britannica",
+      "use": "patriotism and duty · power",
+      "care": ""
+     },
+     {
+      "text": "In the war this code “revered self-sacrifice” and fighting “to the bitter end for emperor and country”, and surrender “was seen as dishonourable”.",
+      "src": "National WWII Museum; Britannica",
+      "use": "patriotism and duty · conflict",
+      "care": "“dishonourable”: one source"
+     },
+     {
+      "text": "One surviving pilot told the Guardian: “we were commanded not to return.” He knew his superiors would be angry if he came back alive.",
+      "src": "Guardian (2015)",
+      "use": "effects of conflict · power",
+      "care": "one witness, one source"
+     },
+     {
+      "text": "Another said he “just wanted to protect the father and mother I loved”, and that they were all scared. Like Garland's pilot, he thought of family, not glory.",
+      "src": "Guardian (2015)",
+      "use": "identity · effects of conflict",
+      "care": "link to the poem: our reading"
+     },
+     {
+      "text": "The samurai sword in the cockpit ties the pilot to this warrior tradition; samurai wore swords as a sign of their rank. No reliable source says families shunned pilots who turned back, so treat the family's silence as the poem's story, not a historical rule.",
+      "src": "Britannica; our reading",
+      "use": "patriotism and duty",
+      "care": "our reading"
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Kamikaze pilots were sent on suicide missions in the last year of the Second World War. Japan's warrior code, bushidō, praised self-sacrifice, and surrender was seen as dishonourable. Garland, who worked as an NHS clinician and speaks of “listening to other people’s worlds”, imagines one pilot who chooses life. His punishment is silence from his own family, which shows that the effects of conflict reach far beyond the battlefield."
+ },
+ "comparisons": [
+  {
+   "partner": "Remains",
+   "use_for": [
+    "Effects of conflict",
+    "Power",
+    "Difficult experiences"
+   ],
+   "aqa": "AQA: June 2024 mark scheme (“the impact of conflict on the individual, eg ‘Remains’”); 2023 (“victim of the power of others, eg ‘Kamikaze’ or ‘Remains’”)",
+   "similar": [
+    "Both men survive but are changed for ever by one moment in a war.",
+    "Both show a kind of living death: the looter is <q>“here in my head”</q>; the pilot lives as though he <q>“had never returned”</q>.",
+    "Both are victims of others' power: soldiers following orders, and a pilot sent on a <q>“one-way / journey”</q>."
+   ],
+   "different": [
+    "<b>Choice:</b> Armitage's soldier did kill and is haunted by guilt; Garland's pilot turns back without attacking and is punished by others.",
+    "<b>Voice:</b> Remains is a soldier's own voice, in slang (<q>“legs it”</q>); in Kamikaze the pilot never speaks: <q>“he must have”</q>.",
+    "<b>Where the suffering is:</b> inside his mind (<q>“his bloody life in my bloody hands”</q>) against outside, in his family's silence."
+   ]
+  },
+  {
+   "partner": "Poppies",
+   "use_for": [
+    "Effects of conflict",
+    "Difficult experiences",
+    "Memory"
+   ],
+   "aqa": "AQA: 2017 mark scheme (“the effects of war on others”, naming both); Nov 2020 (“difficult experiences on others”, naming both); June 2024 mark scheme names Poppies",
+   "similar": [
+    "Both show war hurting a family at home, told by a family member, not a soldier.",
+    "Both families fall silent: Weir's mother says <q>“All my words / flattened”</q>; Garland's children <q>“learned / to be silent”</q>.",
+    "Both turn to childhood memories: the son <q>“when / you were little”</q>; the pilot and <q>“his brothers waiting on the shore”</q>."
+   ],
+   "different": [
+    "<b>Who is lost:</b> Weir's son leaves and may never return; Garland's pilot comes home but is treated <q>“as though he no longer existed”</q>.",
+    "<b>Feeling:</b> Poppies is full of love and fear; Kamikaze shows shame and rejection, and the daughter's regret.",
+    "<b>Ending:</b> Weir ends in hope and longing, <q>“hoping to hear”</q> his voice; Garland ends on a bitter question about <q>“the better way to die.”</q>"
+   ]
+  },
+  {
+   "partner": "The Charge of the Light Brigade",
+   "use_for": [
+    "Patriotism and duty",
+    "Conflict",
+    "Effects of conflict"
+   ],
+   "aqa": "AQA: 2019 mark scheme (“the effects of war on attitudes”, naming Charge and Kamikaze); June 2022 (“questioning of accepted ideologies”); 2025",
+   "similar": [
+    "Both show men sent to almost certain death by those in charge: <q>“Theirs but to do and die”</q> and fuel for a <q>“one-way / journey”</q>.",
+    "Both link death in battle with glory: <q>“When can their glory fade?”</q> and a <q>“journey into history”</q>."
+   ],
+   "different": [
+    "<b>Attitude to duty:</b> Tennyson praises obedience (<q>“Honour the Light Brigade”</q>); Garland shows a man who turns back, and questions whether dying for duty is right.",
+    "<b>Honour:</b> the riders win honour by riding into death; the pilot meets shame by choosing life.",
+    "<b>Form and voice:</b> Tennyson's driving rhythm and refrain celebrate the <q>“six hundred”</q> together; Garland's quiet, unrhymed story focuses on one man and his family."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present the ways people are affected by conflict in ‘Kamikaze’ and in one other poem from ‘Power and conflict’. (AQA's June 2024 wording)",
+  "thesis": "Both Garland and Weir show conflict wounding families at home, but where Weir's mother is silenced by love and fear, Garland's family chooses silence as a punishment, so the pilot who survived is treated as if he had died.",
+  "para": "Both poets show conflict damaging a family far from the fighting, and both show it through silence. Garland's daughter remembers that her mother <q>“never spoke again / in his presence”</q>, and that the children <q>“too learned / to be silent”</q>. The enjambment carries the silence over the line break, as if it spreads through the whole family. Weir's mother is silenced too: <q>“All my words / flattened, rolled, turned into felt”</q>, a sewing metaphor that makes her words soft and useless. However, the causes are opposite. Weir's silence comes from love and fear as her son leaves; Garland's comes from shame, because the father came home. Ironically, the man who survived is treated <q>“as though he no longer existed”</q>, so Garland suggests that a culture of duty can kill a person socially even when he lives.",
+  "why": [
+   "Opens with a clear comparative point about how people are affected, answering the question directly",
+   "Short, exact quotations from both poems, with methods named and explained (enjambment, metaphor, irony)",
+   "Compares the causes of each family's silence (love against shame), which links to context and to AQA's “internal conflict”"
+  ]
+ }
+}

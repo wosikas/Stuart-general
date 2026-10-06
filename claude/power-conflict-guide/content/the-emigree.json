@@ -1,0 +1,457 @@
+{
+ "num": 14,
+ "slug": "the-emigree",
+ "title": "The Emigrée",
+ "poet": "Carol Rumens",
+ "poet_dates": "1944–2026",
+ "published": "collected 1993",
+ "group": "Identity, home and loss",
+ "anchor": false,
+ "copyright": true,
+ "facts": {
+  "type": "Free verse: three stanzas (8, 8 and 9 lines), 25 lines",
+  "exam": "Not yet the printed poem; named in AQA mark schemes (2017, 2018, 2019, 2020, 2021, 2022, 2024)",
+  "partner": "Remains (your anchor); Tissue also works well"
+ },
+ "themes": [
+  {
+   "name": "Effects of conflict",
+   "aqa": true,
+   "src": "AQA mark schemes June 2017, June 2019 and June 2024"
+  },
+  {
+   "name": "Identity",
+   "aqa": true,
+   "src": "AQA mark scheme June 2024 (“sense of identity”)"
+  },
+  {
+   "name": "Place and home",
+   "aqa": true,
+   "src": "AQA mark scheme Nov 2021 (“use of places as representation of people”)"
+  },
+  {
+   "name": "Difficult experiences",
+   "aqa": true,
+   "src": "AQA mark scheme Nov 2020 (“a change in circumstances”)"
+  },
+  {
+   "name": "Conflict",
+   "aqa": true,
+   "src": "AQA mark scheme June 2022 (“conflict of beliefs”)"
+  },
+  {
+   "name": "Power",
+   "aqa": true,
+   "src": "AQA mark scheme June 2018 (“those in power contrasted with those without”)"
+  },
+  {
+   "name": "Memory",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Loss",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Isolation",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A woman left her home country as a child and can never go back. She hears it may now be at war and ruled by tyrants, but her memory of its city stays bright with sunlight. In her new city, people surround her and threaten her.",
+  "message": "Memories of home, and the language you grew up with, are part of who you are. War, borders and governments cannot take them away, even when they take away the place itself.",
+  "why": "Rumens was born in London, so the speaker is an imagined voice. She had a strong interest in Central and Eastern Europe, translated Russian poets, and the book this poem comes from is full of “loss and exile”. <span class=\"src\">Poetry Archive; Bloodaxe; Thinking of Skins publisher's description</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "An <b>émigré</b> is someone who has left their country, especially “for political reasons”. The word is French, and the extra “e” on the end (<i>émigrée</i>) makes it feminine, so the speaker is a woman. The first émigrés were people who fled France after the French Revolution of 1789. So the title already suggests someone forced out by politics, not someone who chose to move. The poem itself never names the country.",
+  "src": "Merriam-Webster; Britannica; Larousse"
+ },
+ "synopsis": {
+  "setup": "A first-person speaker (“I”) talks about the country and city she left as a child. She never names them. She lives somewhere else now and cannot go back.",
+  "steps": [
+   {
+    "lines": "Lines 1–4",
+    "text": "She begins like a fairy tale: <q>“There once was a country…”</q>. She left as a child, and her memory is <q>“sunlight-clear”</q>. She never saw the city in <q>“that November”</q>, the dark, cold time she has been told comes even to the mildest city. So her picture of it holds only good weather."
+   },
+   {
+    "lines": "Lines 5–8",
+    "text": "Even the worst news cannot break her first picture of the city, which is sealed like <q>“the bright, filled paperweight”</q>. The country may be at war or ruled by tyrants, but the sunlight is burned into her."
+   },
+   {
+    "lines": "Lines 9–11",
+    "text": "The white streets and gentle slopes of the city glow even brighter in her mind as time passes. Time is pictured as tanks rolling in, and borders rise up between her and the city like waves."
+   },
+   {
+    "lines": "Lines 12–16",
+    "text": "The child's words she brought with her keep opening up inside her, like a hollow doll. Her home language may now be <q>“banned by the state”</q>, but she cannot get it off her tongue: <q>“It tastes of sunlight.”</q>"
+   },
+   {
+    "lines": "Lines 17–20",
+    "text": "She has <q>“no passport”</q> and no way back. Instead the city comes to her, in her imagination, in its own white plane. It lies down in front of her like a child or a pet, and she combs its hair."
+   },
+   {
+    "lines": "Lines 21–25",
+    "text": "Her city takes her dancing through the <q>“city / of walls”</q> where she lives now. People there, called only “They”, accuse her of absence and of being dark, and circle her. Her city hides behind her. They mutter death, and her shadow becomes proof of the sunlight."
+   }
+  ],
+  "turn": "<b>The turning point:</b> line 17, <q>“I have no passport, there’s no way back at all”</q>. The first two stanzas are about memory. The third moves into the present, where the remembered city visits her and she is under threat.",
+  "ending": "The poem ends on the same word as every stanza: <q>“my shadow falls as evidence of sunlight.”</q> Even her darkness, the thing the hostile people attack, proves the bright memory is still alive in her.",
+  "tone": "Loving, nostalgic (longing for the past) and stubborn at first, then tense and threatening in the last stanza. The speaker never gives in: she holds on to her memory against bad news, borders, the state and the people around her."
+ },
+ "poem_intro": "The Emigrée is still in copyright, so the full poem is not printed here. Read it in your anthology alongside these notes. (Your anthology spells it “The Émigree” and prints “Carole”; use “The Emigrée” and “Carol Rumens”, as the exam paper does.) Highlighted words are the short phrases worth learning for the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–4",
+   "text": "<mark>There once was a country…</mark> … <mark>sunlight-clear</mark> … <mark>in that November</mark>",
+   "note": "The fairy-tale opening and the ellipsis (…) make the country feel like a story from long ago, perhaps half lost. She left as a child. She remembers it only in bright light, because she never saw it in its dark months."
+  },
+  {
+   "lines": "5–8",
+   "text": "<mark>the bright, filled paperweight</mark> … <mark>sick with tyrants</mark> … <mark>branded by an impression of sunlight</mark>",
+   "note": "Bad news cannot break her first view of the city: it is sealed like a glass paperweight. She admits the country may be at war or ruled by cruel leaders, but the sunlight is burned into her like a brand."
+  },
+  {
+   "lines": "9–11",
+   "text": "<mark>as time rolls its tanks</mark> … <mark>the frontiers rise between us, close like waves</mark>",
+   "note": "The city's white streets glow even brighter in her memory. Time is like an army moving in, and borders rise between her and home like waves closing over her."
+  },
+  {
+   "lines": "12–16",
+   "text": "<mark>like a hollow doll, opens and spills a grammar</mark> … <mark>banned by the state</mark> … <mark>It tastes of sunlight.</mark>",
+   "note": "The words she learned as a child keep opening up, like a set of dolls inside each other. The government may have banned her language, but it is still in her mouth, and it tastes of sunlight."
+  },
+  {
+   "lines": "17–20",
+   "text": "<mark>I have no passport</mark> … <mark>docile as paper</mark> … <mark>I comb its hair</mark>",
+   "note": "She cannot travel home. So the city comes to her in her mind, in its own white plane. It lies down, gentle and helpless, and she cares for it like a mother with a child. The roles are reversed: now she protects her home."
+  },
+  {
+   "lines": "21–25",
+   "text": "<mark>the city / of walls</mark> … <mark>They accuse me of being dark in their free city.</mark> … <mark>evidence of sunlight</mark>",
+   "note": "In her new city, a place of walls, unnamed people (“They”) accuse her, surround her and mutter death. “Free” sounds bitter here. Her city hides behind her. Her shadow, her darkness, becomes proof of the sunlight she carries."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "There once was a country…",
+   "means": "she begins like a fairy tale about a home she left as a child.",
+   "tech": "fairy-tale opening and ellipsis: the country feels like a story, distant and maybe lost."
+  },
+  {
+   "line": "LINE 6",
+   "q": "the bright, filled paperweight",
+   "means": "her memory is sealed and perfect, like a scene in glass.",
+   "why": "beautiful, but frozen: it cannot change, and it cannot be real any more."
+  },
+  {
+   "line": "LINE 7",
+   "q": "it may be sick with tyrants",
+   "means": "the country may now be at war and ruled by cruel leaders.",
+   "tech": "repetition of “It may” (the line opens “It may be at war”) and personification: the country is pictured as ill."
+  },
+  {
+   "line": "LINE 10",
+   "q": "as time rolls its tanks",
+   "means": "time moves on like an invading army.",
+   "tech": "metaphor: conflict imagery invades even her memory."
+  },
+  {
+   "line": "LINE 13",
+   "q": "like a hollow doll, opens and spills a grammar.",
+   "means": "her childhood language keeps opening up inside her.",
+   "why": "language is part of her identity, and it keeps growing in her."
+  },
+  {
+   "line": "LINE 19",
+   "q": "It lies down in front of me, docile as paper;",
+   "means": "the city lies down, gentle and helpless, like a child.",
+   "tech": "personification and simile: the place becomes a person she protects."
+  },
+  {
+   "line": "LINE 25",
+   "q": "my shadow falls as evidence of sunlight.",
+   "means": "even her darkness proves the bright memory is still there.",
+   "tech": "paradox and the repeated stanza ending “sunlight”."
+  }
+ ],
+ "form": {
+  "heading": "The form: free verse in three stanzas that all end in “sunlight”",
+  "explain": [
+   "<b>Free verse</b> is poetry “organized to the cadences of speech”, not to “a regular metrical scheme”. In plain English: no fixed rhythm and no rhyme pattern. <span class=\"src\">Britannica</span>",
+   "Because it follows the rhythms of speech, free verse can sound like a real person talking or thinking. Here it lets the speaker's memories and fears come out in her own voice. <span class=\"care\">our reading</span>",
+   "<b>Enjambment</b> is “the continuation of the sense of a phrase” beyond the end of a line. <span class=\"src\">Britannica</span>"
+  ],
+  "this_poem": [
+   "<b>Shape:</b> 25 long lines in three stanzas of 8, 8 and 9 lines. No rhyme scheme and no regular rhythm. <span class=\"care\">our count</span>",
+   "<b>The sunlight ending:</b> every stanza ends on the word “sunlight” (lines 8, 16 and 25). Whatever threat each stanza brings, war, tyrants, a banned language, accusing voices, the memory comes back at the end. <span class=\"care\">our reading</span>",
+   "<b>From past to present:</b> stanza 1 looks back (<q>“I left it as a child”</q>); by stanza 3 it is all present tense (<q>“I have no passport”</q>). The memory is not finished: it is still happening to her. <span class=\"care\">our reading</span>",
+   "<b>The last stanza breaks up:</b> short, sharp sentences pile up: <q>“They accuse me of absence, they circle me.”</q> The full stops and repeated “They” make the threat close in, and the enjambment on <q>“the city / of walls”</q> makes the walls arrive with a jolt."
+  ],
+  "say": "A sentence you could use: Rumens writes in free verse, like a real voice remembering, but ends each of the three stanzas on “sunlight”; however much conflict each stanza brings, the bright memory always returns, which shows that her identity cannot be taken from her."
+ },
+ "methods": [
+  {
+   "title": "Light and sunlight as a motif",
+   "text": "Light runs through the poem: <q>“sunlight-clear”</q>, <q>“bright”</q>, <q>“glow even clearer”</q>, <q>“shining eyes”</q>, and “sunlight” at the end of every stanza. Light stands for her happy, hopeful memory of home. Against it are darker words: war, tyrants, tanks, walls, dark, death.",
+   "term": "Motif",
+   "def": "an image or idea that keeps coming back in a text."
+  },
+  {
+   "title": "The city as a person",
+   "text": "In the last stanza the city <q>“lies down in front of me”</q>, and she combs <q>“its hair”</q>. Then <q>“My city hides behind me.”</q> The place has become someone she loves and protects. AQA's mark scheme names the “use of places as representation of people”, giving Tissue and The Emigrée as examples.",
+   "term": "Personification",
+   "def": "describing a thing as if it were a person."
+  },
+  {
+   "title": "Conflict creeping into the memory",
+   "text": "War words appear inside lovely images: time <q>“rolls its tanks”</q>, <q>“the frontiers rise”</q>, the language is <q>“banned by the state”</q>. Conflict is never shown directly, but it is always pressing in on her memories.",
+   "term": "Semantic field",
+   "def": "a group of words linked by the same topic (here, war and state control)."
+  },
+  {
+   "title": "An unnamed “I” and an unnamed “They”",
+   "text": "We never learn her name, her country or who “They” are. That makes her story fit many people who have been forced from home. The repeated <q>“They accuse me”</q> sounds like a crowd ganging up on one person.",
+   "term": "Persona",
+   "def": "a voice or character a poet speaks through, who is not the poet."
+  }
+ ],
+ "context": {
+  "timeline": [
+   {
+    "date": "1944",
+    "text": "Carol Rumens born in Forest Hill, South London"
+   },
+   {
+    "date": "1961",
+    "text": "Berlin Wall built; it comes to symbolise the division of Europe"
+   },
+   {
+    "date": "1980s",
+    "text": "Rumens takes letters, books and money to dissidents in Prague",
+    "care": "one source"
+   },
+   {
+    "date": "1985",
+    "text": "Meets poet Yuri Drobyshev, who had left the Soviet Union; they translate Russian poetry together",
+    "care": "one source"
+   },
+   {
+    "date": "1987",
+    "text": "Rumens visits Russia",
+    "care": "one source"
+   },
+   {
+    "date": "1989",
+    "text": "Berlin Wall falls; Velvet Revolution ends communist rule in Czechoslovakia"
+   },
+   {
+    "date": "1993",
+    "text": "The Emigrée collected in Thinking of Skins (Bloodaxe); Rumens is living in Northern Ireland",
+    "hi": true,
+    "care": "Northern Ireland: one source"
+   },
+   {
+    "date": "Apr 2026",
+    "text": "Rumens dies, aged 81"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Rumens was",
+    "items": [
+     {
+      "text": "Born Carol Lumley in 1944 in Forest Hill, South London. She did not leave her country as a child, so the speaker is an imagined voice, not Rumens herself.",
+      "src": "Poetry Archive; Carcanet; The Telegraph",
+      "use": "identity · voice",
+      "care": "imagined voice: our reading"
+     },
+     {
+      "text": "She had “a particular interest in the literary cultures” of Central and Eastern Europe, and translated many Russian poets.",
+      "src": "Poetry Archive; Bloodaxe",
+      "use": "conflict · identity",
+      "care": ""
+     },
+     {
+      "text": "Her partner, the poet Yuri Drobyshev, “had left the Soviet Union in 1978”. Together they translated Russian poetry.",
+      "src": "The Telegraph; Bloodaxe",
+      "use": "place and home · identity",
+      "care": "1978 date: one source"
+     },
+     {
+      "text": "In the 1980s she took “letters, books and money” to dissidents (people who opposed the government) in communist Prague, at risk to herself.",
+      "src": "The Telegraph (obituary, 2026)",
+      "use": "power · conflict",
+      "care": "one source"
+     },
+     {
+      "text": "She taught creative writing “most extensively in Belfast and Bangor”, wrote the Guardian's “Poem of the Week”, and died in April 2026, aged 81.",
+      "src": "Poetry Archive; Bloodaxe; Carcanet; The Telegraph",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "The book it comes from",
+    "items": [
+     {
+      "text": "AQA's anthology credits the poem to <i>Thinking of Skins</i>, a “new & selected” collection published by Bloodaxe in 1993. The poem may first have appeared a little earlier.",
+      "src": "AQA anthology; Open Library; Google Books",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "The publisher says Rumens “confronts the personal with the political” and shows “engagement with other lives”. The Emigrée does this: one woman's memories, shaped by war and the state.",
+      "src": "Open Library; Google Books",
+      "use": "conflict · identity",
+      "care": "link to this poem: our reading"
+     },
+     {
+      "text": "The poems are “Often set against the background of Eastern Europe, Russia” or her home in Northern Ireland, and “filled with a powerful sense of loss and exile.”",
+      "src": "Google Books (publisher's description)",
+      "use": "place and home · loss",
+      "care": "one source"
+     },
+     {
+      "text": "Northern Ireland was then in the Troubles (about 1968–1998), when “peace walls physically divided communities”. It is tempting to link this to the <q>“city / of walls”</q>, but the poem never says so.",
+      "src": "Britannica",
+      "use": "conflict",
+      "care": "our reading"
+     }
+    ]
+   },
+   {
+    "title": "Émigrés, refugees and borders",
+    "items": [
+     {
+      "text": "An émigré is a person “forced to leave a country for political reasons”. The feminine form is émigrée.",
+      "src": "Britannica Dictionary; Merriam-Webster; Larousse",
+      "use": "identity · power",
+      "care": ""
+     },
+     {
+      "text": "The first émigrés were French people, “at first mostly aristocrats, who fled France” after the Revolution of 1789. The word has always carried the idea of escape from political danger.",
+      "src": "Britannica; Larousse",
+      "use": "power · conflict",
+      "care": ""
+     },
+     {
+      "text": "Britannica defines a refugee as someone who “has crossed a frontier” and no longer has “the protection of his or her former government.” Compare <q>“the frontiers rise between us”</q> and <q>“I have no passport”</q>.",
+      "src": "Britannica",
+      "use": "effects of conflict",
+      "care": "link to the poem: our reading"
+     },
+     {
+      "text": "When Rumens was writing, Europe was split by the Iron Curtain, a barrier built by the Soviet Union to seal off eastern Europe from the West. It “largely ceased to exist in 1989–90”.",
+      "src": "Britannica",
+      "use": "conflict · power",
+      "care": "background only: the poem names no country"
+     },
+     {
+      "text": "The poem never names a country, a war or a government. That lets it speak for anyone forced from home. Don't write that it is “about” one real country.",
+      "src": "the poem",
+      "use": "identity · place",
+      "care": "our reading"
+     }
+    ]
+   },
+   {
+    "title": "Another way to read it",
+    "items": [
+     {
+      "text": "The Telegraph's obituary says the poem “seems to explore the exile's nostalgia” for the culture she has left.",
+      "src": "The Telegraph (obituary, 2026)",
+      "use": "memory · place",
+      "care": "one source"
+     },
+     {
+      "text": "It adds that Rumens “on one occasion said” she used the poem's “statelessness and a precious, sunlit past” as “a metaphor for a forbidden relationship.” This is the paper's report, not her own words.",
+      "src": "The Telegraph (obituary, 2026)",
+      "use": "identity · loss",
+      "care": "reported, one source"
+     },
+     {
+      "text": "That reading fits the love language of the last stanza: she combs its hair, loves its <q>“shining eyes”</q>, and goes dancing. The lost city can stand for anything, or anyone, you are not allowed to return to.",
+      "src": "our reading",
+      "use": "loss · memory",
+      "care": "our reading"
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Rumens was born in London but was deeply involved with Central and Eastern Europe in the last years of the Iron Curtain, supporting dissidents and translating Russian poets. The Emigrée gives a voice to someone forced out by politics, but it deliberately names no country, so it speaks for any exile. The title word means someone who left for political reasons. Rumens shows that the state can ban a language and close a border, but cannot take away memory or identity."
+ },
+ "comparisons": [
+  {
+   "partner": "Remains",
+   "use_for": [
+    "Memory",
+    "Effects of conflict"
+   ],
+   "aqa": "AQA: Nov 2020 mark scheme for the Remains question (“a change in circumstances in ‘The Emigrée’”)",
+   "similar": [
+    "Both speakers are haunted by a memory that keeps coming back uninvited: <q>“my city comes to me in its own white plane”</q> and <q>“he bursts again through the doors of the bank.”</q> Hers is sunlit and loved; his is violent and guilty.",
+    "Both use “I” and show the memory lodged inside the body: <q>“I can’t get it off my tongue”</q> and <q>“he’s here in my head when I close my eyes”</q>.",
+    "Both use the language of war inside the mind: <q>“time rolls its tanks”</q> and <q>“dug in behind enemy lines”</q>."
+   ],
+   "different": [
+    "<b>Feeling:</b> she wants to keep her memory (<q>“I comb its hair and love its shining eyes”</q>); he wants to be rid of his, but <q>“the drink and the drugs won’t flush him out”</q>.",
+    "<b>Light:</b> for Rumens sunlight means a safe, innocent past (<q>“sunlight-clear”</q>); in Remains daylight shows through a wound: <q>“I see broad daylight on the other side.”</q>",
+    "<b>Ending:</b> Rumens ends in defiance, her shadow <q>“evidence of sunlight”</q>; Armitage ends in guilt: <q>“his bloody life in my bloody hands.”</q>"
+   ]
+  },
+  {
+   "partner": "Tissue",
+   "use_for": [
+    "Identity",
+    "Place and home",
+    "Effects of conflict"
+   ],
+   "aqa": "AQA: Nov 2021 mark scheme (“use of places as representation of people”, naming Tissue and The Emigrée) and June 2024 (“sense of identity”)",
+   "similar": [
+    "Both use light as a sign of hope: Rumens's memory is <q>“sunlight-clear”</q>; Dharker's paper <q>“lets the light / shine through”</q>.",
+    "Both turn places into people: the city lies <q>“docile as paper”</q>; Dharker's paper ends as <q>“your skin.”</q>",
+    "Both show borders shaping lives: <q>“the frontiers rise between us”</q> and <q>“their borderlines”</q>."
+   ],
+   "different": [
+    "<b>Borders:</b> Rumens's speaker is trapped by them (<q>“I have no passport”</q>); Dharker imagines <q>“The sun shines through”</q> them.",
+    "<b>Ending:</b> The Emigrée ends under threat (<q>“They mutter death”</q>), though her <q>“evidence of sunlight”</q> survives; Tissue ends gently and hopefully.",
+    "<b>Voice:</b> Rumens's speaker tells her own painful story; Dharker's speaker thinks about everyone, then turns to “you”."
+   ]
+  },
+  {
+   "partner": "Checking Out Me History",
+   "use_for": [
+    "Identity",
+    "Power",
+    "Conflict"
+   ],
+   "aqa": "AQA: June 2022 mark scheme (“conflict of beliefs in ‘The Emigrée’” and “ideology/identity in ‘Checking Out Me History’”)",
+   "similar": [
+    "Both show the powerful trying to control identity. Rumens's language is <q>“banned by the state”</q>; Agard's teachers <q>“Blind me to me own identity”</q>.",
+    "Both speakers fight back in the first person: <q>“I can’t get it off my tongue”</q> and <q>“I carving out me identity”</q>.",
+    "Both use repetition to show pressure from outside: <q>“They accuse me”</q> and <q>“Dem tell me”</q>."
+   ],
+   "different": [
+    "<b>Language:</b> Agard writes in Caribbean dialect to show his identity on the page; Rumens's speaker only tells us her language <q>“tastes of sunlight”</q>.",
+    "<b>Tone:</b> Agard is angry and defiant; Rumens is loving and nostalgic, then afraid.",
+    "<b>Who controls:</b> in Agard it is the education system (“Dem”); in Rumens a state, tyrants and a hostile crowd (“They”)."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present the ways people are affected by conflict in ‘The Emigrée’ and in one other poem from ‘Power and conflict’. (June 2024 focus, adapted: the printed poem that year was Kamikaze)",
+  "thesis": "Both Rumens and Garland show conflict cutting people off from home, but Rumens's speaker holds on defiantly to a bright memory, while Garland's pilot is silenced and left with doubt.",
+  "para": "Both poets show that conflict can leave people as outsiders, cut off from the place they belong. Rumens's speaker can never return: <q>“I have no passport, there’s no way back at all”</q>. In her new city she is attacked by an unnamed crowd, and the repetition in <q>“They accuse me of absence, they circle me”</q> makes the threat close in. Garland's pilot is also shut out, but by his own family and neighbours, who treat him <q>“as though he no longer existed”</q>. Both poets use bright memories of home against this: the émigrée's city is <q>“sunlight-clear”</q>, and the pilot remembers fish that <q>“swivelled towards the sun”</q>. However, Rumens ends in defiance, with <q>“evidence of sunlight”</q>, whereas Garland ends in doubt about <q>“the better way to die.”</q>",
+  "why": [
+   "Opens with a clear comparative point that answers the question about the effects of conflict",
+   "Short, exact quotations from both poems, with methods named (repetition, light imagery)",
+   "Keeps comparing all the way through (“Both”, “also”, “However”, “whereas”) and ends on a judgement about the endings"
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+quotations checked: 1095; failures: 0
+banned strings in guide.html: none
+  longest copied run, storm-on-the-island: 9 words
+  longest copied run, bayonet-charge: 8 words
+  longest copied run, remains: 10 words
+  longest copied run, poppies: 8 words
+  longest copied run, war-photographer: 8 words
+  longest copied run, tissue: 7 words
+  longest copied run, the-emigree: 11 words
+  longest copied run, checking-out-me-history: 9 words
+  longest copied run, kamikaze: 9 words

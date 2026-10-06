@@ -1,0 +1,423 @@
+{
+ "num": 2,
+ "slug": "london",
+ "title": "London",
+ "poet": "William Blake",
+ "poet_dates": "1757–1827",
+ "published": "published 1794",
+ "group": "Power and pride",
+ "anchor": false,
+ "copyright": false,
+ "facts": {
+  "type": "Four quatrains (16 lines), ABAB rhyme",
+  "exam": "Yes: November 2021 (printed poem)",
+  "partner": "Ozymandias"
+ },
+ "themes": [
+  {
+   "name": "Power",
+   "aqa": true,
+   "src": "AQA question Nov 2021"
+  },
+  {
+   "name": "Tyranny",
+   "aqa": true,
+   "src": "AQA examiners' report 2023"
+  },
+  {
+   "name": "Conflict",
+   "aqa": true,
+   "src": "AQA mark schemes 2019 and 2022"
+  },
+  {
+   "name": "Difficult experiences",
+   "aqa": true,
+   "src": "AQA mark scheme Nov 2020"
+  },
+  {
+   "name": "Childhood",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Place and home",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A man walks through the streets of London. Everywhere he looks and listens, he finds people who are suffering.",
+  "message": "The people with power (the Church, the king and the rich) are crushing ordinary people, and people's own minds keep them trapped.",
+  "why": "Blake was a Londoner and a radical (someone who wants big changes to society) who opposed the monarchy. He wrote this in the years of the French Revolution, when questioning power was dangerous <span class=\"care\">our reading</span>. <span class=\"src\">poets.org; Tate; British Library</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "Just one word: the name of Britain's capital, where Blake was born and died. By naming a real city, Blake makes the poem a direct attack on his own society, not a made-up place. Britannica calls the poem “a critical commentary on the social and political conditions of London during Blake's time.”",
+  "src": "Britannica; poets.org"
+ },
+ "synopsis": {
+  "setup": "The speaker (“I”) walks through London's streets. He tells us what he sees, and then, more and more, what he hears.",
+  "steps": [
+   {
+    "lines": "Lines 1–4",
+    "text": "He wanders through streets, and near a river, that are “chartered”: owned and controlled. In every face he meets he sees signs of weakness and sadness."
+   },
+   {
+    "lines": "Lines 5–8",
+    "text": "He hears the same misery in every cry, from grown men to frightened babies. Behind it all he hears <q>“mind-forged manacles”</q>: chains made by the mind."
+   },
+   {
+    "lines": "Lines 9–10",
+    "text": "He hears the cry of child chimney sweeps. The soot-blackened churches should be horrified by it, but they do nothing."
+   },
+   {
+    "lines": "Lines 11–12",
+    "text": "He hears the sigh of an unlucky soldier, and pictures it as blood running down the walls of the royal palace."
+   },
+   {
+    "lines": "Lines 13–16",
+    "text": "Worst of all, at midnight he hears a young prostitute cursing. Her curse (and her disease) harms new-born babies and turns marriage into a funeral."
+   }
+  ],
+  "turn": "<b>The turning point (line 13):</b> <q>“But most”</q>. The poem has built up from faces to cries, and now Blake tells us the very worst sound of all comes at night.",
+  "ending": "On death and disease spreading into marriage and new life. The poem ends with no hope and no way out.",
+  "tone": "Angry and bitter, but tightly controlled. The steady, song-like rhythm makes the horror feel endless."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–4",
+   "text": "I wander through each <mark>chartered street</mark>,<br>Near where the <mark>chartered Thames</mark> does flow,<br>And mark in every face I meet<br><mark>Marks of weakness, marks of woe.</mark>",
+   "note": "<b>“chartered”</b> = mapped out and owned by someone, given rights by a legal document called a charter. Even the river is controlled. <b>“mark”</b> = notice; <b>“Marks”</b> = scars or signs. Suffering is written on everyone's face."
+  },
+  {
+   "lines": "5–8",
+   "text": "In <mark>every cry of every man</mark>,<br>In every infant’s cry of fear,<br>In every voice, in every ban,<br>The <mark>mind-forged manacles</mark> I hear:",
+   "note": "<b>“ban”</b> = a curse, or an official order forbidding something. <b>“manacles”</b> = handcuffs or chains. They are “mind-forged”: people are trapped by their own fear and acceptance, not only by metal."
+  },
+  {
+   "lines": "9–12",
+   "text": "How the <mark>chimney-sweeper’s cry</mark><br><mark>Every black’ning church appalls</mark>,<br>And the <mark>hapless soldier’s sigh</mark><br><mark>Runs in blood down palace walls.</mark>",
+   "note": "Child chimney sweeps cry. <b>“appalls”</b> = horrifies, and also makes pale; the church is turning black with soot (and guilt) instead. <b>“hapless”</b> = unlucky. The soldier suffers and dies for the king, so his blood is on the palace walls."
+  },
+  {
+   "lines": "13–16",
+   "text": "But most through <mark>midnight streets</mark> I hear<br>How the <mark>youthful harlot’s curse</mark><br><mark>Blasts the new-born infant’s tear</mark>,<br>And <mark>blights with plagues the marriage hearse.</mark>",
+   "note": "<b>“harlot”</b> = prostitute, here a young girl. Her curse, and the disease she passes on, harms babies and married couples. <b>“blights”</b> = ruins, infects. A <b>“hearse”</b> carries a coffin, so “marriage hearse” joins a wedding and a funeral."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINES 1–2",
+   "q": "I wander through each chartered street, / Near where the chartered Thames does flow,",
+   "means": "everything, even the river, is owned and controlled.",
+   "why": "the repeated “chartered” shows power reaching every corner of the city."
+  },
+  {
+   "line": "LINE 4",
+   "q": "Marks of weakness, marks of woe.",
+   "means": "pain and sadness show on every face.",
+   "tech": "repetition and alliteration; a pun on “mark” (notice) and “marks” (signs or scars)."
+  },
+  {
+   "line": "LINES 5–6",
+   "q": "In every cry of every man, / In every infant’s cry of fear,",
+   "means": "everyone suffers, from adults to babies.",
+   "tech": "repetition: “every” comes seven times in the poem."
+  },
+  {
+   "line": "LINE 8",
+   "q": "The mind-forged manacles I hear:",
+   "means": "people are chained by their own minds.",
+   "tech": "metaphor; the repeated “m” sounds feel heavy, like chains."
+  },
+  {
+   "line": "LINES 9–10",
+   "q": "How the chimney-sweeper’s cry / Every black’ning church appalls,",
+   "means": "the Church ignores child workers.",
+   "why": "the church is “black’ning”: dirty with soot and with guilt."
+  },
+  {
+   "line": "LINES 11–12",
+   "q": "And the hapless soldier’s sigh / Runs in blood down palace walls.",
+   "means": "soldiers die for the king.",
+   "tech": "metaphor: a sigh turns into blood, so the palace is guilty."
+  },
+  {
+   "line": "LINE 16",
+   "q": "And blights with plagues the marriage hearse.",
+   "means": "disease and death spread even into marriage.",
+   "tech": "oxymoron: a wedding joined to a funeral."
+  }
+ ],
+ "form": {
+  "heading": "The form: a simple song with a terrible message",
+  "explain": [
+   "London has <b>four quatrains</b> (4-line stanzas) with an <b>ABAB</b> rhyme scheme: <i>street / flow / meet / woe</i>. <span class=\"src\">our count</span>",
+   "One critic calls them <b>“ballad quatrains”</b>: the plain, regular stanza of songs and ballads. <span class=\"src\">Cash, English Association</span> <span class=\"care\">one source</span>",
+   "The rhythm is mostly <b>iambic tetrameter</b>: four beats a line, da-DUM da-DUM da-DUM da-DUM. <span class=\"src\">Cash, English Association</span> <span class=\"care\">one source</span>",
+   "It comes from <b>Songs of Innocence and of Experience</b>. Blake modelled the songs on simple moral songs written for children, like Isaac Watts's <i>Divine Songs</i> (1715), then turned them upside down. <span class=\"src\">British Library</span>"
+  ],
+  "this_poem": [
+   "<b>Why use a nursery-song shape for horror?</b> The neat, regular form clashes with what it describes. Cash (“sardonic” means grimly mocking) calls it a “sardonic conflict between the alternate rhymes of his ballad quatrains and the grotesque experience which they describe.” <span class=\"src\">Cash</span> <span class=\"care\">one source</span>",
+   "<b>The beat is like walking.</b> The steady four-beat lines match the speaker's footsteps, and the misery never stops. <span class=\"care\">our reading</span> The Poetry Archive introduction praises its “pounding rhythm”. <span class=\"src\">Poetry Archive</span>",
+   "<b>The rhythm breaks in stanzas 3–4.</b> Lines like <q>“How the chimney-sweeper’s cry”</q> have only seven syllables and start on a strong beat, so they hit harder. <span class=\"src\">our count</span>",
+   "<b>No escape in the structure.</b> Each stanza moves to a darker place: faces, cries, Church and palace, then midnight. The last line ends on a “hearse”. <span class=\"care\">our reading</span>",
+   "<b>Seeing, then hearing.</b> The poem starts with “mark” (seeing) but switches to <q>“I hear”</q> (lines 8 and 13). Cash notes that the experience of the city is “auditory”. <span class=\"src\">Cash; our check</span> <span class=\"care\">one source</span>"
+  ],
+  "say": "A sentence you could use: Blake uses regular ABAB quatrains, the simple shape of a children's song, to describe child labour, war and disease; the clash between the neat form and the ugly content makes the suffering more shocking, and the steady beat suggests it never ends."
+ },
+ "methods": [
+  {
+   "title": "Relentless repetition",
+   "text": "“every” comes seven times, and “cry” three times. Blake piles them up so the suffering seems to be everywhere and to affect everyone. AQA's 2021 mark scheme rewards comments on “repetition”.",
+   "term": "Repetition",
+   "def": "using the same word or phrase again and again for effect."
+  },
+  {
+   "title": "A mind in chains",
+   "text": "<q>“mind-forged manacles”</q> is the poem's most famous image. Do people accept their misery because they have been taught to? AQA's 2021 report noted students “offering different interpretations of what Blake might have been saying”.",
+   "term": "Metaphor",
+   "def": "describing one thing as if it were another."
+  },
+  {
+   "title": "Blaming the powerful",
+   "text": "Blake names the institutions: the <q>“church”</q> and the <q>“palace”</q>. The suffering of the weak (a child sweep, a soldier) is pinned on them, as dirt and blood on their walls.",
+   "term": "Symbolism",
+   "def": "when an object stands for a bigger idea (the palace stands for the king and the state)."
+  },
+  {
+   "title": "A shocking final image",
+   "text": "<q>“marriage hearse”</q> joins a wedding and a funeral. Cash says this “powerful oxymoron ‘marriage hearse’ suggests that nobody is immune” <span class=\"src\">Cash, English Association</span> <span class=\"care\">one source</span>. Even new life and love are poisoned.",
+   "term": "Oxymoron",
+   "def": "two opposite ideas placed side by side."
+  }
+ ],
+ "warn": "Examiners warn: in 2023, answers that discussed the “responsibilities / abuse of power” did much better than those “who stayed within the particulars of the poems in ‘My Last Duchess’, ‘Ozymandias’ or ‘London’”. Don't just retell the street scenes: say what Blake is arguing about power.",
+ "context": {
+  "timeline": [
+   {
+    "date": "1757",
+    "text": "Blake born above his father's shop in London"
+   },
+   {
+    "date": "1772–79",
+    "text": "Apprenticed to an engraver"
+   },
+   {
+    "date": "1788",
+    "text": "Law to protect child chimney sweeps passed, but not enforced"
+   },
+   {
+    "date": "1789",
+    "text": "Songs of Innocence; French Revolution begins"
+   },
+   {
+    "date": "1792",
+    "text": "Blake drafts London in his notebook; Paine attacks “charters”",
+    "care": "draft date: one source"
+   },
+   {
+    "date": "1793",
+    "text": "French king Louis XVI executed"
+   },
+   {
+    "date": "1794",
+    "text": "London published in Songs of Experience",
+    "hi": true
+   },
+   {
+    "date": "1804",
+    "text": "Blake tried for sedition, found not guilty; dies 1827"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Blake was",
+    "items": [
+     {
+      "text": "Born in 1757 above his father's hosiery (stocking) shop in Soho, London. He died in London too, though he lived by the sea at Felpham, Sussex, from 1800 to 1803.",
+      "src": "Britannica; poets.org",
+      "use": "place",
+      "care": ""
+     },
+     {
+      "text": "Apprenticed to an engraver at 14 for seven years. Britannica calls him an “engraver, artist, poet, and visionary”. As a child he said he saw “a tree filled with angels”.",
+      "src": "Britannica; poets.org",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "He printed and hand-coloured his own books with his wife Catherine. She could not write when they married (she signed with an X), so he taught her to read and write.",
+      "src": "Britannica; Tate; poets.org",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Little known in his lifetime, he was “generally neglected or (unjustly) dismissed as mad”, and spent his last years “in great poverty”.",
+      "src": "Britannica; poets.org",
+      "use": "powerlessness",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "Blake the radical",
+    "items": [
+     {
+      "text": "He “associated with some of the leading radical thinkers of his day, including Thomas Paine and Mary Wollstonecraft.”",
+      "src": "poets.org",
+      "use": "power · rebellion",
+      "care": "one source"
+     },
+     {
+      "text": "His poems of the early 1790s “express his opposition to the English monarchy, and to eighteenth-century political and social tyranny in general.”",
+      "src": "poets.org; Britannica (“daringly political”)",
+      "use": "tyranny · palace",
+      "care": ""
+     },
+     {
+      "text": "He attacked religion run by the state, calling it “The Abomination that maketh desolate”. A friend said he did not go to church for his last forty years.",
+      "src": "Britannica",
+      "use": "the Church",
+      "care": "one source"
+     },
+     {
+      "text": "In 1803 soldiers accused him of having “Damned the King of England”. He was tried for sedition (stirring up rebellion) and found not guilty in 1804.",
+      "src": "Britannica",
+      "use": "power · control",
+      "care": "one source"
+     },
+     {
+      "text": "Britannica calls him “the earliest and most original of the Romantic poets”. AQA's mark scheme links London to “Romantic ideas about power”.",
+      "src": "Britannica; AQA specimen mark scheme",
+      "use": "power",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "London in the 1790s",
+    "items": [
+     {
+      "text": "The French Revolution broke out in 1789; the French king was executed in 1793. Tate says the “mind-forg’d manacles” may be the “deeply ingrained respect for tradition and institutions that stopped the people of London from following the example of revolutionary Paris.”",
+      "src": "Tate; Britannica",
+      "use": "power · control",
+      "care": "the manacles reading: one source"
+     },
+     {
+      "text": "Poor parents “often sold their children as ‘climbing boys’ to a master sweep at around the age of five.” Some suffocated in chimneys; the soot could cause cancer.",
+      "src": "Tate; London Museum",
+      "use": "childhood · powerlessness",
+      "care": ""
+     },
+     {
+      "text": "A law in 1788 tried to control the use of child sweeps, “But it wasn't enforced.” One teacher's article says there was “no effective legislation” to protect them until 1834.",
+      "src": "London Museum; Cash, English Association",
+      "use": "abuse of power",
+      "care": "1834: one source"
+     },
+     {
+      "text": "<b>“Chartered”:</b> a charter is a legal document giving rights to a town, company or group. In 1792 Thomas Paine wrote: “It is a perversion of terms to say that a charter gives rights. It operates by a contrary effect--that of taking rights away.” One critic, Peter Cash, quotes this passage to explain Blake's word “chartered”.",
+      "src": "Paine, Rights of Man Part II; Cash, English Association",
+      "use": "power and control",
+      "care": "one source"
+     }
+    ]
+   },
+   {
+    "title": "How the poem came about",
+    "items": [
+     {
+      "text": "“William Blake composed his poem ‘London’ in the summer of 1792.” His handwritten draft survives in his notebook, now in the British Library.",
+      "src": "British Library",
+      "use": "",
+      "care": "one source"
+     },
+     {
+      "text": "In the draft, Blake changed “dirty” to “chartered”, and “German-forged” to “mind-forged”. The king, George III, came from a German (Hanoverian) family, so Cash suggests the first version blamed the royal family.",
+      "src": "Cash, English Association",
+      "use": "power · control",
+      "care": "one source"
+     },
+     {
+      "text": "Published in <i>Songs of Innocence and of Experience</i> (1794), subtitled “the two contrary states of the human soul”. Experience poems “centre on threatened, unprotected souls in despair.”",
+      "src": "Britannica; Tate; poets.org",
+      "use": "childhood · powerlessness",
+      "care": "Tate and Cash date it 1793; “threatened, unprotected souls”: one source (Britannica)"
+     },
+     {
+      "text": "The British Library calls the poem's ending a “howl of outrage” at “the abuse of children”.",
+      "src": "British Library",
+      "use": "abuse of power",
+      "care": "one source"
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Blake wrote London in 1792–94, when the French Revolution had overthrown a king and British radicals like Paine were attacking charters that took people's rights away. By blaming the “church” and “palace” for the suffering of child sweeps and soldiers, Blake argues that those in power have abused it, and by calling the chains “mind-forged” he challenges ordinary people to stop accepting it."
+ },
+ "comparisons": [
+  {
+   "partner": "Ozymandias",
+   "use_for": [
+    "Power",
+    "Tyranny"
+   ],
+   "aqa": "AQA: “an excellent choice” (Nov 2021 examiners' report); paired in the 2018 mark scheme",
+   "similar": [
+    "Both poets attack those in power: Blake blames the <q>“church”</q> and <q>“palace”</q>; Shelley mocks a tyrant who called himself <q>“king of kings”</q>.",
+    "Both show power leaving marks on people: <q>“Marks of weakness, marks of woe”</q> on Londoners' faces, and the <q>“sneer of cold command”</q> carved in stone."
+   ],
+   "different": [
+    "<b>Who we see:</b> Blake shows the victims (sweeps, soldiers, babies); Shelley shows only the ruler, and the people he ruled are missing.",
+    "<b>Does the power last?</b> Shelley's tyrant has crumbled: <q>“Nothing beside remains.”</q> In London, power is alive now and everywhere: <q>“The mind-forged manacles I hear:”</q>",
+    "<b>Voice:</b> Blake's “I” walks the streets in the present tense, so it feels urgent. Shelley's story comes second-hand from a traveller, so it feels distant and calm."
+   ]
+  },
+  {
+   "partner": "Checking Out Me History",
+   "use_for": [
+    "Power",
+    "Identity"
+   ],
+   "aqa": "AQA: “worked very well” (Nov 2021 examiners' report); paired in the 2023 and 2025 mark schemes",
+   "similar": [
+    "Both show power controlling people's minds: Blake's <q>“mind-forged manacles”</q> and Agard's <q>“Bandage up me eye with me own history”</q>.",
+    "Both speakers protest against the institutions that hold power: Church and palace in London; the education system (“Dem”) in Agard."
+   ],
+   "different": [
+    "<b>Escape:</b> Agard's speaker breaks free: <q>“I carving out me identity”</q>. Blake's Londoners stay trapped, and the poem ends on a <q>“hearse”</q>.",
+    "<b>Voice:</b> Blake watches others suffer; Agard speaks for himself, in his own Caribbean voice, against what <q>“Dem tell me”</q>.",
+    "<b>Form:</b> Blake keeps strict ABAB quatrains; Agard breaks the rules with free, changing stanzas, which suits his rebellion."
+   ]
+  },
+  {
+   "partner": "My Last Duchess",
+   "use_for": [
+    "Power",
+    "Control"
+   ],
+   "aqa": "AQA: Nov 2021 mark scheme (“political power with personal power used to repress”); “worked very well” (2021 report)",
+   "similar": [
+    "Both show power used to crush the less powerful: the Duke silences his wife, <q>“I gave commands;”</q>, and London's rulers ignore the <q>“chimney-sweeper’s cry”</q>.",
+    "Both hint at death caused by power without showing it directly: blood on <q>“palace walls”</q>, and <q>“Then all smiles stopped together.”</q>"
+   ],
+   "different": [
+    "<b>Scale:</b> AQA's 2021 report praised students who compared power “at a state and an individual level”: Blake shows a whole city; Browning shows one man and one woman.",
+    "<b>Voice:</b> Blake speaks against the powerful; Browning lets the powerful man speak, so the Duke condemns himself: <q>“I choose / Never to stoop.”</q>",
+    "<b>Form:</b> short song-like quatrains against a long dramatic monologue in rhyming couplets."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "Compare how poets present ideas about power and control in ‘London’ and in one other poem from ‘Power and conflict’. (AQA, November 2021)",
+  "thesis": "Both Blake and Shelley condemn people who abuse power, but while Shelley shows a tyrant's power crumbling away over time, Blake shows power still alive in every street, controlling people's bodies and even their minds.",
+  "para": "Both poets present power as something that leaves its mark on people. Blake sees <q>“Marks of weakness, marks of woe”</q> on every face, and the repetition of “marks” suggests the damage is written on the whole city. Shelley also shows power marking its subjects, but only through the ruler's <q>“sneer of cold command”</q>, carved in stone. However, Shelley's tyrant has lost his control: <q>“Nothing beside remains.”</q> In contrast, Blake's rulers are still in charge, and he hears <q>“The mind-forged manacles”</q> in every voice. This metaphor suggests that Londoners are chained by their own fear and acceptance. Writing in the 1790s, when the French Revolution had overthrown a king, Blake seems to challenge his readers to break those chains, while Shelley reassures them that tyrants always fall.",
+  "why": [
+   "Opens with a clear comparative point about power and control",
+   "Short quotations from both poems, each one analysed (repetition, metaphor)",
+   "Uses context (the French Revolution) to explain Blake's purpose, not just as an add-on fact"
+  ]
+ }
+}

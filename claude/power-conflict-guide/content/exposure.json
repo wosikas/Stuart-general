@@ -1,0 +1,480 @@
+{
+ "num": 8,
+ "slug": "exposure",
+ "title": "Exposure",
+ "poet": "Wilfred Owen",
+ "poet_dates": "1893–1918",
+ "published": "published 1920, after Owen's death",
+ "group": "Nature",
+ "anchor": false,
+ "copyright": false,
+ "facts": {
+  "type": "8 five-line stanzas (40 lines), half-rhyme",
+  "exam": "Yes: June 2025 (“ideas about conflict”)",
+  "partner": "Storm on the Island (your anchor); Bayonet Charge also works well"
+ },
+ "themes": [
+  {
+   "name": "Conflict",
+   "aqa": true,
+   "src": "AQA question 2025"
+  },
+  {
+   "name": "Nature",
+   "aqa": true,
+   "src": "AQA mark schemes 2017, 2022"
+  },
+  {
+   "name": "Effects of conflict",
+   "aqa": true,
+   "src": "AQA mark schemes 2017, 2024"
+  },
+  {
+   "name": "War",
+   "aqa": true,
+   "src": "AQA examiners' report 2022"
+  },
+  {
+   "name": "Power",
+   "aqa": true,
+   "src": "AQA mark schemes 2021, 2023"
+  },
+  {
+   "name": "Difficult experiences",
+   "aqa": true,
+   "src": "AQA mark scheme Nov 2020"
+  },
+  {
+   "name": "Patriotism and duty",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Place and home",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "Soldiers lie awake all night in a freezing trench on the Western Front, waiting for an attack. Nothing happens, but the cold slowly kills them.",
+  "message": "In this war the weather is a deadlier enemy than the guns. The soldiers suffer and die for nothing, and even their faith is fading.",
+  "why": "Owen was an officer who lay out in the snow himself in January 1917, when one of his men froze to death. <span class=\"src\">Wilfred Owen Association</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "To suffer <b>exposure</b> is to be left out in the open with no shelter, at the mercy of the weather. That is exactly what kills these men. The word can also mean revealing a hidden truth: Owen exposes what the war was really like for the soldiers. <span class=\"care\">second meaning: our reading</span>",
+  "src": "Wilfred Owen Association (Merryn Williams): the men are “lying in the open under freezing conditions”"
+ },
+ "synopsis": {
+  "setup": "A group of soldiers (“we”) are in a front-line trench on a winter night in the First World War. They are on watch, expecting the enemy, and they speak to us in the present tense.",
+  "steps": [
+   {
+    "lines": "Lines 1–10",
+    "text": "The icy wind seems to stab them. They stay awake because it is too quiet. Sentries whisper nervously. The wind tugs at the barbed wire, and guns rumble far away. They ask, “What are we doing here?”"
+   },
+   {
+    "lines": "Lines 11–20",
+    "text": "Dawn comes, but it brings only more misery: rain, cloud and a grey sky that attacks like an army. Bullets fly past, but they are “Less deadly” than the freezing air, black with snow. Again, nothing happens."
+   },
+   {
+    "lines": "Lines 21–25",
+    "text": "Snowflakes touch their faces. Dazed by the cold, the men drift into dreams of warm, sunny ditches full of flowers and blackbirds. They wonder, “Is it that we are dying?”"
+   },
+   {
+    "lines": "Lines 26–30",
+    "text": "In their minds they travel home like ghosts. The fire is burning low, crickets sing and mice have taken over the house. But the doors are shut to them, so they turn back to the trench and their dying."
+   },
+   {
+    "lines": "Lines 31–35",
+    "text": "They try to explain why they stay: they believe they are out here so that the fires at home can keep burning and children and fields can be safe. Yet even their love of God seems to be dying."
+   },
+   {
+    "lines": "Lines 36–40",
+    "text": "The last stanza looks ahead to tonight. The frost “will” freeze the mud and the men. A burying-party will stop over faces they half-know, whose eyes are ice. And still nothing happens."
+   }
+  ],
+  "turn": "<b>The turning point (line 21):</b> the snowflakes “come feeling for our faces”, and the poem drifts from the frozen trench into a half-dream of warmth and home. The dream ends with the doors “closed” against them.",
+  "ending": "In the future tense: tonight the frost “will” kill more of them. The final words, “But nothing happens.”, bring us back to the first stanza. Nothing has changed except that men have died.",
+  "tone": "Weary, numb and bitter. The repeated questions and the flat refrain make the waiting feel endless."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam. Quote the anthology wording. Watch out: when AQA printed Exposure in June 2025, a few words were different (“Nor ever suns”, “Tonight, this frost”), so if it is printed on your paper, quote the paper.",
+ "poem_blocks": [
+  {
+   "lines": "1–5",
+   "text": "Our brains ache, in the <mark>merciless iced east winds that knive us</mark> ...<br>Wearied we keep awake because the night is silent ...<br>Low, drooping flares confuse our memory of the salient ...<br>Worried by silence, sentries whisper, curious, nervous,<br>&nbsp;&nbsp;&nbsp;<mark>But nothing happens.</mark>",
+   "note": "The wind feels like knives. The men are too tense to sleep. Flares (lights fired into the sky) droop and fade. The <b>salient</b> is a bulge in the front line that juts into enemy land, so it can be attacked from several sides. The ellipses (…) make time drag."
+  },
+  {
+   "lines": "6–10",
+   "text": "Watching, we hear the <mark>mad gusts tugging on the wire</mark>,<br>Like <mark>twitching agonies of men</mark> among its brambles.<br>Northward, incessantly, the flickering gunnery rumbles,<br>Far off, like a dull rumour of some other war.<br>&nbsp;&nbsp;&nbsp;<mark>What are we doing here?</mark>",
+   "note": "The barbed wire shakes in the wind like dying men caught on it. Real fighting is happening somewhere else, far away. The short last line asks what the point of it all is."
+  },
+  {
+   "lines": "11–15",
+   "text": "The poignant misery of dawn begins to grow ...<br>We only know <mark>war lasts, rain soaks, and clouds sag stormy</mark>.<br><mark>Dawn massing in the east her melancholy army</mark><br>Attacks once more in ranks on shivering ranks of grey,<br>&nbsp;&nbsp;&nbsp;But nothing happens.",
+   "note": "Dawn should bring hope. Instead it is an enemy army of grey clouds attacking the grey, shivering soldiers. The list of short clauses (war lasts, rain soaks…) sounds flat and hopeless."
+  },
+  {
+   "lines": "16–20",
+   "text": "<mark>Sudden successive flights of bullets streak the silence.</mark><br><mark>Less deadly than the air that shudders black with snow</mark>,<br>With sidelong flowing flakes that flock, pause, and renew,<br>We watch them wandering up and down the wind's nonchalance,<br>&nbsp;&nbsp;&nbsp;But nothing happens.",
+   "note": "Bullets fly, but the snowy air is <i>more</i> deadly than they are. The hissing “s” sounds copy the bullets and the wind. <b>“nonchalance”</b> = not caring: the wind doesn't care about them at all."
+  },
+  {
+   "lines": "21–25",
+   "text": "Pale flakes with <mark>fingering stealth</mark> come feeling for our faces -<br>We cringe in holes, back on forgotten dreams, and stare, snow-dazed,<br>Deep into grassier ditches. So we drowse, sun-dozed,<br>Littered with blossoms trickling where the blackbird fusses.<br>&nbsp;&nbsp;&nbsp;<mark>– Is it that we are dying?</mark>",
+   "note": "The snow creeps up like a thief's fingers. Numb with cold, the men slip into a dream of summer. Drowsiness in the cold is a sign of freezing to death, which is why they ask if they are dying."
+  },
+  {
+   "lines": "26–30",
+   "text": "<mark>Slowly our ghosts drag home</mark>: glimpsing the sunk fires, glozed<br>With <mark>crusted dark-red jewels</mark>; crickets jingle there;<br>For hours the innocent mice rejoice: the house is theirs;<br>Shutters and doors, all closed: <mark>on us the doors are closed</mark>, -<br>&nbsp;&nbsp;&nbsp;<mark>We turn back to our dying.</mark>",
+   "note": "Their minds go home, but only as “ghosts”. The fire is low: its embers glow like jewels but give no warmth. Mice own the house now. The doors are shut on <i>them</i>: there is no place for them at home, so they go back to die."
+  },
+  {
+   "lines": "31–35",
+   "text": "Since we believe not otherwise can kind fires burn;<br>Now ever suns smile true on child, or field, or fruit.<br>For God's invincible spring our love is made afraid;<br><mark>Therefore, not loath, we lie out here</mark>; therefore were born,<br>&nbsp;&nbsp;&nbsp;<mark>For love of God seems dying.</mark>",
+   "note": "The hardest stanza. They tell themselves they must stay out here so that the fires at home keep burning and children and fields stay safe. <b>“not loath”</b> = not unwilling. But the last line admits their faith is fading."
+  },
+  {
+   "lines": "36–40",
+   "text": "<mark>Tonight, His frost will fasten on this mud and us</mark>,<br>Shrivelling many hands. puckering foreheads crisp.<br>The burying-party, picks and shovels in their shaking grasp,<br>Pause over <mark>half-known faces</mark>. <mark>All their eyes are ice</mark>,<br>&nbsp;&nbsp;&nbsp;But nothing happens.",
+   "note": "A prediction: tonight God's frost will freeze them. Soldiers sent to bury the dead will stop over faces they half-recognise, frozen solid. (The full stop after “hands” is how the anthology prints it; other texts have a comma. Don't quote that line.)"
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "Our brains ache, in the merciless iced east winds that knive us",
+   "means": "the cold wind feels like it is stabbing them.",
+   "tech": "personification: the wind is a cruel attacker with a knife."
+  },
+  {
+   "line": "LINES 5, 15, 20, 40",
+   "q": "But nothing happens.",
+   "means": "the waiting never ends, and nothing changes.",
+   "tech": "refrain; a flat, short line after long ones (anticlimax)."
+  },
+  {
+   "line": "LINE 10",
+   "q": "What are we doing here?",
+   "means": "the soldiers cannot see the point of the war.",
+   "tech": "rhetorical question (asked for effect, not for an answer), showing doubt."
+  },
+  {
+   "line": "LINE 13",
+   "q": "Dawn massing in the east her melancholy army",
+   "means": "even the sunrise is an enemy attacking them.",
+   "tech": "metaphor and personification: nature as an army."
+  },
+  {
+   "line": "LINE 17",
+   "q": "Less deadly than the air that shudders black with snow",
+   "means": "the weather kills more than the bullets do.",
+   "why": "the real enemy is nature, not the Germans."
+  },
+  {
+   "line": "LINE 29",
+   "q": "on us the doors are closed",
+   "means": "there is no way home for them.",
+   "why": "repetition of “closed” shuts them out of home and safety."
+  },
+  {
+   "line": "LINE 39",
+   "q": "All their eyes are ice",
+   "means": "the dead men are frozen solid.",
+   "tech": "metaphor; the soft half-rhyme of “eyes” and “ice”."
+  }
+ ],
+ "form": {
+  "heading": "The form: half-rhyme, a refrain and a circle",
+  "explain": [
+   "<b>Half-rhyme</b> (also called slant rhyme) is when two words nearly rhyme but not quite: “two words that have only their final consonant sounds” in common. <span class=\"src\">Britannica</span>",
+   "<b>Pararhyme</b> is Owen's own version: he keeps the consonants the same and changes the vowel, as in “hall” and “Hell”, or “mystery” and “mastery”. <span class=\"src\">Yale Modernism Lab</span>",
+   "<b>Why poets use it:</b> a full rhyme sounds neat and finished. A half-rhyme sounds slightly wrong, so the ear is left unsatisfied. That suits a poem about unease. <span class=\"care\">our reading</span>",
+   "Britannica notes Owen's “technical experiments in assonance” (repeated vowel sounds), which were later “particularly influential in the 1930s”. <span class=\"src\">Britannica</span>",
+   "A <b>refrain</b> is a line repeated at the end of stanzas, like a chorus in a song."
+  ],
+  "this_poem": [
+   "<b>40 lines in 8 stanzas</b> of five lines. <span class=\"src\">EBSCO; our count</span> Four long lines are followed by a short fifth line that hangs on its own.",
+   "The first four lines of each stanza half-rhyme in an <b>ABBA</b> pattern: “knive us / silent / salient / nervous”, “wire / brambles / rumbles / war”. <span class=\"src\">our count</span>",
+   "The Wilfred Owen Association praises the “daring half-rhymes - ‘knive us/nervous’, ‘nonchalance/happens’” and “the short, simple, hanging line at the end of each verse.” <span class=\"src\">Wilfred Owen Association</span>",
+   "<b>Refrain:</b> “But nothing happens.” ends stanzas 1, 3, 4 and 8. The other short lines move closer and closer to death: “Is it that we are dying?”, “We turn back to our dying.”, “For love of God seems dying.” <span class=\"src\">our count</span>",
+   "<b>Circular structure:</b> “When it ends, they are exactly where they were in the first verse.” <span class=\"src\">Wilfred Owen Association</span> The poem goes round in a loop, like the soldiers' endless nights.",
+   "<b>Why it matters:</b> the rhymes never quite click and the refrain never changes, so the form itself feels stuck and uneasy, just like the men. <span class=\"care\">our reading</span>"
+  ],
+  "say": "A sentence you could use: Owen's pararhymes, like “knive us” and “nervous”, never quite chime, so the reader is left as tense and unsatisfied as the soldiers; and because the poem ends with the same line, “But nothing happens.”, its circular structure traps them in endless, pointless waiting."
+ },
+ "methods": [
+  {
+   "title": "Nature as the enemy",
+   "text": "The wind has knives (<q>“winds that knive us”</q>), dawn is a <q>“melancholy army”</q> and the frost <q>“will fasten”</q> on them. Owen gives the weather the actions of soldiers, so the real battle is against nature.",
+   "term": "Personification",
+   "def": "giving human actions or feelings to something that isn't human."
+  },
+  {
+   "title": "Hissing sounds",
+   "text": "<q>“Sudden successive flights of bullets streak the silence.”</q> The repeated “s” sounds copy the hiss of bullets and wind. AQA's 2025 mark scheme suggests writing about “effects of sibilance”.",
+   "term": "Sibilance",
+   "def": "repeating “s” and “sh” sounds close together."
+  },
+  {
+   "title": "“We”, not “I”",
+   "text": "Owen speaks for all the men (<q>“we keep awake”</q>, <q>“our ghosts”</q>), in the present tense. Their suffering is shared, and we live through the night with them.",
+   "term": "Collective voice",
+   "def": "a speaker who talks for a whole group, using “we” and “our”."
+  },
+  {
+   "title": "Warm home, frozen trench",
+   "text": "The dream of <q>“crusted dark-red jewels”</q> and <q>“innocent mice”</q> is warm and gentle, set against the ice and mud. The contrast makes the trench feel even crueller.",
+   "term": "Juxtaposition",
+   "def": "putting two very different things side by side to show the difference."
+  }
+ ],
+ "warn": "Examiners warn: AQA's June 2022 report said that “paragraphs about, for example, Owen’s war experiences … were not useful if they meant the student lost sight of the poem.” Use a sentence of context, then go straight back to the words.",
+ "context": {
+  "timeline": [
+   {
+    "date": "1893",
+    "text": "Owen born, Oswestry, Shropshire"
+   },
+   {
+    "date": "1915",
+    "text": "Enlists in the army"
+   },
+   {
+    "date": "Jan 1917",
+    "text": "Front line on the Somme; nights out in the snow"
+   },
+   {
+    "date": "Jun–Aug 1917",
+    "text": "Shell shock; Craiglockhart hospital; meets Sassoon"
+   },
+   {
+    "date": "May 1918",
+    "text": "Writes his Preface: “The Poetry is in the pity”"
+   },
+   {
+    "date": "Sept 1918",
+    "text": "Final version of Exposure",
+    "hi": true
+   },
+   {
+    "date": "4 Nov 1918",
+    "text": "Killed, one week before the Armistice"
+   },
+   {
+    "date": "1920",
+    "text": "Sassoon publishes Owen's Poems, including Exposure"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Owen was",
+    "items": [
+     {
+      "text": "Born in 1893 in Oswestry, Shropshire. He worked for a year as a vicar's assistant, then taught English in Bordeaux, France.",
+      "src": "Britannica; University of Oxford",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "He loved the Romantic poet Keats: his early poems were “consciously modeled” on Keats's work.",
+      "src": "Britannica; Poetry Archive",
+      "use": "nature",
+      "care": ""
+     },
+     {
+      "text": "He enlisted in 1915 and became an officer in the Manchester Regiment, so he led men at the front.",
+      "src": "University of Oxford; poets.org; Wilfred Owen Association",
+      "use": "patriotism and duty",
+      "care": ""
+     },
+     {
+      "text": "He won the Military Cross for bravery in October 1918, and was killed on 4 November 1918 crossing the Sambre–Oise canal, aged 25, a week before the war ended.",
+      "src": "Britannica; Poetry Archive; Wilfred Owen Association",
+      "use": "effects of conflict",
+      "care": ""
+     },
+     {
+      "text": "Only four of his poems were published while he was alive. Most of his fame came after his death.",
+      "src": "Wilfred Owen Association; Poetry Archive",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "The winter behind the poem",
+    "items": [
+     {
+      "text": "The poem is “based on Owen's experiences in the winter of 1917”, giving “a worm's-eye view of the front line”.",
+      "src": "Wilfred Owen Association",
+      "use": "conflict · difficult experiences",
+      "care": ""
+     },
+     {
+      "text": "In January 1917 his battalion arrived near Beaumont Hamel on the Somme. The winter of 1916–17 was extremely cold.",
+      "src": "Wilfred Owen Association",
+      "use": "nature",
+      "care": "one source"
+     },
+     {
+      "text": "With no dugouts, the men had to “lie out in the snow in shell holes and in a bitterly piercing wind”. More were sent to hospital with frostbite than with wounds.",
+      "src": "Wilfred Owen Association",
+      "use": "nature · effects of conflict",
+      "care": "one source"
+     },
+     {
+      "text": "Owen wrote that “one of my party actually froze to death” and “we were marooned on a frozen desert”.",
+      "src": "Owen's own words, quoted by the Wilfred Owen Association",
+      "use": "nature · conflict",
+      "care": ""
+     },
+     {
+      "text": "Another letter: “My feet ached until they could ache no more, and so they temporarily died.”",
+      "src": "London Review of Books (review of Owen's letters)",
+      "use": "effects of conflict",
+      "care": "one source"
+     }
+    ]
+   },
+   {
+    "title": "Shell shock, Sassoon and “the pity of War”",
+    "items": [
+     {
+      "text": "In spring 1917 he was blown into the air by a shell and sent home with shell shock. At Craiglockhart hospital, Edinburgh, in summer 1917, he met the poet Siegfried Sassoon.",
+      "src": "Poetry Archive; University of Oxford; Britannica",
+      "use": "effects of conflict",
+      "care": "April or May: sources differ"
+     },
+     {
+      "text": "Sassoon encouraged him “to bring his war experiences into his poetry”.",
+      "src": "Wilfred Owen Association",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "In his Preface (1918) for a book of poems he planned, Owen wrote: “My subject is War, and the pity of War. The Poetry is in the pity.”",
+      "src": "Wilfred Owen Association; Durham University (manuscript)",
+      "use": "conflict · effects of conflict",
+      "care": ""
+     },
+     {
+      "text": "The printed Preface (1920) also says “This book is not about heroes” and “the true Poets must be truthful.” Exposure tells the truth about suffering, not glory.",
+      "src": "Owen, Poems (1920), Project Gutenberg",
+      "use": "patriotism and duty",
+      "care": "link to Exposure: our reading"
+     },
+     {
+      "text": "The poet W. B. Yeats disliked Owen's work: “Passive suffering is not a theme for poetry”. Exposure is entirely about passive suffering.",
+      "src": "Wilfred Owen Association",
+      "use": "power · powerlessness",
+      "care": "one source"
+     }
+    ]
+   },
+   {
+    "title": "How the poem was made",
+    "items": [
+     {
+      "text": "Sources give different dates. The Owen Association says he began it at Abbeville in early 1917; the Poetry Archive says “written in February 1918”; Merryn Williams says “The final version of this poem belongs to September 1918”.",
+      "src": "Wilfred Owen Association; Poetry Archive",
+      "use": "",
+      "care": "sources conflict"
+     },
+     {
+      "text": "The safe version: the poem comes from the winter of 1917, and Owen reworked it until September 1918, weeks before he was killed.",
+      "src": "Wilfred Owen Association",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "“Our brains ache” echoes “My heart aches”, the opening of Keats's “Ode to a Nightingale”. Owen felt his generation faced “horrors which the Romantics had not dreamed of”.",
+      "src": "Wilfred Owen Association",
+      "use": "nature",
+      "care": "one source"
+     },
+     {
+      "text": "The dream of home recalls the wartime song “Keep the home fires burning”, but in Owen's version “the fires are almost dead”.",
+      "src": "Wilfred Owen Association",
+      "use": "patriotism and duty · home",
+      "care": "one source"
+     },
+     {
+      "text": "Stanza 7 can be read as the men being “Christ-figures, dying willingly” for others, while “Love of God seems dying” shows his old faith failing.",
+      "src": "Wilfred Owen Association",
+      "use": "patriotism and duty",
+      "care": "a critic's reading"
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Owen was an officer who lay out in the snow on the Somme in January 1917, when one of his own men froze to death. He wrote that “The Poetry is in the pity”, and Exposure shows that pity: instead of heroic battles, it shows ordinary soldiers powerless against the cold, dying while “nothing happens”."
+ },
+ "comparisons": [
+  {
+   "partner": "Bayonet Charge",
+   "use_for": [
+    "Conflict",
+    "Effects of conflict",
+    "Nature"
+   ],
+   "aqa": "AQA: 2025 mark scheme (“first-hand experience of conflict”); also 2019 and 2024 mark schemes and the Nov 2020 report",
+   "similar": [
+    "Both show the soldier's experience from the inside, at the front line, and both make the air itself dangerous: <q>“the merciless iced east winds that knive us”</q> and <q>“Bullets smacking the belly out of the air”</q>.",
+    "Both soldiers doubt what they are fighting for: <q>“What are we doing here?”</q> and <q>“King, honour, human dignity, etcetera”</q>, which are dropped <q>“like luxuries”</q>."
+   ],
+   "different": [
+    "<b>Speed:</b> Exposure is about endless waiting (<q>“But nothing happens.”</q>); Bayonet Charge is sudden, panicked action: <q>“Suddenly he awoke and was running”</q>.",
+    "<b>Voice:</b> Owen uses “we”, a whole group suffering together; Hughes uses “he”, one lonely soldier.",
+    "<b>Nature:</b> in Exposure nature is the killer; in Bayonet Charge nature is another victim, the hare that <q>“rolled like a flame”</q>."
+   ]
+  },
+  {
+   "partner": "Storm on the Island",
+   "use_for": [
+    "Nature",
+    "Conflict",
+    "Power"
+   ],
+   "aqa": "AQA: 2025 mark scheme (“conflict with nature/the elements”); 2017 mark scheme (“the natural world in ‘Exposure’ or ‘Storm on the Island’”)",
+   "similar": [
+    "Both turn the weather into an army: <q>“Dawn massing in the east her melancholy army”</q> and <q>“Space is a salvo,”</q>",
+    "Both groups (“we”) are helpless and fear something empty: <q>“But nothing happens.”</q> and <q>“a huge nothing that we fear.”</q>"
+   ],
+   "different": [
+    "<b>Real war or metaphor?</b> Owen's men are in a real war and the cold kills them. Heaney's islanders only use war words for a storm, and they are safe indoors: <q>“We just sit tight”</q>.",
+    "<b>Tone:</b> Exposure is despairing. Storm is chatty and calm at first: <q>“you know what I mean”</q>.",
+    "<b>Ending:</b> Owen ends with death (<q>“All their eyes are ice,”</q>); Heaney ends with fear, not death."
+   ]
+  },
+  {
+   "partner": "The Charge of the Light Brigade",
+   "use_for": [
+    "Patriotism and duty",
+    "Conflict",
+    "War"
+   ],
+   "aqa": "AQA: 2025 mark scheme (“individual and collective experience of conflict”); 2017 mark scheme (soldiers and “those for whom they fought”)",
+   "similar": [
+    "Both show soldiers who accept their duty and die for others: <q>“Theirs not to reason why,”</q> and <q>“Therefore, not loath, we lie out here;”</q>",
+    "Both repeat a short line at the end of stanzas: <q>“Rode the six hundred.”</q> and <q>“But nothing happens.”</q>"
+   ],
+   "different": [
+    "<b>Glory or pity?</b> Tennyson ends by praising: <q>“Honour the charge they made!”</q> Owen ends with frozen bodies: <q>“All their eyes are ice,”</q>",
+    "<b>Action:</b> the Light Brigade charge heroically; Owen's men lie still and die of cold.",
+    "<b>Questions:</b> Tennyson's soldiers do not ask why. Owen's soldiers do: <q>“What are we doing here?”</q>",
+    "<b>Who is writing:</b> Tennyson, the Poet Laureate, wrote it “only a few minutes after reading an account in <i>The Times</i>” (Poetry Archive); Owen lived through the winter he describes."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "Compare how poets present ideas about conflict in ‘Exposure’ and in one other poem from ‘Power and conflict’. (AQA, June 2025)",
+  "thesis": "Both Owen and Armitage show that conflict destroys soldiers' minds as well as their bodies, but Owen's men suffer from endless waiting, while Armitage's soldier suffers from what he has done.",
+  "para": "Both poets present conflict as something soldiers cannot escape. Owen's men are worn down by waiting: the refrain <q>“But nothing happens.”</q> returns four times, so the reader shares their numb, endless watch. Their enemy is the weather, and the poem ends with a burial party over <q>“half-known faces”</q> whose <q>“eyes are ice”</q>. Armitage's soldier, by contrast, does act: <q>“all three of us open fire.”</q> Yet his conflict never ends either, because the dead looter is <q>“here in my head when I close my eyes”</q>. Owen shows suffering caused by doing nothing; Armitage shows guilt caused by doing something. Both suggest that ordinary soldiers are powerless victims of conflicts far larger than themselves.",
+  "why": [
+   "Opens with a clear point that answers the question about conflict",
+   "Short quotations from both poems, with methods named (refrain) and explained",
+   "Compares all the way through (“by contrast”, “either”, “Both”) and ends on a big idea about powerlessness, which AQA's 2025 mark scheme lists for AO3"
+  ]
+ }
+}

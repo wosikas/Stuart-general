@@ -1,0 +1,471 @@
+{
+ "num": 13,
+ "slug": "poppies",
+ "title": "Poppies",
+ "poet": "Jane Weir",
+ "poet_dates": "born 1963",
+ "published": "published 2009 (Guardian “Exit Wounds” war poems)",
+ "group": "Identity, home and loss",
+ "anchor": false,
+ "copyright": true,
+ "facts": {
+  "type": "Dramatic monologue in free verse: 4 stanzas of 6, 11, 12 and 6 lines (35 lines)",
+  "exam": "Not yet the printed poem, but named in AQA mark schemes 2017–2025",
+  "partner": "Remains (your anchor); Kamikaze also works well"
+ },
+ "themes": [
+  {
+   "name": "Effects of conflict",
+   "aqa": true,
+   "src": "AQA mark schemes 2017, 2019, 2024 (2024: “the effects of conflict on those not immediately involved”)"
+  },
+  {
+   "name": "Difficult experiences",
+   "aqa": true,
+   "src": "AQA mark scheme November 2020"
+  },
+  {
+   "name": "Conflict",
+   "aqa": true,
+   "src": "AQA mark scheme 2025"
+  },
+  {
+   "name": "Nature",
+   "aqa": true,
+   "src": "AQA mark scheme 2017 (“use of the natural world”)"
+  },
+  {
+   "name": "Power",
+   "aqa": true,
+   "src": "AQA specimen mark scheme only (a weak link: avoid for power questions)"
+  },
+  {
+   "name": "Memory",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Loss",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Place and home",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A mother talks to her son. She remembers pinning a poppy on him before he left home. Then she follows a dove up the hill to the war memorial and listens for his voice.",
+  "message": "War hurts the people left at home, not just the soldiers. A mother's love and fear can be as painful as any wound, even if she has to hide it.",
+  "why": "Weir wrote it in 2009, when Carol Ann Duffy asked poets for new war poems about Afghanistan and Iraq. Weir, a textile designer, told the story from a mother's side. <span class=\"src\">Pearson Edexcel mark scheme; Oak National Academy; Wilfred Owen Association</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "A <b>poppy</b> is the red flower people wear to remember those killed in war. The title is plural: the poem opens with poppies <q>“on individual war graves”</q>, so this is one family's story among many. Oak National Academy suggests the title could point to “remembrance, the many grieving mothers of war or the outward display of deeper grief.” <span class=\"care\">one source</span>",
+  "src": "Royal British Legion; Oak National Academy"
+ },
+ "synopsis": {
+  "setup": "A mother speaks to her son as <q>“you”</q>. He never answers. She mixes three times together: the present, the morning he left, and his childhood. So the poem jumps about, the way memory does.",
+  "steps": [
+   {
+    "lines": "Lines 1–6",
+    "text": "It is <q>“Three days before Armistice Sunday”</q>, when the dead of all wars are remembered. Before her son leaves, she pins a paper poppy on the lapel of his blazer."
+   },
+   {
+    "lines": "Lines 7–17",
+    "text": "She fusses over him: she uses Sellotape to pick cat hairs off his clothes and smooths his collar. She wants to rub noses like they did when he was little, and to stroke his hair, but she holds back. She can't find the words."
+   },
+   {
+    "lines": "Lines 18–22",
+    "text": "She bravely walks him to the front door. Outside, the world is full of excitement, like a treasure chest. In a split second he is gone, <q>“intoxicated”</q> (thrilled, almost drunk) with it."
+   },
+   {
+    "lines": "Lines 23–29",
+    "text": "She goes into his empty bedroom and lets a song bird out of its cage. Later a dove leads her out past the churchyard walls. She has rushed out without a coat, scarf or gloves, and her stomach is in knots."
+   },
+   {
+    "lines": "Lines 30–35",
+    "text": "At the top of the hill she traces the names carved on the war memorial and leans on it. The dove flies off into the sky. She listens, hoping to hear his childhood voice on the wind."
+   }
+  ],
+  "turn": "<b>The turning point (lines 21–23):</b> <q>“A split second / and you were away”</q>. Up to here she is with her son. After <q>“After you’d gone”</q> she is alone, and the poem moves from the house out to the war memorial.",
+  "ending": "On the mother listening for a voice she cannot hear. We never learn whether the son has died. The poem leaves him somewhere between a boy leaving home and a name on a memorial.",
+  "tone": "Tender, quiet and sad. AQA calls it “reflective”. Under the calm there is fear and grief that she works hard to hide."
+ },
+ "poem_intro": "This poem is still in copyright, so we only show the key phrases here. Read the full poem in your anthology alongside these notes. Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–6",
+   "text": "<mark>Three days before Armistice Sunday</mark> … <mark>spasms of paper red</mark>",
+   "note": "The setting is just before Remembrance Sunday. Poppies are already on the war graves. She pins one on her son's blazer. The petals are <b>“crimped”</b> (pinched into folds), and the red paper twitches in <b>“spasms”</b>, like a body in pain. The poppy <b>“disrupting a blockade”</b> of yellow trim is a war word sneaking into a home scene."
+  },
+  {
+   "lines": "7–11",
+   "text": "<mark>Sellotape bandaged around my hand</mark> … <mark>steeled the softening</mark>",
+   "note": "She wraps Sellotape round her hand to pick up cat hairs from his clothes. <b>“bandaged”</b> makes an everyday job sound like treating a wound. She smooths his collar and forces her face to stay hard (<b>“steeled”</b>) so she won't cry."
+  },
+  {
+   "lines": "11–16",
+   "text": "<mark>play at being Eskimos</mark> … <mark>gelled blackthorns of your hair</mark>",
+   "note": "She longs to rub noses with him, a game from his childhood. She also wants to run her fingers through his hair. She resists both. His spiky gelled hair is like <b>“blackthorns”</b>, a prickly hedge: he is grown up now, and harder to touch."
+  },
+  {
+   "lines": "16–18",
+   "text": "<mark>All my words flattened, rolled, turned into felt,</mark> … <mark>slowly melting</mark>",
+   "note": "Her words fail her. Felt is a cloth made by pressing and rolling wool, so her words are squashed into something soft and silent. The sentence runs over the stanza break, as if her feelings spill out."
+  },
+  {
+   "lines": "18–22",
+   "text": "<mark>I was brave</mark> … <mark>the world overflowing like a treasure chest</mark>",
+   "note": "Her bravery is not fighting but letting him go. She opens the door on an exciting world full of treasure for a young man. Then he is gone in <b>“A split second”</b>, <b>“intoxicated”</b> (giddy with excitement)."
+  },
+  {
+   "lines": "23–26",
+   "text": "<mark>released a song bird from its cage.</mark> … <mark>this is where it has led me,</mark>",
+   "note": "In his bedroom she frees a bird. It could stand for letting her son go, or for his spirit leaving. A <b>“single dove”</b>, a symbol of peace, leads her outside. <b>“this is where it has led me”</b> jumps into the present: she is speaking from the hill now."
+  },
+  {
+   "lines": "27–29",
+   "text": "<mark>making tucks, darts, pleats</mark> … <mark>without a winter coat</mark>",
+   "note": "Her nervous stomach is described in sewing words: tucks, darts and pleats are folds stitched into cloth. She has gone out unprotected, with no <b>“reinforcements”</b> (another army word) of scarf or gloves."
+  },
+  {
+   "lines": "30–32",
+   "text": "<mark>On reaching the top of the hill</mark> … <mark>leaned against it like a wishbone.</mark>",
+   "note": "She traces the carved names on the war memorial with her finger. She leans on it like a <b>wishbone</b>, the forked chicken bone people snap to make a wish. It suggests she is fragile, and still wishing he is safe."
+  },
+  {
+   "lines": "33–35",
+   "text": "<mark>an ornamental stitch</mark> … <mark>your playground voice catching on the wind.</mark>",
+   "note": "The dove is a tiny stitch against the sky. She listens for her son's voice, but only as a child in a playground. The poem ends with her waiting, with no answer."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 5",
+   "q": "spasms of paper red",
+   "means": "the paper poppy's petals twitch like a body in pain.",
+   "tech": "metaphor and colour imagery: red is the poppy, but also blood. A symbol of remembrance already hints at injury."
+  },
+  {
+   "line": "LINES 10–11",
+   "q": "steeled the softening of my face",
+   "means": "she forces her face to stay hard so her son won't see her cry.",
+   "why": "“steeled” is armour, “softening” is her love. The clash shows her hidden struggle: she must be as brave as a soldier."
+  },
+  {
+   "line": "LINES 13–14",
+   "q": "being Eskimos like we did when you were little",
+   "means": "she wants to rub noses with him, a game from his childhood.",
+   "why": "memory takes her back to when he was small and safe. The gap between the little boy and the young man leaving is the source of her grief."
+  },
+  {
+   "line": "LINES 16–17",
+   "q": "All my words flattened, rolled, turned into felt,",
+   "means": "her words are squashed into silence.",
+   "tech": "textile metaphor and a list of three verbs: words become soft cloth. Weir is a textile designer. <span class=\"src\">Pearson Edexcel; Oak</span>"
+  },
+  {
+   "line": "LINE 24",
+   "q": "released a song bird from its cage.",
+   "means": "she lets a bird go free from his room.",
+   "tech": "symbol: freeing her son to leave, or his soul leaving his body. Oak National Academy suggests birds show her “letting go of her son”. <span class=\"care\">one source</span>"
+  },
+  {
+   "line": "LINE 32",
+   "q": "leaned against it like a wishbone.",
+   "means": "she leans on the war memorial, thin and fragile.",
+   "tech": "simile: a wishbone is snapped to make a wish. She is wishing he is safe, but she could break."
+  },
+  {
+   "line": "LINE 35",
+   "q": "your playground voice catching on the wind.",
+   "means": "she listens for her son's voice as it sounded when he was a child.",
+   "why": "the poem ends in uncertainty and longing. She can only reach him in memory; the present gives her silence."
+  }
+ ],
+ "form": {
+  "heading": "The form: a mother's dramatic monologue in free verse",
+  "explain": [
+   "A <b>dramatic monologue</b> is “a poem written in the form of a speech of an individual character”. <span class=\"src\">Britannica</span>",
+   "We hear only one voice, so we see only what the speaker feels and remembers. There is no narrator to explain things.",
+   "<b>Free verse</b> is “poetry organized to the cadences of speech and image patterns rather than according to a regular metrical scheme”. In other words: no regular rhyme or beat, more like natural speech. <span class=\"src\">Britannica</span>",
+   "Pearson Edexcel (a different exam board, not AQA, which also sets this poem) calls it “a mother’s dramatic monologue directly addressed to her son”, “written in four stanzas of unequal length and is in free verse”. <span class=\"src\">Pearson Edexcel mark scheme, Nov 2020</span>"
+  ],
+  "this_poem": [
+   "<b>Talking to “you”:</b> the whole poem is spoken to her son, but he never replies. His silence makes him feel absent, maybe lost for good. <span class=\"care\">our reading</span>",
+   "<b>Shape:</b> 6, 11, 12 and 6 lines. Oak National Academy says the “Two sestets either side of two longer stanzas may suggest the mother trying hard to contain her emotions”. A <b>sestet</b> is a six-line stanza. <span class=\"src\">our count; Oak</span> <span class=\"care\">one source</span>",
+   "<b>Time jumps about:</b> Pearson Edexcel’s mark scheme (not AQA) notes “Three different times”, “the present, the specific moment and the past”, and calls the poem “non-chronological”. The present (<q>“this is where it has led me”</q>) and his childhood (<q>“when / you were little”</q>) break into the story of his leaving. <span class=\"src\">Pearson Edexcel</span> <span class=\"care\">one source</span>",
+   "<b>Breaks and run-ons:</b> full stops land in the middle of lines (<q>“war graves. Before you left,”</q>), like a voice catching. The sentence <q>“turned into felt,”</q> runs on into the next stanza: <q>“slowly melting.”</q> Her feelings spill over the edges. <span class=\"src\">Pearson Edexcel; our reading</span>",
+   "<b>Free verse</b> fits a private, wandering voice. There is no drumbeat of marching, unlike older war poems such as The Charge of the Light Brigade. <span class=\"care\">our reading</span>"
+  ],
+  "say": "A sentence you could use: Weir writes Poppies as a dramatic monologue to a son who never answers, and its free verse moves between past and present like memory, so the reader feels the mother's grief through what she cannot say."
+ },
+ "methods": [
+  {
+   "title": "Textile imagery",
+   "text": "Weir fills the poem with sewing words: <q>“bias binding”</q>, <q>“felt”</q>, <q>“tucks, darts, pleats”</q>, <q>“an ornamental stitch”</q>. They show a mother who makes and mends, using what she knows to cope. But cloth cannot protect a soldier. Weir trained in textile design, and Examiners for Pearson Edexcel (a different exam board, not AQA) praised students who made this link.",
+   "term": "Semantic field",
+   "def": "a group of words from the same topic (here, sewing) spread through a text."
+  },
+  {
+   "title": "War words in a home",
+   "text": "Everyday things are described in military terms: a poppy <q>“disrupting a blockade”</q>, Sellotape <q>“bandaged”</q>, <q>“reinforcements of scarf, gloves”</q>. War has crept into the family home before the son has even gone. AQA's 2017 mark scheme points to Weir's “metaphor to present effects of war”.",
+   "term": "Juxtaposition",
+   "def": "placing two very different things side by side so we notice the contrast."
+  },
+  {
+   "title": "Birds as symbols",
+   "text": "She frees a <q>“song bird”</q> in his room, then follows a <q>“single dove”</q>, the bird of peace. At the end the dove <q>“pulled freely against the sky”</q>. The birds may stand for the son flying the nest, his spirit, or the peace she longs for. The meaning is left open.",
+   "term": "Symbol",
+   "def": "an object that stands for a bigger idea, like a dove for peace."
+  },
+  {
+   "title": "Love she can't show",
+   "text": "She keeps stopping herself: <q>“I resisted the impulse”</q>; she <q>“steeled the softening”</q> of her face. The poem is full of touches that never happen. Her bravery is holding back, not fighting. AQA’s Nov 2020 mark scheme points to “the reflective quality of ‘Poppies’”.",
+   "term": "Restraint",
+   "def": "holding back feelings; in poetry, saying less so the reader feels more."
+  }
+ ],
+ "warn": "Examiners warn: in November 2021, for a question on power and control, AQA's report said “some students struggled with choices again, for example, Storm on the Island and Poppies”. Use Poppies for questions on the effects of conflict or difficult experiences, not power.",
+ "context": {
+  "timeline": [
+   {
+    "date": "11 Nov 1918",
+    "text": "First World War ends with the armistice"
+   },
+   {
+    "date": "1921",
+    "text": "British Legion first sells red paper poppies"
+   },
+   {
+    "date": "1956",
+    "text": "Remembrance Sunday fixed as the second Sunday in November"
+   },
+   {
+    "date": "1963",
+    "text": "Jane Weir born in Manchester"
+   },
+   {
+    "date": "Oct 2001",
+    "text": "War in Afghanistan begins; British forces take part"
+   },
+   {
+    "date": "Mar 2003",
+    "text": "US-led invasion of Iraq, with British troops"
+   },
+   {
+    "date": "25 Jul 2009",
+    "text": "Duffy's “Exit Wounds” war poems in the Guardian, including Poppies",
+    "hi": true
+   },
+   {
+    "date": "2009",
+    "text": "Britain's deadliest year in Afghanistan: 109 deaths",
+    "care": "one source"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Jane Weir is",
+    "items": [
+     {
+      "text": "Born in Manchester in 1963, with an English mother and an Italian father. The Poetry Archive calls her “an Anglo-Italian writer and designer.”",
+      "src": "Writing East Midlands; Poetry Archive",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "She has a background in textile design, fashion and costume. That's where the sewing words come from.",
+      "src": "Writing East Midlands; Pearson Edexcel; Oak National Academy",
+      "use": "effects of conflict (how the mother copes)",
+      "care": ""
+     },
+     {
+      "text": "Her books are published by Templar Poetry, which also gave AQA permission to print Poppies.",
+      "src": "Poetry Archive; AQA anthology",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "The Poetry Archive says her work shows “humane concern for lost lives”, “principally those of women”. Poppies gives a voice to a woman whom war stories often leave out.",
+      "src": "Poetry Archive",
+      "use": "difficult experiences · conflict",
+      "care": "one source; the link to Poppies is our reading"
+     }
+    ]
+   },
+   {
+    "title": "Exit Wounds: the 2009 commission",
+    "items": [
+     {
+      "text": "In July 2009, “With the conflict in Afghanistan escalating and the Iraq inquiry pending, poet laureate Carol Ann Duffy commissions war poetry for today” (the Guardian, 25 July 2009).",
+      "src": "Wilfred Owen Association, quoting the Guardian",
+      "use": "effects of conflict · conflict",
+      "care": ""
+     },
+     {
+      "text": "Poppies was one of these poems, published under the title “Exit Wounds”.",
+      "src": "Pearson Edexcel mark scheme, Nov 2020; Oak National Academy",
+      "use": "effects of conflict",
+      "care": "Guardian page itself blocked"
+     },
+     {
+      "text": "Magma Poetry described the Exit Wounds poems as “attempts to write on war by poets with no direct experience of it.” Weir writes from home, not the front line.",
+      "src": "Magma Poetry",
+      "use": "effects of conflict on those not immediately involved",
+      "care": "one source"
+     },
+     {
+      "text": "Duffy had just become “the first woman poet laureate of Great Britain” (2009–19). She also wrote War Photographer, another poem in your anthology.",
+      "src": "Britannica; AQA anthology",
+      "use": "comparison link",
+      "care": ""
+     },
+     {
+      "text": "Oak National Academy says the poem “struck a nerve with many mothers who had lost their children during conflict”.",
+      "src": "Oak National Academy",
+      "use": "difficult experiences · effects of conflict",
+      "care": "one source"
+     }
+    ]
+   },
+   {
+    "title": "The poppy and Remembrance",
+    "items": [
+     {
+      "text": "Poppies flowered on the churned-up battlefields of Belgium and northern France in the First World War. John McCrae's 1915 poem “In Flanders Fields” made them famous.",
+      "src": "Britannica; Royal British Legion; National Army Museum",
+      "use": "conflict · nature",
+      "care": ""
+     },
+     {
+      "text": "In 1921 the British Legion “began selling red paper poppies for Armistice Day”. That's the <q>“paper red”</q> poppy the mother pins on.",
+      "src": "Britannica; Royal British Legion",
+      "use": "effects of conflict",
+      "care": ""
+     },
+     {
+      "text": "The Royal British Legion says the poppy “remembers the sacrifices of those who have served” and “represents hope for a peaceful future.”",
+      "src": "Royal British Legion",
+      "use": "conflict · memory",
+      "care": ""
+     },
+     {
+      "text": "Armistice Day began on 11 November 1919. After the Second World War it became Remembrance Sunday, honouring the dead of both wars and later ones, with a two-minute silence at 11 am.",
+      "src": "Britannica; Pearson Edexcel",
+      "use": "memory · loss",
+      "care": ""
+     },
+     {
+      "text": "Pearson Edexcel's examiners (not AQA) noted that “Few explored the reference to ‘Armistice Sunday’ in the first line”. Mentioning it is an easy AO3 point.",
+      "src": "Pearson Edexcel examiners’ report, Nov 2020",
+      "use": "all questions",
+      "care": "a different exam board, not AQA"
+     }
+    ]
+   },
+   {
+    "title": "Afghanistan and Iraq in 2009",
+    "items": [
+     {
+      "text": "Britain joined the war in Afghanistan in October 2001, after the 9/11 attacks in America. From 2006 British troops fought mainly in Helmand province.",
+      "src": "Britannica; National Army Museum",
+      "use": "conflict",
+      "care": "Helmand: one source"
+     },
+     {
+      "text": "The National Army Museum says “2009 would be Britain's bloodiest year in Afghanistan, with 109 deaths.” That was the year Weir wrote Poppies.",
+      "src": "National Army Museum",
+      "use": "effects of conflict · loss",
+      "care": "one source"
+     },
+     {
+      "text": "British troops had also fought in Iraq since the 2003 invasion. In 2009 an inquiry into that war was about to begin.",
+      "src": "National Army Museum; Britannica; Wilfred Owen Association",
+      "use": "conflict",
+      "care": ""
+     },
+     {
+      "text": "The poem never names a war or a place. So it speaks for any family, in any war. Oak warns that Poppies “is not a WW1 poem”, even though the poppy comes from the First World War.",
+      "src": "Oak National Academy",
+      "use": "effects of conflict",
+      "care": "one source (Oak); the first two sentences are our reading"
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Weir wrote Poppies in 2009, for Carol Ann Duffy's “Exit Wounds” poems, at the height of the war in Afghanistan. Instead of the soldier, she shows the mother at home, and she uses the Remembrance poppy and the war memorial to link one family's fear to every family that has lost someone in war."
+ },
+ "comparisons": [
+  {
+   "partner": "Kamikaze",
+   "use_for": [
+    "Effects of conflict",
+    "Difficult experiences",
+    "Memory"
+   ],
+   "aqa": "AQA: 2017 mark scheme (“the effects of war on others, such as ‘Poppies’ or ‘Kamikaze’”); Nov 2020 mark scheme",
+   "similar": [
+    "Both show war through a family member, not the fighter: a mother speaks to her son; a daughter tells her children about her father.",
+    "Both begin with a departure: the son is <q>“away, intoxicated”</q>; the pilot <q>“embarked at sunrise”</q>.",
+    "Both use silence to show pain: <q>“All my words / flattened”</q> and <q>“my mother never spoke again”</q>.",
+    "Both look back to a happy childhood: <q>“when / you were little”</q> and <q>“only we children still chattered and laughed”</q>."
+   ],
+   "different": [
+    "<b>Absence or return:</b> Weir's mother suffers because her son has gone. Garland's family suffers because the father came back, and they <q>“live as though he had never returned”</q>.",
+    "<b>Love or shame:</b> the mother's love is tender and hidden. The pilot's family is cold because he broke his duty.",
+    "<b>Voice:</b> Poppies is first person to “you”, private and close. Kamikaze is mostly third person, a story retold (<q>“she said”</q>), so it feels more distant."
+   ]
+  },
+  {
+   "partner": "War Photographer",
+   "use_for": [
+    "Effects of conflict",
+    "Conflict",
+    "Memory"
+   ],
+   "aqa": "AQA: 2024 mark scheme (“those not immediately involved, such as ‘Poppies’ or ‘War Photographer’”); 2022 and 2025 mark schemes",
+   "similar": [
+    "Both show people affected by war who are not soldiers: a mother at home and a photographer back in England.",
+    "Both are written in the shadow of remembrance and religion: the war memorial by the <q>“church yard walls”</q>; a darkroom <q>“as though this were a church”</q>.",
+    "Both show feelings held back and then leaking out: she <q>“steeled the softening”</q>; his hands <q>“did not tremble then”</q> <q>“though seem to now.”</q>"
+   ],
+   "different": [
+    "<b>Who they mourn:</b> she grieves for her own son; he remembers strangers, such as <q>“the cries / of this man’s wife”</q>.",
+    "<b>Ending:</b> Oak describes Poppies ending with “a sombre but peaceful tone” and War Photographer with “a caustic and restless tone” (caustic = bitter). Weir listens hopefully; Duffy blames readers who <q>“do not care.”</q> <span class=\"care\">one source</span>",
+    "<b>Form:</b> Weir's free verse wanders like memory. Duffy uses regular six-line stanzas with rhyme, like the <q>“ordered rows”</q> of his photos."
+   ]
+  },
+  {
+   "partner": "Remains",
+   "use_for": [
+    "Effects of conflict",
+    "Memory",
+    "Difficult experiences"
+   ],
+   "aqa": "AQA: 2017 mark scheme (“brutal description in ‘Remains’, or lyrical imagery in ‘Poppies’”); 2022 mark scheme (immediacy against “reflective stance”)",
+   "similar": [
+    "Both are first-person voices haunted by one person they cannot let go of: <q>“your playground voice”</q> and <q>“he’s here in my head”</q>.",
+    "Both end unresolved, with the past alive in the present: <q>“hoping to hear”</q> and <q>“here and now”</q>.",
+    "Both use everyday, chatty language for something painful: <q>“play at / being Eskimos”</q> and <q>“legs it”</q>."
+   ],
+   "different": [
+    "<b>Language:</b> AQA contrasts Armitage's “brutal description” with Weir's “lyrical imagery”: <q>“tosses his guts back into his body”</q> against <q>“spasms of paper red”</q>.",
+    "<b>Feeling:</b> his feeling is guilt for a man he killed; hers is love and fear for a son she lost.",
+    "<b>Pace:</b> AQA's 2022 mark scheme contrasts the “immediacy” of Remains with the “more reflective stance” of Poppies."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present the ways people are affected by conflict in ‘Poppies’ and in one other poem from ‘Power and conflict’. (AQA used this wording in 2024; its mark scheme names Poppies for “the effects of conflict on those not immediately involved”.)",
+  "thesis": "Both Weir and Garland show war wounding the people at home who never fight, but Weir's mother is hurt by her son's absence, while Garland's family is hurt by a father's return.",
+  "para": "Both poets show that conflict damages people at home who never see a battle. Weir's mother hides her fear: she <q>“steeled the softening”</q> of her face. The verb “steeled” turns her face into armour, as if she must be a soldier too. Her grief escapes only in metaphor, as her words are <q>“turned into felt”</q>: soft, pressed flat and silent. Garland's family is also silenced, but by shame: <q>“my mother never spoke again”</q>. However, Weir's mother loses a son who has gone, while Garland's children learn <q>“to live as though he had never returned”</q>, losing a father who is still alive. Writing in 2009, during the war in Afghanistan, Weir gives a mother's view that war stories often leave out.",
+  "why": [
+   "Thesis answers the question in one sentence and names the key difference (absence against return)",
+   "Short quotations from both poems, with one word picked out and analysed (“steeled”)",
+   "Context (2009, a mother's view) is tied to the point, not bolted on"
+  ]
+ }
+}

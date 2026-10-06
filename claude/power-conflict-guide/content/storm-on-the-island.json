@@ -1,0 +1,465 @@
+{
+ "num": 6,
+ "slug": "storm-on-the-island",
+ "title": "Storm on the Island",
+ "poet": "Seamus Heaney",
+ "poet_dates": "1939–2013",
+ "published": "first published December 1964",
+ "group": "Nature",
+ "anchor": true,
+ "copyright": true,
+ "facts": {
+  "type": "Blank verse (one 19-line stanza)",
+  "exam": "Not yet the printed poem, but named in many AQA mark schemes",
+  "partner": "Ozymandias"
+ },
+ "themes": [
+  {
+   "name": "Nature",
+   "aqa": true,
+   "src": "AQA mark schemes: specimen, 2017, 2018, 2021, 2023, 2024, 2025"
+  },
+  {
+   "name": "Power",
+   "aqa": true,
+   "src": "AQA specimen and 2018 mark schemes"
+  },
+  {
+   "name": "Conflict",
+   "aqa": true,
+   "src": "AQA mark schemes 2019, 2022, 2025"
+  },
+  {
+   "name": "War",
+   "aqa": true,
+   "src": "AQA mark schemes 2021, 2023 (“imagery of war”)"
+  },
+  {
+   "name": "Time",
+   "aqa": true,
+   "src": "AQA specimen mark scheme"
+  },
+  {
+   "name": "Fear",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Isolation",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "An islander, speaking for the whole community (“we”), explains how they prepare for storms. Then a storm hits, and they can only sit and wait.",
+  "message": "However well people prepare, nature is stronger. The most frightening enemy is one you cannot see or fight.",
+  "why": "Heaney grew up on a farm in Northern Ireland. In his early poems, nature is “violent as well as bounteous” (generous). <span class=\"src\">Heaney estate; The Conversation (Oxford Brookes University)</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "The title is plain: a storm, and an island. But it says <b>“the Island”</b>, not a real place name. The poem never tells us which island, so it could be any exposed place, cut off from help. Some readers link it to the Aran Islands off the west of Ireland, but only a revision guide says so, and we could not confirm it. <span class=\"care\">Aran link: unconfirmed</span>",
+  "src": "AQA anthology (our check of the text)"
+ },
+ "synopsis": {
+  "setup": "One islander speaks for everyone (“we”). The speaker talks to a listener (“you”) in a calm, chatty way, explaining how island life works.",
+  "steps": [
+   {
+    "lines": "Lines 1–2",
+    "text": "They are ready. They build low, solid (“squat”) houses, sink the walls into rock and use strong slate roofs."
+   },
+   {
+    "lines": "Lines 3–5",
+    "text": "The land is poor and dried up (“wizened”). It grows no hay, so there are no haystacks or bundles of crops to lose."
+   },
+   {
+    "lines": "Lines 5–11",
+    "text": "There are no trees either. Trees might seem like company in a gale, because their noise lets you hear what you fear. But that noise would distract you while the storm “pummels” your house. In any case, there is “no natural shelter”."
+   },
+   {
+    "lines": "Lines 12–16",
+    "text": "You might think the sea is friendly, crashing “comfortably” on the cliffs. “But no”: in a storm the spray hits the windows and “spits” like a pet cat that has suddenly turned wild."
+   },
+   {
+    "lines": "Lines 16–18",
+    "text": "The people just “sit tight”. The wind dives and attacks like a fighter plane. The empty air itself feels like gunfire, and they are “bombarded”."
+   },
+   {
+    "lines": "Line 19",
+    "text": "The speaker finds it strange: what they fear is “a huge nothing”, the invisible air."
+   }
+  ],
+  "turn": "<b>The turning point (line 14):</b> <q>“But no:”</q> The calm explaining stops. The sea, which seemed friendly, attacks, and the language becomes violent and military.",
+  "ending": "<b>How it ends:</b> on a paradox. A <q>“huge nothing”</q> sounds impossible, but it is exactly right: wind is invisible, yet it can wreck a house.",
+  "tone": "<b>The tone:</b> starts confident and practical, like someone giving a tour. By the end it is uneasy and afraid. The certainty of line 1 has gone."
+ },
+ "poem_intro": "This poem is still in copyright, so only short key phrases are shown here. Read the full poem in your anthology alongside this guide. Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–2",
+   "text": "<mark>We are prepared:</mark> … <mark>we build our houses squat,</mark>",
+   "note": "A confident start. The islanders build low, heavy houses with walls sunk into rock and good slate roofs. They sound ready for anything, as if preparing for an attack."
+  },
+  {
+   "lines": "3–5",
+   "text": "<mark>This wizened earth</mark> … <mark>there are no stacks</mark>",
+   "note": "The word “wizened” means shrivelled and old, like an old face. The soil is too poor for hay, so there are no haystacks or “stooks” (bundles of crops) for the wind to blow away. Having nothing is a strange kind of safety."
+  },
+  {
+   "lines": "5–11",
+   "text": "<mark>Can raise a tragic chorus in a gale</mark> … <mark>no natural shelter.</mark>",
+   "note": "No trees either. Trees would make a loud, sad noise in a storm, like a “chorus” in a tragic play. That might feel like company, but it would distract you while the storm “pummels” (punches) your house. There is nowhere to hide."
+  },
+  {
+   "lines": "12–16",
+   "text": "<mark>Exploding comfortably down on the cliffs</mark> … <mark>spits like a tame cat / Turned savage.</mark>",
+   "note": "You might think the sea is friendly. “But no”: in a storm the spray hits the windows. The simile of a pet cat turning wild shows something familiar suddenly becoming dangerous."
+  },
+  {
+   "lines": "16–18",
+   "text": "<mark>wind dives / And strafes invisibly.</mark> … <mark>Space is a salvo,</mark>",
+   "note": "The people can only “sit tight”. The wind is described like a fighter plane: to “strafe” is to attack with gunfire from a low-flying aircraft, and a “salvo” is a burst of gunfire. They are “bombarded by the empty air”."
+  },
+  {
+   "lines": "19",
+   "text": "<mark>Strange, it is a huge nothing that we fear.</mark>",
+   "note": "The last line admits the truth: they are afraid of something they cannot see. The confident “We are prepared” has turned into “we fear”."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "We are prepared: we build our houses squat,",
+   "means": "the islanders are confident and ready; their houses are low and solid.",
+   "why": "can sound like people getting ready for an attack, hinting at conflict from the very first line.",
+   "tech": "declarative sentence (a statement of fact)"
+  },
+  {
+   "line": "LINE 3",
+   "q": "This wizened earth",
+   "means": "the land is old, dried up and poor.",
+   "why": "a harsh place: nature here is not pretty or generous.",
+   "tech": "personification (the earth is like a shrivelled old face)"
+  },
+  {
+   "line": "LINE 8",
+   "q": "Can raise a tragic chorus in a gale",
+   "means": "trees would make a loud, sad noise in a storm.",
+   "why": "the trees’ noise would be like the chorus in a tragic play, giving the fear a voice. Here there are no trees, so there is not even that company.",
+   "tech": "metaphor from drama"
+  },
+  {
+   "line": "LINE 13",
+   "q": "Exploding comfortably down on the cliffs",
+   "means": "the sea seems safe and familiar, even when it crashes.",
+   "why": "“Exploding” is a war word, hidden next to the cosy “comfortably”: a warning of what is coming.",
+   "tech": "oxymoron (two words that contradict each other)"
+  },
+  {
+   "line": "LINES 15–16",
+   "q": "spits like a tame cat / Turned savage.",
+   "means": "the friendly sea suddenly turns wild and attacks.",
+   "why": "something people thought they had tamed turns on them: nature was never under control.",
+   "tech": "simile and enjambment (the line break makes the “turn” sudden)"
+  },
+  {
+   "line": "LINES 16–17",
+   "q": "wind dives / And strafes invisibly.",
+   "means": "the wind attacks like a fighter plane they cannot see.",
+   "why": "AQA mark schemes point to the “imagery of war” in this poem; nature becomes an army.",
+   "tech": "military verb; semantic field of war"
+  },
+  {
+   "line": "LINES 17–18",
+   "q": "Space is a salvo, / We are bombarded by the empty air.",
+   "means": "the empty air itself feels like gunfire hitting them.",
+   "why": "the islanders are helpless and passive: they are “bombarded”, they do nothing.",
+   "tech": "metaphor; sibilance (repeated “s” sounds, like hissing wind)"
+  },
+  {
+   "line": "LINE 19",
+   "q": "Strange, it is a huge nothing that we fear.",
+   "means": "they are terrified of something invisible.",
+   "why": "the confident “We are prepared” has become “we fear”. The poem ends on fear, not safety.",
+   "tech": "paradox (a statement that seems impossible but is true)"
+  }
+ ],
+ "form": {
+  "heading": "The form: blank verse, and a voice that sounds like talking",
+  "explain": [
+   "<b>Blank verse</b> is unrhymed iambic pentameter: lines of about ten syllables in a da-DUM, da-DUM rhythm, with no rhyme. Britannica calls it “the preeminent dramatic and narrative verse form in English”. <span class=\"src\">Britannica; poets.org</span>",
+   "Because it does not rhyme, it can sound close to real speech. Britannica describes Shakespeare's blank verse as “approximating the rhythms of speech”, and notes its range reaches a “low-keyed, conversational tone”. <span class=\"src\">Britannica</span>",
+   "A <b>dramatic monologue</b> is “a poem written in the form of a speech of an individual character”. The reader works out the speaker's situation from what they say. <span class=\"src\">Britannica</span>",
+   "Wordsworth's <i>Prelude</i> is also in blank verse, which makes it a good partner for comparing form. <span class=\"src\">Britannica</span>"
+  ],
+  "this_poem": [
+   "<b>Blank verse:</b> 19 unrhymed lines, most with ten syllables. Line 1 is a regular da-DUM line: <q>“We are prepared: we build our houses squat,”</q>. The steady rhythm sounds controlled, like the islanders' preparations. <span class=\"care\">our check</span>",
+   "<b>One single stanza:</b> there are no breaks, no gaps, nowhere to pause. Like the island, the poem has <q>“no natural shelter.”</q> <span class=\"care\">our reading</span>",
+   "<b>The control breaks down:</b> lines run on (enjambment) and are cut by sudden stops (caesura). <q>“Turned savage.”</q> starts a line and ends a sentence at once, so the shock lands hard. <span class=\"care\">our reading</span>",
+   "<b>A talking voice:</b> the speaker chats to a listener: <q>“as you see”</q>, <q>“you know what I mean”</q>, <q>“You might think”</q>. It reads like a dramatic monologue, but the speaker is a whole community (“we”), not one named character. <span class=\"care\">our reading</span>",
+   "<b>Why it matters:</b> the chatty, ordinary voice makes the storm feel like a normal part of life. That makes the fear at the end more unsettling: even people used to storms are afraid."
+  ],
+  "say": "A sentence you could use: Heaney writes in blank verse, whose steady, controlled rhythm mirrors the islanders' confident preparations; but as the storm builds, enjambment and sudden mid-line stops (caesuras) break that control, so the form itself shows human order giving way to nature."
+ },
+ "methods": [
+  {
+   "title": "War imagery",
+   "text": "The storm is described like a military attack: <q>“Exploding”</q>, <q>“strafes”</q>, <q>“salvo”</q>, <q>“bombarded”</q>. Nature becomes an enemy army, and the islanders are civilians under fire. AQA mark schemes name the “imagery of war in ‘Storm on the Island’”.",
+   "term": "Semantic field",
+   "def": "a group of words linked to the same topic (here, war) spread through a text."
+  },
+  {
+   "title": "Something tame turns savage",
+   "text": "You <q>“might think that the sea is company”</q>, but in a storm it <q>“spits like a tame cat / Turned savage.”</q> The comparison to a pet shows that people only thought nature was under control.",
+   "term": "Simile",
+   "def": "comparing one thing to another using “like” or “as”."
+  },
+  {
+   "title": "Talking to the reader",
+   "text": "Phrases like <q>“you know what I mean”</q> and <q>“You might think”</q> pull us into the conversation. The collective <q>“We”</q> shows a whole community facing the storm together.",
+   "term": "Direct address",
+   "def": "when a poem speaks straight to “you”, the listener or reader."
+  },
+  {
+   "title": "A paradox to finish",
+   "text": "The poem ends on <q>“a huge nothing that we fear.”</q> Air is “nothing”, yet it is huge and terrifying. The enemy cannot be seen, fought or prepared for, which is why the confidence of line 1 collapses.",
+   "term": "Paradox",
+   "def": "a statement that seems to contradict itself but contains a truth."
+  }
+ ],
+ "warn": "Examiners warn: in 2021 (a question on power and control) AQA's report said “some students struggled with choices again, for example, Storm on the Island and Poppies”. In 2022 (conflict) it called Storm “arguably a little more challenging in terms of focus and comparison”. If you choose Storm, make the link to the question obvious: nature's power against human power, or conflict with nature.",
+ "context": {
+  "timeline": [
+   {
+    "date": "1939",
+    "text": "Heaney born on a farm, County Derry"
+   },
+   {
+    "date": "1957",
+    "text": "Goes to Queen's University Belfast"
+   },
+   {
+    "date": "Dec 1964",
+    "text": "Storm on the Island published in the New Statesman",
+    "hi": true
+   },
+   {
+    "date": "May 1966",
+    "text": "Death of a Naturalist, his first book"
+   },
+   {
+    "date": "Oct 1968",
+    "text": "Derry march; the Troubles begin"
+   },
+   {
+    "date": "1972",
+    "text": "Moves south to County Wicklow"
+   },
+   {
+    "date": "1995",
+    "text": "Nobel Prize in Literature"
+   },
+   {
+    "date": "2013",
+    "text": "Dies in Dublin, aged 74"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Heaney was",
+    "items": [
+     {
+      "text": "Born on 13 April 1939 and brought up on the family farm, Mossbawn, in County Derry, Northern Ireland. He was the eldest of nine children; his father was a farmer and cattle dealer.",
+      "src": "Heaney estate; Irish Times; Britannica",
+      "use": "nature",
+      "care": ""
+     },
+     {
+      "text": "Britannica: he was “Raised Roman Catholic in the predominantly Protestant North”.",
+      "src": "Britannica",
+      "use": "conflict",
+      "care": ""
+     },
+     {
+      "text": "Studied English at Queen's University Belfast from 1957, then taught and lectured in Belfast and Dublin.",
+      "src": "Heaney estate; Britannica",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Won the Nobel Prize in Literature in 1995, “for works of lyrical beauty and ethical depth”. He died in Dublin on 30 August 2013.",
+      "src": "Britannica; Irish Times; Heaney estate",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "How the poem came about",
+    "items": [
+     {
+      "text": "First published in the <i>New Statesman</i> magazine in December 1964, alongside “Digging” and “Scaffolding”.",
+      "src": "Irish Times (2016); National Library of Ireland",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Because of those three poems, the publisher Faber wrote inviting Heaney to send a book. He later said it was “like getting a letter from God the Father”. The book became <i>Death of a Naturalist</i> (May 1966), his first.",
+      "src": "Irish Times (2016); National Library of Ireland; Heaney estate",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Is the poem in that first book, <i>Death of a Naturalist</i>? Very probably, but we could not confirm it. The Irish Times says the 1964 poems led to the manuscript that “became” the book, but it does not list the book’s poems. Only a revision guide says outright that Storm is in it. AQA’s anthology credits its text “from Opened Ground”, a different Heaney book. Safest in the exam: call it an early poem, first published in 1964.",
+      "src": "Irish Times (2016); AQA anthology",
+      "use": "",
+      "care": "likely, not confirmed"
+     },
+     {
+      "text": "In Heaney's early poems “the natural world was violent as well as bounteous”. The 1966 book compares frogs to “mud grenades”, so war words for nature are typical of early Heaney.",
+      "src": "The Conversation (Oxford Brookes); New York Review of Books",
+      "use": "nature · conflict",
+      "care": ""
+     },
+     {
+      "text": "A critic called him “a demolisher of the Golden Treasury treatment of nature”: he refused the pretty, poetic view of nature.",
+      "src": "Blake Morrison, quoted by the English Association",
+      "use": "nature · power",
+      "care": "one source"
+     }
+    ]
+   },
+   {
+    "title": "The island",
+    "items": [
+     {
+      "text": "The poem never names its island. That makes it any exposed, cut-off place, which helps it speak about people in general.",
+      "src": "AQA anthology (our check)",
+      "use": "nature · isolation",
+      "care": "our reading"
+     },
+     {
+      "text": "A revision guide links it to the Aran Islands, off the west coast of Ireland; we could not confirm this. Heaney did write other early island poems, such as “Lovers on Aran” and “Synge on Aran”.",
+      "src": "Shima journal (Newcastle University)",
+      "use": "place",
+      "care": "Aran link: unconfirmed"
+     },
+     {
+      "text": "Britannica says the Aran Islands “do not have naturally occurring topsoil”, and people “farm and fish under very difficult conditions”. That fits the poem's “wizened earth” with no hay.",
+      "src": "Britannica",
+      "use": "nature",
+      "care": "our reading"
+     },
+     {
+      "text": "An academic study says the islands off the west of Ireland “have always been regarded as a sanctuary of Irish identity”.",
+      "src": "Shima journal (Newcastle University)",
+      "use": "identity",
+      "care": "one source"
+     }
+    ]
+   },
+   {
+    "title": "Northern Ireland: get the dates right",
+    "items": [
+     {
+      "text": "The Troubles were a “violent sectarian conflict from about 1968 to 1998 in Northern Ireland” (sectarian = between religious communities). Some 3,600 people were killed.",
+      "src": "Britannica",
+      "use": "conflict",
+      "care": ""
+     },
+     {
+      "text": "The poem came out in 1964 and the book in 1966, <b>before</b> the Troubles. Heaney's estate describes him “growing up Catholic in the days before the violence of the Troubles”.",
+      "src": "Irish Times; Britannica; Heaney estate",
+      "use": "conflict",
+      "care": ""
+     },
+     {
+      "text": "Tension was already there: Catholics argued they faced discrimination in housing and jobs. A protest march in Derry on 5 October 1968 “was violently suppressed”.",
+      "src": "Britannica",
+      "use": "conflict · power",
+      "care": "one source"
+     },
+     {
+      "text": "You could suggest, with hindsight, that the storm hints at the violence to come. That is a reading, not a fact: never say the poem was written during the Troubles.",
+      "src": "Britannica (dates)",
+      "use": "conflict",
+      "care": "our reading"
+     },
+     {
+      "text": "His Irish Times obituary says he “always felt it was impossible for him to take sides”.",
+      "src": "Irish Times obituary",
+      "use": "conflict",
+      "care": "one source"
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Heaney grew up on a farm in Northern Ireland, so he knew nature as a hard, sometimes violent force rather than a pretty view. Writing in 1964, he shows a whole community bracing itself against an invisible enemy; with hindsight, you could read this as a picture of the fear that came with the Troubles from 1968."
+ },
+ "comparisons": [
+  {
+   "partner": "Ozymandias",
+   "use_for": [
+    "Nature",
+    "Power"
+   ],
+   "aqa": "AQA: specimen and 2018 mark schemes",
+   "similar": [
+    "Both show human power is weaker than nature: the islanders are helpless as the wind <q>“strafes invisibly.”</q>; the king's empire is now <q>“lone and level sands”</q>.",
+    "Both start confident and end humbled: <q>“We are prepared:”</q> and <q>“king of kings”</q>."
+   ],
+   "different": [
+    "<b>Speed:</b> in Storm nature attacks right now: <q>“Space is a salvo,”</q>. In Ozymandias nature and time win slowly, over thousands of years.",
+    "<b>Voice:</b> Storm is spoken by a “we” living through it, so it feels close and frightening. Ozymandias is told second-hand by a traveller, so it feels distant.",
+    "<b>Ending:</b> Heaney ends in fear (<q>“a huge nothing that we fear.”</q>); Shelley ends calmly mocking (<q>“Nothing beside remains.”</q>)."
+   ]
+  },
+  {
+   "partner": "Extract from The Prelude",
+   "use_for": [
+    "Nature",
+    "Power",
+    "Fear"
+   ],
+   "aqa": "AQA: specimen, 2018, 2021 and 2023 mark schemes (2021 and 2023: “the power of nature”)",
+   "similar": [
+    "Both begin with human confidence: <q>“We are prepared:”</q> and the young Wordsworth, <q>“Proud of his skill”</q>.",
+    "Both use the word “huge” for nature's threat: <q>“a huge nothing”</q> and <q>“a huge peak, black and huge”</q>.",
+    "Both are in blank verse, and both end on lasting fear: <q>“that we fear.”</q> and <q>“a trouble to my dreams.”</q>"
+   ],
+   "different": [
+    "<b>Visible or invisible:</b> Wordsworth's mountain is a giant shape that <q>“Strode after me.”</q> Heaney's enemy is the <q>“empty air.”</q>, which cannot be seen at all.",
+    "<b>One or many:</b> The Prelude is one boy's private, guilty memory. Storm is a whole community (“we”) under attack in the present.",
+    "<b>What kind of attack:</b> Wordsworth's fear is in the mind; Heaney's storm physically <q>“pummels your house”</q>."
+   ]
+  },
+  {
+   "partner": "Exposure",
+   "use_for": [
+    "Conflict",
+    "Nature",
+    "Fear"
+   ],
+   "aqa": "AQA: 2017 mark scheme (“presentation of the natural world in ‘Exposure’ or ‘Storm on the Island’”); 2025 (“conflict with nature/the elements”)",
+   "similar": [
+    "Both make the weather the real enemy, using war words: <q>“Space is a salvo,”</q> and <q>“Dawn massing in the east her melancholy army”</q>.",
+    "Both use a collective voice of people waiting helplessly: <q>“We just sit tight”</q> and <q>“Wearied we keep awake”</q>.",
+    "Both are haunted by emptiness: <q>“a huge nothing that we fear.”</q> and the refrain <q>“But nothing happens.”</q>"
+   ],
+   "different": [
+    "<b>Real war or imagined war:</b> Owen's soldiers are in a real war, and the cold kills them: <q>“All their eyes are ice,”</q>. Heaney's islanders are not at war; the war is a metaphor.",
+    "<b>Who dies:</b> no one dies in Storm; the fear is of what might happen. Exposure ends with a burial party.",
+    "<b>Form:</b> Storm is one solid block of blank verse; Exposure has eight stanzas, each ending on a short, flat line."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present ideas about conflict in ‘Storm on the Island’ and in one other poem from ‘Power and conflict’. (AQA used “ideas about conflict” in 2022 and 2025.)",
+  "thesis": "Both Heaney and Owen present conflict with nature as more frightening than conflict with people, but Heaney's islanders are terrified by an invisible enemy, while Owen's soldiers are actually being killed by it.",
+  "para": "Both poets turn the weather into an enemy army. Heaney's wind <q>“strafes invisibly”</q> and <q>“Space is a salvo,”</q>: military verbs and metaphors make the storm an air raid on helpless civilians. Owen goes further, describing <q>“Dawn massing in the east her melancholy army”</q>, so even the sunrise attacks. Yet the threat feels different. Heaney's community can only <q>“sit tight”</q>, and the poem ends on the paradox of <q>“a huge nothing that we fear.”</q> The fear is of what might happen. In Exposure the soldiers wait too, but the refrain <q>“But nothing happens.”</q> is bitterly ironic, because the cold is killing them: <q>“All their eyes are ice,”</q>. Heaney presents nature's conflict as terrifying; Owen shows it as deadly.",
+  "why": [
+   "The thesis answers the conflict question and states a clear difference in one sentence",
+   "Short quotations from both poems, each with a named method (military verbs, metaphor, paradox, refrain)",
+   "Compares throughout (“Both”, “Owen goes further”, “Yet”) and ends with a sharp judgement"
+  ]
+ }
+}

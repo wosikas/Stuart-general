@@ -1,0 +1,474 @@
+{
+ "num": 12,
+ "slug": "war-photographer",
+ "title": "War Photographer",
+ "poet": "Carol Ann Duffy",
+ "poet_dates": "born 1955",
+ "published": "published 1985 (in Standing Female Nude)",
+ "group": "War and its aftermath",
+ "anchor": false,
+ "copyright": true,
+ "facts": {
+  "type": "Third-person poem: 4 six-line stanzas, each ending in a rhyming couplet (24 lines)",
+  "exam": "Yes: June 2019",
+  "partner": "Remains"
+ },
+ "themes": [
+  {
+   "name": "War",
+   "aqa": true,
+   "src": "AQA question June 2019"
+  },
+  {
+   "name": "Effects of conflict",
+   "aqa": true,
+   "src": "AQA question June 2019; mark schemes 2017 and 2024"
+  },
+  {
+   "name": "Difficult experiences",
+   "aqa": true,
+   "src": "AQA mark scheme and examiners' report November 2020"
+  },
+  {
+   "name": "Conflict",
+   "aqa": true,
+   "src": "AQA mark schemes 2022 and 2025"
+  },
+  {
+   "name": "Memory",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Guilt",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Place and home",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A war photographer is back in England, developing his films alone in his darkroom. As a dead man's face appears on the paper, the memories come back.",
+  "message": "War photographers carry other people's suffering home with them. The comfortable public glances at the pictures, feels sad for a moment, and forgets.",
+  "why": "Duffy was friends with real war photographers. WJEC names Don McCullin and Philip Jones Griffiths; McCullin spent years shooting wars for a Sunday newspaper's magazine. <span class=\"src\">WJEC; Oak National Academy; Tate Britain</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "The title names a job, not a person. He is never given a name, only <q>“he”</q> and <q>“his”</q>. WJEC says this “creates a distancing effect”. It also makes him stand for every war photographer, not just one man. <span class=\"care\">the last point is our reading</span>",
+  "src": "WJEC; our reading"
+ },
+ "synopsis": {
+  "setup": "The poem is told in the third person: a narrator describes the photographer from outside. We are with him in his darkroom in England, where he develops (prints) the photos he took in war zones. Memories of the wars break into the quiet room.",
+  "steps": [
+   {
+    "lines": "Lines 1–5",
+    "text": "He is <q>“finally alone”</q> in his darkroom. His films are laid out in neat rows. The only light is red, so the room feels like a church and he is like a priest about to say Mass, a service for the dead."
+   },
+   {
+    "lines": "Line 6",
+    "text": "A list of war zones he has worked in: <q>“Belfast. Beirut. Phnom Penh.”</q> Then a line from the Bible: <q>“All flesh is grass.”</q> All human life is short and easily destroyed."
+   },
+   {
+    "lines": "Lines 7–12",
+    "text": "He gets on with the job. Chemicals slop in trays. His hands shake now, though they were steady at the scene. In <q>“Rural England”</q> pain is ordinary and good weather can cure it. Here the fields don't explode under children's feet."
+   },
+   {
+    "lines": "Lines 13–18",
+    "text": "A photo starts to develop. A stranger's face slowly appears, like <q>“a half-formed ghost.”</q> He remembers the man's wife crying, and how he silently sought approval (perhaps from her) to take the picture, and how the man's blood soaked into the dust."
+   },
+   {
+    "lines": "Lines 19–22",
+    "text": "He has <q>“A hundred agonies”</q> on film, but his editor will choose only five or six for the Sunday paper's magazine. Readers will tear up for a moment, between their bath and a beer before lunch."
+   },
+   {
+    "lines": "Lines 23–24",
+    "text": "On a plane, he looks down without showing any feeling at the place where he earns his living. The poem ends: <q>“they do not care.”</q>"
+   }
+  ],
+  "turn": "<b>The turning point (line 13):</b> <q>“Something is happening.”</q> The calm routine stops as a face appears in the developing tray. The photo coming to life is also the memory coming back.",
+  "ending": "On indifference. The cold word <q>“impassively”</q> and the flat last line, <q>“they do not care.”</q>, leave us with readers who don't care, and a man who has had to stop showing that he does.",
+  "tone": "Quiet, solemn and controlled at the start, like a church service. Haunted in the middle. Bitter and sarcastic about the comfortable readers at the end."
+ },
+ "poem_intro": "This poem is still in copyright, so we only show the key phrases here. Read the full poem in your anthology alongside these notes. Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–3",
+   "text": "<mark>finally alone</mark> … <mark>spools of suffering set out in ordered rows.</mark>",
+   "note": "He is alone at last, after the crowds and noise of war. His rolls of film (<b>“spools”</b>) are full of other people's pain. The neat <b>“ordered rows”</b> could make us think of rows of war graves."
+  },
+  {
+   "lines": "3–5",
+   "text": "<mark>as though this were a church</mark> … <mark>a priest preparing to intone a Mass.</mark>",
+   "note": "The red safelight makes the darkroom feel like a church. He is like a priest about to chant (<b>“intone”</b>) a Mass, a church service. His work is serious, almost holy: he is honouring the dead."
+  },
+  {
+   "lines": "6",
+   "text": "<mark>Belfast. Beirut. Phnom Penh. All flesh is grass.</mark>",
+   "note": "Three real cities hit by war. The full stops make it sound like a roll-call. <b>“All flesh is grass”</b> comes from the Bible (Isaiah 40:6): people are like grass, which soon withers and dies."
+  },
+  {
+   "lines": "7–9",
+   "text": "<mark>He has a job to do.</mark> … <mark>which did not tremble then</mark> … <mark>though seem to now.</mark>",
+   "note": "A short, blunt sentence: he tells himself to get on with it. His hands were steady while he was taking the pictures, but they seem to shake now. The shock has caught up with him at home."
+  },
+  {
+   "lines": "9–12",
+   "text": "<mark>Rural England.</mark> … <mark>ordinary pain which simple weather can dispel</mark> … <mark>running children in a nightmare heat.</mark>",
+   "note": "In the English countryside, troubles are small enough for a sunny day to chase away (<b>“dispel”</b>). Fields here don't blow up under children's feet, as they do in the war zones he has seen."
+  },
+  {
+   "lines": "13–15",
+   "text": "<mark>Something is happening.</mark> … <mark>a half-formed ghost.</mark>",
+   "note": "As the picture develops, a stranger's face slowly appears and seems to twist. He is only half there on the paper, like a ghost. We realise the man in the photo is dead."
+  },
+  {
+   "lines": "15–18",
+   "text": "<mark>He remembers the cries</mark> … <mark>the blood stained into foreign dust.</mark>",
+   "note": "He remembers the man's wife screaming. Without words, he asked for approval (perhaps from her) to take the picture, because someone has to record it. The man's blood soaked into the ground of a foreign country."
+  },
+  {
+   "lines": "19–21",
+   "text": "<mark>A hundred agonies in black-and-white</mark> … <mark>five or six</mark> … <mark>Sunday's supplement.</mark>",
+   "note": "Each photo is an <b>“agony”</b>: real pain. Out of a hundred, the editor will print five or six in the Sunday newspaper's magazine (the <b>“supplement”</b>). Most of the suffering will never be seen."
+  },
+  {
+   "lines": "21–22",
+   "text": "<mark>The reader's eyeballs prick</mark> … <mark>between the bath and pre-lunch beers.</mark>",
+   "note": "Readers' eyes sting with tears, but only for a moment, squeezed in between a bath and a drink. The rhyme makes their sympathy sound shallow."
+  },
+  {
+   "lines": "23–24",
+   "text": "<mark>he stares impassively</mark> … <mark>they do not care.</mark>",
+   "note": "From a plane he looks down without showing feeling (<b>“impassively”</b>) at where he earns his living. <b>“they”</b> could mean the readers, or the world in general. The poem ends on not caring."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 2",
+   "q": "spools of suffering set out in ordered rows.",
+   "means": "his rolls of film are full of other people's pain, laid out neatly.",
+   "tech": "sibilance (repeated “s” sounds) makes it hushed; “ordered rows” may suggest rows of graves."
+  },
+  {
+   "line": "LINE 5",
+   "q": "a priest preparing to intone a Mass.",
+   "means": "he treats developing his photos like a holy service for the dead.",
+   "why": "religious imagery: his job is a duty to the dead, not just work. WJEC notes a priest and a war photographer both “witness death, pain and suffering”."
+  },
+  {
+   "line": "LINE 6",
+   "q": "Belfast. Beirut. Phnom Penh. All flesh is grass.",
+   "means": "war is everywhere, and human life is short and fragile.",
+   "tech": "caesura (full stops breaking up the line) like a roll-call; a Bible quotation from Isaiah 40:6."
+  },
+  {
+   "line": "LINES 8–9",
+   "q": "which did not tremble then / though seem to now.",
+   "means": "his hands were steady at the scene but shake now he is home.",
+   "why": "the shock is delayed: being back in safety lets the trauma catch up with him."
+  },
+  {
+   "line": "LINE 15",
+   "q": "a half-formed ghost.",
+   "means": "the dead man's face is only half developed on the photo paper.",
+   "tech": "metaphor: the photo is a ghost, and so is the memory that haunts him."
+  },
+  {
+   "line": "LINE 19",
+   "q": "A hundred agonies in black-and-white",
+   "means": "each photo shows someone's real pain.",
+   "why": "Duffy calls the photos “agonies”, not pictures, so we can't forget they are people. Only “five or six” will be printed."
+  },
+  {
+   "line": "LINES 21–22",
+   "q": "eyeballs prick / with tears between the bath and pre-lunch beers.",
+   "means": "readers feel sad for a moment, then get back to their comfortable Sunday.",
+   "tech": "bathos (a sudden drop from serious to trivial) and the rhyme “tears … beers” mock their shallow sympathy."
+  }
+ ],
+ "form": {
+  "heading": "The form: a tightly ordered poem about chaos",
+  "explain": [
+   "A <b>stanza</b> is a group of lines, like a paragraph in a poem. A <b>rhyming couplet</b> is two lines in a row that rhyme.",
+   "<b>Third person</b> means the poem is told by a narrator about “he”, not by the man himself (“I”). It lets us watch him from outside.",
+   "A strict, regular shape can hold in feelings that might get out of control, so the form itself can show a struggle for control. <span class=\"care\">our reading</span>"
+  ],
+  "this_poem": [
+   "<b>Four stanzas of six lines</b> (24 lines). WJEC says this suggests “regularity and the routine nature of his job.” <span class=\"src\">our count; WJEC</span>",
+   "<b>Every stanza ends in a rhyming couplet:</b> <q>“Mass … grass”</q>, <q>“feet … heat”</q>, <q>“must … dust”</q>, <q>“where … care”</q>. Each stanza clicks shut, like a neat, finished print. <span class=\"src\">our count</span>",
+   "WJEC: “The strict, controlled structure contrasts the chaos, confusion and lack of structure in war.” Just as he puts his films in <q>“ordered rows”</q>, the poem puts horror into neat stanzas. <span class=\"src\">WJEC</span>",
+   "<b>Third person:</b> WJEC says it reflects “the detachment a war photographer must feel when doing the job.” We watch him the way he watches the people he photographs. <span class=\"src\">WJEC</span>",
+   "<b>Small cracks:</b> some rhymes are only half-rhymes (<q>“then”</q> / <q>“again”</q>, <q>“six”</q> / <q>“prick”</q>), and sentences run on across line ends. The control is not quite perfect, like his hands that <q>“seem to”</q> tremble. <span class=\"care\">our reading</span>",
+   "<b>Each stanza is a stage:</b> the darkroom, home vs. war, the photo developing, the newspaper and the plane. WJEC: “Each stanza focuses on a different aspect of the war photographer's job.” <span class=\"src\">WJEC</span>"
+  ],
+  "say": "A sentence you could use: Duffy orders the poem into four six-line stanzas, each closed by a rhyming couplet, so the form mirrors the photographer's controlled routine of “ordered rows”; yet half-rhymes and hands that “seem to” tremble show the horror he has witnessed pressing against that control."
+ },
+ "methods": [
+  {
+   "title": "Religious imagery",
+   "text": "The darkroom is <q>“a church”</q>, he is <q>“a priest”</q>, and the Bible's <q>“All flesh is grass”</q> follows. It makes his work a solemn duty: a funeral rite for people the world will forget. WJEC calls it a “semantic field of religion”.",
+   "term": "Semantic field",
+   "def": "a group of words linked to the same topic (here: church, priest, Mass)."
+  },
+  {
+   "title": "Contrast: England against the war zones",
+   "text": "In <q>“Rural England”</q>, pain is <q>“ordinary”</q> and weather can fix it. Elsewhere, fields <q>“explode beneath the feet / of running children”</q>. The contrast shows how safe, and how unaware, people at home are.",
+   "term": "Juxtaposition",
+   "def": "putting two very different things side by side to make the difference stand out."
+  },
+  {
+   "title": "The photo develops like a memory",
+   "text": "<q>“Something is happening.”</q> As the face appears in the tray, the memory of the dying man appears in his mind. The present tense makes it happen in front of us, so we relive it with him.",
+   "term": "Extended metaphor",
+   "def": "a comparison that is carried on over several lines (here: developing a photo = remembering)."
+  },
+  {
+   "title": "Bathos and satire",
+   "text": "The readers' tears come <q>“between the bath and pre-lunch beers.”</q> The drop from tears to beer makes their sympathy look tiny. Duffy is mocking the comfortable reader, which might be us.",
+   "term": "Bathos",
+   "def": "a sudden drop from something serious to something trivial, often to mock."
+  }
+ ],
+ "warn": "Examiners warn: AQA's November 2020 report said formula-driven paragraphs “tended to encourage bolted-on context rather than focusing on ideas.” Mention Duffy's photographer friends in a sentence, then use it to explain an idea in the poem, such as bearing witness.",
+ "context": {
+  "timeline": [
+   {
+    "date": "1955",
+    "text": "Duffy born in Glasgow; moves to Stafford, England, aged six"
+   },
+   {
+    "date": "From 1960s",
+    "text": "Don McCullin photographs wars, mainly for the Sunday Times Magazine (18 years there)"
+   },
+   {
+    "date": "c. 1968",
+    "text": "The Troubles begin in Northern Ireland"
+   },
+   {
+    "date": "Apr 1975",
+    "text": "Khmer Rouge capture Phnom Penh, Cambodia"
+   },
+   {
+    "date": "Jun 1982",
+    "text": "Israeli forces besiege Beirut, Lebanon"
+   },
+   {
+    "date": "1985",
+    "text": "War Photographer published in Standing Female Nude",
+    "hi": true
+   },
+   {
+    "date": "2009–19",
+    "text": "Duffy is the first woman Poet Laureate"
+   },
+   {
+    "date": "May 2019",
+    "text": "AQA prints War Photographer in the GCSE exam",
+    "hi": true
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Duffy is",
+    "items": [
+     {
+      "text": "Born in Glasgow in 1955. Her family moved to Stafford, England, when she was six. She studied philosophy at Liverpool University.",
+      "src": "Britannica; poets.org",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "From 2009 to 2019 she was the first woman Poet Laureate, the poet chosen to write for the nation. Simon Armitage, who wrote Remains, took over from her.",
+      "src": "Britannica; poets.org; WJEC",
+      "use": "comparison link with Remains",
+      "care": ""
+     },
+     {
+      "text": "Her early poems are known for “Dramatic characters and narratives, voiced with a sharp edge of wit and social critique”. War Photographer criticises comfortable readers in just this way.",
+      "src": "poets.org",
+      "use": "effects of conflict · power",
+      "care": "one source; the link to this poem is our reading"
+     },
+     {
+      "text": "War Photographer comes from her 1985 collection <i>Standing Female Nude</i>.",
+      "src": "Britannica; WJEC; Scottish Poetry Library",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "The real war photographers behind the poem",
+    "items": [
+     {
+      "text": "WJEC says Duffy was inspired by “her friendships with the war photographers Don McCullin and Phillip Jones Griffiths”. Oak National Academy says the photographer “may be based on Duffy's friend, Don McCullin”.",
+      "src": "WJEC fact sheet; Oak National Academy lesson",
+      "use": "bearing witness · effects of conflict",
+      "care": "Jones Griffiths: one source"
+     },
+     {
+      "text": "Tate Britain calls McCullin “probably the UK's foremost war photographer”, working mainly for the <i>Sunday Times Magazine</i>. His photos include Northern Ireland, and Tate Liverpool's exhibition guide covers his work in Beirut and Cambodia too: the three places in line 6.",
+      "src": "Tate Britain; Tate Liverpool",
+      "use": "war",
+      "care": "the link to line 6 is our reading"
+     },
+     {
+      "text": "His exhibition prints: Tate Britain says they were “all printed by McCullin himself in his own darkroom”, just like the man in the poem.",
+      "src": "Tate Britain",
+      "use": "memory",
+      "care": "one source"
+     },
+     {
+      "text": "McCullin, on photographing dying children in Biafra in 1969: “It was a gut-wrenching, guilt-ridden experience to put that camera to my eye.” Compare the silent asking for <q>“approval”</q>.",
+      "src": "Tate Etc. (Tate’s magazine), issue 45, 2019: interview by Simon Grant",
+      "use": "guilt · difficult experiences",
+      "care": "one source"
+     },
+     {
+      "text": "Philip Jones Griffiths was a Welsh photographer (1936–2008) famous for his book <i>Vietnam Inc.</i> about the Vietnam War.",
+      "src": "Dictionary of Welsh Biography",
+      "use": "",
+      "care": "background only"
+     }
+    ]
+   },
+   {
+    "title": "Belfast. Beirut. Phnom Penh.",
+    "items": [
+     {
+      "text": "<b>Belfast:</b> the Troubles, a violent conflict in Northern Ireland from about 1968 to 1998 in which about 3,600 people were killed. This war was inside the UK itself, not far from <q>“Rural England”</q>.",
+      "src": "Britannica; WJEC",
+      "use": "war · place and home",
+      "care": "the point about the UK is our reading"
+     },
+     {
+      "text": "<b>Beirut:</b> capital of Lebanon. Its civil war (1975–90) killed more than 100,000 people. In June 1982 Israeli forces besieged the city.",
+      "src": "Britannica; WJEC",
+      "use": "war · conflict",
+      "care": ""
+     },
+     {
+      "text": "<b>Phnom Penh:</b> capital of Cambodia. The Khmer Rouge took it in April 1975. Under their rule (1975–79), an estimated 1.5 to 3 million Cambodians died.",
+      "src": "Britannica; WJEC",
+      "use": "effects of conflict",
+      "care": "death tolls vary between sources"
+     },
+     {
+      "text": "All three were recent or still going on when the poem came out in 1985. <q>“All flesh is grass”</q> (Isaiah 40:6) then turns the list into a lament: so many lives cut down like grass.",
+      "src": "Britannica; BibleGateway; Project Gutenberg",
+      "use": "war · loss",
+      "care": "the reading of the line is ours"
+     }
+    ]
+   },
+   {
+    "title": "Sunday papers and readers who don't care",
+    "items": [
+     {
+      "text": "Newspapers like the <i>Sunday Times</i> came with a magazine, the <q>“supplement”</q>. McCullin worked for the <i>Sunday Times Magazine</i> for eighteen years.",
+      "src": "Tate Liverpool exhibition guide",
+      "use": "power · effects of conflict",
+      "care": ""
+     },
+     {
+      "text": "McCullin said he wanted to “make life uncomfortable on a Sunday morning” for readers. Duffy's readers are only uncomfortable for a moment, <q>“between the bath and pre-lunch beers.”</q>",
+      "src": "Tate Etc. (Tate’s magazine), issue 45, 2019: interview by Simon Grant",
+      "use": "effects of conflict · indifference",
+      "care": "one source"
+     },
+     {
+      "text": "WJEC: war photographers “risk their lives to take photographs of armed conflicts and their consequences, so people at home can be made aware of these situations.”",
+      "src": "WJEC",
+      "use": "bearing witness",
+      "care": "one source"
+     },
+     {
+      "text": "Oak National Academy reads the poem as one that “seems to criticise our increasing indifference to the victims of conflict.”",
+      "src": "Oak National Academy lesson",
+      "use": "effects of conflict",
+      "care": "one source"
+     },
+     {
+      "text": "AQA's 2019 mark scheme suggests “ideas about bearing witness” and “the impact/influence of experiences on the individual/collective conscience”.",
+      "src": "AQA mark scheme June 2019",
+      "use": "all war questions",
+      "care": ""
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Duffy knew war photographers such as Don McCullin, who worked for years for a Sunday newspaper's magazine and wanted to make readers' Sunday mornings “uncomfortable”. The poem shows the cost of bearing witness: the photographer carries the dead of Belfast, Beirut and Phnom Penh home with him, while readers forget them “between the bath and pre-lunch beers.”"
+ },
+ "comparisons": [
+  {
+   "partner": "Remains",
+   "use_for": [
+    "Effects of conflict",
+    "Difficult experiences",
+    "Memory"
+   ],
+   "aqa": "AQA: June 2019 mark scheme (“a different perspective, such as … ‘Remains’”); Nov 2020 examiners' report",
+   "similar": [
+    "Both men are safe in Britain but haunted by one dead stranger: <q>“a half-formed ghost.”</q> and <q>“he’s here in my head when I close my eyes”</q>.",
+    "Both leave a stain of blood behind: <q>“the blood stained into foreign dust.”</q> and <q>“His blood-shadow stays on the street”</q>.",
+    "Both show delayed shock at home: hands that <q>“did not tremble then”</q> and <q>“Then I’m home on leave. But I blink”</q>."
+   ],
+   "different": [
+    "<b>Watching or doing:</b> the photographer only recorded the death; the soldier fired the shots: <q>“all three of us open fire.”</q>",
+    "<b>Voice:</b> Duffy's third person is calm and distant; Armitage's first person is raw and immediate. AQA's 2022 mark scheme contrasts the “immediacy” of Remains with the “more reflective stance of ‘War Photographer’”.",
+    "<b>Who is blamed:</b> Duffy turns outwards to readers who <q>“do not care.”</q> Armitage turns inwards: <q>“my bloody hands.”</q>"
+   ]
+  },
+  {
+   "partner": "Poppies",
+   "use_for": [
+    "Effects of conflict",
+    "Memory",
+    "Place and home"
+   ],
+   "aqa": "AQA: June 2019 mark scheme (“people indirectly affected by war, such as in ‘Poppies’”); 2022 and 2024 mark schemes",
+   "similar": [
+    "Both are about people who never fight but are still marked by war, at home in Britain: the photographer in <q>“Rural England”</q>; the mother at her <q>“front door”</q>.",
+    "Both use religious places and remembrance: <q>“as though this were a church”</q> and <q>“skirting the church yard walls”</q> to <q>“the war memorial”</q>.",
+    "Both are reflective and quiet, not action-packed. AQA's 2022 mark scheme groups them for their “more reflective stance”."
+   ],
+   "different": [
+    "<b>Feeling:</b> Weir's mother is full of private love and grief: <q>“steeled the softening / of my face.”</q> Duffy's photographer has to hide feeling: <q>“impassively”</q>.",
+    "<b>Public or private:</b> Duffy attacks the public who <q>“do not care.”</q> Weir stays inside one family's loss.",
+    "<b>Language:</b> Duffy's images are brutal, <q>“A hundred agonies”</q>; Weir's are soft and domestic, from sewing: <q>“tucks, darts, pleats”</q>."
+   ]
+  },
+  {
+   "partner": "Bayonet Charge",
+   "use_for": [
+    "War",
+    "Effects of conflict",
+    "Conflict"
+   ],
+   "aqa": "AQA: June 2019 mark scheme (“a different perspective, such as ‘Bayonet Charge’”)",
+   "similar": [
+    "Both use third person (<q>“he”</q>) for an unnamed man, so he stands for many.",
+    "Both question the big ideas behind war: <q>“All flesh is grass.”</q> and <q>“King, honour, human dignity, etcetera”</q>.",
+    "Both show suffering in a field: <q>“fields which don't explode beneath the feet”</q> in England, against <q>“the shot-slashed furrows”</q> of battle."
+   ],
+   "different": [
+    "<b>When:</b> Hughes puts us in the middle of the charge: <q>“Suddenly he awoke and was running”</q>. Duffy looks back afterwards, in a quiet darkroom.",
+    "<b>Who:</b> a soldier fighting for his life, against a civilian who records others' deaths.",
+    "<b>Form:</b> Hughes's lines are rough and breathless, full of dashes; Duffy's stanzas are neat and controlled, each closing on a rhyming couplet."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "Compare how poets present the ways that people are affected by war in ‘War Photographer’ and in one other poem from ‘Power and conflict’. (AQA, June 2019)",
+  "thesis": "Both Duffy and Hughes show that war changes how people see the ideals and comforts they once trusted, but Hughes's soldier is shattered in a moment of terror, while Duffy's photographer is worn down slowly by what he has seen.",
+  "para": "Both poets show war stripping away comforting beliefs. Hughes's soldier drops <q>“King, honour, human dignity, etcetera”</q>: the dismissive “etcetera” shows patriotic ideals becoming meaningless under fire. Duffy's photographer remembers <q>“Belfast. Beirut. Phnom Penh.”</q>, and the Bible phrase <q>“All flesh is grass.”</q> reduces all those lives to something that withers. However, Hughes presents the effect as instant and physical, as he <q>“awoke and was running”</q> in the middle of battle. Duffy shows a slower effect: hands that <q>“did not tremble then”</q> now shake at home. Her third-person narrator and neat couplets suggest a man forcing control on chaos. Unlike Hughes, Duffy also shows war affecting the comfortable public, who feel nothing much beyond a brief <q>“prick”</q> of tears.",
+  "why": [
+   "Thesis answers the question in one sentence and sets up the key difference (instant shock against slow damage)",
+   "Short quotations from both poems, with single words analysed (“etcetera”, “grass”)",
+   "Compares methods (form, third person, Bible echo) and links to the question's focus all the way through, without bolting on context"
+  ]
+ }
+}

@@ -1,0 +1,466 @@
+{
+ "num": 9,
+ "slug": "remains",
+ "title": "Remains",
+ "poet": "Simon Armitage",
+ "poet_dates": "born 1963",
+ "published": "published 2008 (first heard in a 2007 TV film)",
+ "group": "War and its aftermath",
+ "anchor": true,
+ "copyright": true,
+ "facts": {
+  "type": "Dramatic monologue: 7 four-line stanzas + a 2-line ending (30 lines)",
+  "exam": "Yes: November 2020",
+  "partner": "Storm on the Island (your anchor when Remains is printed); War Photographer also works well"
+ },
+ "themes": [
+  {
+   "name": "Difficult experiences",
+   "aqa": true,
+   "src": "AQA question November 2020"
+  },
+  {
+   "name": "Effects of conflict",
+   "aqa": true,
+   "src": "AQA mark schemes 2017 and 2024"
+  },
+  {
+   "name": "Conflict",
+   "aqa": true,
+   "src": "AQA mark schemes 2022 and 2025"
+  },
+  {
+   "name": "War",
+   "aqa": true,
+   "src": "AQA examiners' report 2022"
+  },
+  {
+   "name": "Power",
+   "aqa": true,
+   "src": "AQA mark scheme 2023 (victim of others' power)"
+  },
+  {
+   "name": "Guilt",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Memory",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A British soldier tells how he and two others shot a looter who may not have been armed. Back home, he can't stop seeing the dead man.",
+  "message": "War doesn't end when the fighting stops. A few seconds of violence can haunt a soldier for the rest of his life.",
+  "why": "Armitage wrote it for a TV film about ex-soldiers with PTSD. He turned a real soldier's account into a poem. <span class=\"src\">simonarmitage.com; IDFA</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "“Remains” has two meanings. <b>Human remains</b> are a dead body: the looter's body, <q>“carted off in the back of a lorry.”</q> And something that <b>remains</b> is something that stays. The body is taken away, but the memory and the guilt remain with the soldier. <span class=\"care\">our reading</span>",
+  "src": "our reading"
+ },
+ "synopsis": {
+  "setup": "A soldier talks to us as if we were chatting. He jumps straight into the story with <q>“On another occasion”</q>, as if this was just one of many incidents. The whole poem is told in the present tense, so it feels like it's happening now.",
+  "steps": [
+   {
+    "lines": "Lines 1–4",
+    "text": "His patrol is sent to deal with men robbing a bank. One of them runs off up the road. He might have had a gun, or might not: <q>“probably armed, possibly not.”</q>"
+   },
+   {
+    "lines": "Lines 5–10",
+    "text": "The speaker and two other soldiers all fire at once. He says he sees every bullet go through the man, so clearly that he can see daylight through the wounds."
+   },
+   {
+    "lines": "Lines 11–16",
+    "text": "The man has been hit about a dozen times and lies dying in agony. Another soldier casually <q>“tosses his guts back into his body”</q>. The body is thrown into a lorry and driven away."
+   },
+   {
+    "lines": "Lines 17–19",
+    "text": "<q>“End of story, except not really.”</q> A bloodstain stays on the street, and he walks over it on patrol <q>“week after week.”</q>"
+   },
+   {
+    "lines": "Lines 20–24",
+    "text": "He goes home on leave, but the memory follows him. Whenever he blinks, sleeps or dreams, the shooting replays. Alcohol and drugs don't get rid of it."
+   },
+   {
+    "lines": "Lines 25–30",
+    "text": "The dead man now lives inside his head, like an enemy soldier hiding behind the lines. He isn't buried far away in the desert. He is <q>“here and now”</q>, and the soldier feels the man's life is in his hands."
+   }
+  ],
+  "turn": "<b>The turning point (line 17):</b> <q>“End of story, except not really.”</q> The soldier tries to close the story with an everyday phrase, then admits it isn't over. The poem moves from the street in Iraq to the inside of his head.",
+  "ending": "On guilt that won't go away. The last line, <q>“his bloody life in my bloody hands.”</q>, puts the man's death firmly in the speaker's own hands.",
+  "tone": "It starts casual and matter-of-fact, almost boastful. It ends haunted, angry and full of guilt. The calm voice cracks as the poem goes on."
+ },
+ "poem_intro": "This poem is still in copyright, so we only show the key phrases here. Read the full poem in your anthology alongside these notes. Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–4",
+   "text": "<mark>On another occasion</mark> … <mark>probably armed, possibly not.</mark>",
+   "note": "The patrol is sent to stop looters raiding a bank. One runs away. The soldier can't say for sure whether the man had a gun. <b>“legs it”</b> is slang for running away: he sounds like an ordinary bloke telling a story."
+  },
+  {
+   "lines": "5–8",
+   "text": "<mark>myself and somebody else and somebody else</mark> … <mark>all three of us open fire</mark>",
+   "note": "Three soldiers shoot at the same moment. He doesn't name the others, just <b>“somebody else”</b>, twice. Sharing the blame makes it feel less like his fault."
+  },
+  {
+   "lines": "9–12",
+   "text": "<mark>I see every round as it rips through his life</mark> … <mark>sort of inside out</mark>",
+   "note": "He describes the bullets (<b>“rounds”</b>) going right through the man. The man is hit about a dozen times. <b>“sort of inside out”</b> is horribly casual for such a gory sight."
+  },
+  {
+   "lines": "13–16",
+   "text": "<mark>tosses his guts back into his body</mark> … <mark>carted off</mark>",
+   "note": "The man is in agony. A mate throws his insides back in as if tidying up. The body is <b>“carted off”</b> in a lorry, like rubbish. The soldiers treat the dead man as an object."
+  },
+  {
+   "lines": "17–19",
+   "text": "<mark>End of story, except not really.</mark> … <mark>His blood-shadow stays on the street</mark>",
+   "note": "He tries to end the story, but can't. The bloodstain is still there, and he has to walk over it on patrol, again and again."
+  },
+  {
+   "lines": "20–24",
+   "text": "<mark>he bursts again through the doors of the bank</mark> … <mark>won’t flush him out</mark>",
+   "note": "At home on leave, every blink, sleep and dream replays the shooting. These are <b>flashbacks</b>, a key sign of PTSD. Drink and drugs can't wash the memory away."
+  },
+  {
+   "lines": "25–28",
+   "text": "<mark>he’s here in my head</mark> … <mark>dug in behind enemy lines</mark>",
+   "note": "The dead man is now like an enemy soldier hiding in a trench inside his mind. He is not safely buried in some far-off desert. The war has moved inside the soldier."
+  },
+  {
+   "lines": "29–30",
+   "text": "<mark>here and now</mark> … <mark>his bloody life in my bloody hands.</mark>",
+   "note": "The poem ends in the present. <b>“bloody”</b> means covered in blood, and is also a swear word of anger and frustration. He takes the blame himself: <b>“my”</b> hands, not “our”."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "On another occasion",
+   "means": "this was one incident among many, told like a casual anecdote (a short, everyday story).",
+   "why": "killing has become routine. The poem starts in the middle of things, as if we're mid-conversation."
+  },
+  {
+   "line": "LINES 4 AND 22",
+   "q": "probably armed, possibly not.",
+   "means": "he will never know if the man was a real threat.",
+   "tech": "repetition: the doubt comes back in line 22 because it keeps going round in his head."
+  },
+  {
+   "line": "LINE 9",
+   "q": "I see every round as it rips through his life",
+   "means": "he watches every bullet hit the man.",
+   "tech": "alliteration (“round … rips”) and violent verbs; “I see” shows how vividly he relives it."
+  },
+  {
+   "line": "LINE 15",
+   "q": "tosses his guts back into his body",
+   "means": "a soldier casually throws the man's insides back in.",
+   "why": "the careless verb “tosses” shows how soldiers become hardened to death."
+  },
+  {
+   "line": "LINE 17",
+   "q": "End of story, except not really.",
+   "means": "he wants the story to be over, but it isn't.",
+   "tech": "the turning point (volta): slang, then a blunt correction, then the poem moves into his mind."
+  },
+  {
+   "line": "LINE 21",
+   "q": "he bursts again through the doors of the bank",
+   "means": "the shooting replays whenever he blinks.",
+   "why": "this is a flashback: the past bursts into the present, just as PTSD works."
+  },
+  {
+   "line": "LINE 26",
+   "q": "dug in behind enemy lines",
+   "means": "the memory has dug into his mind like an enemy soldier in a trench.",
+   "tech": "military metaphor: the war hasn't ended; it's now inside him."
+  },
+  {
+   "line": "LINE 30",
+   "q": "his bloody life in my bloody hands.",
+   "means": "he is responsible for the man's death, and he can't escape it.",
+   "why": "“bloody” is both literal blood and a curse. WJEC hears an echo of Lady Macbeth trying to wash blood off her hands. <span class=\"care\">one source</span>"
+  }
+ ],
+ "form": {
+  "heading": "The form: a dramatic monologue that sounds like real speech",
+  "explain": [
+   "A <b>dramatic monologue</b> is “a poem written in the form of a speech of an individual character”. <span class=\"src\">Britannica</span>",
+   "It packs a person's story into one vivid scene and shows us what is going on in their mind. <span class=\"src\">Britannica</span>",
+   "Often the most interesting thing is what the speaker gives away about himself without meaning to. Britannica says the subject “is usually far less interesting than what is inadvertently revealed about the speaker himself.” <span class=\"src\">Britannica</span>",
+   "Poets use it to let us hear a voice directly, with no narrator in between. So we judge the speaker for ourselves. <span class=\"care\">our reading</span>"
+  ],
+  "this_poem": [
+   "The speaker is a soldier, talking straight to us. WJEC calls it “a dramatic monologue from the point of view of a soldier on active duty.” <span class=\"src\">WJEC</span> <span class=\"care\">one source</span>",
+   "It sounds like real speech: slang such as <q>“legs it”</q>, <q>“my mates”</q> and <q>“letting fly”</q>. That fits its origin: the poems in <i>The Not Dead</i> came from real soldiers’ own accounts (their “testimonies”). <span class=\"src\">simonarmitage.com; WJEC</span>",
+   "What he gives away: he starts off casual and sure of himself, but by the end he is falling apart. The voice shows the damage without him ever saying “I feel guilty”. <span class=\"care\">our reading</span>",
+   "<b>Shape:</b> seven 4-line stanzas, then a 2-line ending (30 lines). WJEC suggests the shape may suggest “the continuous suffering of the soldier.” <span class=\"src\">our count; WJEC</span>",
+   "<b>No regular rhyme or rhythm</b>, which WJEC says stresses “the seriousness of the situation”. Sentences run on over stanza breaks (<q>“I swear”</q> / <q>“I see”</q>; <q>“But I blink”</q> / <q>“and he bursts”</q>), like memories he can't hold back. <span class=\"src\">WJEC; our reading</span>",
+   "<b>The short last stanza</b> breaks the pattern of fours. The poem stops rather than resolves, because his story has no ending. <span class=\"care\">our reading</span>"
+  ],
+  "say": "A sentence you could use: Armitage writes Remains as a dramatic monologue in a soldier's own slang, so the casual voice of the opening (“legs it”) slowly gives way to guilt; the speaker reveals his trauma without ever naming it, and the poem's unresolved two-line ending mirrors a memory that never ends."
+ },
+ "methods": [
+  {
+   "title": "A casual voice for a horrific event",
+   "text": "Slang like <q>“legs it”</q> and <q>“sort of inside out”</q> makes the killing sound ordinary. The gap between the casual words and the horror shows how soldiers cope by switching off, until the feelings break through.",
+   "term": "Colloquial language",
+   "def": "everyday, informal speech, the way people actually talk."
+  },
+  {
+   "title": "From “we” to “I”",
+   "text": "The first half spreads the blame: <q>“all three of us open fire.”</q> The second half is all “I”, “my head”, <q>“my bloody hands.”</q> At home there's no one to share the blame with. WJEC describes a move from “collective responsibility” to “individual feeling of guilt”.",
+   "term": "Pronouns",
+   "def": "words like I, we, he that stand for people. A shift in pronouns can show a shift in feeling."
+  },
+  {
+   "title": "Repetition that acts like a flashback",
+   "text": "<q>“probably armed, possibly not.”</q> comes back in line 22, and <q>“Sleep, and”</q> / <q>“Dream, and”</q> start lines 22 and 23. The poem keeps circling back, just as his memory does.",
+   "term": "Repetition",
+   "def": "using the same words more than once, to stress an idea or show it won't go away."
+  },
+  {
+   "title": "War imagery inside his head",
+   "text": "The memory is <q>“dug in behind enemy lines”</q>, military language. The enemy is no longer out on the street; it's inside his mind. The fighting has followed him home.",
+   "term": "Metaphor",
+   "def": "describing one thing as if it were another."
+  }
+ ],
+ "warn": "Examiners warn: AQA's 2022 report says “extraneous information about Guardsman Tromans” was “not useful” if students “lost sight of the poem”. Mention the real soldier in one sentence, then get back to the words of the poem.",
+ "context": {
+  "timeline": [
+   {
+    "date": "1963",
+    "text": "Armitage born, Marsden, near Huddersfield"
+   },
+   {
+    "date": "to 1994",
+    "text": "Works as a probation officer in Greater Manchester"
+   },
+   {
+    "date": "20 Mar 2003",
+    "text": "US-led invasion of Iraq begins (the British part: Operation Telic)"
+   },
+   {
+    "date": "Apr 2003",
+    "text": "British forces take Basra; widespread looting"
+   },
+   {
+    "date": "2007",
+    "text": "The Not Dead shown on Channel 4: soldiers read Armitage's poems",
+    "hi": true
+   },
+   {
+    "date": "2008",
+    "text": "The Not Dead published as a book, including Remains",
+    "hi": true
+   },
+   {
+    "date": "2019",
+    "text": "Armitage becomes Poet Laureate, after Carol Ann Duffy"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Armitage is",
+    "items": [
+     {
+      "text": "Born in 1963 in Marsden, near Huddersfield in West Yorkshire. He still lives in West Yorkshire.",
+      "src": "Britannica; simonarmitage.com",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Until 1994 he worked as a probation officer, helping people after they'd been in trouble with the law. He was used to listening to people's hard stories.",
+      "src": "simonarmitage.com; Britannica",
+      "use": "difficult experiences",
+      "care": "the link to listening is our reading"
+     },
+     {
+      "text": "Britannica says his poems are “attuned to modern life and vernacular language” (everyday speech). That is exactly how the soldier talks.",
+      "src": "Britannica",
+      "use": "voice · effects of conflict",
+      "care": "one source"
+     },
+     {
+      "text": "He became Poet Laureate in 2019, taking over from Carol Ann Duffy, who wrote War Photographer.",
+      "src": "Britannica; simonarmitage.com; WJEC",
+      "use": "war · comparison link",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "The Not Dead: the film and the book",
+    "items": [
+     {
+      "text": "Remains comes from <i>The Not Dead</i>, a Channel 4 documentary from 2007, directed by Brian Hill.",
+      "src": "simonarmitage.com; IDFA",
+      "use": "effects of conflict",
+      "care": "sources disagree on summer or winter 2007"
+     },
+     {
+      "text": "The film followed three ex-soldiers with PTSD, from Iraq, Bosnia and Malaya. Armitage wrote poems from their accounts, and the men read them to camera.",
+      "src": "IDFA; NZ International Film Festival; simonarmitage.com",
+      "use": "difficult experiences · memory",
+      "care": ""
+     },
+     {
+      "text": "The young Iraq veteran in the film says: “We were prepared to go into the war, but we were not prepared to come out.”",
+      "src": "IDFA",
+      "use": "effects of conflict",
+      "care": "one source"
+     },
+     {
+      "text": "Armitage's site says the poems “focus on the testimonies of veterans” who “have seldom been heard before.” The book came out in 2008 (Pomona).",
+      "src": "simonarmitage.com; Google Books",
+      "use": "conflict · power (whose voice is heard)",
+      "care": "one page of the official site wrongly gives 2004"
+     },
+     {
+      "text": "A Guardian review called them “poems of survivors” who “return from war in body but never, wholly, in mind.”",
+      "src": "Guardian review (2008), quoted on war-poetry.com",
+      "use": "effects of conflict · memory",
+      "care": "second-hand copy"
+     }
+    ]
+   },
+   {
+    "title": "Iraq, 2003",
+    "items": [
+     {
+      "text": "A US-led force invaded Iraq on 20 March 2003. The British part was called Operation Telic.",
+      "src": "National Army Museum; Britannica",
+      "use": "war · conflict",
+      "care": ""
+     },
+     {
+      "text": "British troops took Basra, Iraq's second city, in early April 2003. They then faced “widespread looting in the city”.",
+      "src": "National Army Museum; Britannica",
+      "use": "difficult experiences",
+      "care": "looting: one source"
+     },
+     {
+      "text": "So soldiers trained for battle were policing chaotic streets, where it was hard to tell a thief from a gunman: <q>“probably armed, possibly not.”</q>",
+      "src": "our reading",
+      "use": "conflict · guilt",
+      "care": "our reading"
+     },
+     {
+      "text": "Remains is based on a British soldier who served in Iraq. WJEC names him as Guardsman Tromans. A bookseller’s listing of the book adds that the poem was written for someone who served in Basra and shot a man looting a bank. One sentence is enough in an essay.",
+      "src": "WJEC; IDFA (the film’s Iraq veteran); war-poetry.com bookseller listing",
+      "use": "effects of conflict",
+      "care": "Basra: one source (bookseller listing); the name: one source (WJEC)"
+     }
+    ]
+   },
+   {
+    "title": "PTSD: what the soldier is going through",
+    "items": [
+     {
+      "text": "The NHS defines PTSD (post-traumatic stress disorder) as “a mental health condition caused by very stressful, frightening or distressing events.” War is one cause.",
+      "src": "NHS; Royal College of Psychiatrists",
+      "use": "effects of conflict · difficult experiences",
+      "care": ""
+     },
+     {
+      "text": "Key signs are “flashbacks” and “nightmares”: feeling as if the event is “happening again in real time”. Compare <q>“But I blink”</q> and <q>“Sleep, and … Dream, and”</q>.",
+      "src": "NHS; Royal College of Psychiatrists",
+      "use": "memory",
+      "care": ""
+     },
+     {
+      "text": "People with PTSD often blame themselves, “even if you or they were not responsible.” Compare <q>“my bloody hands.”</q>",
+      "src": "Royal College of Psychiatrists",
+      "use": "guilt",
+      "care": "one source"
+     },
+     {
+      "text": "Alcohol may help for a moment, but “over time it can make you feel much worse.” Compare <q>“the drink and the drugs won’t flush him out”</q>.",
+      "src": "Royal College of Psychiatrists; NHS",
+      "use": "effects of conflict",
+      "care": ""
+     },
+     {
+      "text": "AQA's 2022 report lists “PTSD” as an “appropriate” idea for AO3.",
+      "src": "AQA examiners' report 2022",
+      "use": "all war questions",
+      "care": ""
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Remains grew out of a 2007 TV film in which real ex-soldiers with PTSD read Armitage's poems about their memories. By writing in a soldier's own slang, Armitage shows that the hardest part of war can come after it ends: a split-second decision on a street in Iraq becomes a flashback the soldier relives “here and now”, years later at home."
+ },
+ "comparisons": [
+  {
+   "partner": "War Photographer",
+   "use_for": [
+    "Difficult experiences",
+    "Effects of conflict",
+    "Memory"
+   ],
+   "aqa": "AQA: Nov 2020 examiners' report (“used by many students”); 2024 mark scheme",
+   "similar": [
+    "Both men are back in safe Britain but haunted by one dead stranger: the looter <q>“bursts again through the doors of the bank”</q>; the photographer sees <q>“a half-formed ghost.”</q>",
+    "Both poems leave a stain of blood behind: <q>“His blood-shadow stays on the street”</q> and <q>“the blood stained into foreign dust.”</q>",
+    "Both show the shock arriving later: the photographer's hands <q>“did not tremble then”</q> <q>“though seem to now.”</q>; the soldier's story is <q>“End of story, except not really.”</q>"
+   ],
+   "different": [
+    "<b>Doing or watching:</b> the soldier pulled the trigger, so his guilt is personal: <q>“my bloody hands.”</q> The photographer only recorded the deaths, so his guilt is about watching and doing nothing.",
+    "<b>Voice:</b> Remains is first person and immediate; War Photographer is third person, calmer and more reflective. AQA's 2022 mark scheme contrasts the “immediacy” of Remains with the “more reflective stance” of War Photographer.",
+    "<b>Who cares:</b> Duffy blames the public, who <q>“do not care.”</q> Armitage keeps the focus inside one damaged mind: <q>“here in my head”</q>."
+   ]
+  },
+  {
+   "partner": "Exposure",
+   "use_for": [
+    "Effects of conflict",
+    "Conflict"
+   ],
+   "aqa": "AQA: 2017 mark scheme (“effects of war on the individual, such as ‘Remains’ or ‘Exposure’”); 2022 and 2023 mark schemes",
+   "similar": [
+    "Both are told by soldiers and use repetition to trap us in their minds: <q>“But nothing happens.”</q> and <q>“probably armed, possibly not.”</q>",
+    "Both use dying and ghosts: Owen's men imagine <q>“Slowly our ghosts drag home:”</q>; Armitage's soldier brings his ghost home for real: <q>“he’s here in my head”</q>.",
+    "Both question why they are there: <q>“What are we doing here?”</q> and the doubt of <q>“possibly not.”</q>"
+   ],
+   "different": [
+    "<b>The enemy:</b> Owen's real enemy is the weather: <q>“merciless iced east winds that knive us”</q>. Armitage's enemy is a memory, <q>“dug in behind enemy lines”</q> in his own head.",
+    "<b>When:</b> Exposure is the suffering during war, in the trenches. Remains is mostly the suffering after it, at home.",
+    "<b>Who:</b> Owen's “we” stays together to the end. Armitage's “we” breaks down into a lonely “I”.",
+    "<b>Action:</b> in Exposure, <q>“nothing happens”</q>; in Remains something terrible happens in seconds, and he can't undo it."
+   ]
+  },
+  {
+   "partner": "Storm on the Island",
+   "use_for": [
+    "Difficult experiences",
+    "Fear"
+   ],
+   "aqa": "AQA: Nov 2020 mark scheme (“comparisons between the ways difficult experiences affect groups/societies such as in ‘London’ or ‘Storm on the Island’”)",
+   "similar": [
+    "Both fear an enemy that cannot be seen or fought. The dead looter is <q>“dug in behind enemy lines”</q> inside the soldier's head; the islanders fear <q>“a huge nothing”</q>.",
+    "Both use war words. Armitage uses them for a memory that attacks him; Heaney uses them for the weather: <q>“Space is a salvo,”</q> and <q>“We are bombarded by the empty air.”</q>",
+    "Both speakers talk in a chatty, everyday voice about something frightening: <q>“End of story, except not really.”</q> and <q>“you know what I mean”</q>."
+   ],
+   "different": [
+    "<b>One or many:</b> Remains is one man's private suffering: <q>“his bloody life in my bloody hands.”</q> Storm is a whole community (“we”) facing it together: <q>“We just sit tight”</q>.",
+    "<b>Guilt or no blame:</b> the soldier did the killing, so his fear is mixed with guilt. The islanders are victims of nature; nobody is to blame.",
+    "<b>Real war or metaphor:</b> Armitage's soldier really did <q>“open fire”</q>, and the memory follows him home. Heaney's islanders are not at war; the war is only a metaphor for the storm."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "Compare how poets present the ways people are affected by difficult experiences in ‘Remains’ and in one other poem from ‘Power and conflict’. (AQA, November 2020)",
+  "thesis": "Both Armitage and Duffy show that the worst effects of war are felt later, at home, but Armitage's soldier is haunted by what he did, while Duffy's photographer is haunted by what he saw.",
+  "para": "Both poets present a difficult experience that returns long after it is over. Armitage's soldier tries to close his story with <q>“End of story, except not really.”</q>, but the correction shows he cannot. Back home, the dead man <q>“bursts again through the doors of the bank”</q>: the verb “bursts” makes the flashback violent and sudden, like PTSD. Duffy's photographer is also back in Britain, yet a face appears as <q>“a half-formed ghost.”</q> His hands <q>“did not tremble then”</q> but <q>“seem to now”</q>, so the shock arrives late. However, Armitage's first-person voice makes the guilt personal, ending on <q>“my bloody hands.”</q> Duffy's third person keeps a distance, and she turns the blame outwards onto readers who <q>“do not care.”</q>",
+  "why": [
+   "Thesis answers the question: it names the effect (delayed trauma) and the key difference",
+   "Short quotations from both poems, with a word picked out and analysed (“bursts”)",
+   "Compares methods (first person against third person) and links to context (PTSD) without bolting it on"
+  ]
+ }
+}

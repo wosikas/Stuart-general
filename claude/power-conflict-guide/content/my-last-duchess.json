@@ -1,0 +1,453 @@
+{
+ "num": 3,
+ "slug": "my-last-duchess",
+ "title": "My Last Duchess",
+ "poet": "Robert Browning",
+ "poet_dates": "1812–1889",
+ "published": "published 1842",
+ "group": "Power and pride",
+ "anchor": false,
+ "copyright": false,
+ "facts": {
+  "type": "Dramatic monologue (56 lines, rhyming couplets)",
+  "exam": "Yes: June 2023",
+  "partner": "Ozymandias"
+ },
+ "themes": [
+  {
+   "name": "Power",
+   "aqa": true,
+   "src": "AQA question 2023"
+  },
+  {
+   "name": "Tyranny",
+   "aqa": true,
+   "src": "AQA specimen mark scheme (“despotism”)"
+  },
+  {
+   "name": "Pride",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A rich Italian Duke shows a visitor a painting of his dead wife. Bit by bit he hints that he had her killed because she smiled at everyone, not just him.",
+  "message": "Power without limits turns into cruelty. The Duke treats women as possessions, and he is about to marry again.",
+  "why": "Browning was a Victorian poet famous for the dramatic monologue: he lets a powerful man condemn himself in his own words. <span class=\"src\">Britannica; Baylor University</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "<b>“last”</b> means most recent, and it hints there will be another: as one editor notes, the Duke “is now negotiating for his next Duchess.” The subtitle <b>“Ferrara”</b> names a real city in northern Italy, ruled by dukes in the Renaissance. <span class=\"care\">editor's note: one source</span>",
+  "src": "RPO (University of Toronto); Victorian Web"
+ },
+ "synopsis": {
+  "setup": "The whole poem is the Duke talking. His listener is an envoy (a messenger) sent by a Count to arrange the Duke’s next marriage. The listener never speaks.",
+  "steps": [
+   {
+    "lines": "Lines 1–4",
+    "text": "The Duke points to a painting of his “last Duchess”. She looks “as if she were alive”, so we know she is dead."
+   },
+   {
+    "lines": "Lines 5–13",
+    "text": "He asks the visitor to sit and look. Only he opens the curtain over the painting. Visitors always wonder about her expression."
+   },
+   {
+    "lines": "Lines 14–21",
+    "text": "He says her blush (that “spot / Of joy”) did not come only from him. Perhaps even the painter’s compliments made her blush, he suggests."
+   },
+   {
+    "lines": "Lines 22–34",
+    "text": "She was “Too easily impressed”: sunsets, cherries and her mule pleased her as much as his “nine-hundred-years-old name”. This insults his pride."
+   },
+   {
+    "lines": "Lines 35–43",
+    "text": "He would not lower himself to tell her what annoyed him: “I choose / Never to stoop.”"
+   },
+   {
+    "lines": "Lines 44–47",
+    "text": "She smiled at everyone. “I gave commands; / Then all smiles stopped together.” He had her silenced: probably killed, though Browning once added that she might have been shut in a convent. Then he calmly asks the visitor to stand."
+   },
+   {
+    "lines": "Lines 48–56",
+    "text": "Business: he expects a large dowry from the Count, though the daughter is his “object”. Walking downstairs, he shows off a bronze statue of Neptune “Taming a sea-horse”."
+   }
+  ],
+  "turn": "<b>The turning point (lines 45–46):</b> “I gave commands; / Then all smiles stopped together.” Six short words hide a murder, and he carries on talking as if nothing happened.",
+  "ending": "On another possession, a statue made “for me!” He moves from his dead wife to his next bride to his art collection without a pause.",
+  "tone": "Polite, proud and chillingly calm. He is not grieving; he is showing off. The politeness makes the cruelty worse."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–4",
+   "text": "That’s <mark>my last Duchess</mark> painted on the wall,<br><mark>Looking as if she were alive.</mark> I call<br>That piece a wonder, now: Frà Pandolf’s hands<br>Worked busily a day, and there she stands.",
+   "note": "The Duke shows a visitor a painting of his dead wife. <b>“my”</b> and <b>“last”</b> sound like he owns her, and like she is one in a series. He praises the painting as <b>“a wonder”</b>; he never mentions loving her."
+  },
+  {
+   "lines": "5–13",
+   "text": "<mark>Will’t please you sit and look at her?</mark> I said<br>‘Frà Pandolf’ by design, for never read<br>Strangers like you that pictured countenance,<br>The depth and passion of its earnest glance,<br>But to myself they turned (since none puts by<br><mark>The curtain I have drawn for you, but I</mark>)<br>And seemed as they would ask me, if they durst,<br>How such a glance came there; so, not the first<br>Are you to turn and ask thus. Sir, ’twas not",
+   "note": "He tells the visitor to sit (polite words, but an order). The painting hangs behind a curtain and <b>only he</b> may open it. Visitors always want to ask about her look, if they <b>“durst”</b> (dared)."
+  },
+  {
+   "lines": "14–21",
+   "text": "Her husband’s presence only, called <mark>that spot<br>Of joy</mark> into the Duchess’ cheek: perhaps<br><mark>Frà Pandolf</mark> chanced to say ‘Her mantle laps<br>Over my lady’s wrist too much,’ or ‘Paint<br>Must never hope to reproduce the faint<br>Half-flush that dies along her throat’: such stuff<br>Was courtesy, she thought, and cause enough<br>For calling up that spot of joy. She had",
+   "note": "The Duke says her blush (the <b>“spot / Of joy”</b>) wasn’t only for her husband. Even a polite compliment from the painter, a friar (<b>“Frà”</b>), could make her blush. He is jealous of everyone."
+  },
+  {
+   "lines": "22–30",
+   "text": "<mark>A heart – how shall I say? – too soon made glad,</mark><br>Too easily impressed; <mark>she liked whate’er</mark><br>She looked on, and <mark>her looks went everywhere.</mark><br>Sir, ’twas all one! My favour at her breast,<br>The dropping of the daylight in the West,<br>The bough of cherries some officious fool<br>Broke in the orchard for her, the white mule<br>She rode with round the terrace – all and each<br>Would draw from her alike the approving speech,",
+   "note": "His complaint: she was too easily pleased. A sunset, a gift of cherries, her white mule: all made her as happy as his gifts did. The dash and <b>“how shall I say?”</b> show him struggling to stay smooth."
+  },
+  {
+   "lines": "31–35",
+   "text": "Or blush, at least. She thanked men, – good! but thanked<br>Somehow – I know not how – as if she ranked<br><mark>My gift of a nine-hundred-years-old name</mark><br>With anybody’s gift. <mark>Who’d stoop to blame</mark><br>This sort of trifling? Even had you skill",
+   "note": "She thanked people <b>“Somehow”</b> as if his ancient family name were no better than anyone else’s gift. That is what really angers him: his pride."
+  },
+  {
+   "lines": "36–43",
+   "text": "In speech – <mark>(which I have not)</mark> – to make your will<br>Quite clear to such an one, and say, ‘Just this<br>Or that in you disgusts me; here you miss,<br>Or there exceed the mark’ – and if she let<br>Herself be lessoned so, nor plainly set<br>Her wits to yours, forsooth, and made excuse,<br>– E’en then would be some stooping; <mark>and I choose<br>Never to stoop.</mark> Oh sir, she smiled, no doubt,",
+   "note": "He says he could never tell her off, because even explaining would be <b>“stooping”</b> (lowering himself). He claims he lacks <b>“skill / In speech”</b> while giving a skilful speech."
+  },
+  {
+   "lines": "44–47",
+   "text": "Whene’er I passed her; but who passed without<br>Much the same smile? <mark>This grew; I gave commands;<br>Then all smiles stopped together.</mark> There she stands<br><mark>As if alive.</mark> Will’t please you rise? We’ll meet",
+   "note": "The key moment. She smiled at everyone; <b>“This grew”</b>; he <b>“gave commands”</b> and her smiles stopped. He means he had her killed (Browning himself said so, then added that she might have been shut in a convent). Then, coolly, he asks the visitor to stand."
+  },
+  {
+   "lines": "48–53",
+   "text": "The company below, then. I repeat,<br>The Count your master’s known munificence<br>Is ample warrant that <mark>no just pretence<br>Of mine for dowry will be disallowed;</mark><br>Though his fair daughter’s self, as I avowed<br>At starting, <mark>is my object.</mark> Nay, we’ll go",
+   "note": "Back to business. The visitor works for a Count whose daughter the Duke plans to marry. He expects a big dowry (money paid by the bride’s family), though he says the daughter herself is his <b>“object”</b>. She will be his next Duchess."
+  },
+  {
+   "lines": "54–56",
+   "text": "Together down, sir. <mark>Notice Neptune, though,<br>Taming a sea-horse,</mark> thought a rarity,<br>Which Claus of Innsbruck cast in bronze <mark>for me!</mark>",
+   "note": "On the way out, he points to another treasure: a bronze statue of the sea-god Neptune <b>“Taming”</b> a sea-horse, made <b>“for me!”</b> The last word is about himself."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "That’s my last Duchess painted on the wall,",
+   "means": "my (latest) wife, now just a painting.",
+   "tech": "possessive “my”: she is something he owns."
+  },
+  {
+   "line": "LINES 9–10",
+   "q": "since none puts by / The curtain I have drawn for you, but I",
+   "means": "only I decide who sees her.",
+   "why": "he controls her even after her death."
+  },
+  {
+   "line": "LINES 23–24",
+   "q": "she liked whate’er / She looked on, and her looks went everywhere.",
+   "means": "she enjoyed everything and smiled at everyone.",
+   "why": "what he calls a fault is really kindness; his jealousy is the problem."
+  },
+  {
+   "line": "LINE 33",
+   "q": "My gift of a nine-hundred-years-old name",
+   "means": "my ancient family name was my gift to her.",
+   "tech": "a long hyphenated adjective that puffs up his pride."
+  },
+  {
+   "line": "LINES 42–43",
+   "q": "and I choose / Never to stoop.",
+   "means": "I refuse to lower myself by talking to her.",
+   "why": "pride matters more to him than his marriage."
+  },
+  {
+   "line": "LINES 45–46",
+   "q": "I gave commands; / Then all smiles stopped together.",
+   "means": "I had her killed (or shut away).",
+   "tech": "understatement and a heavy pause (caesura)."
+  },
+  {
+   "line": "LINES 54–55",
+   "q": "Notice Neptune, though, / Taming a sea-horse,",
+   "means": "look at my statue of a god taming a sea-horse.",
+   "why": "a symbol of the Duke taming his wife, and a warning to the next one."
+  }
+ ],
+ "form": {
+  "heading": "The form: what a dramatic monologue is, and what Browning does with it",
+  "explain": [
+   "A <b>dramatic monologue</b> is a poem spoken by one character who is <b>not the poet</b>, “in a specific situation at a critical moment.” <span class=\"src\">Baylor University (M. H. Abrams)</span>",
+   "Someone is listening, but “we know of the auditors’ presence, and what they say or do, only from clues in the discourse of the single speaker.” (Auditors = listeners; discourse = speech.) <span class=\"src\">Baylor University (M. H. Abrams)</span>",
+   "<b>Why poets use it:</b> to reveal the speaker’s character, often more than the speaker means to. So we have to read between the lines. <span class=\"src\">Baylor University (M. H. Abrams)</span>",
+   "The form had its “heyday in the Victorian Period”, and Browning is “considered to be the perfecter” of it. <span class=\"src\">Baylor University; Britannica</span>",
+   "A <b>heroic couplet</b> is a pair of rhyming lines in <b>iambic pentameter</b> (about ten syllables, da-DUM da-DUM). <span class=\"src\">Britannica</span>"
+  ],
+  "this_poem": [
+   "<b>One voice only:</b> the Duke talks for all 56 lines. The Duchess is dead and the envoy never speaks. We hear only his side. <span class=\"care\">our reading</span>",
+   "We learn the listener is there only through the Duke’s words: <q>“Will’t please you sit and look at her?”</q> and <q>“Will’t please you rise?”</q> He decides when the visitor sits and stands, just as he controlled his wife. <span class=\"care\">our reading</span>",
+   "<b>Rhyming couplets</b>, 56 lines in one unbroken block. <span class=\"src\">Britannica; our count</span> The lines are <b>iambic pentameter</b>, so these are heroic couplets. <span class=\"src\">EBSCO; Britannica</span> <span class=\"care\">pentameter: one source + our count</span>",
+   "But <b>enjambment</b> (a sentence running on past the end of a line) hides the rhymes, so it sounds like casual chat. <span class=\"src\">EBSCO</span> Example: <q>“I call / That piece a wonder”</q>.",
+   "<b>Why it matters:</b> under the relaxed, chatty surface is a tight, controlled rhyme pattern, like the Duke: charming on top, controlling underneath. <span class=\"care\">our reading</span>",
+   "<b>Openings and endings</b> (AQA’s 2023 report suggests writing about these rather than rhyme labels): it opens on a dead wife turned into a painting and ends on a statue of “Taming”, made <q>“for me!”</q> Both are possessions. AQA praised essays on “the curtain”, Neptune and the dramatic monologue “to depict megalomania” (a hunger for power). <span class=\"src\">AQA 2023 examiners' report</span>"
+  ],
+  "say": "A sentence you could use: Browning uses a dramatic monologue so that the Duke condemns himself in his own words; the silent envoy, like the dead Duchess, is never allowed to speak, so the form itself shows how completely the Duke controls everyone around him."
+ },
+ "methods": [
+  {
+   "title": "Letting him give himself away",
+   "text": "The Duke thinks he is showing off his art and his family name. Instead he reveals his jealousy and cruelty. We judge him by what he lets slip.",
+   "term": "Dramatic irony",
+   "def": "when the audience understands more than the speaker does."
+  },
+  {
+   "title": "Murder in polite words",
+   "text": "He never says he killed her. <q>“I gave commands; / Then all smiles stopped together.”</q> The calm, short phrasing is more frightening than a confession.",
+   "term": "Euphemism",
+   "def": "a mild phrase used instead of a harsh or shocking one."
+  },
+  {
+   "title": "The curtain and the painting",
+   "text": "Alive, she smiled at everyone. As a painting behind <q>“The curtain I have drawn”</q>, she smiles only when he allows it. Death has finally given him total control.",
+   "term": "Symbol",
+   "def": "an object that stands for a bigger idea."
+  },
+  {
+   "title": "Cracks in the polish",
+   "text": "Dashes and asides like <q>“how shall I say?”</q> and <q>“I know not how”</q> break his smooth speech when he talks about her. His anger and jealousy leak through.",
+   "term": "Caesura",
+   "def": "a pause in the middle of a line, often marked by punctuation."
+  }
+ ],
+ "warn": "Examiners warn: in 2023 “a significant minority of students” thought the Duke “is grieving the loss of his first wife, which means they missed the point of the poem entirely.” He is not sad. He is proud, jealous and controlling, and he is already arranging his next marriage. <span class=\"src\">AQA 2023 examiners' report</span>",
+ "context": {
+  "timeline": [
+   {
+    "date": "1558",
+    "text": "Alfonso II d’Este, the future Duke of Ferrara, marries 14-year-old Lucrezia de’ Medici"
+   },
+   {
+    "date": "1561",
+    "text": "Lucrezia dies, aged 16 or 17"
+   },
+   {
+    "date": "1812",
+    "text": "Browning born in London"
+   },
+   {
+    "date": "1838",
+    "text": "Browning’s first visit to Italy"
+   },
+   {
+    "date": "1842",
+    "text": "My Last Duchess published in Dramatic Lyrics",
+    "hi": true
+   },
+   {
+    "date": "1846",
+    "text": "Secretly marries Elizabeth Barrett; they move to Italy"
+   },
+   {
+    "date": "1861",
+    "text": "Elizabeth dies; Browning returns to London"
+   },
+   {
+    "date": "1889",
+    "text": "Browning dies in Venice; buried in Westminster Abbey"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Browning was",
+    "items": [
+     {
+      "text": "A “Major English poet of the Victorian age, noted for his mastery of dramatic monologue and psychological portraiture.” Born in London in 1812.",
+      "src": "Britannica; poets.org",
+      "use": "power · form",
+      "care": ""
+     },
+     {
+      "text": "He had little formal schooling. He learned from his father, whose library held over 6,000 books in six languages, including Italian.",
+      "src": "Britannica; poets.org",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Before this poem he wrote verse plays. Dramatic Lyrics (1842) appeared in his pamphlet series <i>Bells and Pomegranates</i>.",
+      "src": "Britannica",
+      "use": "form",
+      "care": "one source"
+     },
+     {
+      "text": "He made short visits to Italy in 1838 and 1844, and lived there from 1846 to 1861.",
+      "src": "Britannica",
+      "use": "setting",
+      "care": "1838 visit: one source"
+     },
+     {
+      "text": "In 1846 he secretly married the poet Elizabeth Barrett, whose father Britannica calls “despotic”; he never forgave her. This was after the poem was written.",
+      "src": "Britannica; poets.org",
+      "use": "control",
+      "care": "any link to the Duke is our reading"
+     }
+    ]
+   },
+   {
+    "title": "The real Duke and Duchess",
+    "items": [
+     {
+      "text": "The Duke is most likely Alfonso II, fifth Duke of Ferrara (ruled 1559–97). AQA’s 2023 report also refers to “the Duke of Ferrara and Lucrezia”.",
+      "src": "RPO; Victorian Web; EBSCO; AQA",
+      "use": "power",
+      "care": ""
+     },
+     {
+      "text": "In 1558 Lucrezia de’ Medici’s family arranged for her to marry him. She was 14.",
+      "src": "RPO; North Carolina Museum of Art",
+      "use": "women as possessions",
+      "care": ""
+     },
+     {
+      "text": "She died in 1561, aged 16 or 17. Probably of tuberculosis, says one museum; one editor says she died “in what some thought suspicious circumstances”.",
+      "src": "North Carolina Museum of Art; RPO",
+      "use": "power",
+      "care": "sources differ on age and cause"
+     },
+     {
+      "text": "The Duke’s family (the Este) was ancient; Lucrezia’s family, the Medici, came from merchants. This may explain his sneer at her treating his name like “anybody’s gift”.",
+      "src": "RPO",
+      "use": "pride",
+      "care": "one source"
+     },
+     {
+      "text": "Alfonso married three times but had no children. In 1598 Ferrara was taken over by the Pope. His proud “name” ended with him.",
+      "src": "Britannica",
+      "use": "pride · power doesn't last",
+      "care": "link is our reading"
+     }
+    ]
+   },
+   {
+    "title": "Renaissance Italy",
+    "items": [
+     {
+      "text": "The poem is set in the ducal palace of Ferrara, in the Renaissance (the 1500s).",
+      "src": "Victorian Web; EBSCO",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "The Renaissance began in Italy in the 14th century. Rich families, “chief among whom were the Medici”, paid for palaces and art.",
+      "src": "Britannica",
+      "use": "power · status",
+      "care": ""
+     },
+     {
+      "text": "Ferrara was “a powerful principality and cultural centre” (a principality is a state ruled by a prince or duke); its dukes supported famous poets and artists.",
+      "src": "Britannica",
+      "use": "power · status",
+      "care": ""
+     },
+     {
+      "text": "The painter “Frà Pandolf” and the sculptor “Claus of Innsbruck” are invented. “Frà” means a member of a religious order, so the Duke is jealous even of a friar.",
+      "src": "RPO",
+      "use": "jealousy · control",
+      "care": "one source"
+     }
+    ]
+   },
+   {
+    "title": "How the poem came about, and Victorian readers",
+    "items": [
+     {
+      "text": "First published in <i>Dramatic Lyrics</i> (1842) under the title “Italy and France. I. -- Italy”; renamed My Last Duchess in 1849.",
+      "src": "Britannica; RPO",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Asked what “I gave commands” meant, Browning said: “I meant that the commands were that she should be put to death”, then added: “Or he might have had her shut up in a convent.”",
+      "src": "RPO; PMLA (both quoting Hiram Corson)",
+      "use": "power · tyranny",
+      "care": ""
+     },
+     {
+      "text": "Under “coverture”, an old idea in English and American common law, a married woman’s legal identity was merged with her husband’s: husband and wife were treated as “a single entity: the husband.”",
+      "src": "Britannica",
+      "use": "women as possessions",
+      "care": "link to the poem is our reading"
+     },
+     {
+      "text": "Before 1858, a full divorce needed an Act of Parliament: of about 320 granted between 1700 and 1857, “only four were granted to women”.",
+      "src": "National Archives",
+      "use": "power · control",
+      "care": "link to the poem is our reading"
+     },
+     {
+      "text": "AQA’s 2023 report praised reading the poem as “a critique of those who wield their power in an immoral manner and/or for personal gain”.",
+      "src": "AQA 2023 examiners' report",
+      "use": "power",
+      "care": ""
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Browning, a Victorian, sets his poem in Renaissance Italy, where a duke could have a wife silenced with a word. When the law still treated husband and wife as “a single entity: the husband”, the Duke’s treatment of his wife as a possession can be read as a warning to Victorian readers about what happens when power has no limits. <span class=\"care\">our reading</span> Keep the history short: AQA rewards ideas about the abuse of power, not the story of the real Duke."
+ },
+ "comparisons": [
+  {
+   "partner": "Ozymandias",
+   "use_for": [
+    "Power",
+    "Tyranny"
+   ],
+   "aqa": "AQA: specimen and 2023 mark schemes; one of the two most popular choices in 2023",
+   "similar": [
+    "Both show proud, cruel rulers: the Duke’s <q>“nine-hundred-years-old name”</q> and the king’s <q>“sneer of cold command”</q>.",
+    "Both poems centre on a work of art: a statue and a painting. Shelley’s sculptor captures the king’s cruelty; Browning’s painter captures the Duchess’s joy, which the Duke could not control while she lived.",
+    "Both rulers give themselves away in their own words: <q>“I choose / Never to stoop”</q> and <q>“Look on my works, ye Mighty, and despair!”</q>"
+   ],
+   "different": [
+    "<b>Does the power last?</b> Ozymandias’s empire is now <q>“lone and level sands”</q>. The Duke’s power is alive: he is arranging his next marriage.",
+    "<b>Whose power:</b> Ozymandias ruled a kingdom; the Duke uses his power on one woman: <q>“I gave commands; / Then all smiles stopped together.”</q>",
+    "<b>Voice:</b> Ozymandias is told second-hand, so the king feels distant. The Duke speaks directly to us, which feels closer and more chilling."
+   ]
+  },
+  {
+   "partner": "London",
+   "use_for": [
+    "Power"
+   ],
+   "aqa": "AQA: 2018, 2021 and 2023 mark schemes; a top choice in 2023",
+   "similar": [
+    "Both show people crushed by those with power: the silenced Duchess, and Londoners with <q>“Marks of weakness, marks of woe”</q>.",
+    "Both show power controlling people’s lives completely, even their feelings: the Duke stops her smiles; Blake hears <q>“mind-forged manacles”</q>."
+   ],
+   "different": [
+    "<b>Whose voice:</b> the Duke is the powerful one speaking; Blake’s speaker is an ordinary man walking the streets, on the side of the victims.",
+    "<b>Scale:</b> the Duke’s power is personal, over one wife; Blake attacks the whole system, Church and palace: <q>“Runs in blood down palace walls.”</q>",
+    "<b>Attitude:</b> Browning lets the Duke condemn himself without comment; Blake’s anger is open."
+   ]
+  },
+  {
+   "partner": "Checking Out Me History",
+   "use_for": [
+    "Power"
+   ],
+   "aqa": "AQA: 2023 mark scheme (“effects of power to control and repress”); named as one of the “really interesting other selections” in the 2023 report",
+   "similar": [
+    "Both show power silencing people: the Duchess cannot speak at all, and Agard’s speaker was told only <q>“wha dem want to tell me”</q>.",
+    "Both show the powerful controlling what others see: the Duke draws the curtain; the people in charge <q>“Bandage up me eye”</q>."
+   ],
+   "different": [
+    "<b>Who speaks:</b> Browning gives the voice to the oppressor; Agard gives it to the person who was oppressed, and he fights back.",
+    "<b>Ending:</b> the Duchess stays silenced and the Duke moves on. Agard’s speaker breaks free: <q>“I carving out me identity”</q>.",
+    "<b>Form:</b> tight, polished couplets for a controlling aristocrat; dialect and free, broken lines for a voice rejecting control."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "Compare how poets present the effects of power in ‘My Last Duchess’ and in one other poem from ‘Power and conflict’. (AQA, June 2023)",
+  "thesis": "Both Browning and Shelley show that unchecked power makes rulers arrogant and cruel, but while Shelley shows that power crumbling to dust, Browning’s Duke is still powerful and dangerous at the end.",
+  "para": "Both poets present powerful men whose pride destroys others. Browning’s Duke is proud of his <q>“nine-hundred-years-old name”</q> and refuses to <q>“stoop”</q> to speak to his wife. Instead, <q>“I gave commands; / Then all smiles stopped together.”</q> The calm euphemism shows how easily he ends a life, and the dramatic monologue lets him condemn himself without realising it. Shelley’s king is similarly arrogant, with a <q>“sneer of cold command”</q>. However, Shelley shows that such power cannot last: after the boast <q>“Look on my works”</q> comes the blunt <q>“Nothing beside remains.”</q> Where Ozymandias is mocked by time, the Duke ends the poem still in control, already bargaining for his next wife. Browning’s warning is perhaps darker: tyranny does not always fall by itself.",
+  "why": [
+   "Thesis answers the question about the effects of power in one sentence",
+   "Short quotations from both poems, with methods named (euphemism, dramatic monologue)",
+   "Compares throughout (“similarly”, “However”, “Where…”) and ends with a thoughtful, tentative judgement (“perhaps”)"
+  ]
+ }
+}

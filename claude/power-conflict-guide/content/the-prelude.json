@@ -1,0 +1,464 @@
+{
+ "num": 7,
+ "slug": "the-prelude",
+ "title": "Extract from The Prelude",
+ "poet": "William Wordsworth",
+ "poet_dates": "1770–1850",
+ "published": "begun 1798–99, published 1850",
+ "group": "Nature",
+ "anchor": false,
+ "copyright": false,
+ "facts": {
+  "type": "Blank verse extract (44 lines)",
+  "exam": "Not yet the printed poem; suggested as a partner in AQA mark schemes (specimen, 2018, 2021, 2023)",
+  "partner": "Storm on the Island"
+ },
+ "themes": [
+  {
+   "name": "Nature",
+   "aqa": true,
+   "src": "AQA mark schemes: specimen, 2018, Nov 2021, 2023 (“the power of nature”)"
+  },
+  {
+   "name": "Power",
+   "aqa": true,
+   "src": "AQA specimen mark scheme (“Romantic ideas about power”); 2018 mark scheme (“effects of power on the individual”)"
+  },
+  {
+   "name": "Time",
+   "aqa": true,
+   "src": "AQA mark scheme 2018 (“power of nature / time from a Romantic perspective”)"
+  },
+  {
+   "name": "Pride",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Fear",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Memory",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Childhood",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Guilt",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A boy takes a boat that isn't his and rows out on a lake at night. A huge black mountain peak seems to rise up and chase him, so he rows back, scared. For days afterwards his mind is haunted.",
+  "message": "Nature is far more powerful than a proud human. It can teach us through fear as well as through beauty, and that lesson stays in the mind for a long time.",
+  "why": "Wordsworth was a Romantic poet who believed nature shaped who he became. He said he grew up “Foster'd alike by beauty and by fear”. <span class=\"src\">Britannica</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "A “prelude” is an introduction. Wordsworth meant this long poem to introduce an even bigger one, <i>The Recluse</i>, which he never finished. Its full title is <i>The Prelude, or, Growth of a Poet's Mind</i>: it is the story of how his mind grew. “Extract from” tells you that you are reading only 44 lines from Book One, which is about his childhood and school-time.",
+  "src": "Britannica; 1850 first edition (Advertisement), Project Gutenberg"
+ },
+ "synopsis": {
+  "setup": "An adult poet remembers one evening from his boyhood in the Lake District. Everything is in the past tense and told in his own voice, “I”.",
+  "steps": [
+   {
+    "lines": "Lines 1–7",
+    "text": "One summer evening he finds a little boat tied to a tree. He unties it and rows out without asking. He knows it is wrong: it is <q>“an act of stealth / And troubled pleasure”</q>."
+   },
+   {
+    "lines": "Lines 8–16",
+    "text": "The oars leave circles of moonlight on the water. Feeling <q>“Proud of his skill”</q>, he fixes his eyes on the top of a rocky ridge and rows in a straight line towards it. Above it there is only sky and stars."
+   },
+   {
+    "lines": "Lines 17–20",
+    "text": "He feels magical and confident. The boat is <q>“an elfin pinnace”</q> (a small fairy boat) gliding <q>“like a swan”</q>."
+   },
+   {
+    "lines": "Lines 21–29",
+    "text": "Suddenly, from behind the ridge, <q>“a huge peak, black and huge”</q> appears. As he rows on, it seems to grow, to rise up like a living creature, and to stride after him."
+   },
+   {
+    "lines": "Lines 29–34",
+    "text": "Terrified, he turns round <q>“With trembling oars”</q>, creeps back, ties up the boat and walks home through the fields in a <q>“grave / And serious mood”</q>."
+   },
+   {
+    "lines": "Lines 35–44",
+    "text": "For many days his mind is troubled. He can no longer picture pleasant things like trees, sea and <q>“green fields”</q>. Instead <q>“huge and mighty forms”</q> move through his thoughts by day and trouble his dreams at night."
+   }
+  ],
+  "turn": "<b>The turning point (lines 21–24):</b> “When, from behind that craggy steep…” The peak <q>“Upreared its head”</q>, and the proud, happy mood flips into fear.",
+  "ending": "Not on the lake, but inside his mind. The mountain is gone, yet <q>“huge and mighty forms”</q> are still <q>“a trouble to my dreams”</q>.",
+  "tone": "Starts calm, magical and proud. Becomes tense and frightening. Ends serious and unsettled, as the adult looks back on how the experience changed him."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam. Your anthology prints “rocky cove”; some older editions say “rocky cave”: quote “cove”.",
+ "poem_blocks": [
+  {
+   "lines": "1–7",
+   "text": "One summer evening <mark>(led by her)</mark> I found<br>A little boat tied to a willow tree<br>Within a rocky cove, its usual home.<br>Straight I unloosed her chain, and stepping in<br>Pushed from the shore. It was an <mark>act of stealth</mark><br>And <mark>troubled pleasure</mark>, nor without the voice<br>Of mountain-echoes did my boat move on;",
+   "note": "<b>“her”</b> in line 1 is Nature: the lines just before this extract talk about “Nature” and “her aim”. So Nature leads him to the boat. He takes it without asking (<b>“stealth”</b> = sneaking). He enjoys it, but feels guilty: <b>“troubled pleasure”</b>. Even the mountains seem to echo back at him."
+  },
+  {
+   "lines": "8–16",
+   "text": "Leaving behind her still, on either side,<br>Small circles <mark>glittering idly in the moon</mark>,<br>Until they melted all into one track<br>Of <mark>sparkling light</mark>. But now, like one who rows,<br><mark>Proud of his skill</mark>, to reach a chosen point<br>With an <mark>unswerving line</mark>, I fixed my view<br>Upon the summit of a craggy ridge,<br>The horizon’s utmost boundary; far above<br>Was nothing but the stars and the grey sky.",
+   "note": "Here “her” is the boat. The oars leave ripples that shine in the moonlight. He is proud of his rowing and fixes his eyes on the top of a ridge, which seems to be the edge of the world (<b>“utmost boundary”</b>). He thinks he is in control."
+  },
+  {
+   "lines": "17–20",
+   "text": "She was an <mark>elfin pinnace</mark>; <mark>lustily</mark><br>I dipped my oars into the silent lake,<br>And, as I rose upon the stroke, my boat<br>Went heaving through the water <mark>like a swan</mark>;",
+   "note": "A <b>pinnace</b> is a small boat; <b>elfin</b> means fairy-like. <b>“lustily”</b> = with lots of energy. The boat glides gracefully, like a swan. This is the high point of his confidence."
+  },
+  {
+   "lines": "21–29",
+   "text": "When, from behind that craggy steep till then<br>The horizon’s bound, <mark>a huge peak, black and huge</mark>,<br>As if with <mark>voluntary power instinct</mark>,<br><mark>Upreared its head</mark>. I <mark>struck and struck again</mark>,<br>And growing still in stature the grim shape<br>Towered up between me and the stars, and still,<br>For so it seemed, <mark>with purpose of its own</mark><br>And <mark>measured motion like a living thing</mark>,<br><mark>Strode after me</mark>. With trembling oars I turned,",
+   "note": "As he rows away from the shore, a bigger mountain behind the ridge comes into view. To him it looks alive: <b>“voluntary power instinct”</b> = filled with its own will and power. The harder he rows (<b>“struck”</b> the water), the taller it seems to grow, blocking out the stars. It seems to stride after him like a giant. <b>“For so it seemed”</b> admits it was his imagination."
+  },
+  {
+   "lines": "30–34",
+   "text": "And through the silent water <mark>stole my way</mark><br>Back to the covert of the willow tree;<br>There in her mooring-place I left my bark, –<br>And through the meadows homeward went, in <mark>grave</mark><br><mark>And serious mood</mark>; but after I had seen",
+   "note": "He creeps back (<b>“stole my way”</b>: a pun, since he stole the boat too), returns the boat (<b>“bark”</b> = boat) to its hiding place (<b>“covert”</b>) and walks home, shaken and serious."
+  },
+  {
+   "lines": "35–44",
+   "text": "That spectacle, for many days, my brain<br>Worked with a dim and undetermined sense<br>Of <mark>unknown modes of being</mark>; o’er my thoughts<br><mark>There hung a darkness</mark>, call it solitude<br>Or <mark>blank desertion</mark>. No familiar shapes<br>Remained, no pleasant images of trees,<br>Of sea or sky, <mark>no colours of green fields</mark>;<br>But <mark>huge and mighty forms, that do not live<br>Like living men</mark>, moved slowly through the mind<br>By day, and were <mark>a trouble to my dreams</mark>.",
+   "note": "For days he can't stop thinking about it. He senses <b>“unknown modes of being”</b>: kinds of existence or power he doesn't understand. His mind feels dark, lonely and empty. His happy pictures of nature are replaced by giant, mysterious shapes that haunt him day and night."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "One summer evening (led by her) I found",
+   "means": "Nature (“her”) led him to the boat.",
+   "why": "from the first line, nature is in charge, not the boy."
+  },
+  {
+   "line": "LINES 5–6",
+   "q": "It was an act of stealth / And troubled pleasure",
+   "means": "he knows he's doing wrong, but enjoys it.",
+   "tech": "oxymoron: “troubled” and “pleasure” clash, showing guilt mixed with thrill."
+  },
+  {
+   "line": "LINE 12",
+   "q": "Proud of his skill",
+   "means": "he feels confident and in control.",
+   "why": "pride comes before a fall: nature is about to humble him."
+  },
+  {
+   "line": "LINE 17",
+   "q": "She was an elfin pinnace",
+   "means": "the boat feels like a magical fairy boat.",
+   "tech": "metaphor: a child's playful, romantic view, just before the fear."
+  },
+  {
+   "line": "LINE 22",
+   "q": "a huge peak, black and huge",
+   "means": "the mountain is enormous and dark.",
+   "tech": "repetition of “huge”, as if words fail him; dark colour adds menace."
+  },
+  {
+   "line": "LINE 29",
+   "q": "Strode after me. With trembling oars I turned",
+   "means": "the mountain seems to chase him and he flees in fear.",
+   "tech": "personification, then a caesura (the full stop) as he turns: power swaps sides."
+  },
+  {
+   "line": "LINES 42–43",
+   "q": "huge and mighty forms, that do not live / Like living men",
+   "means": "strange, giant shapes now fill his mind.",
+   "why": "the experience changes how he sees nature for good; ends with “a trouble to my dreams”."
+  }
+ ],
+ "form": {
+  "heading": "The form: what blank verse is, and what Wordsworth does with it",
+  "explain": [
+   "<b>Blank verse</b> is “unrhymed iambic pentameter”: about ten syllables a line in a da-DUM, da-DUM rhythm, with no rhyme. <span class=\"src\">Britannica; poets.org</span>",
+   "In skilled hands it can sound close to real talk: Britannica says Shakespeare's blank verse is “approximating the rhythms of speech”. <span class=\"src\">Britannica</span>",
+   "It is the form of great serious poems, such as Milton's epic <i>Paradise Lost</i>. <span class=\"src\">poets.org; Britannica</span>",
+   "The Prelude is an <b>autobiographical epic</b>: an epic is usually a “long narrative poem recounting heroic deeds”, but here the hero is the poet himself, and the story is how his mind grew. <span class=\"src\">Britannica</span> <span class=\"care\">epic definition: one source</span>"
+  ],
+  "this_poem": [
+   "<b>First person, past tense:</b> the adult Wordsworth looks back on a childhood memory, so we get the boy's feelings and the man's reflection.",
+   "<b>No rhyme, no stanzas:</b> one unbroken block of 44 lines. It flows like a remembered story told aloud. <span class=\"care\">our count</span>",
+   "<b>Enjambment</b> (sentences running over line ends) speeds the panic: “I struck and struck again, / And growing still in stature the grim shape / Towered up…” The mountain seems to grow across the lines. <span class=\"care\">our reading</span>",
+   "<b>Sudden stops:</b> “Upreared its head.” and “Strode after me.” each finish a long sentence. They sit at the start of a line and stop dead at a full stop (a <b>caesura</b>, a pause inside a line), like sudden movements. <span class=\"care\">our reading</span>",
+   "<b>Structure:</b> calm → proud → terrified → haunted. The poem doesn't end with the escape; it ends inside his mind, which is where the real effect lies."
+  ],
+  "say": "A sentence you could use: Wordsworth uses blank verse, the flexible, speech-like form of serious epic poetry, to tell a small childhood memory, which shows how important this moment was in the growth of his mind; the run-on lines make the mountain seem to grow before our eyes."
+ },
+ "methods": [
+  {
+   "title": "The mountain comes alive",
+   "text": "The peak <q>“Upreared its head”</q> and <q>“Strode after me”</q>, <q>“with purpose of its own”</q>. Nature becomes a giant that seems to punish the boy. But <q>“For so it seemed”</q> reminds us it is his guilty imagination at work.",
+   "term": "Personification",
+   "def": "giving human actions or feelings to something that isn't human."
+  },
+  {
+   "title": "Light turns to dark",
+   "text": "At first everything shines: <q>“glittering”</q>, <q>“sparkling light”</q>, the moon. After the peak appears: <q>“black”</q>, <q>“grim shape”</q>, <q>“There hung a darkness”</q>. The light and colour drain out of his world, just as his confidence does.",
+   "term": "Contrast",
+   "def": "putting two opposite things close together so each stands out more."
+  },
+  {
+   "title": "Repetition that grows",
+   "text": "<q>“a huge peak, black and huge”</q>, <q>“I struck and struck again”</q>, <q>“and still”</q>. The repeated words make the mountain seem to keep growing and the boy keep panicking, as if he is stuck in a nightmare.",
+   "term": "Repetition",
+   "def": "using the same word or phrase more than once for effect."
+  },
+  {
+   "title": "An ending inside the mind",
+   "text": "The last ten lines are not about the lake at all. Pleasant images such as <q>“green fields”</q> are replaced by <q>“huge and mighty forms”</q>. Nature's power doesn't just scare him once; it changes the way he thinks.",
+   "term": "Turning point (shift)",
+   "def": "the moment a poem changes direction or mood (here, lines 21–24)."
+  }
+ ],
+ "warn": "Examiners warn: “If you want to talk about structure, perhaps consider beginnings and endings of the text rather than trying to talk about particular structural features such enjambment / caesura / rhyme schemes if you have nothing useful to say about them.” (AQA 2023 report). So only mention enjambment if you say what it does.",
+ "context": {
+  "timeline": [
+   {
+    "date": "1770",
+    "text": "Wordsworth born, Cockermouth, Cumberland"
+   },
+   {
+    "date": "1778",
+    "text": "His mother dies (his father dies a few years later). He is sent to school at Hawkshead in the Lake District <span class=\"care\">school start year: one source</span>"
+   },
+   {
+    "date": "1790",
+    "text": "Walking tour of revolutionary France"
+   },
+   {
+    "date": "1798",
+    "text": "<i>Lyrical Ballads</i>, with Coleridge, helps launch English Romanticism"
+   },
+   {
+    "date": "1798–99",
+    "text": "Begins The Prelude, in Goslar, Germany",
+    "hi": true
+   },
+   {
+    "date": "1805",
+    "text": "First full version finished; he goes on revising it for decades"
+   },
+   {
+    "date": "1843",
+    "text": "Becomes Poet Laureate"
+   },
+   {
+    "date": "1850",
+    "text": "Dies in April; The Prelude is published later that year",
+    "hi": true
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Wordsworth was",
+    "items": [
+     {
+      "text": "Born in 1770 in Cockermouth, in the Lake District area of north-west England.",
+      "src": "Britannica; Poetry Archive; Wordsworth Trust",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "He lost his mother when he was 7 and his father when he was 13.",
+      "src": "Britannica; Poetry Archive",
+      "use": "nature as a guide or parent: “(led by her)”",
+      "care": "the link is our reading"
+     },
+     {
+      "text": "He went to school at Hawkshead, “a village in the heart of the Lake District”, where Britannica says the chief advantage was the chance to play outdoors.",
+      "src": "Britannica; Wordsworth Trust",
+      "use": "nature · childhood",
+      "care": ""
+     },
+     {
+      "text": "As a student in 1790 he walked through revolutionary France and became “an ardent republican sympathizer” (he supported the revolution against the king).",
+      "src": "Britannica; Poetry Archive",
+      "use": "power",
+      "care": ""
+     },
+     {
+      "text": "In 1843 he “reluctantly became Poet Laureate” (the official national poet). He died in 1850.",
+      "src": "Poetry Archive; Britannica",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "The story behind the poem",
+    "items": [
+     {
+      "text": "The Prelude is an “autobiographical epic poem in blank verse”: the story of his own life, told as a long, serious poem.",
+      "src": "Britannica",
+      "use": "memory · identity",
+      "care": ""
+     },
+     {
+      "text": "He began it in Germany in the winter of 1798–99 and kept revising it for about 40 years: there are four manuscript versions.",
+      "src": "Wordsworth Trust; Britannica",
+      "use": "time · memory",
+      "care": "the first edition says it was begun in 1799"
+     },
+     {
+      "text": "It is addressed to his friend, the poet Samuel Taylor Coleridge. The family called it “The Poem to Coleridge”.",
+      "src": "1850 first edition; Poetry Archive; Wordsworth Trust",
+      "use": "the personal, confiding voice",
+      "care": ""
+     },
+     {
+      "text": "It was only published after his death, in 1850. It was meant as the introduction to a bigger poem, <i>The Recluse</i>, which he never finished.",
+      "src": "Britannica; 1850 first edition",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "The extract comes from Book One, “Childhood and School-time”. Its subject is how the poet's mind and imagination grew.",
+      "src": "1850 first edition; Britannica",
+      "use": "effects of power on the individual",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "Romanticism and the sublime",
+    "items": [
+     {
+      "text": "<i>Lyrical Ballads</i> (1798), written with Coleridge, “helped launch the English Romantic movement”.",
+      "src": "Britannica; Wordsworth Trust",
+      "use": "Romantic ideas about power",
+      "care": ""
+     },
+     {
+      "text": "The Romantics valued nature, feeling and imagination: Britannica describes “an exaltation of emotion over reason”: putting feelings above logic.",
+      "src": "Britannica",
+      "use": "nature",
+      "care": "one source"
+     },
+     {
+      "text": "Wordsworth called poetry “the spontaneous overflow of powerful feelings”, “recollected in tranquility”. This extract is exactly that: a strong feeling, remembered calmly years later.",
+      "src": "Britannica",
+      "use": "memory",
+      "care": "link to the extract is our reading"
+     },
+     {
+      "text": "<b>The sublime</b>: the philosopher Edmund Burke (1757) linked it with “awe, terror and danger”, and saw nature as the most sublime thing of all. The peak is sublime: terrifying and awe-inspiring at once.",
+      "src": "Tate; Britannica",
+      "use": "the power of nature",
+      "care": "applying it to this poem is our reading"
+     },
+     {
+      "text": "AQA's own mark scheme uses the word: it contrasts “ugliness of power in ‘London’” with the “more sublime imagery of ‘extract from The Prelude’”.",
+      "src": "AQA mark scheme June 2023",
+      "use": "power · nature",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "What the rest of the poem tells us",
+    "items": [
+     {
+      "text": "Earlier in Book One he says he grew up “Fostered alike by beauty and by fear”: nature raised him through both.",
+      "src": "1850 first edition; Britannica",
+      "use": "fear · nature",
+      "care": ""
+     },
+     {
+      "text": "The lines just before the extract say Nature sometimes teaches through “Severer interventions”, “as best might suit her aim”. That is who “her” is in “(led by her)”.",
+      "src": "1850 first edition",
+      "use": "the power of nature",
+      "care": ""
+     },
+     {
+      "text": "Just before that, he remembers stealing birds from other people's traps and then hearing “Low breathings coming after me”. So the boat story is a pattern: wrongdoing, then nature seems to pursue him.",
+      "src": "1850 first edition",
+      "use": "guilt · conscience",
+      "care": "the pattern is our reading"
+     },
+     {
+      "text": "Straight after the extract he thanks the “Spirit of the universe” for teaching him through nature, not “the mean and vulgar works of man”, so that pain and fear led him to see “A grandeur in the beatings of the heart”.",
+      "src": "1850 first edition",
+      "use": "effects of power on the individual",
+      "care": ""
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Wordsworth was a Romantic poet who believed nature shaped his mind, “Fostered alike by beauty and by fear”. By showing a proud boy terrified by a mountain, he presents nature as a sublime power, greater than any human, that teaches through fear and changes how a person thinks for ever."
+ },
+ "comparisons": [
+  {
+   "partner": "Storm on the Island",
+   "use_for": [
+    "Nature",
+    "Power"
+   ],
+   "aqa": "AQA: specimen, 2018, Nov 2021 and 2023 mark schemes (“the power of nature in ‘extract from The Prelude’ or ‘Storm on the Island’”)",
+   "similar": [
+    "Both show human confidence beaten by nature: the boy is <q>“Proud of his skill”</q>; the islanders say <q>“We are prepared:”</q>. Both are proved wrong.",
+    "Both turn nature into a living attacker: the peak <q>“Strode after me”</q>; the sea <q>“spits like a tame cat / Turned savage”</q>.",
+    "Both end with fear of something huge and hard to name: <q>“huge and mighty forms”</q> and <q>“a huge nothing that we fear.”</q>"
+   ],
+   "different": [
+    "<b>Who:</b> one boy alone (“I”) against a whole community (“We”).",
+    "<b>When:</b> Wordsworth looks back on a past memory; Heaney's storm happens in the present tense, now.",
+    "<b>Seen or unseen:</b> the peak is all too visible, <q>“black and huge”</q>; Heaney's wind <q>“strafes invisibly”</q>.",
+    "<b>What it leads to:</b> Wordsworth's fear changes his mind and, as a Romantic, he values it; Heaney's islanders just sit tight and endure."
+   ]
+  },
+  {
+   "partner": "Ozymandias",
+   "use_for": [
+    "Power",
+    "Pride",
+    "Nature"
+   ],
+   "aqa": "AQA: specimen mark scheme (Ozymandias question: “comparisons between human and natural power, such as ‘Extract from The Prelude’”); 2018 mark scheme (“power of nature / time from a Romantic perspective”)",
+   "similar": [
+    "Both humble human pride: <q>“Proud of his skill”</q> and <q>“king of kings”</q>. In both, a greater power wins.",
+    "Both are by Romantic poets and end on nature's vastness: <q>“huge and mighty forms”</q> and <q>“The lone and level sands stretch far away.”</q>"
+   ],
+   "different": [
+    "<b>Whose pride:</b> Shelley mocks a tyrant; Wordsworth looks honestly at his own pride as a boy.",
+    "<b>Does anyone learn?</b> Ozymandias is long dead and his boast just looks foolish; the boy survives and is changed.",
+    "<b>Time:</b> one evening on a lake against thousands of years in a desert.",
+    "<b>Voice:</b> a personal first-person memory against a story told second-hand by a traveller."
+   ]
+  },
+  {
+   "partner": "Remains",
+   "use_for": [
+    "Memory",
+    "Effects of conflict",
+    "Guilt"
+   ],
+   "aqa": "Our suggestion",
+   "similar": [
+    "Both speakers are haunted by a memory that won't leave: <q>“a trouble to my dreams”</q> and <q>“he’s here in my head when I close my eyes”</q>.",
+    "Both look back on something they did wrong: <q>“an act of stealth”</q> and shooting a man who was <q>“probably armed, possibly not”</q>."
+   ],
+   "different": [
+    "<b>How serious:</b> borrowing a boat against killing a man; the soldier's guilt is far heavier.",
+    "<b>Does it end?</b> In the lines after the extract, Wordsworth's fear becomes a lesson that made him grow; the soldier gets no peace: <q>“his bloody life in my bloody hands.”</q>",
+    "<b>Language:</b> grand, flowing blank verse against chatty modern speech (<q>“End of story, except not really.”</q>)."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present the power of nature in ‘Extract from The Prelude’ and in one other poem from ‘Power and conflict’.",
+  "thesis": "Both Wordsworth and Heaney show nature overpowering human confidence, but Wordsworth's boy is changed by a terror he comes to value, while Heaney's islanders can only endure a force they cannot even see.",
+  "para": "Both poets present nature as a power that crushes human confidence. Wordsworth's boy rows out <q>“Proud of his skill”</q>, until <q>“a huge peak, black and huge”</q> rises up; the repetition of <q>“huge”</q> suggests words fail him. Personified, the peak <q>“Strode after me”</q>, and he flees <q>“With trembling oars”</q>. Heaney's islanders also begin confidently, insisting <q>“We are prepared:”</q>, yet the wind <q>“strafes invisibly”</q> and <q>“Space is a salvo”</q>, war imagery that makes nature an army. However, while Heaney's storm stays invisible, <q>“a huge nothing that we fear”</q>, Wordsworth's mountain leaves <q>“huge and mighty forms”</q> in his mind. As a Romantic, he presents this sublime fear as part of his growth, whereas Heaney's islanders simply endure.",
+  "why": [
+   "Opens with a clear point that answers the question on the power of nature",
+   "Short quotations from both poems, with methods (repetition, personification, war imagery) and their effects",
+   "Compares throughout (“also”, “However”, “whereas”) and brings in Romantic context briefly and relevantly"
+  ]
+ }
+}

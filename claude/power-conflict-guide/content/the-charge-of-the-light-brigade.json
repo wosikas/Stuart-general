@@ -1,0 +1,445 @@
+{
+ "num": 10,
+ "slug": "the-charge-of-the-light-brigade",
+ "title": "The Charge of the Light Brigade",
+ "poet": "Alfred, Lord Tennyson",
+ "poet_dates": "1809–1892",
+ "published": "published 9 December 1854",
+ "group": "War and its aftermath",
+ "anchor": false,
+ "copyright": false,
+ "facts": {
+  "type": "Narrative poem in 6 numbered stanzas (55 lines)",
+  "exam": "Not yet the printed poem; named in many AQA mark schemes",
+  "partner": "Remains (your anchor); Bayonet Charge also works well"
+ },
+ "themes": [
+  {
+   "name": "Conflict",
+   "aqa": true,
+   "src": "AQA mark schemes 2022 and 2025"
+  },
+  {
+   "name": "War",
+   "aqa": true,
+   "src": "AQA examiners' report 2022"
+  },
+  {
+   "name": "Power",
+   "aqa": true,
+   "src": "AQA mark schemes 2021 and 2023"
+  },
+  {
+   "name": "Effects of conflict",
+   "aqa": true,
+   "src": "AQA mark schemes 2017 and 2019"
+  },
+  {
+   "name": "Patriotism and duty",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Loss",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Memory",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "In 1854, about six hundred British cavalrymen are ordered to charge down a valley at Russian guns. The order is a mistake, but they obey. Many die; the poet tells us to honour them.",
+  "message": "The soldiers' courage and obedience deserve to be remembered for ever, even though their leaders got it badly wrong.",
+  "why": "Tennyson was Poet Laureate. Britannica says the title is given “for poetic excellence”, and laureates from Tennyson on wrote “poems for royal and national occasions”. He wrote this poem “only a few minutes after reading an account in <i>The Times</i>”. <span class=\"src\">Britannica; Poetry Archive</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "A <b>charge</b> is a fast attack on horseback. The <b>Light Brigade</b> was a unit of light cavalry (soldiers on horseback): Britannica lists lancers, hussars and light dragoons. In the poem they fight with <q>“sabres”</q> (curved swords). The title names a real event, the charge at Balaklava on 25 October 1854, and names the soldiers as a group, not as individuals.",
+  "src": "National Army Museum; Britannica"
+ },
+ "synopsis": {
+  "setup": "A narrator who was not there tells the story of the charge in the third person (“they”). The six numbered stanzas follow the charge from start to finish, then turn to the reader.",
+  "steps": [
+   {
+    "lines": "Lines 1–8 (stanza 1)",
+    "text": "The horsemen ride on and on: “Half a league onward”. An officer shouts the order to charge the guns. They ride “Into the valley of Death”."
+   },
+   {
+    "lines": "Lines 9–17 (stanza 2)",
+    "text": "Was any soldier frightened? No, even though they knew “Some one had blunder’d”: someone had made a terrible mistake. A soldier's job is to obey, not to ask why, and to “do and die”."
+   },
+   {
+    "lines": "Lines 18–26 (stanza 3)",
+    "text": "Cannons fire at them from the right, the left and the front. They still ride bravely on, into the “jaws of Death”, the “mouth of Hell”."
+   },
+   {
+    "lines": "Lines 27–38 (stanza 4)",
+    "text": "The longest stanza: the fighting. They reach the guns, slash at the gunners with their swords and break through the Russian line. Then they ride back, but “Not the six hundred”: many are missing."
+   },
+   {
+    "lines": "Lines 39–49 (stanza 5)",
+    "text": "Riding back, they are fired on from all sides again, now with “Cannon behind them”. Horses and men fall. Only “All that was left of them” return."
+   },
+   {
+    "lines": "Lines 50–55 (stanza 6)",
+    "text": "The poet steps out of the story and speaks to us. Their glory will never fade. He orders the reader to “Honour the Light Brigade”."
+   }
+  ],
+  "turn": "<b>The turning point (line 37):</b> “Then they rode back, but not / Not the six hundred.” The repeated “not” is the first time the famous number shrinks. From here, the poem counts the cost.",
+  "ending": "On a command to the reader: “Honour the Light Brigade, / Noble six hundred!” The poem ends as a public memorial, not on the dead.",
+  "tone": "Fast, loud and admiring, like a song of praise. But there is one quiet note of blame: “Some one had blunder’d”."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam. Read it aloud: you will hear the gallop.",
+ "poem_blocks": [
+  {
+   "lines": "1–8",
+   "text": "<mark>Half a league, half a league,</mark><br>Half a league onward,<br>All in the valley of Death<br>Rode the six hundred.<br>‘Forward, the Light Brigade!<br>Charge for the guns!’ he said:<br><mark>Into the valley of Death</mark><br><mark>Rode the six hundred.</mark>",
+   "note": "We start in the middle of the action. A league is an old measure of distance. An officer gives the order. <b>“valley of Death”</b>: Death has a capital letter, as if it is waiting for them."
+  },
+  {
+   "lines": "9–17",
+   "text": "‘Forward, the Light Brigade!’<br><mark>Was there a man dismay’d?</mark><br>Not tho’ the soldier knew<br><mark>Some one had blunder’d:</mark><br>Theirs not to make reply,<br><mark>Theirs not to reason why,</mark><br><mark>Theirs but to do and die:</mark><br>Into the valley of Death<br>Rode the six hundred.",
+   "note": "<b>“dismay’d”</b> = afraid or upset. The soldiers knew someone had <b>“blunder’d”</b> (made a big mistake), but they obeyed. Their job was not to answer back or ask why, only to act, and die."
+  },
+  {
+   "lines": "18–26",
+   "text": "<mark>Cannon to right of them,</mark><br><mark>Cannon to left of them,</mark><br><mark>Cannon in front of them</mark><br>Volley’d and thunder’d;<br>Storm’d at with shot and shell,<br>Boldly they rode and well,<br><mark>Into the jaws of Death,</mark><br><mark>Into the mouth of Hell</mark><br>Rode the six hundred.",
+   "note": "They are surrounded by guns firing all at once (<b>“Volley’d”</b>). Death and Hell are like a monster's mouth swallowing them. Still they ride “Boldly”."
+  },
+  {
+   "lines": "27–38",
+   "text": "<mark>Flash’d all their sabres bare,</mark><br>Flash’d as they turn’d in air<br>Sabring the gunners there,<br>Charging an army, while<br><mark>All the world wonder’d:</mark><br>Plunged in the battery-smoke<br>Right thro’ the line they broke;<br>Cossack and Russian<br>Reel’d from the sabre-stroke<br>Shatter’d and sunder’d.<br><mark>Then they rode back, but not</mark><br><mark>Not the six hundred.</mark>",
+   "note": "The fight at the guns. Swords (<b>“sabres”</b>) flash. A few horsemen take on a whole army while the world watches in amazement. The enemy is <b>“sunder’d”</b> (split apart). Then they turn back, but far fewer."
+  },
+  {
+   "lines": "39–49",
+   "text": "Cannon to right of them,<br>Cannon to left of them,<br><mark>Cannon behind them</mark><br>Volley’d and thunder’d;<br>Storm’d at with shot and shell,<br><mark>While horse and hero fell,</mark><br>They that had fought so well<br>Came thro’ the jaws of Death<br>Back from the mouth of Hell,<br><mark>All that was left of them,</mark><br><mark>Left of six hundred.</mark>",
+   "note": "Stanza 3 again, in reverse: now the cannon are <b>“behind them”</b>. Horses and men fall. The survivors come back out of the monster's mouth, but only “All that was left”."
+  },
+  {
+   "lines": "50–55",
+   "text": "<mark>When can their glory fade?</mark><br>O the wild charge they made!<br>All the world wonder’d.<br><mark>Honour the charge they made!</mark><br><mark>Honour the Light Brigade,</mark><br><mark>Noble six hundred!</mark>",
+   "note": "The poet speaks straight to us. A question that needs no answer: their glory never can fade. Then commands: <b>“Honour”</b> them. Even after the losses, he calls them the “Noble six hundred”."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "Half a league, half a league,",
+   "means": "they keep riding forward, on and on.",
+   "tech": "repetition and a galloping rhythm (DUM-da-da), like hooves."
+  },
+  {
+   "line": "LINES 7–8",
+   "q": "Into the valley of Death / Rode the six hundred.",
+   "means": "they ride knowingly towards death.",
+   "why": "a refrain: it comes back again and again, like a drumbeat. “Death” is personified (treated like a person)."
+  },
+  {
+   "line": "LINE 12",
+   "q": "Some one had blunder’d:",
+   "means": "someone in charge made a terrible mistake.",
+   "why": "the only open criticism. “Some one” is vague, so no leader is named. Tennyson said the poem was “founded on” this phrase."
+  },
+  {
+   "line": "LINES 14–15",
+   "q": "Theirs not to reason why, / Theirs but to do and die:",
+   "means": "a soldier's job is to obey, not to think.",
+   "tech": "repetition (“Theirs”) and rhyme; can be read as praise of duty, or as a quiet protest."
+  },
+  {
+   "line": "LINES 24–25",
+   "q": "Into the jaws of Death, / Into the mouth of Hell",
+   "means": "the valley is like a monster eating them.",
+   "tech": "metaphor; reversed in stanza 5 (“Came thro’ the jaws of Death”) as they come back out."
+  },
+  {
+   "line": "LINES 48–49",
+   "q": "All that was left of them, / Left of six hundred.",
+   "means": "only part of the brigade survives.",
+   "why": "the refrain changes: “Rode the six hundred” has become “Left of six hundred”. The number tracks the losses."
+  },
+  {
+   "line": "LINE 53",
+   "q": "Honour the charge they made!",
+   "means": "you, the reader, must remember them.",
+   "tech": "imperative (a command) and exclamation; the poem becomes a public memorial."
+  }
+ ],
+ "form": {
+  "heading": "The form: a story in six numbered stanzas, in a galloping rhythm",
+  "explain": [
+   "A <b>narrative poem</b> tells a story. Here the story is told in the <b>third person</b> (“they”, “the six hundred”), by someone who was not there. AQA's mark schemes contrast this with the first person (“I”) in Remains. <span class=\"src\">AQA mark schemes 2017 and 2024</span>",
+   "A <b>dactyl</b> is a beat of one stressed syllable followed by two unstressed ones: DUM-da-da. Britannica calls dactylic rhythms “fairly rare in English verse”. <span class=\"src\">Britannica</span>",
+   "Tennyson himself said: “my poem is dactylic, and founded on the phrase, ‘Some one had blundered.’” <span class=\"src\">Tennyson's note, University of Toronto (RPO)</span>",
+   "Poets often drop the last unstressed syllable at the end of a dactylic line. <span class=\"src\">Britannica</span> <span class=\"care\">one source</span>"
+  ],
+  "this_poem": [
+   "<b>Hear it:</b> say <q>“Half a league, half a league”</q> aloud, leaning on the first word of each half: HALF a league, HALF a league = DUM-da-da, DUM-da-da. Two strong beats a line, like a horse at full gallop. <span class=\"care\">our scansion</span>",
+   "<b>Numbered stanzas</b> of uneven length: 8, 9, 9, 12, 11 and 6 lines. The longest (stanza 4) is the fighting; the shortest (stanza 6) is the call to honour them. <span class=\"src\">our count</span>",
+   "<b>Refrains that change:</b> “Rode the six hundred” (stanzas 1–3) becomes “Not the six hundred” (stanza 4), then “Left of six hundred” (stanza 5), then “Noble six hundred!” The structure itself counts the dead.",
+   "<b>Mirroring:</b> stanza 5 repeats stanza 3, but “Cannon in front of them” becomes “Cannon behind them”, and “Into the jaws of Death” becomes “Came thro’ the jaws of Death”. Going in and coming out are both a trap.",
+   "<b>Rhyme on one sound:</b> “blunder’d”, “thunder’d”, “wonder’d”, “sunder’d” all echo “hundred”. The mistake, the noise and the dead are tied together by sound. <span class=\"care\">our reading</span>"
+  ],
+  "say": "A sentence you could use: Tennyson tells the story in the third person, so the soldiers are never individuals, only “the six hundred”; and the changing refrain (“Rode”, then “Not”, then “Left of six hundred”) turns the poem's structure into a count of the dead."
+ },
+ "methods": [
+  {
+   "title": "Refrain",
+   "text": "<q>“Rode the six hundred”</q> returns again and again, but changes as men die. The repetition drives the poem forward; the changes show the cost.",
+   "term": "Refrain",
+   "def": "a line or phrase repeated through a poem, often at the end of each stanza."
+  },
+  {
+   "title": "Personified Death",
+   "text": "<q>“the valley of Death”</q> and <q>“the jaws of Death”</q> make death a monster with a mouth. The soldiers ride into it knowingly, which makes them seem braver.",
+   "term": "Personification",
+   "def": "describing a thing or idea as if it were a person or creature."
+  },
+  {
+   "title": "Repetition and the trap",
+   "text": "<q>“Cannon to right of them, / Cannon to left of them,”</q> hammers the same word at the start of each line. You feel the guns firing from every side.",
+   "term": "Anaphora",
+   "def": "repeating the same word or words at the start of lines."
+  },
+  {
+   "title": "Commands to the reader",
+   "text": "The last stanza switches to imperatives: <q>“Honour the charge they made!”</q> The poem stops telling a story and starts telling us what to feel.",
+   "term": "Imperative",
+   "def": "a verb that gives an order, like “Honour” or “Look”."
+  }
+ ],
+ "warn": "Examiners warn: “a mere observation of the techniques or even a vague comment about ‘flow’ and ‘pace’ will not achieve above Level 2 AO2 if it is not tied to meaning” (AQA 2022 report). So don't just say that the rhythm sounds like galloping: say what that does to the meaning (the men are carried forward, unable to stop or question).",
+ "context": {
+  "timeline": [
+   {
+    "date": "1809",
+    "text": "Tennyson born, Somersby, Lincolnshire, son of a rector"
+   },
+   {
+    "date": "1850",
+    "text": "Becomes Poet Laureate, after Wordsworth's death"
+   },
+   {
+    "date": "1854–56",
+    "text": "Crimean War: Britain, France, Turkey and Sardinia against Russia"
+   },
+   {
+    "date": "25 Oct 1854",
+    "text": "The charge at Balaklava; around 260 of 673 men killed or wounded",
+    "care": "figures differ"
+   },
+   {
+    "date": "Nov 1854",
+    "text": "The Times reports the charge (13 Nov); Tennyson writes his poem after reading a Times report",
+    "care": "13 Nov: one source; exact writing date not confirmed"
+   },
+   {
+    "date": "9 Dec 1854",
+    "text": "Poem published in The Examiner newspaper",
+    "hi": true
+   },
+   {
+    "date": "1855",
+    "text": "Copies sent to soldiers in the Crimea",
+    "care": "date: one source"
+   },
+   {
+    "date": "1884–1892",
+    "text": "Made a lord in 1884; dies in 1892"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Tennyson was",
+    "items": [
+     {
+      "text": "Born in 1809 in Somersby, Lincolnshire. His father was a rector (a Church of England clergyman).",
+      "src": "Britannica; Poetry Archive",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Made <b>Poet Laureate</b> in 1850, after Wordsworth died, and kept the post until he died in 1892. Britannica says laureates from Tennyson on wrote “poems for royal and national occasions”: this poem is one of them, about a national event.",
+      "src": "Poetry Archive; Britannica",
+      "use": "patriotism · power",
+      "care": "“one of them”: our reading"
+     },
+     {
+      "text": "Britannica calls him “the chief representative of the Victorian age in poetry”: the poet of Queen Victoria's Britain.",
+      "src": "Britannica",
+      "use": "patriotism",
+      "care": "one source"
+     },
+     {
+      "text": "He was made a lord in 1884, which is why he is called “Lord Tennyson”. A recording of him reading this poem, made in 1890 on wax cylinders, survives.",
+      "src": "Britannica; Poetry Archive",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "What really happened at Balaklava",
+    "items": [
+     {
+      "text": "The Crimean War (1854–56) was fought by Britain, France, Turkey and Sardinia against Russia. The charge happened at the Battle of Balaklava, 25 October 1854.",
+      "src": "National Army Museum; Britannica",
+      "use": "war · conflict",
+      "care": ""
+     },
+     {
+      "text": "The written order said: “Lord Raglan wishes the cavalry to advance rapidly to the front, follow the enemy & try to prevent the enemy carrying away the guns.” Raglan meant guns the Russians had just captured.",
+      "src": "National Army Museum; Britannica",
+      "use": "power · duty",
+      "care": ""
+     },
+     {
+      "text": "The order was carried by Captain Nolan to Lord Lucan, who told Lord Cardigan to charge. Nolan pointed the wrong way, at the main Russian guns. Cardigan thought the order was absurd but obeyed. Nolan was the first man killed.",
+      "src": "National Army Museum; Britannica",
+      "use": "power · “Some one had blunder’d”",
+      "care": "Nolan's gesture: one source"
+     },
+     {
+      "text": "The National Army Museum says around 260 of the 673 men were killed or wounded, and 475 horses were lost. Other sources give different numbers (Britannica: 113 killed, 134 wounded, 45 captured). Tennyson's “six hundred” is a round number.",
+      "src": "National Army Museum; Britannica; Poetry Archive",
+      "use": "loss · effects of conflict",
+      "care": "figures differ"
+     },
+     {
+      "text": "The museum says the charge has come to “symbolize both the bravery of the British soldier and the incompetence of the Army commanders”. That is exactly the double message of the poem.",
+      "src": "National Army Museum",
+      "use": "power · duty",
+      "care": "link is our reading"
+     }
+    ]
+   },
+   {
+    "title": "The first war in the newspapers",
+    "items": [
+     {
+      "text": "The National Army Museum says the Crimean War “was the first campaign to be reported on by a war correspondent”: William Howard Russell of <i>The Times</i>.",
+      "src": "National Army Museum; Britannica",
+      "use": "war · effects of conflict",
+      "care": ""
+     },
+     {
+      "text": "Russell “sent home shocking accounts of the Army's shortcomings. The ensuing outcry led to the fall of Lord Aberdeen's government.”",
+      "src": "National Army Museum",
+      "use": "power",
+      "care": "one source"
+     },
+     {
+      "text": "Tennyson wrote the poem “only a few minutes after reading an account in <i>The Times</i>”. He said the report mentioned “only 607 sabres”: hence “six hundred”.",
+      "src": "Poetry Archive; Tennyson's note (RPO, University of Toronto)",
+      "use": "patriotism",
+      "care": "link to “six hundred”: our reading"
+     }
+    ]
+   },
+   {
+    "title": "How the poem came about, and what happened next",
+    "items": [
+     {
+      "text": "It was published in <i>The Examiner</i> newspaper on 9 December 1854, about six weeks after the battle, so ordinary readers met it in the news.",
+      "src": "Tennyson's note (RPO); University of Victoria",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Tennyson said the whole poem was “founded on the phrase, ‘Some one had blundered.’”",
+      "src": "Tennyson's note (RPO, University of Toronto)",
+      "use": "power · conflict",
+      "care": "one source, but the poet's own words"
+     },
+     {
+      "text": "He cut the “blundered” line when the poem was reprinted in a book in 1855, then put it back.",
+      "src": "University of Victoria course site",
+      "use": "conflict (questioning ideas)",
+      "care": "one source"
+     },
+     {
+      "text": "Copies were sent to the soldiers in the Crimea. Tennyson said he did this at Lady Franklin's request; an army chaplain wrote: “It is the greatest favorite of the soldiers, half are singing it and all want to have it in black and white.”",
+      "src": "Tennyson's note (RPO); University of Victoria",
+      "use": "patriotism and duty",
+      "care": "the chaplain quote: one source"
+     },
+     {
+      "text": "The museum says “the legend of the ‘gallant 600’ remains deeply rooted in the public mind today”, and that the charge is remembered because of Tennyson's poem.",
+      "src": "National Army Museum",
+      "use": "memory",
+      "care": ""
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Tennyson was Poet Laureate in the first war reported by a newspaper correspondent. He wrote within minutes of reading <i>The Times</i>, and printed the poem in a newspaper, so it speaks for the nation. It turns a military disaster, caused by a misunderstood order, into a story of glory, but keeps one line of blame: “Some one had blunder’d”."
+ },
+ "comparisons": [
+  {
+   "partner": "Bayonet Charge",
+   "use_for": [
+    "Patriotism and duty",
+    "Conflict"
+   ],
+   "aqa": "AQA: June 2017 mark scheme (war changing attitudes); 2022 examiners' report",
+   "similar": [
+    "Both show soldiers charging forward under fire: the six hundred ride <q>“Into the valley of Death”</q>; Hughes's soldier is <q>“Stumbling across a field of clods”</q>.",
+    "Both are told in the third person, so we watch from outside: “they” and “he”.",
+    "Both show ordinary soldiers as small parts of a bigger machine they don't control: <q>“Theirs not to reason why”</q> and <q>“cold clockwork of the stars and the nations”</q>."
+   ],
+   "different": [
+    "<b>Patriotism:</b> Tennyson ends by celebrating honour: <q>“Honour the Light Brigade,”</q>. Hughes's soldier throws those ideals away: <q>“King, honour, human dignity, etcetera”</q> <q>“Dropped like luxuries”</q>.",
+    "<b>One or many:</b> AQA's 2022 report praised answers on how Hughes used “an anonymous individual soldier” while Tennyson “focused on the anonymity of the ‘six hundred’”.",
+    "<b>Inside the mind:</b> we never hear a single soldier's thoughts in Tennyson (<q>“Was there a man dismay’d?”</q> is answered for them). Hughes takes us inside one man's terror: <q>“His terror’s touchy dynamite.”</q>"
+   ]
+  },
+  {
+   "partner": "Remains",
+   "use_for": [
+    "Effects of conflict",
+    "Conflict"
+   ],
+   "aqa": "AQA: 2017 and 2024 mark schemes (“first person in ‘Remains’, third person in ‘the Charge of the Light Brigade’”)",
+   "similar": [
+    "Both show soldiers following orders as a group: the six hundred obey <q>“Charge for the guns!”</q>; in Remains <q>“all three of us open fire.”</q>",
+    "Both hint that something went wrong: <q>“Some one had blunder’d:”</q>, and the looter was <q>“probably armed, possibly not.”</q>"
+   ],
+   "different": [
+    "<b>Person:</b> Tennyson's third person keeps us at a distance and turns the men into heroes. Armitage's first person (“I”) puts us inside one soldier's guilt.",
+    "<b>Ending:</b> Tennyson ends in public glory: <q>“When can their glory fade?”</q> Armitage ends in private guilt that will not fade: <q>“his bloody life in my bloody hands.”</q>",
+    "<b>Time:</b> Tennyson's story ends when the charge ends. Remains is about what happens after: <q>“End of story, except not really.”</q>"
+   ]
+  },
+  {
+   "partner": "Exposure",
+   "use_for": [
+    "Patriotism and duty",
+    "Conflict"
+   ],
+   "aqa": "AQA: 2017 mark scheme (“the relationship between the individual soldiers and those for whom they fought”)",
+   "similar": [
+    "Both show soldiers suffering and dying for their country, as a group (“they”, “we”), not as named people.",
+    "Both use repeated lines that return like a refrain: <q>“Rode the six hundred.”</q> and <q>“But nothing happens.”</q>"
+   ],
+   "different": [
+    "<b>Asking why:</b> Tennyson's soldiers do not question: <q>“Theirs not to reason why,”</q>. Owen's soldiers do: <q>“What are we doing here?”</q>",
+    "<b>Action vs waiting:</b> Tennyson's men gallop into a fast, famous battle. Owen's men freeze slowly while <q>“nothing happens”</q>; the weather is the enemy.",
+    "<b>Those at home:</b> Tennyson tells the people at home to <q>“Honour the Light Brigade”</q>. Owen's soldiers feel shut out by home: <q>“on us the doors are closed”</q>."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present ideas about conflict in ‘The Charge of the Light Brigade’ and in one other poem from ‘Power and conflict’. (AQA's 2022 focus, “ideas about conflict”)",
+  "thesis": "Both Tennyson and Hughes show soldiers carried into battle by forces bigger than themselves, but Tennyson celebrates their obedience as glorious, while Hughes shows that ideas like honour collapse in the terror of real fighting.",
+  "para": "Both poets present soldiers who are swept into battle by others' decisions. Tennyson admits that <q>“Some one had blunder’d”</q>, yet insists <q>“Theirs not to reason why”</q>: the repeated <q>“Theirs”</q> makes obedience sound like a noble duty. His third-person narrator turns the men into <q>“the six hundred”</q>, a heroic group, and ends with the command <q>“Honour the Light Brigade”</q>. Hughes also uses the third person, but follows one nameless soldier who wonders where he fits in the <q>“cold clockwork of the stars and the nations”</q>. Where Tennyson's soldiers keep their honour, Hughes's soldier drops <q>“King, honour, human dignity, etcetera”</q> as worthless <q>“luxuries”</q>. Tennyson was Poet Laureate, writing for a proud nation; Hughes rejects that patriotic view of war.",
+  "why": [
+   "The thesis answers the question in one sentence and sets up a clear difference",
+   "Short quotations from both poems, each one explained, with a method named (repetition, third person, command)",
+   "Compares all the way through (“also”, “Where…”) and links context (Poet Laureate) to meaning"
+  ]
+ }
+}

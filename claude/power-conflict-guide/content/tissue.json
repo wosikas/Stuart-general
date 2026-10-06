@@ -1,0 +1,444 @@
+{
+ "num": 4,
+ "slug": "tissue",
+ "title": "Tissue",
+ "poet": "Imtiaz Dharker",
+ "poet_dates": "born 1954",
+ "published": "published 2006",
+ "group": "Power and pride",
+ "anchor": false,
+ "copyright": true,
+ "facts": {
+  "type": "Free verse: nine four-line stanzas + one final line (37 lines)",
+  "exam": "Not yet the printed poem; named in AQA mark schemes (2017, 2020, 2021, 2022, 2024)",
+  "partner": "Ozymandias (your anchor); The Emigrée also works well"
+ },
+ "themes": [
+  {
+   "name": "Identity",
+   "aqa": true,
+   "src": "AQA mark schemes June 2022 and June 2024"
+  },
+  {
+   "name": "Effects of conflict",
+   "aqa": true,
+   "src": "AQA mark schemes 2017, 2020 and 2024"
+  },
+  {
+   "name": "Conflict",
+   "aqa": true,
+   "src": "AQA mark scheme June 2022"
+  },
+  {
+   "name": "Place and home",
+   "aqa": true,
+   "src": "AQA mark scheme Nov 2021"
+  },
+  {
+   "name": "Power",
+   "aqa": true,
+   "src": "AQA specimen mark scheme (a method bullet under a power question: a weak link)"
+  },
+  {
+   "name": "Pride",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Memory",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "The speaker looks at thin paper that light shines through: old family records, maps, shop receipts. She imagines building with paper instead of brick, and ends with human skin.",
+  "message": "The things people fight over, like borders, buildings and power, are less solid than they look. Human life is fragile but it is what really matters.",
+  "why": "Dharker was born in Pakistan and grew up in Glasgow, and calls herself a “cultural mongrel”. The poem comes from a 2006 book that her publisher says shows “a world stricken by fundamentalism” (extreme, rigid religious belief). <span class=\"src\">Poetry Archive; Big Issue North; Bloodaxe</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "“Tissue” has two main meanings: very thin, soft paper, and the cells that make up a living body. The whole poem slides between the two, until the paper becomes <q>“your skin”</q>. A tissue can also mean a web or network, as in “a tissue of lies”, which fits a poem about how lives are woven together.",
+  "src": "Merriam-Webster; our reading of the poem"
+ },
+ "synopsis": {
+  "setup": "There is no story and no named place. A first-person speaker (“I”) thinks aloud about thin paper, and lets one idea lead to the next. The poem never says who the speaker is; these notes say “she” for short.",
+  "steps": [
+   {
+    "lines": "Lines 1–4",
+    "text": "The speaker starts with paper so thin that light shines through it, and claims this kind of paper <q>“could alter things”</q>. It has been worn thin by age and by people touching it."
+   },
+   {
+    "lines": "Lines 5–12",
+    "text": "Her example: the back pages of an old family Koran, where someone has handwritten the family's history. Births, heights, weights, deaths and dates are all recorded. The pages have been handled so lovingly that they have gone see-through."
+   },
+   {
+    "lines": "Lines 13–16",
+    "text": "She imagines buildings made of paper. Then she would feel them move, and see how easily they could fall, with just a sigh or a change in the wind."
+   },
+   {
+    "lines": "Lines 17–20",
+    "text": "Maps are like this too. Hold one up and the sun shines through its borders, and the lines of rivers, roads, railways and mountains."
+   },
+   {
+    "lines": "Lines 21–24",
+    "text": "Even little shop receipts, recording what we bought and paid by card, might lift our lives up like kites."
+   },
+   {
+    "lines": "Lines 25–32",
+    "text": "An architect could build with all this paper, layering writing, numbers and lines. They would give up brick and block, and let daylight break through capital cities, giant stones and <q>“the shapes that pride can make”</q>."
+   },
+   {
+    "lines": "Lines 33–37",
+    "text": "The new design would be made of living tissue: a structure never meant to last, paper smoothed and thinned until it is see-through. In the last line it becomes <q>“your skin”</q>."
+   }
+  ],
+  "turn": "<b>The turning points:</b> at line 25 (<q>“An architect could use all this,”</q>) she stops looking at paper and starts imagining a new way to build. Then the final line turns the paper into human skin.",
+  "ending": "On one short line, set apart: <q>“turned into your skin.”</q> The poem speaks straight to the reader, so the fragile thing is now you.",
+  "tone": "Thoughtful, gentle and hopeful. The speaker is exploring an idea, not lecturing. The words “If”, “might” and “could” keep it a daydream rather than an argument."
+ },
+ "poem_intro": "Tissue is still in copyright, so the full poem is not printed here. Read it in your anthology alongside these notes. Highlighted words are the short phrases worth learning for the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–4",
+   "text": "<mark>Paper that lets the light</mark> … <mark>is what could alter things.</mark>",
+   "note": "Thin paper that light shines through. Oddly, the speaker says this weak-looking paper could change the world. Light becomes a sign of hope and truth all through the poem."
+  },
+  {
+   "lines": "5–12",
+   "text": "<mark>the back of the Koran</mark> … <mark>who was born to whom</mark> … <mark>transparent with attention.</mark>",
+   "note": "The family record written in the back of the holy book: names, births, heights, weights, deaths. Holding the pages so often has worn them see-through. What matters most is family life, kept on the thinnest paper."
+  },
+  {
+   "lines": "13–16",
+   "text": "<mark>If buildings were paper</mark> … <mark>they fall away on a sigh</mark>",
+   "note": "“If” starts a daydream. Buildings feel permanent, but if they were paper she could see how easily they could fall. Buildings can stand for power and pride (our reading)."
+  },
+  {
+   "lines": "17–20",
+   "text": "<mark>Maps too.</mark> <mark>The sun shines through / their borderlines</mark>",
+   "note": "Hold a map to the light and the borders between countries look thin and see-through. One reading: lines that people fight over are just marks on paper. The natural features (rivers, mountains) are listed alongside the human ones (roads, railways)."
+  },
+  {
+   "lines": "21–24",
+   "text": "<mark>might fly our lives like paper kites.</mark>",
+   "note": "Even shop receipts, the record of our everyday spending, could lift our lives up. A kite is light, free and playful, the opposite of heavy brick."
+  },
+  {
+   "lines": "25–32",
+   "text": "<mark>An architect could use all this</mark> … <mark>let the daylight break</mark> … <mark>the shapes that pride can make</mark>",
+   "note": "A new kind of builder would layer all this paper together and stop building with brick. Daylight would break through “capitals” (capital cities, perhaps money too) and “monoliths” (huge single stones). Proud, solid structures are opened up to light."
+  },
+  {
+   "lines": "33–37",
+   "text": "<mark>living tissue</mark> … <mark>never meant to last</mark> … <mark>turned into your skin.</mark>",
+   "note": "The plan is to build with living tissue, something deliberately fragile and not meant to last forever. The paper image finally becomes human skin, and the poem speaks straight to “you”."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINES 1–2",
+   "q": "Paper that lets the light / shine through",
+   "means": "thin paper you can see light through.",
+   "why": "light is the poem's sign of hope and truth: it gets through barriers."
+  },
+  {
+   "line": "LINE 3",
+   "q": "is what could alter things.",
+   "means": "fragile things, not strong ones, could change the world.",
+   "tech": "a paradox: weakness is the real strength."
+  },
+  {
+   "line": "LINES 11–12",
+   "q": "pages smoothed and stroked and turned / transparent with attention",
+   "means": "the family record has been read and touched so often it is see-through.",
+   "tech": "alliteration and repeated “and”: gentle, loving handling."
+  },
+  {
+   "line": "LINES 17–18",
+   "q": "The sun shines through / their borderlines",
+   "means": "borders on a map look flimsy when held to the light.",
+   "why": "one reading: borders that cause conflict are only man-made marks."
+  },
+  {
+   "line": "LINE 31",
+   "q": "through the shapes that pride can make",
+   "means": "grand buildings and monuments are made by human pride.",
+   "why": "links power and pride to solid, grand structures."
+  },
+  {
+   "line": "LINES 33–34",
+   "q": "living tissue, raise a structure / never meant to last",
+   "means": "build with something alive and fragile, on purpose.",
+   "tech": "a pun on “tissue”: paper and the human body."
+  },
+  {
+   "line": "LINE 37",
+   "q": "turned into your skin.",
+   "means": "the paper becomes human skin; the poem now means you.",
+   "tech": "a one-line final stanza and direct address (“your”)."
+  }
+ ],
+ "form": {
+  "heading": "The form: free verse, held in loose four-line stanzas",
+  "explain": [
+   "<b>Free verse</b> is “poetry organized to the cadences of speech and image patterns rather than according to a regular metrical scheme.” In plain English: no fixed rhythm and no rhyme pattern. <span class=\"src\">Britannica; poets.org</span>",
+   "Poets use it to sound like natural speech or thought, and to follow ideas and images wherever they lead. <span class=\"src\">Britannica; poets.org</span>",
+   "<b>Enjambment</b> is “the continuation of the sense of a phrase beyond the end of a line of verse.” <span class=\"src\">Britannica</span>"
+  ],
+  "this_poem": [
+   "<b>Shape:</b> nine four-line stanzas (quatrains), then one last line on its own: 37 lines. No regular metre and no rhyme scheme, though a few words chime (“break”, “make”). <span class=\"care\">our count</span>",
+   "<b>Loose, not rigid:</b> the stanzas look neat, but sentences run on across lines and even across stanza gaps (lines 4–5, 8–9, 28–29, 32–33). The structure is there, but light gets through the gaps, like the paper she describes. <span class=\"care\">our reading</span>",
+   "<b>One long sentence:</b> lines 25–37 are a single sentence that keeps building, layer over layer, like the architect's paper. <span class=\"care\">our count</span>",
+   "<b>The last line stands alone:</b> after all that building, <q>“turned into your skin.”</q> is set apart, so the reader stops and feels the point land on them."
+  ],
+  "say": "A sentence you could use: Dharker writes in free verse, but keeps it in loose four-line stanzas that run into each other; the form is a structure with gaps in it, just like the paper “that lets the light / shine through”, so the shape of the poem matches its message that rigid structures should give way."
+ },
+ "methods": [
+  {
+   "title": "Paper as an extended metaphor",
+   "text": "Paper stands for many things in turn: family records, buildings, maps, money, and finally skin. AQA's mark schemes name “use of metaphor to present effects of war in ‘Tissue’”.",
+   "term": "Extended metaphor",
+   "def": "one comparison kept going and developed through a whole poem."
+  },
+  {
+   "title": "Light breaking through",
+   "text": "Light shines through paper (<q>“lets the light / shine through”</q>), through maps, and finally <q>“let the daylight break”</q> through great buildings. Light suggests truth, hope and openness winning over solid barriers.",
+   "term": "Imagery",
+   "def": "words that create a picture in the reader's mind."
+  },
+  {
+   "title": "Fragile against solid",
+   "text": "Soft words (smoothed, stroked, thinned, sigh, kites) are set against hard ones (brick, block, monoliths). The poem seems to prefer the fragile side, which turns the usual idea of strength upside down.",
+   "term": "Juxtaposition",
+   "def": "placing two contrasting things side by side to show the difference."
+  },
+  {
+   "title": "A speaker who wonders, then turns to “you”",
+   "text": "The “I” speaks in “If”, “might” and “could”, testing an idea rather than giving orders. The last word turns to <q>“your skin”</q>. AQA's specimen mark scheme names “Use of speaker to explore ideas in … ‘Tissue’”.",
+   "term": "Direct address",
+   "def": "speaking straight to the reader as “you”."
+  }
+ ],
+ "context": {
+  "timeline": [
+   {
+    "date": "1947",
+    "text": "Partition of British India creates Pakistan, the country where Dharker is later born; borders drawn in weeks"
+   },
+   {
+    "date": "1954",
+    "text": "Dharker born in Pakistan; grows up in Glasgow"
+   },
+   {
+    "date": "2001",
+    "text": "9/11 attacks in the USA (background to the book; the poem names no event)"
+   },
+   {
+    "date": "July 2005",
+    "text": "Suicide bombings on London transport (background to the book; the poem names no event)"
+   },
+   {
+    "date": "Apr 2006",
+    "text": "The Terrorist at My Table published, including Tissue",
+    "hi": true
+   },
+   {
+    "date": "2014",
+    "text": "Dharker wins the Queen's Gold Medal for Poetry"
+   },
+   {
+    "date": "2020",
+    "text": "Becomes Chancellor of Newcastle University"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Dharker is",
+    "items": [
+     {
+      "text": "Born in Pakistan in 1954 and brought up in Glasgow. She later worked for many years in India, and has lived in Wales and London.",
+      "src": "royal.uk; Poetry Archive; Scottish Poetry Library",
+      "use": "identity · place and home",
+      "care": ""
+     },
+     {
+      "text": "She calls herself a “Scottish Calvinist Muslim adopted by India and married into Wales”, and says: “don't try to put easy labels on me or stick me in a box. I'm a cultural mongrel”.",
+      "src": "Big Issue North interview (2017); Bloodaxe",
+      "use": "identity",
+      "care": "“cultural mongrel”: one source"
+     },
+     {
+      "text": "A poet, artist and documentary film-maker who illustrates all her own books with drawings.",
+      "src": "Poetry Archive; royal.uk; Bloodaxe",
+      "use": "paper · line · maps",
+      "care": ""
+     },
+     {
+      "text": "The Poetry Archive says her poems deal with “geographical and cultural displacement, conflict and gender politics”, questioning “received ideas about home, freedom and faith.” (Received ideas = ideas people accept without questioning.)",
+      "src": "Poetry Archive; Bloodaxe",
+      "use": "identity · conflict · place",
+      "care": ""
+     },
+     {
+      "text": "She won the Queen's Gold Medal for Poetry for 2014, a top national honour for poets.",
+      "src": "royal.uk; Bloodaxe; Scottish Poetry Library",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "The book Tissue comes from",
+    "items": [
+     {
+      "text": "Tissue was published in <i>The Terrorist at My Table</i> (Bloodaxe, April 2006).",
+      "src": "Bloodaxe; Poetry Archive",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Her publisher says the book shows “a world stricken by fundamentalism” and asks how we live now: “working, travelling, eating, listening to the news, preparing for attack.”",
+      "src": "Bloodaxe",
+      "use": "effects of conflict · fear",
+      "care": "one source"
+     },
+     {
+      "text": "The Poetry Archive says the book “revels in blurring the public and personal.” Tissue does this: a private family record sits next to maps and national borders.",
+      "src": "Poetry Archive",
+      "use": "identity · conflict",
+      "care": "link to Tissue is our reading"
+     },
+     {
+      "text": "The book came out after the 9/11 attacks (2001) and the London bombings of 7 July 2005, which killed 52 people. Tissue itself names no event, so linking it to these attacks is only our reading.",
+      "src": "Britannica (dates and facts); the link to the poem is ours",
+      "use": "effects of conflict",
+      "care": "our reading: the poem names no event"
+     }
+    ]
+   },
+   {
+    "title": "Borders and maps",
+    "items": [
+     {
+      "text": "Pakistan was created in 1947, when British India was split into India and Pakistan (Partition). Dharker was born there just seven years later.",
+      "src": "Britannica; National Archives",
+      "use": "place · identity",
+      "care": "dates are fact; any link to the poem is our reading"
+     },
+     {
+      "text": "The border was drawn in a hurry: officials “were given just nine weeks”, and the line was announced two days after independence.",
+      "src": "National Archives; Britannica",
+      "use": "power · conflict",
+      "care": ""
+     },
+     {
+      "text": "Over 15 million people are thought to have crossed the new borders. Britannica says as many as 2 million were killed, though estimates vary widely.",
+      "src": "National Archives; Britannica",
+      "use": "effects of conflict",
+      "care": ""
+     },
+     {
+      "text": "The poem names no country, border or war, so this is only our reading. A reader who knows about Partition might think of it when the sun <q>“shines through / their borderlines”</q>: lines on a map, which can cause great suffering, look like thin marks people made.",
+      "src": "our reading (not stated by Dharker)",
+      "use": "conflict · power",
+      "care": "our reading"
+     }
+    ]
+   },
+   {
+    "title": "Faith, family and paper",
+    "items": [
+     {
+      "text": "The Qur'an (Koran) is “the sacred scripture of Islam”, believed by Muslims to be the word of God.",
+      "src": "Britannica",
+      "use": "identity · faith",
+      "care": ""
+     },
+     {
+      "text": "In the poem, the most precious paper is not a law or a treaty but a family record in the back of a holy book: who was born, who died.",
+      "src": "the poem",
+      "use": "identity · memory",
+      "care": ""
+     },
+     {
+      "text": "Faith here is shown as something gentle and private, cared for over generations, not as a cause of fighting.",
+      "src": "our reading",
+      "use": "conflict · identity",
+      "care": "our reading"
+     },
+     {
+      "text": "Carol Ann Duffy, then Poet Laureate, said that whatever Dharker writes about, “exile, childhood, politics or grief”, her attention brings it “dazzlingly into focus”.",
+      "src": "royal.uk",
+      "use": "",
+      "care": "one source"
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Dharker was born in Pakistan, a country created in 1947 by a hastily drawn border, and grew up in Glasgow. Tissue came out in 2006, and her publisher describes the book as showing “a world stricken by fundamentalism”. The poem names no place or event, so present any link to Partition or to terror attacks as a reading (“perhaps”, “could suggest”), not as Dharker’s stated aim. Safely: the poem suggests that the solid things people fight over, like borders, monuments and power, are as thin as paper, and that fragile human life matters more."
+ },
+ "comparisons": [
+  {
+   "partner": "The Emigrée",
+   "use_for": [
+    "Identity",
+    "Place and home",
+    "Effects of conflict"
+   ],
+   "aqa": "AQA: Nov 2021 mark scheme (“use of places as representation of people”) and June 2024 (“sense of identity”)",
+   "similar": [
+    "Both use paper and light for a place or a life: Rumens's city is <q>“docile as paper”</q> and her memory is <q>“sunlight-clear”</q>; Dharker's paper <q>“lets the light / shine through”</q>.",
+    "Both show borders shaping who people are: <q>“the frontiers rise between us”</q> and <q>“their borderlines”</q>."
+   ],
+   "different": [
+    "<b>Borders:</b> Rumens's speaker is trapped by them (<q>“I have no passport”</q>); Dharker imagines light shining straight through them.",
+    "<b>Ending:</b> The Emigrée ends with hostility around her (<q>“They mutter death”</q>), though her <q>“sunlight”</q> survives; Tissue ends gently and hopefully with <q>“your skin.”</q>",
+    "<b>Voice:</b> both use “I”, but Rumens's speaker tells her own painful story; Dharker's speaker thinks about everyone, then turns to “you”."
+   ]
+  },
+  {
+   "partner": "Ozymandias",
+   "use_for": [
+    "Power",
+    "Pride"
+   ],
+   "aqa": "AQA: specimen mark scheme lists Tissue for the Ozymandias power question (“Use of speaker”)",
+   "similar": [
+    "Both show proud, solid structures as less permanent than they look: a <q>“colossal wreck”</q> and buildings that <q>“fall away on a sigh”</q>.",
+    "Both link power to pride in building: <q>“Look on my works, ye Mighty”</q> and <q>“the shapes that pride can make”</q>."
+   ],
+   "different": [
+    "<b>Attitude:</b> Shelley mocks a king whose works crumbled against his will. Dharker wants to build <q>“a structure / never meant to last”</q> on purpose.",
+    "<b>Materials:</b> the sculptor's stone survives (<q>“stamp’d on these lifeless things”</q>); Dharker chooses <q>“living tissue”</q> over brick.",
+    "<b>Voice:</b> Ozymandias is told second-hand and feels distant; Tissue is a thinking “I” who speaks straight to “you”."
+   ]
+  },
+  {
+   "partner": "Checking Out Me History",
+   "use_for": [
+    "Identity",
+    "Power"
+   ],
+   "aqa": "AQA: specimen mark scheme (“Use of speaker … ‘Checking Out Me History’ or ‘Tissue’”) and June 2022 (“ideology/identity”)",
+   "similar": [
+    "Both are about who writes the record of people's lives. Agard's official history was chosen by others: <q>“Wha dem want to tell me”</q>. Dharker's family Koran records <q>“who was born to whom”</q>.",
+    "Both find identity in records: <q>“the names and histories”</q> and <q>“me own history”</q>."
+   ],
+   "different": [
+    "<b>Tone:</b> Agard is angry and defiant, with the chant-like repetition of <q>“Dem tell me”</q>. Dharker is calm and reflective.",
+    "<b>Ending:</b> Agard ends strong and hard: <q>“I carving out me identity”</q>, like carving stone. Dharker ends soft: <q>“turned into your skin.”</q>",
+    "<b>Language and form:</b> Agard uses Caribbean dialect, rhyme and refrains; Dharker uses standard English free verse in loose quatrains."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present the ways people are affected by conflict in ‘Tissue’ and in one other poem from ‘Power and conflict’. (AQA’s June 2024 wording, with ‘Tissue’ in place of the printed poem, ‘Kamikaze’)",
+  "thesis": "Both Dharker and Rumens show that conflict shapes people's identity through borders, but Rumens's speaker is trapped by them while Dharker imagines them dissolving in the light.",
+  "para": "Both poets present borders as a force that shapes people's lives, but they react to them very differently. Dharker imagines maps held up to the light, so that <q>“The sun shines through / their borderlines”</q>. The lines that divide nations look thin and see-through, as if they could be undone, and her conditional “If” and “could” make this a hopeful thought experiment. Rumens's speaker cannot see through borders; she is shut out by them, as <q>“the frontiers rise between us, close like waves.”</q> The simile makes borders a force she cannot stop, and <q>“I have no passport”</q> shows the state controlling who she can be. Both poets use paper to show fragile identity: Rumens's city is <q>“docile as paper”</q>, while Dharker's paper becomes <q>“your skin”</q>. Where Rumens shows identity threatened, Dharker hopes fragility can unite people.",
+  "why": [
+   "Opens with a clear comparative point that answers the question about conflict",
+   "Short, exact quotations from both poems, each explained, with methods named (conditional, simile)",
+   "Keeps comparing all the way through (“Both”, “Where…”) and ends on a judgement"
+  ]
+ }
+}

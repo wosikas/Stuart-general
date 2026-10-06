@@ -1,0 +1,471 @@
+{
+ "num": 5,
+ "slug": "checking-out-me-history",
+ "title": "Checking Out Me History",
+ "poet": "John Agard",
+ "poet_dates": "born 1949",
+ "published": "collected 2004 (in print by 1993)",
+ "group": "Power and pride",
+ "anchor": false,
+ "copyright": true,
+ "facts": {
+  "type": "Free-form poem in Caribbean dialect (53 lines)",
+  "exam": "Not yet the printed poem; named in AQA mark schemes 2020–2025",
+  "partner": "Ozymandias (your anchor); London also works well"
+ },
+ "themes": [
+  {
+   "name": "Power",
+   "aqa": true,
+   "src": "AQA mark schemes Nov 2021, 2023, 2025; Nov 2021 report"
+  },
+  {
+   "name": "Identity",
+   "aqa": true,
+   "src": "AQA mark scheme June 2022"
+  },
+  {
+   "name": "Conflict",
+   "aqa": true,
+   "src": "AQA mark schemes June 2022, 2025"
+  },
+  {
+   "name": "Difficult experiences",
+   "aqa": true,
+   "src": "AQA mark scheme Nov 2020 (“the experience of education”)"
+  },
+  {
+   "name": "Pride",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Childhood",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A Caribbean speaker remembers the British history he was taught at school, then tells us the Black heroes he was never taught about.",
+  "message": "Whoever controls what you learn controls who you think you are. The speaker takes that power back and finds his own history.",
+  "why": "Agard grew up in British Guiana, a British colony until 1966. He remembers that his school history book began West Indian history with the arrival of Columbus. <span class=\"src\">Encyclopedia.com; Britannica; Prospect interview, 2016</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "“Checking out” is casual, modern slang for looking into something. “Me” instead of “my” is Caribbean dialect. So the title itself shows the speaker exploring history in his own voice, not the official one. The same words come back in the last lines, where he finally does it.",
+  "src": "our reading; words checked against the AQA anthology"
+ },
+ "synopsis": {
+  "setup": "The speaker talks straight to us, in the Creole of the Caribbean. He is angry about his education. A mysterious “dem” (them) decided what he was allowed to learn.",
+  "steps": [
+   {
+    "lines": "Lines 1–5",
+    "text": "He repeats that “dem” told him only what they wanted to tell him. He says they covered his eye with a bandage, blinding him to his own identity."
+   },
+   {
+    "lines": "Lines 6–21",
+    "text": "They taught him about 1066 and the story of Dick Whittington’s cat, but never about Toussaint L’Ouverture. An indented section tells us who Toussaint was: an enslaved man who beat Napoleon’s soldiers and led the Haitian Revolution."
+   },
+   {
+    "lines": "Lines 22–31",
+    "text": "They taught him nursery rhymes, like the cow jumping over the moon, but never about Nanny of the Maroons. A short section praises her as a fighter who led her people towards freedom."
+   },
+   {
+    "lines": "Lines 32–35",
+    "text": "They taught him about Lord Nelson, Waterloo and Columbus. But never about Shaka, the great Zulu leader, or what happened to the Caribs and Arawaks, the Caribbean’s first peoples."
+   },
+   {
+    "lines": "Lines 36–49",
+    "text": "They taught him about Florence Nightingale, Robin Hood and Old King Cole, but never about Mary Seacole. Her section tells how she travelled from Jamaica to the Crimean War, even when the British said no, to care for the wounded."
+   },
+   {
+    "lines": "Lines 50–53",
+    "text": "The refrain “Dem tell me” returns. But now he is checking out his own history and carving out his own identity."
+   }
+  ],
+  "turn": "<b>The turning point (line 52):</b> “But now”. After fifty-one lines of being told, the speaker becomes the one who acts. “Dem tell me” becomes “I checking out me own history”.",
+  "ending": "On the word “identity”, the same word as line 5. At the start it was blinded; at the end he is carving it out for himself.",
+  "tone": "Angry and mocking in the “Dem tell me” stanzas; proud and admiring in the hero sections; defiant and confident at the end."
+ },
+ "poem_intro": "This poem is still in copyright, so only short key phrases are shown here. Read the full poem in your anthology. Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–5",
+   "text": "<mark>Bandage up me eye with me own history</mark>",
+   "note": "The speaker says “Dem tell me” twice, then “Wha dem want to tell me”, like a chant. “Dem” (them) is never named: it means the people in charge of his education. They covered his eye with his own history, so he couldn’t see who he really was. <b>“Blind me to me own identity”</b> finishes the idea."
+  },
+  {
+   "lines": "6–9",
+   "text": "<mark>Dem tell me bout 1066 and all dat</mark> … <mark>no dem never tell me bout dat</mark>",
+   "note": "He was taught the Battle of Hastings (1066) and the folk tale of Dick Whittington and his cat. “And all dat” sounds bored and dismissive. But they never told him about Toussaint L’Ouverture, a hero of Black history."
+  },
+  {
+   "lines": "10–21",
+   "text": "<mark>a slave</mark> … <mark>lick back</mark> … <mark>Toussaint de beacon</mark>",
+   "note": "The first indented hero section, in short lines. Toussaint was enslaved but had “vision”. He beat back (“lick back”) Napoleon’s army, and helped the first Black republic to be born. He was a “thorn” to the French and a “beacon” (a guiding light) of the Haitian Revolution."
+  },
+  {
+   "lines": "22–25",
+   "text": "<mark>de cow who jump over de moon</mark> … <mark>Nanny de maroon</mark>",
+   "note": "Now the things he was taught are nursery rhymes and nonsense: a balloon, a cow jumping over the moon, a dish running away with a spoon. By putting real history next to nursery rhymes, Agard mocks what he was taught. Again: no one told him about Nanny of the Maroons."
+  },
+  {
+   "lines": "26–31",
+   "text": "<mark>see-far woman</mark> … <mark>fire-woman struggle</mark>",
+   "note": "Nanny’s section is a chain of images. She could see far ahead, she had a “mountain dream”, she fought with fire, and her hope flowed like a stream “to freedom river”. Nature imagery makes her almost a force of nature."
+  },
+  {
+   "lines": "32–35",
+   "text": "<mark>Shaka de great Zulu</mark> … <mark>what happen to de Caribs and de Arawaks too</mark>",
+   "note": "British war heroes (Nelson, Waterloo) are set against Shaka, the Zulu leader. Then Columbus and 1492, set against the peoples who already lived in the Caribbean. The question “what happen to” hints at something terrible that was hidden."
+  },
+  {
+   "lines": "36–39",
+   "text": "<mark>Florence Nightingale and she lamp</mark> … <mark>Mary Seacole</mark>",
+   "note": "Florence Nightingale, the famous British nurse, then Robin Hood and Old King Cole. The last name is Mary Seacole, the Jamaican nurse he was never taught about."
+  },
+  {
+   "lines": "40–49",
+   "text": "<mark>even when de British said no</mark> … <mark>a yellow sunrise</mark>",
+   "note": "The longest hero section. Seacole travelled from Jamaica to the Crimean War. The British said no, but she went anyway and faced the Russian snow. She was “a healing star” to the wounded and “a yellow sunrise” to the dying: images of light and hope."
+  },
+  {
+   "lines": "50–53",
+   "text": "<mark>I checking out me own history</mark> … <mark>I carving out me identity</mark>",
+   "note": "The chant returns, then the change: “But now”. The speaker stops being told and starts finding out. “Carving” suggests hard work, making something lasting, like carving in stone or wood."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 4",
+   "q": "Bandage up me eye with me own history",
+   "means": "his education stopped him seeing the truth about his own past.",
+   "why": "a bandage is for a wound: colonial schooling has injured him.",
+   "tech": "metaphor"
+  },
+  {
+   "line": "LINE 5",
+   "q": "Blind me to me own identity",
+   "means": "not knowing his history means not knowing who he is.",
+   "why": "history and identity are tied together; this is the poem’s big idea."
+  },
+  {
+   "line": "LINE 20",
+   "q": "Toussaint de beacon",
+   "means": "Toussaint was a guiding light for the revolution.",
+   "why": "light imagery for the hidden heroes; the opposite of the blindness at the start.",
+   "tech": "metaphor"
+  },
+  {
+   "line": "LINE 23",
+   "q": "and de cow who jump over de moon",
+   "means": "he was taught nursery rhymes as if they were history.",
+   "why": "mocks the curriculum: British nonsense was taught; Black heroes were not.",
+   "tech": "juxtaposition (putting two things side by side to compare them)"
+  },
+  {
+   "line": "LINE 35",
+   "q": "but what happen to de Caribs and de Arawaks too",
+   "means": "what happened to the people who lived there before Columbus?",
+   "why": "a question that exposes a silence in the history books.",
+   "tech": "rhetorical question"
+  },
+  {
+   "line": "LINE 48",
+   "q": "a yellow sunrise",
+   "means": "Seacole brought hope and comfort to dying soldiers.",
+   "why": "warm, glowing imagery gives her the praise history denied her.",
+   "tech": "metaphor; colour imagery"
+  },
+  {
+   "line": "LINE 53",
+   "q": "I carving out me identity",
+   "means": "he is now building his own sense of who he is.",
+   "why": "the passive “Dem tell me” becomes the active “I”: he takes the power back.",
+   "tech": "metaphor; first person"
+  }
+ ],
+ "form": {
+  "heading": "The form: dialect, two voices and a refrain",
+  "explain": [
+   "<b>Dialect</b> is the way a language is spoken in one place or community, with its own words, spellings and grammar. Agard is known for using Caribbean dialect and Creole in his poems. <span class=\"src\">Poetry Archive; Books for Keeps</span>",
+   "<b>Creole</b> here means the language of the Caribbean that mixes English with other influences. Agard said his love of “the language, Creole, and the rich culture of Guyana” grew after he moved away. <span class=\"src\">Books for Keeps, 1993</span> <span class=\"care\">one source</span>",
+   "A <b>refrain</b> is a line or phrase that keeps coming back, like the chorus of a song.",
+   "The Children’s Poetry Archive lists the poem’s key devices as “Dialect, Half Rhyme, Pace”. <span class=\"src\">Children’s Poetry Archive</span> <span class=\"care\">one source</span>"
+  ],
+  "this_poem": [
+   "<b>Phonetic spelling:</b> words are spelled as they sound: “dem”, “dat”, “de”, “bout”. Verbs lose their endings (“she travel”, “I checking”). The poem is written in the speaker’s own voice, not the standard English of the schoolbooks. <span class=\"care\">our reading</span>",
+   "<b>No punctuation:</b> there are no full stops or commas in the whole poem. It reads like speech or performance, and it ignores the rules of standard written English, just as it ignores the official history. <span class=\"care\">our check and reading</span>",
+   "<b>Two kinds of section:</b> the “Dem tell me” stanzas have long lines and rhyme like nursery rhymes (balloon / moon / spoon / maroon). The hero sections are indented, in very short lines, and in italics in the anthology. The layout separates the two histories. <span class=\"care\">our check</span>",
+   "<b>The rhyme links the two histories:</b> in most “Dem tell me” stanzas a hero is rhymed with the British list: “Waterloo” with “Zulu”, “soul” with “Seacole”. The hero is placed where the rhyme lands, so we hear them clearly. <span class=\"care\">our reading</span>",
+   "<b>The refrain:</b> “Dem tell me” opens the poem and returns at the end. It sounds like a chant or rote learning. At the end it is answered by “But now I”, showing that he has broken the pattern. <span class=\"care\">our reading</span>"
+  ],
+  "say": "A sentence you could use: Agard writes in Caribbean dialect with no punctuation at all, so the poem itself refuses the standard English of the colonial classroom; by setting the heroes apart in short, indented sections, he gives them the space that his history lessons never did."
+ },
+ "methods": [
+  {
+   "title": "Repetition: “Dem tell me”",
+   "text": "The phrase comes back again and again, like rote learning in a classroom. “Dem” is never named, which makes the power faceless and everywhere.",
+   "term": "Refrain",
+   "def": "a line or phrase repeated through a poem, like a chorus."
+  },
+  {
+   "title": "Mockery by juxtaposition",
+   "text": "Real British heroes sit next to nursery rhymes: <q>“Dem tell me bout 1066 and all dat”</q> then Dick Whittington’s cat. This suggests the history he was taught was as useless to him as a children’s rhyme.",
+   "term": "Juxtaposition",
+   "def": "placing two things side by side so we compare them."
+  },
+  {
+   "title": "Light and nature imagery for the heroes",
+   "text": "Toussaint is a <q>“beacon”</q>, Seacole <q>“a healing star”</q> and <q>“a yellow sunrise”</q>, Nanny a <q>“hopeful stream”</q>. Light answers the blindness of line 5.",
+   "term": "Imagery",
+   "def": "descriptive language that creates a picture in the reader’s mind."
+  },
+  {
+   "title": "Passive to active",
+   "text": "For most of the poem things are done to the speaker (<q>“Dem tell me”</q>). In the last two lines he does things himself: <q>“I checking out”</q>, <q>“I carving out”</q>. He takes back control.",
+   "term": "Volta",
+   "def": "a turning point where a poem changes direction."
+  }
+ ],
+ "warn": "Examiners warn: “a mere observation of the techniques or even a vague comment about ‘flow’ and ‘pace’ will not achieve above Level 2 AO2 if it is not tied to meaning.” (AQA June 2022 report). So don’t just say “there’s no punctuation so it flows”; say what that choice shows about power and identity.",
+ "context": {
+  "timeline": [
+   {
+    "date": "c.1725–40",
+    "text": "Nanny leads the Windward Maroons in Jamaica"
+   },
+   {
+    "date": "1791–1804",
+    "text": "Haitian Revolution; Haiti independent 1 Jan 1804"
+   },
+   {
+    "date": "1831",
+    "text": "British Guiana becomes one British colony"
+   },
+   {
+    "date": "1855",
+    "text": "Mary Seacole goes to the Crimean War at her own expense"
+   },
+   {
+    "date": "1949",
+    "text": "Agard born in British Guiana"
+   },
+   {
+    "date": "1966",
+    "text": "Guyana gains independence from Britain"
+   },
+   {
+    "date": "1977",
+    "text": "Agard comes to Britain"
+   },
+   {
+    "date": "2004",
+    "text": "Poem collected in Half-Caste and Other Poems",
+    "hi": true
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Agard is",
+    "items": [
+     {
+      "text": "Born in Guyana (then British Guiana) in 1949. He went to a Roman Catholic school there.",
+      "src": "Poetry Archive; Encyclopedia.com; Prospect",
+      "use": "identity",
+      "care": ""
+     },
+     {
+      "text": "He worked as a journalist in Guyana, then came to Britain in 1977.",
+      "src": "Children’s Poetry Archive (journalist); Bloodaxe Books; Encyclopedia.com (1977)",
+      "use": "identity · place",
+      "care": ""
+     },
+     {
+      "text": "In Britain he worked for the Commonwealth Institute, touring schools to promote understanding of Caribbean culture.",
+      "src": "Books for Keeps; Encyclopedia.com",
+      "use": "identity · education",
+      "care": ""
+     },
+     {
+      "text": "He is known for performing his poems and for humour. He has said: “Humour breaks down boundaries, it topples our self-importance”.",
+      "src": "Poetry Archive (humour); Children’s Poetry Archive (quote)",
+      "use": "tone · power",
+      "care": "quote: one source"
+     },
+     {
+      "text": "He won the Queen’s Gold Medal for Poetry in 2012.",
+      "src": "Poetry Archive; Bloodaxe Books",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "Growing up in a British colony",
+    "items": [
+     {
+      "text": "British Guiana became one British colony in 1831. Enslaved West Africans had been brought there to grow sugar cane; full emancipation (freedom from slavery) came in 1838.",
+      "src": "Britannica",
+      "use": "power · identity",
+      "care": "one source"
+     },
+     {
+      "text": "Guyana gained its independence from Britain in 1966, when Agard was about 17. So he went to school under British rule.",
+      "src": "Britannica",
+      "use": "power · control",
+      "care": "one source"
+     },
+     {
+      "text": "Agard said the first line of his history book was “something like ‘West Indian history begins in 1492 with the arrival of Columbus’”.",
+      "src": "Prospect interview, 2016",
+      "use": "power · identity",
+      "care": "one source (Agard’s own words)"
+     },
+     {
+      "text": "Looking back, he called it “a very arrogant sentence, as if history only begins with the arrival of a European.”",
+      "src": "Prospect interview, 2016",
+      "use": "power · conflict",
+      "care": "one source"
+     },
+     {
+      "text": "His aim: “those who weren’t given a voice, their story can be told”.",
+      "src": "Prospect interview, 2016",
+      "use": "identity · voices",
+      "care": "one source"
+     }
+    ]
+   },
+   {
+    "title": "The hidden heroes",
+    "items": [
+     {
+      "text": "<b>Toussaint Louverture</b> was born into slavery in Saint-Domingue (now Haiti) and led its independence movement. Napoleon sent an army in 1802; Toussaint died in a French prison in 1803. Haiti became independent in 1804, “the first country to be founded by former slaves.”",
+      "src": "Britannica (two articles)",
+      "use": "power · conflict",
+      "care": ""
+     },
+     {
+      "text": "<b>Nanny</b>, born in present-day Ghana, led the Windward Maroons of Jamaica (people who had escaped slavery) from about 1725 to 1740. She organised guerrilla warfare (surprise attacks by small, mobile groups) against British troops from the Blue Mountains. She is a National Hero of Jamaica.",
+      "src": "Britannica; Jamaica Information Service",
+      "use": "power · conflict",
+      "care": ""
+     },
+     {
+      "text": "<b>Mary Seacole</b>, born in Jamaica in 1805, offered to nurse in the Crimean War and was refused; she believed this was racial prejudice. She went at her own expense in 1855 and set up the British Hotel. She was largely forgotten for a century after her death.",
+      "src": "Britannica; EBSCO; National Army Museum",
+      "use": "identity · power",
+      "care": ""
+     },
+     {
+      "text": "<b>Shaka</b> ruled the Zulu empire in southern Africa from 1816 to 1828 and changed how its armies fought.",
+      "src": "Britannica",
+      "use": "power",
+      "care": "one source"
+     },
+     {
+      "text": "<b>The Arawaks</b> (Taino) were the first people Columbus met. They were destroyed by disease and by Spanish “violence, brutality, and oppression (including enslavement)”. <b>The Caribs</b> lived in the islands and the Guianas; the Caribbean Sea is named after them.",
+      "src": "Britannica (two articles)",
+      "use": "power · conflict",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "How the poem came about",
+    "items": [
+     {
+      "text": "It was collected in <i>Half-Caste and Other Poems</i> (Hodder Children’s Books, 2004), a book for young readers.",
+      "src": "Poetry Archive; Internet Archive",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "It is older than that: a 1993 magazine quotes lines from it “in <i>Life Doesn’t Frighten Me At All</i>”, an anthology Agard edited (Heinemann, 1989).",
+      "src": "Books for Keeps, Sept 1993; Encyclopedia.com (editor, 1989)",
+      "use": "",
+      "care": "one source that the poem is in that anthology"
+     },
+     {
+      "text": "The British heroes in the poem are the ones schoolchildren were taught: Nelson is a British “national hero”; Nightingale became famous as the “Lady with the Lamp”.",
+      "src": "Britannica",
+      "use": "power · patriotism",
+      "care": "one source"
+     },
+     {
+      "text": "The 1066 link: Britannica says King Harold was “struck in the eye by an arrow” at Hastings. Line 4 also hurts the speaker’s eye. Possibly a sly echo.",
+      "src": "Britannica",
+      "use": "power",
+      "care": "our reading"
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Agard grew up in British Guiana, a British colony until 1966, and his history book said West Indian history began with Columbus. The poem shows that power is not just armies and kings: it is also control over what children are taught, and so over who they believe they are."
+ },
+ "comparisons": [
+  {
+   "partner": "London",
+   "use_for": [
+    "Power",
+    "Conflict"
+   ],
+   "aqa": "AQA: Nov 2021 report (“worked very well”) and mark scheme; mark schemes 2023 and 2025",
+   "similar": [
+    "Both show power controlling people’s minds, not just their bodies: Agard’s speaker is <q>“Blind”</q> to his identity; Blake hears <q>“The mind-forged manacles”</q>.",
+    "Both attack institutions: the schools and history books of an empire, and the Church and palace (<q>“Every black’ning church appalls”</q>).",
+    "Both use repetition like a chant: <q>“Dem tell me”</q> and <q>“In every cry of every man”</q>."
+   ],
+   "different": [
+    "<b>Hope:</b> Blake sees no way out; even the newborn is cursed. Agard’s speaker breaks free: <q>“But now I checking out me own history”</q>.",
+    "<b>Voice:</b> Blake’s “I” is a watcher who observes suffering. Agard’s “I” is the victim who fights back, in his own dialect.",
+    "<b>Form:</b> Blake uses strict quatrains with a regular rhyme scheme, like the controlled city. Agard has no punctuation and breaks into free, indented sections."
+   ]
+  },
+  {
+   "partner": "Ozymandias",
+   "use_for": [
+    "Power"
+   ],
+   "aqa": "AQA: specimen mark scheme for the Ozymandias power question (“Use of speaker to explore ideas in ‘Checking Out Me History’ or ‘Tissue’”)",
+   "similar": [
+    "Both show that the powerful try to control what is remembered. The king's words are carved for ever: <q>“Look on my works, ye Mighty, and despair!”</q> Agard's teachers choose the story: <q>“Wha dem want to tell me”</q>.",
+    "Both show an artist mocking the powerful. Shelley's sculptor is <q>“The hand that mock’d them”</q>; Agard mocks the history he was taught by mixing it with nursery rhymes: <q>“de cow who jump over de moon”</q>.",
+    "Both use carving. The king's pride is <q>“stamp’d on these lifeless things”</q> in stone; Agard's speaker ends <q>“I carving out me identity”</q>."
+   ],
+   "different": [
+    "<b>Who speaks:</b> in Ozymandias the powerful man's voice survives only on a broken statue, reported second-hand. Agard gives the voice to the person without power, speaking for himself.",
+    "<b>Ending:</b> Shelley's ending shows power vanishing: <q>“Nothing beside remains.”</q> Agard's ending shows a new identity being built: <q>“But now I checking out me own history”</q>.",
+    "<b>Form:</b> Shelley uses a tight sonnet in standard English. Agard uses Caribbean dialect, no punctuation and a chant-like refrain: <q>“Dem tell me”</q>."
+   ]
+  },
+  {
+   "partner": "The Emigrée",
+   "use_for": [
+    "Identity",
+    "Place and home"
+   ],
+   "aqa": "AQA: Nov 2020 mark scheme (pairs “the experience of education in ‘Checking Out Me History’” with “a change in circumstances in ‘The Emigrée’”)",
+   "similar": [
+    "Both speakers hold on to an identity that those in power try to take away: Agard’s heroes were left out; Rumens’ city is <q>“banned by the state”</q>.",
+    "Both link identity to language: Agard writes in dialect; Rumens’ speaker says of her childhood language, <q>“I can’t get it off my tongue.”</q>",
+    "Both use light imagery for what they love: <q>“a yellow sunrise”</q> and <q>“an impression of sunlight”</q>."
+   ],
+   "different": [
+    "<b>Ending:</b> Agard ends in triumph and control; Rumens's speaker is still under threat at the end, <q>“They accuse me of being dark in their free city.”</q>, though she holds on to her <q>“sunlight”</q>",
+    "<b>Specific vs vague:</b> Agard names real people and dates; Rumens never names her country, so it could be anywhere.",
+    "<b>Tone:</b> Agard is angry and mocking; Rumens is tender and nostalgic."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present ideas about power and control in ‘Checking Out Me History’ and in one other poem from ‘Power and conflict’. (Focus wording from AQA, Nov 2021)",
+  "thesis": "Both Agard and Blake show that the most dangerous power controls people’s minds, but while Blake’s Londoners stay trapped, Agard’s speaker breaks free by finding his own history.",
+  "para": "Both poets present power as something that controls the mind. Agard’s speaker says his education <q>“Blind me to me own identity”</q>, as if the schoolbooks were a <q>“Bandage”</q> over a wound. Blake’s Londoners are also trapped mentally by <q>“The mind-forged manacles”</q>, chains made by thinking. In both poems, repetition shows how complete this control is: <q>“Dem tell me”</q> beats like a classroom chant, while <q>“every”</q> is repeated through Blake’s second stanza. However, the poems end very differently. Blake offers no escape, even for the newborn infant. Agard’s speaker turns from passive to active: <q>“I carving out me identity”</q>. Writing in his own dialect, he takes back the power that colonial schooling took from him.",
+  "why": [
+   "The opening sentence answers the question about power and control straight away",
+   "Short quotations from both poems, each one explained, plus methods named (metaphor, repetition)",
+   "Compares all the way through (“also”, “In both”, “However”) and ends with a clear difference"
+  ]
+ }
+}
