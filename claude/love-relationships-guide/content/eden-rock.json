@@ -1,0 +1,441 @@
+{
+ "num": 13,
+ "slug": "eden-rock",
+ "title": "Eden Rock",
+ "poet": "Charles Causley",
+ "poet_dates": "1917–2003",
+ "published": "published 1988, as the last poem in A Field of Vision",
+ "group": "Family",
+ "anchor": false,
+ "copyright": true,
+ "facts": {
+  "type": "20 lines: four quatrains, a three-line stanza and a final single line; half-rhymes",
+  "exam": "Not yet printed; AQA suggests it as a partner in all five family mark schemes",
+  "partner": "Mother, any distance (your anchor); Follower also works well"
+ },
+ "themes": [
+  {
+   "name": "Family (parent and child)",
+   "aqa": true,
+   "src": "AQA Nov 2020 mark scheme (“positive views of the relationship between family members, eg ‘Eden Rock’”); specimen and June 2025 mark schemes"
+  },
+  {
+   "name": "Memory",
+   "aqa": true,
+   "src": "AQA Nov 2020 mark scheme (“use of memory to present ideas, eg ‘Eden Rock’”)"
+  },
+  {
+   "name": "Time",
+   "aqa": true,
+   "src": "AQA June 2017 mark scheme (“the impact of the passage of time on growing up, e.g. … ‘Eden Rock’”)"
+  },
+  {
+   "name": "Growing up",
+   "aqa": true,
+   "src": "AQA June 2017 (“the impact of the passage of time on growing up”) and June 2023 (“how these are affected by growing up, such as in ‘Eden Rock’”) mark schemes"
+  },
+  {
+   "name": "Nature",
+   "aqa": true,
+   "src": "AQA June 2025 mark scheme (“natural imagery in … ‘Eden Rock’”)"
+  },
+  {
+   "name": "Loss and grief",
+   "aqa": false,
+   "src": "our reading, backed by the Poetry Archive (“the moving elegy to his parents”); no AQA document mentions death for this poem"
+  },
+  {
+   "name": "Longing",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A grown-up son sees his parents waiting for him across a stream. They are young again, dressed just as he remembers, setting out a picnic with a place for him. They wave and call him over. In the last line he says it is not what he expected.",
+  "message": "Love between parents and child outlasts time, and perhaps even death. Critics such as the Poetry Archive, John Mole and Vahni Capildeo read the parents as dead, calling to him across the stream. So many readers take the crossing as the speaker’s own death, gentler than he feared. <span class=\"care\">our reading</span>",
+  "why": "Causley’s father died when Causley was seven, from the effects of the First World War. His mother raised him, and he cared for her in later life. The Poetry Archive calls the poem “the moving elegy to his parents” (an elegy is a poem mourning the dead). <span class=\"src\">Poetry Archive; Charles Causley Trust</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "Eden Rock sounds like a real local landmark, a rock by a stream. But <b>Eden</b> is also the Garden of Eden: in the Bible, the “earthly paradise” where Adam and Eve lived. So the title hints that the place beyond the rock may be a kind of heaven. <span class=\"care\">our reading</span> We could not find a reliable source saying whether Eden Rock is a real place.",
+  "src": "Britannica (“Garden of Eden”); our reading"
+ },
+ "synopsis": {
+  "setup": "The speaker is an adult (we can take him to be Causley himself, writing in old age) speaking in the first person. Almost the whole poem is in the present tense, as if the scene is happening now. Only the last line steps back to look at it.",
+  "steps": [
+   {
+    "lines": "Lines 1–4",
+    "text": "<q>“They are waiting for me”</q> beyond Eden Rock. First, his father: aged twenty-five, in the same tweed suit, with his little dog Jack, <q>“Still two years old”</q>, trembling at his feet. Nobody has aged."
+   },
+   {
+    "lines": "Lines 5–8",
+    "text": "His mother, twenty-three, in a patterned summer dress and a straw hat with a ribbon. She has spread a white cloth on the grass. The light shines through her hair, <q>“the colour of wheat”</q>."
+   },
+   {
+    "lines": "Lines 9–12",
+    "text": "She pours tea from a Thermos. The milk comes from an old H.P. Sauce bottle, with a twist of paper as a cork. Slowly she lays out <q>“The same three plates”</q>: one for each parent and one for him."
+   },
+   {
+    "lines": "Lines 13–16",
+    "text": "The sky goes white, <q>“as if lit by three suns.”</q> His mother shades her eyes and looks his way across the stream. His father skims a stone along the water."
+   },
+   {
+    "lines": "Lines 17–19",
+    "text": "Calmly, they wave him over from the other bank. He hears them call: they show him the path across, and say that crossing is easier than he thinks."
+   },
+   {
+    "lines": "Line 20",
+    "text": "A single line on its own: <q>“I had not thought that it would be like this.”</q>"
+   }
+  ],
+  "turn": "<b>The turning point (lines 17–19):</b> the picnic stops being a picture and becomes an invitation. <q>“They beckon to me”</q>, and the parents speak for the first time. The stream between them now matters: he has to cross it to join them.",
+  "ending": "<b>How it ends:</b> the last line is cut off from the rest by a gap, just as the speaker is cut off from his parents by the stream. It is open to more than one reading. Critics including the Poetry Archive (“elegy to his parents”), John Mole and Vahni Capildeo read the parents as dead. If the crossing is death, the line means dying, or rejoining his parents, is gentler and more ordinary than he feared. You could also read it as surprise at how clearly the memory returns. <span class=\"care\">our reading</span>",
+  "tone": "<b>The tone:</b> calm, tender and full of small, loving detail (the Thermos, the sauce bottle, the blue cups). Under the calm there is a quiet ache: the parents are young forever, the speaker is not, and a stream lies between them."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–4",
+   "text": "<mark>They are waiting for me</mark> … <mark>My father, twenty-five,</mark> … <mark>Still two years old</mark>",
+   "note": "The first line sets up the whole poem: someone is waiting for him in a place beyond the rock. Then the father appears, aged 25, in “the same suit” he always wore. Even the dog has not aged. Time has stopped for them, though not for the speaker."
+  },
+  {
+   "lines": "5–8",
+   "text": "<mark>My mother, twenty-three,</mark> … <mark>takes on the light.</mark>",
+   "note": "His mother is described in a summer dress with a ribbon in her hat. She spreads a stiff white cloth over the grass, ready for a picnic. Her wheat-coloured hair catches the sunlight, so she seems almost to glow."
+  },
+  {
+   "lines": "9–12",
+   "text": "<mark>She pours tea from a Thermos,</mark> … <mark>The same three plates,</mark>",
+   "note": "Very ordinary, homely details: a Thermos, milk in an old H.P. Sauce bottle plugged with paper, tin cups painted blue. She sets out three plates, so a place is kept for the son. “The same” suggests this is a picnic the family has had many times before."
+  },
+  {
+   "lines": "13–16",
+   "text": "<mark>as if lit by three suns.</mark> … <mark>Over the drifted stream.</mark>",
+   "note": "The light becomes strange and dazzling, as if there were three suns: one for each member of the family. The mother looks over at him across the stream. The father skims a stone. The scene is peaceful and unhurried."
+  },
+  {
+   "lines": "17–19",
+   "text": "<mark>They beckon to me from the other bank.</mark> … <mark>Crossing is not as hard</mark>",
+   "note": "The parents wave him over from the far side of the stream. They call out to show him the path and to reassure him that crossing is easy. If the stream divides the living from the dead, they are gently inviting him to join them."
+  },
+  {
+   "lines": "20",
+   "text": "<mark>I had not thought that it would be like this.</mark>",
+   "note": "The final line stands alone. The speaker is surprised. It is not what he expected: perhaps calmer, simpler and more loving. It is the only line not in the present tense, as if he steps back to reflect."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "They are waiting for me somewhere beyond Eden Rock:",
+   "means": "his parents are waiting for him in a place on the far side of the rock.",
+   "why": "“waiting” shows their love never ended; they expect him. “beyond” and “Eden” hint at a place past this life, like paradise.",
+   "tech": "present tense; allusion (Eden, the Bible’s paradise)"
+  },
+  {
+   "line": "LINE 2",
+   "q": "My father, twenty-five, in the same suit",
+   "means": "his father is young again, wearing the suit the son remembers.",
+   "why": "the parents are frozen at the age they were in his early childhood. “the same” shows how precisely and lovingly he remembers them.",
+   "tech": "precise detail; imagery of memory"
+  },
+  {
+   "line": "LINE 8",
+   "q": "Her hair, the colour of wheat, takes on the light.",
+   "means": "the sunlight shines on and through his mother’s fair hair.",
+   "why": "a natural image (wheat) makes her warm and wholesome; “takes on the light” makes her glow, almost like an angel. It shows his admiration.",
+   "tech": "natural imagery; light imagery"
+  },
+  {
+   "line": "LINE 12",
+   "q": "The same three plates, the tin cups painted blue.",
+   "means": "his mother lays out a plate for each of the three of them.",
+   "why": "a place is kept for him: the family is not complete without the son. Ordinary objects make the love feel real and homely.",
+   "tech": "symbolism (the number three); listing"
+  },
+  {
+   "line": "LINE 13",
+   "q": "The sky whitens as if lit by three suns.",
+   "means": "the light becomes dazzling and strange.",
+   "why": "the three suns echo the three plates: mother, father and son. The odd, bright light suggests the scene is a vision, not ordinary life.",
+   "tech": "simile; symbolism"
+  },
+  {
+   "line": "LINE 17",
+   "q": "They beckon to me from the other bank.",
+   "means": "his parents wave him over from the far side of the stream.",
+   "why": "the stream separates him from them. If the far bank is death, the parents are gently calling him to join them, and he is not afraid.",
+   "tech": "symbolism (the stream as a boundary); turning point"
+  },
+  {
+   "line": "LINE 20",
+   "q": "I had not thought that it would be like this.",
+   "means": "it is not what he expected.",
+   "why": "the only line on its own and the only one out of the present tense. The gap before it mirrors the stream. It is open: surprise at how gentle death, or memory, turns out to be.",
+   "tech": "isolated final line; ambiguity; change of tense"
+  }
+ ],
+ "form": {
+  "heading": "The form: tidy stanzas, then a gap, then one line",
+  "explain": [
+   "A <b>quatrain</b> is a stanza of four lines. “Eden Rock” has four quatrains (lines 1–16), then a three-line stanza (lines 17–19), then one line on its own (line 20). Some revision guides say five quatrains, but that is wrong for AQA’s printed text. <span class=\"src\">AQA anthology (our count)</span>",
+   "<b>Half-rhyme</b> means words that nearly rhyme but not quite. Most rhymes here are half-rhymes, in an alternating pattern: <q>“Rock”</q> / <q>“Jack”</q>, <q>“suit”</q> / <q>“feet”</q>, <q>“bank”</q> / <q>“think.”</q>. Only <q>“screw”</q> / <q>“blue”</q> is a full rhyme. <span class=\"care\">our check</span>",
+   "The lines are roughly the same length (about ten syllables), but there is no strict beat. Causley drew on folk songs, hymns “and above all, ballads”, so he often wrote in simple, traditional shapes. <span class=\"src\">Poetry Archive</span>"
+  ],
+  "this_poem": [
+   "<b>Calm, even stanzas:</b> the four regular quatrains match the calm, orderly picnic. Everything is neat and in its place, like the plates on the cloth. <span class=\"care\">our reading</span>",
+   "<b>The pattern breaks:</b> when the parents call to him (lines 17–19) the stanza shrinks to three lines. Something is missing, just as the family is missing one member on their side of the stream. <span class=\"care\">our reading</span>",
+   "<b>The gap before the last line:</b> line 20 is cut off by white space, like the stream between the son and his parents. He has not yet crossed. <span class=\"care\">our reading</span>",
+   "<b>Almost-rhymes:</b> the half-rhymes are close but never quite match, like a family nearly, but not quite, reunited. The last line half-rhymes with line 18 (<q>“is!”</q> / <q>“this.”</q>), so it still belongs to the poem. <span class=\"care\">our reading</span>",
+   "<b>Why it matters:</b> the shape tells the story. Order and closeness first, then a break, then the speaker alone on his side of the gap."
+  ],
+  "say": "A sentence you could use: Causley’s four orderly quatrains mirror the calm, loving picnic, but the shrinking final stanza and the isolated last line, “I had not thought that it would be like this.”, leave a gap on the page like the stream that still separates the son from his parents."
+ },
+ "methods": [
+  {
+   "title": "Detail that brings the past back",
+   "text": "Causley lists tiny, ordinary things: the tweed suit, the Thermos, the milk in <q>“an old H.P. Sauce bottle”</q>, <q>“the tin cups painted blue.”</q> These details make the parents feel real and show how carefully he has kept them in his memory. AQA’s mark scheme points to the poem’s “use of memory to present ideas”.",
+   "term": "Imagery",
+   "def": "words that help you see, hear or feel a scene in your mind."
+  },
+  {
+   "title": "Light and nature",
+   "text": "His mother’s hair is <q>“the colour of wheat”</q> and <q>“takes on the light.”</q>; the sky shines <q>“as if lit by three suns.”</q> The light grows stronger and stranger, turning a family picnic into something like a vision of heaven.",
+   "term": "Symbolism",
+   "def": "when an object, colour or image stands for a bigger idea (here, light for heaven or goodness)."
+  },
+  {
+   "title": "The stream between them",
+   "text": "The parents are on <q>“the other bank.”</q> and he must cross <q>“the drifted stream.”</q> A river you cross to reach the dead is an old idea: in Greek myth, Charon ferried the souls of the dead over the River Styx. The stream may be the line between life and death. <span class=\"src\">Britannica (Charon)</span> <span class=\"care\">the link is our reading</span>",
+   "term": "Extended metaphor",
+   "def": "one comparison carried on through several lines or a whole poem."
+  },
+  {
+   "title": "Time standing still",
+   "text": "The father is <q>“twenty-five”</q>, the mother <q>“twenty-three”</q>, the dog <q>“Still two years old”</q>. The poem is in the present tense, so the past seems to be happening now. Only the last line, <q>“I had not thought”</q>, shifts tense, as the old speaker steps back.",
+   "term": "Present tense",
+   "def": "writing as if events are happening now (“She pours”), which makes them vivid and immediate."
+  }
+ ],
+ "warn": "Examiners warn: in 2022 the question was about “the power of love” (romantic love). AQA’s report said choices such as Follower, Mother, any distance and Eden Rock “did not usually work as well and may have been selected because the students knew them well so wrote about them without considering their appropriateness.” Use Eden Rock for family, memory and growing-up questions, not romantic ones.",
+ "context": {
+  "timeline": [
+   {
+    "date": "1917",
+    "text": "Causley born in Launceston, Cornwall"
+   },
+   {
+    "date": "1924",
+    "text": "His father dies, of a lung condition caused by his service on the Western Front; Causley is seven",
+    "care": "year: one source (Tes)"
+   },
+   {
+    "date": "1940–46",
+    "text": "Serves in the Royal Navy in the Second World War"
+   },
+   {
+    "date": "Late 1940s–1976",
+    "text": "Trains as a teacher, then teaches in Launceston primary schools, including his own old school",
+    "care": "one source"
+   },
+   {
+    "date": "1988",
+    "text": "Eden Rock published as the last poem in A Field of Vision (Macmillan)",
+    "hi": true
+   },
+   {
+    "date": "2003",
+    "text": "Causley dies in Launceston, aged 86; buried next to his mother"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Causley was",
+    "items": [
+     {
+      "text": "Born on 24 August 1917 in Launceston, Cornwall. He lived there for most of his life.",
+      "src": "Charles Causley Trust; Poetry Archive",
+      "use": "place and home",
+      "care": ""
+     },
+     {
+      "text": "He served in the Royal Navy from 1940 to 1946, as an Ordinary Seaman and Petty Officer.",
+      "src": "Charles Causley Trust; Poetry Archive (“service in the Second World War”)",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "After the war he trained as a teacher and went back to Launceston “to teach in his own childhood school”, until he retired in 1976 to write full-time.",
+      "src": "Charles Causley Trust",
+      "use": "memory · childhood",
+      "care": "one source"
+     },
+     {
+      "text": "His poetry drew on “folk songs, hymns, and above all, ballads” rather than fashionable modern styles.",
+      "src": "Poetry Archive",
+      "use": "form",
+      "care": "one source"
+     }
+    ]
+   },
+   {
+    "title": "Causley and his parents",
+    "items": [
+     {
+      "text": "His father fought on the Western Front in the First World War. He died of a lung condition caused by the war when Causley was seven. (The Poetry Archive says “wounds”; the Trust and The Times say a lung condition. Only Tes gives the year, 1924.)",
+      "src": "Charles Causley Trust; Poetry Archive; Tes (John Mole, 1997); The Times (Jason Cowley, 1997)",
+      "use": "loss · family",
+      "care": "year: one source"
+     },
+     {
+      "text": "In a 1997 interview, Causley’s eyes watered as he recalled the “soldier-father” he “scarcely knew”. So in the poem he pictures a father he barely remembered.",
+      "src": "The Times (Jason Cowley, 1997, on the journalist’s own site)",
+      "use": "longing · memory",
+      "care": "one source; the link to the poem is our reading"
+     },
+     {
+      "text": "He “was raised by his mother, to whose care he devoted himself in later life.” One writer says he nursed her for six years after a stroke.",
+      "src": "Charles Causley Trust; Slightly Foxed (Derek Parker, 2011)",
+      "use": "family",
+      "care": "stroke detail: one source"
+     },
+     {
+      "text": "He is buried next to his mother in St Thomas churchyard, Launceston.",
+      "src": "Poets’ Graves; Charles Causley Trust",
+      "use": "family · loss",
+      "care": ""
+     },
+     {
+      "text": "By 1988, both parents had died, so the young couple in the poem exist only in his memory. (We could not confirm the year his mother died.)",
+      "src": "Charles Causley Trust; Poetry Archive (“elegy to his parents”)",
+      "use": "memory · time",
+      "care": "our reading"
+     }
+    ]
+   },
+   {
+    "title": "How the poem came about",
+    "items": [
+     {
+      "text": "<i>A Field of Vision</i> was published by Macmillan in 1988, one of Causley’s last collections of new poems.",
+      "src": "Charles Causley Trust; University of Exeter archive",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Eden Rock is the poem “with which he closed A Field of Vision”, and the book’s “alternative working title was ‘Eden Rock’.” So Causley gave it a special place.",
+      "src": "Tes (John Mole, 1997); University of Exeter archive",
+      "use": "",
+      "care": "one source each (Tes; Exeter archive)"
+     },
+     {
+      "text": "AQA’s text comes from Causley’s <i>Collected Poems</i> (Macmillan). We found no statement by Causley himself about this poem.",
+      "src": "AQA anthology",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "How critics read it",
+    "items": [
+     {
+      "text": "The Poetry Archive calls it “the moving elegy to his parents”. An elegy is a poem “lamenting the death” of a loved one.",
+      "src": "Poetry Archive; Britannica (“elegy”)",
+      "use": "loss · family",
+      "care": ""
+     },
+     {
+      "text": "The critic John Mole (Tes, 1997) calls it “poetry of visionary reconciliation”: “the generations reunited in recognition of their mortality” (mortality means the fact that everyone dies).",
+      "src": "Tes (John Mole, 1997)",
+      "use": "family · time",
+      "care": "one source"
+     },
+     {
+      "text": "The poet-critic Vahni Capildeo says the parents, “impossibly appearing in their mid-twenties”, “encourage him to cross the water to them”. His ghosts wear “ordinary holiday dress”.",
+      "src": "PN Review (Vahni Capildeo, 2022)",
+      "use": "loss · memory",
+      "care": "one source"
+     },
+     {
+      "text": "So these named critics (Poetry Archive, Mole, Capildeo) read the parents as dead, and the stream as a border they invite him across. Reading the crossing as his own death is a step further. You can also read it as a vivid childhood memory. AQA’s mark schemes simply call it a positive view of family and a poem about memory.",
+      "src": "Poetry Archive; Tes; PN Review; AQA mark schemes",
+      "use": "family · memory",
+      "care": "our summary of named critics"
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Causley lost his father when he was seven, from the after-effects of the First World War, and was raised by his mother, whom he cared for in later life. Writing in old age, after both had died, he brings them back young and loving. The Poetry Archive calls the poem “the moving elegy to his parents”."
+ },
+ "comparisons": [
+  {
+   "partner": "Mother, any distance",
+   "use_for": [
+    "Family (parent and child)",
+    "Growing up",
+    "Time"
+   ],
+   "aqa": "AQA: June 2017 mark scheme (“the impact of the passage of time on growing up, e.g. … ‘Eden Rock’”) for a Mother, any distance question; both suggested together in specimen, Nov 2020 and 2023 mark schemes",
+   "similar": [
+    "Both use one ordinary family moment to show a whole relationship: measuring a house, and a picnic by a stream with <q>“The same three plates,”</q>.",
+    "Both are about a gap between child and parent. Armitage’s tape stretches out, <q>“unreeling / years between us.”</q>; Causley’s parents wait across <q>“the drifted stream.”</q>",
+    "Both build to a moment of crossing into the unknown: <q>“to fall or fly.”</q> and <q>“Crossing is not as hard as you might think.”</q>"
+   ],
+   "different": [
+    "<b>Moving apart or coming together:</b> Armitage’s son is leaving his mother to become independent. Causley’s son is being called back to his parents: <q>“They beckon to me from the other bank.”</q>",
+    "<b>Who holds on:</b> Armitage’s mother clings on: <q>“your fingertips still pinch”</q>. Causley’s parents do not grab him; they wait calmly and invite him.",
+    "<b>Life stage:</b> Armitage writes as a young man starting adult life. Causley’s speaker is old, and the parents are young: <q>“My father, twenty-five,”</q>. Time has turned the ages upside down."
+   ]
+  },
+  {
+   "partner": "Follower",
+   "use_for": [
+    "Family (parent and child)",
+    "Memory",
+    "Growing up"
+   ],
+   "aqa": "AQA: specimen (“speaker in ‘Follower’ and speaker in: … ‘Eden Rock’”), Nov 2020 (“use of memory to present ideas, eg ‘Eden Rock’ … or ‘Follower’”) and 2023 (“such as in ‘Eden Rock’ or ‘Follower’”) mark schemes",
+   "similar": [
+    "Both are an adult son remembering a parent with admiration and exact detail: the father in <q>“Genuine Irish Tweed”</q>; Heaney’s father <q>“Mapping the furrow exactly.”</q>",
+    "Both use nature to show the parent: the mother’s hair <q>“the colour of wheat”</q>; Heaney’s father’s shoulders <q>“globed like a full sail”</q>.",
+    "Both end with a short, surprising line that changes the poem: <q>“I had not thought that it would be like this.”</q> and <q>“will not go away.”</q>"
+   ],
+   "different": [
+    "<b>Who follows whom:</b> Heaney’s boy follows his father, then the old father <q>“keeps stumbling”</q> behind him. Causley’s parents are ahead, waiting <q>“beyond Eden Rock”</q> for him to follow.",
+    "<b>Tense:</b> Follower is told in the past until <q>“But today”</q>. Eden Rock is in the present until its last line, so the memory feels alive now.",
+    "<b>Mood of the ending:</b> Heaney’s ending is uneasy (a burden, or a lasting presence). Causley’s is calm and reassuring: crossing <q>“is not as hard as you might think.”</q>"
+   ]
+  },
+  {
+   "partner": "Before You Were Mine",
+   "use_for": [
+    "Family (parent and child)",
+    "Memory",
+    "Time"
+   ],
+   "aqa": "AQA: June 2017 mark scheme (“the passage of time on growing up, e.g. ‘Before You Were Mine’, or ‘Eden Rock’”); Nov 2020 (“use of memory … eg ‘Eden Rock’ or ‘Before You Were Mine’”); June 2025 (“presentation of parents, such as in ‘Eden Rock’, or ‘Before You Were Mine’”)",
+   "similar": [
+    "Both picture a parent young, before or at the very start of the child’s life: <q>“My mother, twenty-three,”</q>; Duffy’s mother laughing with friends, <q>“before I was born.”</q>",
+    "Both use clothes and small details to bring the young parent back: <q>“a sprigged dress”</q> and <q>“Your polka-dot dress blows round your legs.”</q>",
+    "Both are told in the present tense, so the past seems to happen now."
+   ],
+   "different": [
+    "<b>Who is missing:</b> in Duffy’s poem the child is absent: <q>“I’m not here yet.”</q> In Causley’s the child is present, but on the wrong side of the stream.",
+    "<b>Tone:</b> Duffy is lively, glamorous and a little possessive. Causley is quiet, tender and still.",
+    "<b>Death:</b> Duffy only uses the word <q>“ghost”</q> for her mother’s younger self. Critics such as Capildeo (who calls them “his ghosts”) read Causley’s parents as truly dead, waiting for him beyond life. <span class=\"care\">critics’ reading</span>"
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present relationships between parents and children in ‘Eden Rock’ and in one other poem from ‘Love and relationships’. (AQA used this focus in June 2023, for ‘Before You Were Mine’.)",
+  "thesis": "Both Causley and Armitage present the bond between parent and child as a love that survives distance, but Armitage’s son is pulling away to become independent, while Causley’s old speaker is being gently called back to parents he has lost.",
+  "para": "Both poets show the relationship through a gap that must be crossed. Armitage’s tape measure stretches out, <q>“unreeling / years between us.”</q>, and his mother still holds on: <q>“your fingertips still pinch”</q>. The gap is growing, as the son reaches for freedom, to <q>“fall or fly.”</q> In contrast, Causley’s gap is closing. His parents wait across <q>“the drifted stream.”</q>, and <q>“They beckon to me from the other bank.”</q> The verb “beckon” is calm and loving: they do not cling, they invite. Since Causley’s father died when he was seven, the young parents, frozen at <q>“twenty-five”</q> and <q>“twenty-three”</q>, suggest a love that death has not broken. The isolated last line, <q>“I had not thought that it would be like this.”</q>, makes the crossing feel gentler than he feared.",
+  "why": [
+   "The thesis answers the question (parents and children) and gives a clear difference in one sentence",
+   "Short quotations from both poems, each with a named method (the stream as a symbol, the verb “beckon”, the isolated last line) and its effect",
+   "Compares throughout (“Both”, “In contrast”) and links context (his father’s early death) to the meaning, not as a bolt-on"
+  ]
+ }
+}

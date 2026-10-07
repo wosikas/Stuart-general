@@ -1,0 +1,432 @@
+{
+ "num": 9,
+ "slug": "letters-from-yorkshire",
+ "title": "Letters From Yorkshire",
+ "poet": "Maura Dooley",
+ "poet_dates": "born 1957",
+ "published": "published by Bloodaxe Books; usually dated to her 1991 collection Explaining Magnetism (not confirmed)",
+ "group": "Heartbreak and distance",
+ "anchor": false,
+ "copyright": true,
+ "facts": {
+  "type": "Five tercets (3-line stanzas), unrhymed",
+  "exam": "Not yet printed; AQA has named it only once, in the specimen mark scheme, as a partner for Follower",
+  "partner": "Mother, any distance (your anchor); Follower also works well"
+ },
+ "themes": [
+  {
+   "name": "Separation and distance",
+   "aqa": false,
+   "src": "our reading (no AQA document uses the words distance or letters about this poem)"
+  },
+  {
+   "name": "Family (parent and child)",
+   "aqa": true,
+   "src": "AQA specimen mark scheme (Follower question, “attitudes towards a parent”), which reads the poem as presenting a “parent”. The poem itself never names the relationship."
+  },
+  {
+   "name": "Nature",
+   "aqa": true,
+   "src": "AQA specimen mark scheme (“use of imagery of nature to present parent in ‘Letters From Yorkshire’”)"
+  },
+  {
+   "name": "Place and home",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Identity",
+   "aqa": false,
+   "src": "our reading (line 9: “Is your life more real”)"
+  },
+  {
+   "name": "Longing",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A man in the Yorkshire countryside digs his garden, sees the lapwings come back, and goes indoors to write a letter. The speaker, who works with news, probably in a city, reads it and compares their two lives. At night they feel close, though miles apart.",
+  "message": "Love can cross distance. Two people with very different lives stay connected through letters, and the countryside letters bring something real and alive into the speaker’s indoor, word-filled world.",
+  "why": "Dooley was born in Truro, grew up in Bristol, “worked for some years in Yorkshire”, and has lived in London for about 30 years. She knows both the Yorkshire and the city lives in the poem. <span class=\"src\">Bloodaxe Books; Poetry International; Contemporary Authors</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "The title tells you the setting (Yorkshire, a rural county in northern England) and the form of the relationship: <b>letters</b>. Notice it is plural: this is a long-running habit, not one letter. The letters come <i>from</i> Yorkshire, so the title takes the point of view of the person who receives them, the speaker far away. AQA prints the title as “Letters From Yorkshire” on the specimen paper and the June 2017 paper, and as “Letters from Yorkshire” on later papers. <span class=\"care\">our reading</span>",
+  "src": "AQA anthology and question papers"
+ },
+ "synopsis": {
+  "setup": "The speaker (“me”) lives somewhere else, probably a city, and works with news (“headlines”). The other person (“he”, then “You”) lives in the countryside in Yorkshire. The poem never says who he is: a parent, a partner or a friend. AQA’s specimen mark scheme reads him as a “parent”; that is AQA’s reading, and the poem leaves it open.",
+  "steps": [
+   {
+    "lines": "Lines 1–4",
+    "text": "In February he is digging his garden and planting potatoes. He sees <q>“the first lapwings return”</q> (birds that come back as spring nears). He goes indoors to write to the speaker, his cold knuckles stinging and going red in the warmth."
+   },
+   {
+    "lines": "Line 5",
+    "text": "The speaker stops to comment: <q>“It’s not romance, simply how things are.”</q> This is just ordinary life, not something to make sentimental (or perhaps: this is not a love affair)."
+   },
+   {
+    "lines": "Lines 6–8",
+    "text": "The speaker turns to address him as <q>“You”</q>: he is outside in the cold, watching the seasons change. The speaker is inside with a <q>“heartful of headlines”</q>, typing words onto a blank screen."
+   },
+   {
+    "lines": "Line 9",
+    "text": "The key question: <q>“Is your life more real because you dig and sow?”</q> The speaker wonders whether his outdoor, physical life is more genuine than the speaker’s desk job."
+   },
+   {
+    "lines": "Lines 10–13",
+    "text": "He would not say so: his life is hard work too, breaking ice on a water tank and clearing snow. <q>“Still”</q>, it is he who sends news of <q>“that other world”</q>, as if his letters pour air and light into an envelope."
+   },
+   {
+    "lines": "Lines 14–15",
+    "text": "At night they both watch the same news on TV in different houses, and <q>“our souls tap out messages across the icy miles.”</q>"
+   }
+  ],
+  "turn": "<b>The turning point (line 9):</b> the question <q>“Is your life more real”</q>. Up to here the poem describes; now the speaker doubts the value of their own life. The answer comes in line 11 with <q>“Still”</q>: whatever the answer, his letters give the speaker something they need.",
+  "ending": "<b>How it ends:</b> the pronouns change from “he”, “me” and “You” to <q>“our”</q>. The two separate lives meet. They are still in <q>“different houses”</q>, miles apart, but their <q>“souls”</q> connect, like a message tapped out in Morse code across the cold distance.",
+  "tone": "<b>The tone:</b> calm, conversational and warm, like a letter itself. There is a touch of envy or self-doubt in line 9, but the ending is quietly hopeful."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–3",
+   "text": "<mark>the first lapwings return</mark> … <mark>his knuckles singing</mark>",
+   "note": "Stanza 1 starts in the middle of his life: a cold February day, digging and planting potatoes. He notices the lapwings coming back, a sign that spring is on its way. Then he comes indoors to write to the speaker. The sentence runs on into the next stanza, like the news flowing from him to the speaker."
+  },
+  {
+   "lines": "4–6",
+   "text": "<mark>It’s not romance, simply how things are.</mark> … <mark>in the cold</mark>",
+   "note": "His knuckles “sing” (tingle, sting) as they go red in the warm house: an image of life and feeling. Line 5 is a short, flat statement: this is not romance, just how things are. It can mean “don’t make this sound pretty” or “we are not lovers”. Then the speaker talks straight to him: “You”."
+  },
+  {
+   "lines": "7–9",
+   "text": "<mark>heartful of headlines</mark> … <mark>Is your life more real</mark>",
+   "note": "He lives by the seasons; the speaker lives by the news. “heartful of headlines” suggests the speaker’s heart is full of other people’s stories, perhaps sad ones. “feeding words” onto a screen sounds mechanical, like feeding a machine. The speaker asks if his life is “more real” because he grows food."
+  },
+  {
+   "lines": "10–12",
+   "text": "<mark>breaking ice on a waterbutt,</mark> … <mark>word of that other world</mark>",
+   "note": "He would not call his life special: it is hard, cold work (a waterbutt is a rain-water barrel; he has to break the ice on it). But “Still”, it is he who sends news of “that other world”: the natural world the speaker has lost touch with."
+  },
+  {
+   "lines": "13–15",
+   "text": "<mark>pouring air and light into an envelope.</mark> … <mark>tap out messages across the icy miles.</mark>",
+   "note": "His letters are full of fresh air and light, things you cannot really post. At night they both watch the same TV news, apart but sharing it. In the last line their “souls” send messages to each other, like a telegraph tapping across the cold distance between them."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 2",
+   "q": "the first lapwings return",
+   "means": "he sees the lapwings (farmland birds, also called peewits) coming back as spring approaches.",
+   "why": "it shows how closely he watches nature, and it is the first thing he wants to share. The birds “return” each year, a hint that the loved one’s letters return too, regularly. AQA points to the “imagery of nature” in this poem.",
+   "tech": "natural imagery; symbolism (return of spring = renewal)"
+  },
+  {
+   "line": "LINES 3–4",
+   "q": "his knuckles singing / as they reddened in the warmth.",
+   "means": "coming in from the cold, his hands tingle and turn red.",
+   "why": "“singing” turns a painful sting into music, as if his body is happy. It suggests the joy he feels as he sits down to write.",
+   "tech": "metaphor; personification (knuckles that sing); enjambment across stanzas"
+  },
+  {
+   "line": "LINE 5",
+   "q": "It’s not romance, simply how things are.",
+   "means": "this is just ordinary life, not something romantic.",
+   "why": "a flat, honest line in the middle of the poem. It refuses to make country life pretty. It can also be read as the speaker saying the relationship is not a love affair, which keeps the relationship open.",
+   "tech": "end-stopped line; plain, conversational tone"
+  },
+  {
+   "line": "LINE 7",
+   "q": "me with my heartful of headlines",
+   "means": "the speaker is filled with news stories from work.",
+   "why": "“heartful” sounds like “handful”: the speaker’s heart is full, but of headlines, other people’s events, not the speaker’s own life. It contrasts with his seasons and soil.",
+   "tech": "alliteration (heartful / headlines); an unusual word, made like “handful”"
+  },
+  {
+   "line": "LINE 9",
+   "q": "Is your life more real because you dig and sow?",
+   "means": "is his life more genuine because he works the land?",
+   "why": "the speaker doubts their own indoor life. The question is never fully answered, which makes the reader weigh up city against country, words against work.",
+   "tech": "rhetorical question; monosyllables (“dig and sow”: plain words for plain work)"
+  },
+  {
+   "line": "LINE 13",
+   "q": "pouring air and light into an envelope.",
+   "means": "his letters are full of fresh, open-air life.",
+   "why": "you cannot post air and light, so the image is impossible, almost magical. It shows how much his letters lift the speaker: they let the speaker breathe.",
+   "tech": "metaphor; hyperbole"
+  },
+  {
+   "line": "LINE 15",
+   "q": "our souls tap out messages across the icy miles.",
+   "means": "their deepest selves stay in touch across the cold distance.",
+   "why": "“our” finally joins them together. “tap out” suggests Morse code or typing: a steady, hidden connection. “icy miles” admits the distance is real and cold.",
+   "tech": "metaphor; change of pronoun (he / me / you → our); final line as resolution"
+  }
+ ],
+ "form": {
+  "heading": "The form: five tercets, like a letter",
+  "explain": [
+   "A <b>tercet</b> is a stanza of three lines. This poem has five of them (15 lines), with no rhyme scheme and no regular rhythm. <span class=\"care\">our count from the anthology</span>",
+   "Without rhyme or a fixed beat, the poem sounds like natural speech, or like a letter written to someone you know well. <span class=\"care\">our reading</span>"
+  ],
+  "this_poem": [
+   "<b>Sentences run across stanzas:</b> lines 3–4 (<q>“his knuckles singing”</q> / <q>“as they reddened”</q>), 6–7 and 12–13 all run on into the next stanza. The stanzas are like separate houses, but the sentences cross the gaps between them, just as the letters cross the miles. <span class=\"care\">our reading</span>",
+   "<b>Pronouns move together:</b> stanza 1 is <q>“he”</q> and <q>“me”</q>; from line 6 it is <q>“You”</q>, talking straight to him; the last line is <q>“our”</q>. The grammar travels from two separate people to one shared feeling.",
+   "<b>Structure as two worlds:</b> lines about him (digging, ice, snow) alternate with lines about the speaker (headlines, screen). The poem keeps swapping between country and city, the way letters go back and forth. <span class=\"care\">our reading</span>",
+   "<b>Why it matters:</b> the form is a correspondence in miniature. Separate stanzas show the distance; the run-on sentences and the final <q>“our”</q> show the connection winning."
+  ],
+  "say": "A sentence you could use: Dooley’s five unrhymed tercets are separated like the two houses, but her sentences run on across the gaps between stanzas, so the form itself shows the letters crossing the distance until the final “our” joins the two lives."
+ },
+ "methods": [
+  {
+   "title": "Contrast: country and city",
+   "text": "His world is physical and natural: <q>“digging his garden, planting potatoes”</q>, <q>“breaking ice on a waterbutt”</q>. The speaker’s is indoor and made of words: <q>“heartful of headlines”</q>, <q>“feeding words onto a blank screen.”</q> Setting them side by side raises the question at the heart of the poem: whose life is <q>“more real”</q>?",
+   "term": "Juxtaposition",
+   "def": "placing two things side by side to highlight the contrast between them."
+  },
+  {
+   "title": "Imagery of nature and seasons",
+   "text": "Lapwings returning, <q>“seeing the seasons / turning”</q>, ice and snow: the man lives by nature’s calendar. AQA’s specimen mark scheme points to the “use of imagery of nature to present parent” in this poem. Nature here stands for something honest and renewing that the letters carry to the city.",
+   "term": "Imagery",
+   "def": "descriptive language that creates a picture in the reader’s mind (and can appeal to the other senses)."
+  },
+  {
+   "title": "Cold and warmth",
+   "text": "The poem is full of cold (<q>“in the cold”</q>, <q>“snow”</q>, <q>“icy miles”</q>) but also warmth: knuckles that redden <q>“in the warmth”</q>. The physical cold stands for the distance; the warmth stands for the feeling that crosses it. <span class=\"care\">our reading</span>",
+   "term": "Semantic field",
+   "def": "a group of words linked to the same topic (here, cold weather) spread through a text."
+  },
+  {
+   "title": "Communication",
+   "text": "Letters, <q>“headlines”</q>, a <q>“blank screen”</q>, <q>“the same news”</q>, <q>“messages”</q>: the poem is about ways of sending words. The news on TV is shared but impersonal; the letters and the souls’ <q>“messages”</q> are personal. The most real message is the one sent with love.",
+   "term": "Extended metaphor",
+   "def": "one comparison carried on through several lines or a whole poem (here, the relationship as a stream of messages)."
+  }
+ ],
+ "warn": "Examiners warn: choose a second poem that fits the question. In 2022 AQA’s report said some students picked poems “because the students knew them well so wrote about them without considering their appropriateness.” This poem never says who the loved one is, so say so: for a family question you can use AQA’s own reading of him as a “parent”; for a love question, line 5 (“It’s not romance”) makes it a risky choice. <span class=\"src\">AQA June 2022 examiners’ report; AQA specimen mark scheme</span>",
+ "context": {
+  "timeline": [
+   {
+    "date": "1957",
+    "text": "Maura Dooley born in Truro, Cornwall; grows up in Bristol"
+   },
+   {
+    "date": "1978",
+    "text": "Degree from the University of York",
+    "care": "year: one source"
+   },
+   {
+    "date": "1982–87",
+    "text": "Runs the Arvon writing centre at Lumb Bank, West Yorkshire",
+    "care": "one source"
+   },
+   {
+    "date": "1987–93",
+    "text": "Director of the literature programme at the South Bank, London",
+    "care": "one source"
+   },
+   {
+    "date": "1991",
+    "text": "Explaining Magnetism published by Bloodaxe; usually said to include this poem",
+    "hi": true,
+    "care": "the poem’s book is not confirmed"
+   },
+   {
+    "date": "2002",
+    "text": "Sound Barrier: Poems 1982–2002, a selection of her work, published by Bloodaxe"
+   },
+   {
+    "date": "today",
+    "text": "Lives in London; has taught creative writing at Goldsmiths, University of London, for many years"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Dooley is",
+    "items": [
+     {
+      "text": "Born in Truro, Cornwall, in 1957. She is “of Irish extraction” and “grew up in Bristol”.",
+      "src": "Bloodaxe Books; Poetry International; Contemporary Authors (Gale)",
+      "use": "identity · place and home",
+      "care": "Irish family: one source"
+     },
+     {
+      "text": "Her publisher sums up her life: she “was born in Truro, grew up in Bristol, worked for some years in Yorkshire, and has lived in London for the past 30 years.”",
+      "src": "Bloodaxe Books",
+      "use": "place and home · distance",
+      "care": ""
+     },
+     {
+      "text": "She has taught creative writing at Goldsmiths, University of London, for many years.",
+      "src": "Poetry International; Arvon; Bloodaxe Books",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "A critic says her poetry often “links her own experience to collective reflection and shared memory”.",
+      "src": "Poetry International",
+      "use": "memory",
+      "care": "one source"
+     }
+    ]
+   },
+   {
+    "title": "From Yorkshire to London",
+    "items": [
+     {
+      "text": "From 1982 to 1987 she was director of the Arvon Foundation’s writing centre at Lumb Bank, Yorkshire.",
+      "src": "Contemporary Authors (Gale), confirmed in general by Bloodaxe (“worked for some years in Yorkshire”)",
+      "use": "place and home",
+      "care": "job and dates: one source"
+     },
+     {
+      "text": "Lumb Bank is a house in the Pennine hills near Heptonstall, West Yorkshire, which “once belonged to Ted Hughes”, among “woods and rivers, weavers’ cottages, packhorse trails”.",
+      "src": "Arvon",
+      "use": "nature · place",
+      "care": "one source; general context"
+     },
+     {
+      "text": "From 1987 to 1993 she ran the literature programme at the South Bank in London: a busy city arts job.",
+      "src": "Contemporary Authors (Gale)",
+      "use": "place · identity",
+      "care": "one source"
+     },
+     {
+      "text": "So Dooley herself moved from rural Yorkshire to the city. The poem’s two worlds are both places she knew. That does not tell us who “he” is, and we found no statement by Dooley about the poem.",
+      "src": "Bloodaxe Books; Contemporary Authors (Gale)",
+      "use": "distance · place",
+      "care": "our reading"
+     }
+    ]
+   },
+   {
+    "title": "How the poem came about",
+    "items": [
+     {
+      "text": "AQA’s anthology reprints the poem “with permission of Bloodaxe Books”, Dooley’s publisher.",
+      "src": "AQA anthology",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Her collection <i>Explaining Magnetism</i> was published by Bloodaxe in 1991 and was a Poetry Book Society Recommendation. A reviewer, the poet Helen Dunmore, praised its “political consciousness”.",
+      "src": "Goldsmiths Research Online; Poetry International; Bloodaxe Books; Contemporary Authors (Gale)",
+      "use": "",
+      "care": "review: one source (Contemporary Authors)"
+     },
+     {
+      "text": "The poem is usually said to come from <i>Explaining Magnetism</i>, but we could not confirm this on a page we could open. It was later collected in her selection <i>Sound Barrier</i> (2002).",
+      "src": "our research",
+      "use": "",
+      "care": "not confirmed"
+     },
+     {
+      "text": "Who is the man? The poem never says. Some revision guides say the poem is about her father; no reliable source confirms this. AQA’s specimen mark scheme reads him as a “parent”. Treat both as readings, not facts.",
+      "src": "AQA specimen mark scheme; our check of the text",
+      "use": "family · love",
+      "care": "open question"
+     }
+    ]
+   },
+   {
+    "title": "Lapwings and the land",
+    "items": [
+     {
+      "text": "The lapwing is a “familiar Farmland bird”, “Also known as the peewit in imitation of its display calls”.",
+      "src": "RSPB",
+      "use": "nature",
+      "care": "one source"
+     },
+     {
+      "text": "“Lapwings breed between mid-March and June. They nest on spring-tilled arable land” (freshly ploughed fields). So lapwings appearing in February are an early sign that spring and the farming year are starting.",
+      "src": "RSPB",
+      "use": "nature · time",
+      "care": "one source + our reading"
+     },
+     {
+      "text": "Lapwing numbers have “declined by 55% since the 1960s”, partly because of “changes in agriculture”. The man’s world of birds and hand-dug soil is precious and fragile.",
+      "src": "RSPB",
+      "use": "nature",
+      "care": "one source + our reading"
+     },
+     {
+      "text": "Heaney’s “Digging” compares his father’s spade with the poet’s pen. Dooley asks a similar question: is digging <q>“more real”</q> than writing?",
+      "src": "Britannica (on “Digging”)",
+      "use": "identity · comparison with Follower",
+      "care": "our link"
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Dooley grew up in Bristol, worked for some years in rural Yorkshire, then moved to a London literature job. The poem sets the countryside against the city (linking the two is <span class=\"care\">our reading</span>: Dooley has not said so) and asks whether a life of digging is “more real” than a life of words. Who the loved one is stays open: AQA’s specimen mark scheme reads him as a parent; the poem only shows a deep bond kept alive by letters across the miles."
+ },
+ "comparisons": [
+  {
+   "partner": "Mother, any distance",
+   "use_for": [
+    "Separation and distance",
+    "Family (parent and child)"
+   ],
+   "aqa": "Our suggestion. AQA’s specimen mark scheme names both as partners for the same family question (Follower, “attitudes towards a parent”). Your anchor poem.",
+   "similar": [
+    "Both are about staying connected across a growing distance. Armitage uses a tape measure, <q>“the line still feeding out, unreeling”</q>; Dooley uses letters and souls that <q>“tap out messages across the icy miles.”</q>",
+    "Both speakers talk straight to the other person as <q>“You”</q>, and both set two people in two places: <q>“You at the zero-end, me with the spool of tape”</q>; <q>“You out there, in the cold”</q> and <q>“me with my heartful of headlines”</q>.",
+    "Both even use the same verb: Dooley is <q>“feeding words onto a blank screen.”</q>; Armitage’s tape is <q>“still feeding out”</q>. <span class=\"care\">our observation</span>"
+   ],
+   "different": [
+    "<b>Direction:</b> Armitage’s son is pulling away, ready <q>“to fall or fly.”</q> Dooley’s speakers are already apart and are drawing closer, ending on <q>“our souls”</q>.",
+    "<b>The relationship:</b> Armitage names it in the first word, <q>“Mother”</q>. Dooley never names it, and even says <q>“It’s not romance”</q>.",
+    "<b>Mood:</b> Armitage ends on risk and tension (<q>“breaking point”</q>); Dooley ends calm and connected."
+   ]
+  },
+  {
+   "partner": "Follower",
+   "use_for": [
+    "Nature",
+    "Family (parent and child)"
+   ],
+   "aqa": "AQA: specimen mark scheme (Follower question) suggests comparing the “speaker in ‘Follower’” with the speaker in ‘Letters From Yorkshire’, and the “use of imagery of nature to present parent in ‘Letters From Yorkshire’”",
+   "similar": [
+    "Both show a man working the land, admired by someone who does not: Heaney’s father is <q>“An expert.”</q> with a horse-plough; Dooley’s man is <q>“digging his garden, planting potatoes”</q>.",
+    "Both speakers ended up with words, not soil: Heaney became a poet; Dooley’s speaker works with <q>“headlines”</q> and asks <q>“Is your life more real because you dig and sow?”</q>",
+    "Both use nature imagery for the admired man: shoulders <q>“globed like a full sail”</q>; letters <q>“pouring air and light into an envelope.”</q>"
+   ],
+   "different": [
+    "<b>Time:</b> Follower looks back from <q>“today”</q> at a childhood memory; Letters From Yorkshire stays in the present, as a continuing relationship.",
+    "<b>Closeness:</b> Heaney’s boy was physically close, in his father’s <q>“broad shadow”</q>. Dooley’s speaker is far away and connects only through letters.",
+    "<b>Ending:</b> Follower ends with an uneasy role reversal (<q>“will not go away.”</q>); Dooley ends with a calm, shared connection."
+   ]
+  },
+  {
+   "partner": "Walking Away",
+   "use_for": [
+    "Separation and distance",
+    "Family (parent and child)"
+   ],
+   "aqa": "Our suggestion. AQA’s specimen mark scheme names both as partners for the same family question.",
+   "similar": [
+    "Both explore distance between two people who love each other: Day Lewis’s son goes <q>“drifting away”</q> <q>“like a satellite”</q>; Dooley’s pair are separated by <q>“the icy miles.”</q>",
+    "Both use the natural world to think about the relationship: <q>“a winged seed loosened from its parent stem”</q>; lapwings and <q>“the seasons / turning”</q>.",
+    "Both end by finding something positive in the distance: <q>“love is proved in the letting go.”</q>; <q>“our souls tap out messages”</q>."
+   ],
+   "different": [
+    "<b>Who is speaking:</b> Day Lewis is clearly a parent watching his child leave. Dooley’s speaker is the one who has gone away, and the relationship is never named.",
+    "<b>Time:</b> Walking Away remembers one moment <q>“eighteen years ago”</q> that <q>“Gnaws at my mind still.”</q>; Dooley describes an ongoing habit of writing.",
+    "<b>Feeling:</b> Day Lewis feels pain at the parting; Dooley feels connection more than loss."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present family relationships in ‘Letters From Yorkshire’ and in one other poem from ‘Love and relationships’. (AQA used the focus “family relationships” in November 2020; its specimen mark scheme reads this poem as presenting a “parent”.)",
+  "thesis": "Both Dooley and Armitage present a relationship stretched by distance, but while Armitage shows a son pulling away from the mother who holds on, Dooley shows two separate lives drawn back together by letters.",
+  "para": "Both poets build the relationship on a line of communication across space. Armitage’s tape measure is <q>“still feeding out, unreeling / years between us”</q>, an extended metaphor in which every metre gained means more distance. Dooley also places her two people apart, <q>“You out there, in the cold”</q> against <q>“me with my heartful of headlines”</q>, contrasting country and city. Yet the direction differs. Armitage ends with the son ready <q>“to fall or fly.”</q>, so the relationship is about to break. Dooley’s pronouns move from “he” and “me” to <q>“our”</q>, and her final metaphor, <q>“our souls tap out messages across the icy miles.”</q>, shows the bond surviving. For Dooley, distance tests the relationship but does not end it.",
+  "why": [
+   "The thesis answers the question in one sentence and states a clear difference",
+   "Short quotations from both poems, each linked to a named method (extended metaphor, contrast, pronouns)",
+   "Compares throughout (“Both”, “Yet the direction differs”) and ends with a judgement about distance"
+  ]
+ }
+}

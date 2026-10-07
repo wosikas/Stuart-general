@@ -1,0 +1,393 @@
+{
+ "num": 1,
+ "slug": "loves-philosophy",
+ "title": "Love’s Philosophy",
+ "poet": "Percy Bysshe Shelley",
+ "poet_dates": "1792–1822",
+ "published": "published December 1819",
+ "group": "Romantic love",
+ "anchor": false,
+ "copyright": false,
+ "facts": {
+  "type": "Lyric: two 8-line stanzas, rhyme ABABCDCD",
+  "exam": "Not yet the printed poem; AQA has suggested it as a second poem four times (2019, Nov 2021, 2022, 2024)",
+  "partner": "Porphyria’s Lover (your anchor); Sonnet 29 also works well"
+ },
+ "themes": [
+  {
+   "name": "Romantic love",
+   "aqa": true,
+   "src": "AQA mark schemes 2019, Nov 2021, 2022, 2024"
+  },
+  {
+   "name": "Desire",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Longing",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Nature",
+   "aqa": false,
+   "src": "our reading (AQA 2022 mark scheme names its “imagery”)"
+  },
+  {
+   "name": "Rejection and heartbreak",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A man tries to talk someone he loves into kissing him. He points out that everything in nature joins with something else, so why not the two of them?",
+  "message": "Love feels like a law of nature, so being kept apart seems unnatural. But the poem ends with an unanswered question: we never find out if she agrees.",
+  "why": "Shelley was a Romantic poet, writing in Italy in 1819. The Romantics prized feeling and nature. <span class=\"src\">Britannica</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "“Philosophy” comes from the Greek for “love of wisdom”. Shelley's title promises a serious, logical argument about love. In fact it is a clever chat-up line dressed up as philosophy, so the title is a little playful. <span class=\"care\">our reading</span>",
+  "src": "Britannica; Universidad Complutense Madrid"
+ },
+ "synopsis": {
+  "setup": "A speaker (an “I”) talks to someone he calls “thou”. We never hear her answer. He builds an argument, like a lawyer, using examples from nature.",
+  "steps": [
+   {
+    "lines": "Lines 1–4",
+    "text": "Fountains flow into rivers, rivers flow into the ocean, and the winds blend together. Everything in nature joins with something else."
+   },
+   {
+    "lines": "Lines 5–7",
+    "text": "He turns this into a rule: <q>“Nothing in the world is single;”</q>. He claims a <q>“law divine”</q> (a law made by God) makes all things mix together."
+   },
+   {
+    "lines": "Line 8",
+    "text": "So he asks: <q>“Why not I with thine?”</q> If everything joins up, why can't he be with her?"
+   },
+   {
+    "lines": "Lines 9–12",
+    "text": "Stanza two gets more physical. Mountains <q>“kiss”</q> the sky and waves <q>“clasp”</q> (hug) each other. A flower that rejected its partner would never be forgiven."
+   },
+   {
+    "lines": "Lines 13–14",
+    "text": "Sunlight hugs the earth and moonlight kisses the sea. Nature is full of kisses, day and night."
+   },
+   {
+    "lines": "Lines 15–16",
+    "text": "His final question: what is all this kissing worth if she won't kiss him?"
+   }
+  ],
+  "turn": "<b>The turn in each stanza:</b> the speaker builds up evidence from nature, then suddenly switches to himself. In stanza one this happens in the last line (line 8); in stanza two, in the last two lines (lines 15–16).",
+  "ending": "On a question with no answer. We never hear her reply, so his argument is left hanging. Has it worked?",
+  "tone": "Playful, flirty and persuasive at first, then more urgent and a little desperate by the end."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–4",
+   "text": "The <mark>fountains mingle with the river</mark><br>And the rivers with the Ocean,<br>The winds of Heaven mix for ever<br>With a <mark>sweet emotion</mark>;",
+   "note": "Water and wind keep joining together. <b>“mingle”</b> = mix. Even the wind has <b>“emotion”</b>: nature is given human feelings (personification)."
+  },
+  {
+   "lines": "5–8",
+   "text": "<mark>Nothing in the world is single</mark>;<br>All things by a <mark>law divine</mark><br>In one another's being mingle —<br><mark>Why not I with thine?</mark>",
+   "note": "His “rule”: nothing is alone (<b>“single”</b> also hints at not being married). A <b>“law divine”</b> (from God) joins everything. Then the question: why not us?"
+  },
+  {
+   "lines": "9–12",
+   "text": "See the <mark>mountains kiss high Heaven</mark>,<br>And the <mark>waves clasp one another</mark>;<br>No <mark>sister-flower would be forgiven</mark><br>If it <mark>disdain'd</mark> its brother:",
+   "note": "Now the images are physical: kissing and hugging (<b>“clasp”</b>). <b>“disdain'd”</b> = looked down on, rejected. A flower that rejected its partner would be blamed, and so, he hints, would she."
+  },
+  {
+   "lines": "13–16",
+   "text": "And the <mark>sunlight clasps the earth</mark>,<br>And the <mark>moonbeams kiss the sea</mark> —<br><mark>What are all these kisses worth,</mark><br><mark>If thou kiss not me?</mark>",
+   "note": "Day (sun) and night (moon): love is everywhere, all the time. Then the blunt final question: all these kisses are worthless to him without hers. <b>“thou”</b> = you."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "The fountains mingle with the river",
+   "means": "water in nature flows together.",
+   "why": "the first example of things joining; it sets up his whole argument."
+  },
+  {
+   "line": "LINE 5",
+   "q": "Nothing in the world is single;",
+   "means": "nothing is alone.",
+   "tech": "a short statement, like a rule; “single” also hints at being unmarried."
+  },
+  {
+   "line": "LINE 6",
+   "q": "All things by a law divine",
+   "means": "God's law makes everything join.",
+   "why": "he makes his own desire sound holy and unarguable."
+  },
+  {
+   "line": "LINE 8",
+   "q": "Why not I with thine?",
+   "means": "why can't we be together?",
+   "tech": "rhetorical question; the first time he mentions himself."
+  },
+  {
+   "line": "LINE 9",
+   "q": "See the mountains kiss high Heaven,",
+   "means": "even mountains “kiss” the sky.",
+   "tech": "personification; the command “See” makes her look."
+  },
+  {
+   "line": "LINES 11–12",
+   "q": "No sister-flower would be forgiven / If it disdain'd its brother:",
+   "means": "a flower that rejected its partner would be blamed.",
+   "why": "a hidden warning: saying no would be “unnatural”."
+  },
+  {
+   "line": "LINES 15–16",
+   "q": "What are all these kisses worth, / If thou kiss not me?",
+   "means": "nature's kisses mean nothing unless she kisses him.",
+   "tech": "final rhetorical question; short words, no answer."
+  }
+ ],
+ "form": {
+  "heading": "The form: a love lyric built like an argument",
+  "explain": [
+   "A <b>lyric</b> is a short poem that expresses one speaker's feelings, often like a song. When the poem first appeared, the editor Leigh Hunt called it a “delightful little lyric” and a “song”. <span class=\"src\">The Indicator, 1819</span>",
+   "A <b>rhetorical question</b> is a question asked to make a point, not to get information. Persuasive speeches use them to push the listener to agree.",
+   "One handwritten copy is headed “An Anacreontic”: a poem in the style of Anacreon, an ancient Greek poet whose poems praise “love, wine, and revelry”. <span class=\"src\">Hutchinson's Oxford edition; Britannica</span> <span class=\"care\">heading: one source</span>"
+  ],
+  "this_poem": [
+   "<b>Two stanzas of 8 lines</b>, each rhyming <b>ABABCDCD</b>. <span class=\"src\">our count from the anthology; Universidad Complutense Madrid</span>",
+   "<b>Each stanza works the same way:</b> evidence from nature first, then a closing question about himself (line 8; lines 15–16). It is like a debate: examples, then the conclusion. <span class=\"care\">our reading</span>",
+   "The rhymes pair up, <b>“single”</b> with <b>“mingle”</b>, just as he wants the two of them to pair up. Everything in the poem has a partner, except him. <span class=\"care\">our reading</span>",
+   "<b>Stanza two is more urgent:</b> the verbs move from mixing (<q>“mingle”</q>, <q>“mix”</q>) to touching (<q>“kiss”</q>, <q>“clasp”</q>).",
+   "<b>The ending is open:</b> the poem stops on a question, so the woman's answer is never heard. The neat form contrasts with the unresolved situation."
+  ],
+  "say": "A sentence you could use: Shelley shapes the poem like a logical argument, with evidence from nature piled up before each closing question, yet the final question is never answered, so his tidy “philosophy” cannot actually make her love him."
+ },
+ "methods": [
+  {
+   "title": "Nature given human feelings",
+   "text": "Winds have a <q>“sweet emotion”</q>, mountains <q>“kiss”</q>, waves <q>“clasp”</q>. Making nature romantic makes his own wish look natural too.",
+   "term": "Personification",
+   "def": "giving human actions or feelings to something that isn't human."
+  },
+  {
+   "title": "Questions that push",
+   "text": "Both stanzas end with a question: <q>“Why not I with thine?”</q> and <q>“If thou kiss not me?”</q> They put pressure on her to answer “yes”.",
+   "term": "Rhetorical question",
+   "def": "a question asked to make a point or persuade, not to get information."
+  },
+  {
+   "title": "Building a list",
+   "text": "He piles up example after example, linked by <q>“And”</q>: <q>“And the waves”</q>, <q>“And the sunlight”</q>, <q>“And the moonbeams”</q>. The pile of evidence makes his argument feel overwhelming.",
+   "term": "Anaphora",
+   "def": "repeating the same word or phrase at the start of several lines."
+  },
+  {
+   "title": "Words of touch",
+   "text": "<q>“mingle”</q>, <q>“mix”</q>, <q>“kiss”</q> and <q>“clasp”</q> run through the poem. They show his desire is physical, not just a feeling.",
+   "term": "Semantic field",
+   "def": "a group of words linked by the same topic."
+  }
+ ],
+ "warn": "Examiners warn: in 2022, comments on Sonnet 29’s rhyme scheme were “sometimes compared to the ABAB of Love’s Philosophy and its structure”, and AQA's report said such comments risk “becoming rather descriptive”. Don't just name the rhyme scheme: say what it shows about love.",
+ "context": {
+  "timeline": [
+   {
+    "date": "1792",
+    "text": "Shelley born, Sussex"
+   },
+   {
+    "date": "1811",
+    "text": "Expelled from Oxford; elopes with Harriet Westbrook"
+   },
+   {
+    "date": "1814",
+    "text": "Elopes with Mary Godwin; they marry in 1816"
+   },
+   {
+    "date": "1818",
+    "text": "Moves to Italy; translates Plato's <i>Symposium</i>, about love",
+    "care": "one source"
+   },
+   {
+    "date": "Autumn 1819",
+    "text": "Living in Florence, around the birth of his son Percy Florence"
+   },
+   {
+    "date": "22 Dec 1819",
+    "text": "Love's Philosophy printed in Leigh Hunt's <i>The Indicator</i>",
+    "hi": true
+   },
+   {
+    "date": "1822",
+    "text": "Shelley drowns, aged 29"
+   },
+   {
+    "date": "1824",
+    "text": "Mary Shelley reprints it in <i>Posthumous Poems</i>"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Shelley was",
+    "items": [
+     {
+      "text": "A second-generation Romantic poet, with Keats and Byron. Britannica calls him the “most politically radical” of the Romantics.",
+      "src": "Britannica; Cambridge History of English Poetry",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Oxford expelled him in 1811 over a pamphlet called <i>The Necessity of Atheism</i>. So it is striking that his love poem calls on a <q>“law divine”</q> and <q>“Heaven”</q>: he borrows God's authority to win an argument.",
+      "src": "Britannica; University College Oxford",
+      "use": "romantic love · desire",
+      "care": "the link is our reading"
+     },
+     {
+      "text": "He broke the rules in love too: at 19 he eloped with 16-year-old Harriet Westbrook, then in 1814 eloped with Mary Godwin, whom he married in 1816.",
+      "src": "Britannica; poets.org",
+      "use": "romantic love · desire",
+      "care": ""
+     },
+     {
+      "text": "His early poem <i>Queen Mab</i> (1813) attacked several institutions, including marriage.",
+      "src": "Britannica",
+      "use": "romantic love",
+      "care": "one source"
+     }
+    ]
+   },
+   {
+    "title": "How the poem came about",
+    "items": [
+     {
+      "text": "First printed on 22 December 1819 in <i>The Indicator</i>, a weekly paper run by his friend Leigh Hunt. Shelley's name wasn't given: Hunt introduced it as a lyric “by a friend”.",
+      "src": "The Indicator (1819 original); Hutchinson's Oxford edition",
+      "use": "",
+      "care": "name missing: as printed in 1819"
+     },
+     {
+      "text": "Hunt praised it as “elemental, Platonical; a meeting of divineness with humanity”. In other words, a poem where nature, the holy and human love meet.",
+      "src": "The Indicator (1819 original)",
+      "use": "romantic love · nature",
+      "care": "one source"
+     },
+     {
+      "text": "That autumn Shelley was living in Florence, Italy. In Florence he met an English traveller, Sophia Stacey, and later copied this poem by hand into a pocket book he gave her. No source says he wrote it for her.",
+      "src": "Britannica; Maidstone Museum; Eton College catalogue",
+      "use": "desire",
+      "care": "Stacey: one source each"
+     },
+     {
+      "text": "After Shelley died, his wife Mary reprinted it in <i>Posthumous Poems</i> (1824).",
+      "src": "Hutchinson's Oxford edition; Universidad Complutense Madrid",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Watch out: there are different versions. Some books print “What is all this sweet work worth”. The AQA anthology has <q>“What are all these kisses worth,”</q>. Always quote the anthology.",
+      "src": "Hutchinson's Oxford edition; The Indicator; AQA anthology",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "Love, nature and the Romantics",
+    "items": [
+     {
+      "text": "Romanticism prized “a deepened appreciation of the beauties of nature” and put emotion above reason. Here nature becomes the evidence for love.",
+      "src": "Britannica",
+      "use": "nature · romantic love",
+      "care": "one source"
+     },
+     {
+      "text": "In 1818 Shelley translated Plato's <i>Symposium</i> (an ancient Greek discussion about love) and wrote his own essay “On Love”. Love was something he thought about seriously, as philosophy.",
+      "src": "Britannica",
+      "use": "romantic love",
+      "care": "one source"
+     },
+     {
+      "text": "Note the irony: the poem argues like a philosopher, using reason, but its real aim is a kiss. The Romantics' trust in feeling wins over the logic.",
+      "src": "our reading",
+      "use": "desire",
+      "care": "our reading"
+     },
+     {
+      "text": "AQA's 2022 report says AO3 works best through ideas such as “the power of love to make someone obsessive, very unhappy”, rather than poets' life stories.",
+      "src": "AQA 2022 examiners' report",
+      "use": "powerful feelings",
+      "care": ""
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Shelley, a Romantic who valued feeling and nature above reason, uses nature as “evidence” for love. Yet, as someone expelled from Oxford over atheism, he still calls on a <q>“law divine”</q>, borrowing God's authority to make desire sound unarguable. Link this to the power of love to make someone argue, plead and feel rejected."
+ },
+ "comparisons": [
+  {
+   "partner": "Porphyria’s Lover",
+   "use_for": [
+    "Romantic love",
+    "Desire"
+   ],
+   "aqa": "AQA lists both as second poems for the same romantic-love questions (mark schemes 2019, Nov 2021, 2022, 2024); both among the most popular partners that “worked well” (2022 report). Your anchor poem.",
+   "similar": [
+    "Both are spoken by a man who wants a woman to be his, and we never hear her side: Shelley's <q>“thou”</q> never answers; Porphyria is silenced for ever.",
+    "Both bring God into it: Shelley claims a <q>“law divine”</q> is on his side; Browning's speaker notices <q>“And yet God has not said a word!”</q>",
+    "Both use nature: Shelley's nature is loving (<q>“moonbeams kiss the sea”</q>); Browning's opens with a storm that matches the speaker's mood (<q>“The sullen wind was soon awake,”</q>)."
+   ],
+   "different": [
+    "<b>Asking or taking:</b> Shelley only asks, <q>“Why not I with thine?”</q> Browning's speaker takes: <q>“That moment she was mine, mine, fair,”</q> and then he kills her.",
+    "<b>Tone:</b> playful and persuasive against calm, chilling madness: <q>“I am quite sure she felt no pain.”</q>",
+    "<b>Form:</b> a short lyric with an open ending against a long dramatic monologue that tells a full story."
+   ]
+  },
+  {
+   "partner": "Sonnet 29 – ‘I think of thee!’",
+   "use_for": [
+    "Romantic love",
+    "Nature"
+   ],
+   "aqa": "AQA: 2022 mark scheme (Sonnet 29 question) names Love's Philosophy for “imagery used to present ideas about the power of love”; Nov 2021 mark scheme names both in one bullet (“positive effects of strong feelings”); 2022 report: “worked well”",
+   "similar": [
+    "Both use nature to show love wrapping two people together: <q>“In one another's being mingle”</q> and <q>“my thoughts do twine and bud / About thee, as wild vines, about a tree,”</q>",
+    "Both speakers want the loved one's physical presence, not just thoughts or words: <q>“If thou kiss not me?”</q> and <q>“Renew thy presence;”</q>"
+   ],
+   "different": [
+    "<b>Who speaks:</b> a man trying to win a woman, against a woman longing for a lover who is away.",
+    "<b>Ending:</b> Shelley ends unanswered and alone; Barrett Browning ends together and joyful: <q>“I am too near thee.”</q>",
+    "<b>Form:</b> two neat 8-line stanzas against a 14-line sonnet, the traditional form for love poetry."
+   ]
+  },
+  {
+   "partner": "Winter Swans",
+   "use_for": [
+    "Romantic love",
+    "Nature"
+   ],
+   "aqa": "AQA: 2019 mark scheme (Winter Swans question) suggests “the hope in ‘Winter Swans’ with the less hopeful … ‘Love’s Philosophy’” and contrasting their start and end; 2024 mark scheme names both together for “negative types of powerful feelings” and for direct address",
+   "similar": [
+    "Both use nature as a model for human love: Shelley's waves and flowers; Sheers's swans, who <q>“mate for life”</q>.",
+    "In both, one person speaks about love and the other stays silent: Shelley's beloved never answers; Sheers's speaker says <q>“I didn't reply”</q>."
+   ],
+   "different": [
+    "<b>Ending:</b> Sheers ends with the couple reunited, their hands <q>“like a pair of wings settling after flight.”</q> Shelley ends still apart, asking <q>“If thou kiss not me?”</q>",
+    "<b>Stage of love:</b> Shelley's love hasn't started; Sheers's couple are in an established relationship that has gone wrong and is being mended.",
+    "<b>Voice:</b> Shelley argues loudly; in Sheers the healing happens without words."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present powerful feelings about love in ‘Love’s Philosophy’ and in one other poem from ‘Love and relationships’. (AQA's 2024 focus: “powerful feelings about love”)",
+  "thesis": "Both Shelley and Browning show a man's powerful desire for a silent woman, but Shelley's speaker can only plead with questions, while Browning's turns desire into deadly possession.",
+  "para": "Both poets present desire as a feeling so powerful that the man believes it is justified by something greater than himself. Shelley's speaker claims <q>“All things by a law divine”</q> must join, so refusing him would be unnatural. Yet his desire stays a request: the rhetorical question <q>“Why not I with thine?”</q> leaves the woman free to say no, and the poem ends unanswered. Browning's speaker also believes he is right, but he acts on his desire. The repetition in <q>“she was mine, mine, fair,”</q> shows possessive obsession, and he strangles her to keep the moment. His closing line, <q>“And yet God has not said a word!”</q>, echoes Shelley's appeal to God, but chillingly. Together the poems suggest that powerful desire can make a lover twist even divine law to suit himself.",
+  "why": [
+   "Opens with a clear comparative point that answers the question about powerful feelings",
+   "Short quotations from both poems, each one explained, with methods named (rhetorical question, repetition)",
+   "Compares all the way through (“Both”, “also”, “echoes”) and ends with an overall idea"
+  ]
+ }
+}

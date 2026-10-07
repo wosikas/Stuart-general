@@ -1,0 +1,479 @@
+{
+ "num": 3,
+ "slug": "porphyrias-lover",
+ "title": "Porphyria’s Lover",
+ "poet": "Robert Browning",
+ "poet_dates": "1812–1889",
+ "published": "first published 1836",
+ "group": "Romantic love",
+ "anchor": true,
+ "copyright": false,
+ "facts": {
+  "type": "Dramatic monologue (60 lines, rhyme ababb)",
+  "exam": "Not yet printed, but AQA’s mark schemes suggest it as a partner for all five romantic-love questions (2018–2024)",
+  "partner": "Winter Swans (your backup anchor); The Farmer’s Bride also works well"
+ },
+ "themes": [
+  {
+   "name": "Romantic love",
+   "aqa": true,
+   "src": "AQA mark schemes 2018, 2019, Nov 2021, 2022, 2024 (“the more cynical presentation of love”)"
+  },
+  {
+   "name": "Possession",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Power and control",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Desire",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "On a stormy night a woman called Porphyria leaves a party to visit her lover in his cottage. She tells him she loves him. He strangles her with her own hair, then sits with her body all night.",
+  "message": "Love can turn into a terrifying wish to own someone. The speaker wants to keep one perfect moment for ever, so he destroys the person he loves.",
+  "why": "Browning was a Victorian poet famous for the dramatic monologue. This is one of his earliest: first printed in 1836, then paired with another poem under the title “Madhouse Cells”. <span class=\"src\">Britannica; EBSCO; Encyclopedia.com (Gale)</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "The poem first appeared simply as <b>“Porphyria”</b>. In 1842 it was printed under the heading <b>“Madhouse Cells”</b>, telling readers the speaker was mad. The title <b>“Porphyria’s Lover”</b> was added in 1849. It names him only by his link to her: he exists through owning her. <span class=\"care\">last point: our reading</span> The name comes from the Greek word for purple, a colour linked with royalty, which may hint that she is from a richer, higher-class world. <span class=\"care\">one source</span> <b>Beware:</b> some revision notes say she is named after the disease porphyria. That is wrong: the medical term was not coined until 1889, 53 years after the poem.",
+  "src": "EBSCO; Encyclopedia.com (Gale); Victorian Web"
+ },
+ "synopsis": {
+  "setup": "The whole poem is spoken by Porphyria’s lover, alone in his cottage. We only hear his side of the story, and he is not someone we can trust.",
+  "steps": [
+   {
+    "lines": "Lines 1–5",
+    "text": "A wild storm: the wind tears down treetops <q>“for spite”</q>. The speaker sits waiting <q>“with heart fit to break.”</q>"
+   },
+   {
+    "lines": "Lines 6–15",
+    "text": "Porphyria arrives, lights the fire and warms the cottage. She takes off her wet cloak and gloves, lets down her hair and sits beside him. She calls him, but he does not answer."
+   },
+   {
+    "lines": "Lines 16–25",
+    "text": "She puts his arm round her waist and rests his head on her bare shoulder. She murmurs that she loves him, but she is <q>“Too weak”</q> to break free from <q>“pride, and vainer ties”</q> and give herself to him for ever."
+   },
+   {
+    "lines": "Lines 26–30",
+    "text": "Tonight her love won: she left a <q>“gay feast”</q> (a party) because she thought of him, pale and lovesick, and came <q>“through wind and rain.”</q>"
+   },
+   {
+    "lines": "Lines 31–35",
+    "text": "He realises <q>“Porphyria worshipped me”</q>. His heart swells with pride while he <q>“debated what to do.”</q>"
+   },
+   {
+    "lines": "Lines 36–42",
+    "text": "Wanting to keep this moment, he winds her long hair three times round her throat <q>“And strangled her.”</q> He insists she felt no pain."
+   },
+   {
+    "lines": "Lines 43–55",
+    "text": "He opens her eyes, loosens the hair and kisses her. He props her dead head on his shoulder and claims she is <q>“So glad”</q> to have her wish: him."
+   },
+   {
+    "lines": "Lines 56–60",
+    "text": "They sit together all night. He ends: <q>“And yet God has not said a word!”</q>"
+   }
+  ],
+  "turn": "<b>The turning point (lines 36–41):</b> <q>“That moment she was mine, mine, fair”</q>. At the very moment she gives him her love, he decides to own her for ever, and kills her in four calm lines.",
+  "ending": "He sits with the body all night, sure he has done right. The final line could be a boast (God has not punished me), or a sign that a silent God disapproves. Either way he has no guilt.",
+  "tone": "Calm, proud and self-satisfied, which makes it chilling. He tells a murder story as if it were a love story."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam. The poem is printed as one block, but it is really twelve five-line sections, so the notes follow those sections.",
+ "poem_blocks": [
+  {
+   "lines": "1–5",
+   "text": "The rain set early in to-night,<br><mark>The sullen wind</mark> was soon awake,<br><mark>It tore the elm-tops down for spite,</mark><br>and did its worst to vex the lake:<br><mark>I listened with heart fit to break.</mark>",
+   "note": "A storm. The wind is described like a bad-tempered person: <b>“sullen”</b>, acting <b>“for spite”</b>, trying to <b>“vex”</b> (annoy) the lake. The angry weather mirrors the speaker’s mood (pathetic fallacy). He is sitting alone, heartbroken."
+  },
+  {
+   "lines": "6–10",
+   "text": "When <mark>glided in Porphyria</mark>; straight<br><mark>She shut the cold out and the storm,</mark><br>And kneeled and made the cheerless grate<br>Blaze up, and all the cottage warm;<br>Which done, she rose, and from her form",
+   "note": "Porphyria arrives smoothly, almost like a ghost or angel (<b>“glided”</b>). She shuts out the storm and lights the fire. She brings warmth and life; she is the active one."
+  },
+  {
+   "lines": "11–15",
+   "text": "Withdrew the dripping cloak and shawl,<br>And laid her soiled gloves by, untied<br>Her hat and let the damp hair fall,<br>And, last, she sat down by my side<br>And called me. <mark>When no voice replied,</mark>",
+   "note": "She takes off her wet things and lets her hair down. She calls to him, and he deliberately says nothing. His sulky silence is a first sign that something is wrong."
+  },
+  {
+   "lines": "16–20",
+   "text": "<mark>She put my arm about her waist,</mark><br>And made her <mark>smooth white shoulder bare</mark>,<br>And all her yellow hair displaced,<br>And, stooping, made my cheek lie there,<br>And spread o’er all her <mark>yellow hair</mark>,",
+   "note": "She does everything: puts his arm round her, bares her shoulder, rests his head on it. He is passive. Notice how often he mentions her <b>“yellow hair”</b>: it becomes the murder weapon."
+  },
+  {
+   "lines": "21–25",
+   "text": "<mark>Murmuring how she loved me</mark> – she<br>Too weak, for all her heart’s endeavour,<br>To set its struggling passion free<br><mark>From pride, and vainer ties dissever,</mark><br><mark>And give herself to me for ever.</mark>",
+   "note": "She says she loves him. But (he says) she is too weak to cut (<b>“dissever”</b>) her ties: her pride and her other connections, perhaps family or social class. She will not give herself to him <b>“for ever”</b>. This is his complaint."
+  },
+  {
+   "lines": "26–30",
+   "text": "But passion sometimes would prevail,<br>Nor could <mark>tonight’s gay feast</mark> restrain<br>A sudden thought of one so pale<br>For love of her, and all in vain:<br>So, <mark>she was come through wind and rain.</mark>",
+   "note": "Tonight her passion won. She left a party (<b>“gay feast”</b> = happy celebration) to see him, pale with hopeless love. She braved the storm for him. Note: he says his love was <b>“all in vain”</b>, yet she came."
+  },
+  {
+   "lines": "31–35",
+   "text": "Be sure I looked up at her eyes<br>Happy and proud; at last I knew<br><mark>Porphyria worshipped me</mark>: surprise<br>Made my heart swell, and still it grew<br>While I <mark>debated what to do.</mark>",
+   "note": "He looks into her eyes and decides she <b>“worshipped”</b> him: love like a god receives. His pride swells. Then, worryingly, he wonders <b>“what to do”</b> with this moment."
+  },
+  {
+   "lines": "36–40",
+   "text": "<mark>That moment she was mine, mine, fair,</mark><br><mark>Perfectly pure and good</mark>: I found<br>A thing to do, and all her hair<br><mark>In one long yellow string I wound</mark><br><mark>Three times her little throat around,</mark>",
+   "note": "At this perfect moment she is <b>“mine, mine”</b>. To stop it changing, he winds her hair round her throat three times. Her hair is now just a <b>“string”</b>, and the word <b>“little”</b> makes her sound small and helpless."
+  },
+  {
+   "lines": "41–45",
+   "text": "<mark>And strangled her.</mark> No pain felt she;<br><mark>I am quite sure she felt no pain.</mark><br><mark>As a shut bud that holds a bee,</mark><br>I warily oped her lids: again<br><mark>Laughed the blue eyes without a stain.</mark>",
+   "note": "Four blunt words: <b>“And strangled her.”</b> He repeats that she felt no pain, as if trying to convince himself. He opens her eyelids carefully (<b>“oped”</b> = opened), like opening a flower bud with a bee inside, and claims her eyes still <b>“Laughed”</b>."
+  },
+  {
+   "lines": "46–50",
+   "text": "And I untightened next the tress<br>About her neck; her cheek once more<br><mark>Blushed bright beneath my burning kiss:</mark><br>I propped her head up as before,<br>Only, <mark>this time my shoulder bore</mark>",
+   "note": "He loosens the hair (<b>“tress”</b>) and kisses her, imagining she blushes. Then he swaps places: before, he rested on her shoulder; now her dead head rests on his. He is in control now."
+  },
+  {
+   "lines": "51–55",
+   "text": "Her head, which droops upon it still:<br><mark>The smiling rosy little head,</mark><br><mark>So glad it has its utmost will,</mark><br>That all it scorned at once is fled,<br><mark>And I, its love, am gained instead!</mark>",
+   "note": "He calls her <b>“it”</b>: she is now an object. He claims she is <b>“glad”</b>: she has got her greatest wish, because the things she cared about (pride, other ties) are gone and she has him."
+  },
+  {
+   "lines": "56–60",
+   "text": "Porphyria’s love: she guessed not how<br><mark>Her darling one wish would be heard.</mark><br><mark>And thus we sit together now,</mark><br>And all night long we have not stirred,<br><mark>And yet God has not said a word!</mark>",
+   "note": "He says he granted her <b>“one wish”</b>, as if he were God. Only now does he say <b>“we”</b>: they are together, but only because she is dead. Last line: no punishment has come, and he sounds triumphant, or perhaps uneasy."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 5",
+   "q": "I listened with heart fit to break.",
+   "means": "I sat waiting, heartbroken.",
+   "why": "he starts as the sad victim, so we sympathise at first; the storm before it hints at a darker mood."
+  },
+  {
+   "line": "LINE 15",
+   "q": "When no voice replied,",
+   "means": "I didn’t answer her.",
+   "tech": "he says “no voice” instead of “I”: the impersonal wording hides that he chose not to answer (our reading: a sulk or a test)."
+  },
+  {
+   "line": "LINES 24–25",
+   "q": "From pride, and vainer ties dissever, / And give herself to me for ever.",
+   "means": "she won’t cut her other ties and be mine for ever.",
+   "why": "this is his motive: he wants all of her, permanently."
+  },
+  {
+   "line": "LINE 33",
+   "q": "Porphyria worshipped me",
+   "means": "she adored me like a god.",
+   "tech": "religious language: love becomes worship, and his pride swells."
+  },
+  {
+   "line": "LINE 36",
+   "q": "That moment she was mine, mine, fair,",
+   "means": "right then she belonged to me.",
+   "tech": "repeated possessive “mine”: love has become ownership."
+  },
+  {
+   "line": "LINES 39–41",
+   "q": "In one long yellow string I wound / Three times her little throat around, / And strangled her.",
+   "means": "I strangled her with her own hair.",
+   "why": "calm, rhyming lines describe a murder; the short “And strangled her.” is shockingly blunt."
+  },
+  {
+   "line": "LINE 42",
+   "q": "I am quite sure she felt no pain.",
+   "means": "I’m certain she didn’t suffer.",
+   "why": "he has no evidence; the repetition sounds like he is trying to convince himself (an unreliable narrator)."
+  },
+  {
+   "line": "LINE 60",
+   "q": "And yet God has not said a word!",
+   "means": "God hasn’t punished me (or spoken at all).",
+   "why": "the exclamation sounds triumphant: he feels no guilt; or God’s silence is itself a judgement."
+  }
+ ],
+ "form": {
+  "heading": "The form: a dramatic monologue that hides its own pattern",
+  "explain": [
+   "A <b>dramatic monologue</b> is a poem spoken by one character who is <b>not the poet</b>, “in a specific situation at a critical moment.” <span class=\"src\">Baylor University (M. H. Abrams)</span>",
+   "<b>Why poets use it:</b> to reveal the speaker’s character, often more than the speaker means to. So we read between the lines. <span class=\"src\">Baylor University (M. H. Abrams)</span>",
+   "“First-person narration provides no sure way of authenticating the speaker’s statements.” In other words, we cannot check whether he is telling the truth. <span class=\"src\">Victorian Web (George P. Landow, Brown University)</span>",
+   "One critic notes that here no listener is named, so it is close to a <b>soliloquy</b> (someone talking to himself). <span class=\"src\">EBSCO</span> <span class=\"care\">one source</span>"
+  ],
+  "this_poem": [
+   "<b>One block, twelve hidden stanzas:</b> the 60 lines look like one long rush of speech, but they fall into twelve five-line sections, each rhyming <b>ababb</b>. <span class=\"src\">RPO (University of Toronto); EBSCO; Encyclopedia.com (Gale)</span>",
+   "<b>Short, regular lines:</b> mostly iambic tetrameter: four beats per line (da-DUM da-DUM da-DUM da-DUM), e.g. <q>“The rain set early in to-night”</q>. <span class=\"src\">EBSCO; our count</span> <span class=\"care\">one source (another says pentameter, which our count does not support)</span>",
+   "<b>Why it matters:</b> the neat, steady pattern sounds calm and controlled, even while he describes a murder. The order on the surface hides the madness underneath. <span class=\"care\">our reading</span>",
+   "<b>The extra rhyme:</b> each section ends by repeating the b-rhyme (<b>awake</b>, <b>lake</b>, <b>break</b>). The poem keeps circling back, like a mind stuck on one obsession. <span class=\"care\">our reading</span>",
+   "<b>Only his voice:</b> Porphyria never speaks directly. We hear that she was <q>“Murmuring how she loved me”</q>, but only in his words. She is silenced twice: by the poem’s form and by him. <span class=\"care\">our reading</span>",
+   "AQA’s mark scheme suggests writing about “the use of first person to present a particular view of reality/self, eg with ‘Porphyria’s Lover’”, and examiners noted it engaged students “perhaps because of their narrative nature”. <span class=\"src\">AQA Nov 2021 mark scheme; June 2022 examiners' report</span>"
+  ],
+  "say": "A sentence you could use: Browning uses a dramatic monologue so the lover condemns himself in his own words; the calm, regular ababb pattern makes his account of the murder sound reasonable, which is exactly what makes it so disturbing."
+ },
+ "methods": [
+  {
+   "title": "A speaker we can’t trust",
+   "text": "He insists <q>“I am quite sure she felt no pain”</q> and claims her dead head is <q>“So glad”</q>. He has no evidence. We have to judge him by what he lets slip.",
+   "term": "Unreliable narrator",
+   "def": "a speaker whose version of events we cannot fully believe."
+  },
+  {
+   "title": "Stormy weather, stormy mind",
+   "text": "The wind is <q>“sullen”</q> and acts <q>“for spite”</q>. The angry, destructive storm at the start mirrors the violence building inside him.",
+   "term": "Pathetic fallacy",
+   "def": "when the weather or nature reflects a character’s feelings."
+  },
+  {
+   "title": "From woman to object",
+   "text": "Her hair becomes <q>“one long yellow string”</q>, and after death she is <q>“The smiling rosy little head”</q> and <q>“it”</q>. He turns a living woman into a thing he can arrange and keep.",
+   "term": "Objectification",
+   "def": "treating a person as an object."
+  },
+  {
+   "title": "Love as worship",
+   "text": "He thinks <q>“Porphyria worshipped me”</q>, says he answered her <q>“one wish”</q>, and ends with God. He sees himself almost as a god; the last line is shocking for that reason.",
+   "term": "Religious imagery",
+   "def": "words and ideas taken from religion."
+  }
+ ],
+ "warn": "Examiners advise: “AO3 is much more appropriately addressed by focusing on ideas such as the power of love to make someone obsessive, very unhappy, grief-stricken, unbalanced, etc than writing about” facts about the poets’ lives. Here, that means writing about obsession and possession, not Browning’s biography. <span class=\"src\">AQA June 2022 examiners' report</span>",
+ "context": {
+  "timeline": [
+   {
+    "date": "1812",
+    "text": "Browning born in Camberwell, London"
+   },
+   {
+    "date": "1833",
+    "text": "First book, <i>Pauline</i>, published anonymously"
+   },
+   {
+    "date": "1834–36",
+    "text": "Contributes five poems to the <i>Monthly Repository</i>, a magazine edited by W. J. Fox",
+    "care": "editor: one source"
+   },
+   {
+    "date": "Jan 1836",
+    "text": "“Porphyria” printed in the <i>Monthly Repository</i>",
+    "hi": true
+   },
+   {
+    "date": "1842",
+    "text": "Reprinted in <i>Dramatic Lyrics</i> with “Johannes Agricola” under the heading “Madhouse Cells”"
+   },
+   {
+    "date": "1846",
+    "text": "Browning secretly marries the poet Elizabeth Barrett"
+   },
+   {
+    "date": "1849",
+    "text": "Given the title “Porphyria’s Lover”"
+   },
+   {
+    "date": "1889",
+    "text": "Browning dies in Venice; the medical term “porphyria” is coined the same year",
+    "care": "medical term: one source"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Browning was",
+    "items": [
+     {
+      "text": "A “Major English poet of the Victorian age, noted for his mastery of dramatic monologue and psychological portraiture.” Born in London in 1812.",
+      "src": "Britannica; poets.org",
+      "use": "form · the speaker’s mind",
+      "care": ""
+     },
+     {
+      "text": "He had little formal schooling and learned from his father, whose library held over 6,000 books.",
+      "src": "Britannica; poets.org",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "His first book, <i>Pauline</i> (1833), was already “formally a dramatic monologue”. Porphyria’s Lover followed three years later.",
+      "src": "Britannica",
+      "use": "form",
+      "care": ""
+     },
+     {
+      "text": "He also wrote <b>My Last Duchess</b> (1842), another monologue by a man who brought about his wife’s death. Britannica says “he himself brought about her death”. If you study Power and conflict too, the two make a strong link.",
+      "src": "Britannica",
+      "use": "possession · control",
+      "care": "link is our reading"
+     }
+    ]
+   },
+   {
+    "title": "How the poem first appeared",
+    "items": [
+     {
+      "text": "It was first printed as “Porphyria” in the <i>Monthly Repository</i> in January 1836, one of five poems Browning wrote for that magazine.",
+      "src": "Encyclopedia.com (Gale); Mrs Sutherland Orr, Life and Letters of Robert Browning (1891)",
+      "use": "",
+      "care": "January: one source"
+     },
+     {
+      "text": "In 1842 it was paired with “Johannes Agricola” under the heading “Madhouse Cells”. Browning wanted readers to see the speaker as mad.",
+      "src": "EBSCO; Encyclopedia.com (Gale); RPO; Orr",
+      "use": "obsession · strong feelings",
+      "care": "‘wanted readers to see’: our reading"
+     },
+     {
+      "text": "The title “Porphyria’s Lover” came in 1849. One source says this moved the focus “away from the issue of madness to that of character and relationship”.",
+      "src": "EBSCO; Encyclopedia.com (Gale)",
+      "use": "romantic love",
+      "care": "quotation: one source (Encyclopedia.com)"
+     },
+     {
+      "text": "It is called Browning’s “earliest study in abnormal psychology” (abnormal psychology = the study of disturbed minds).",
+      "src": "EBSCO",
+      "use": "obsession",
+      "care": "one source"
+     }
+    ]
+   },
+   {
+    "title": "Women in Victorian England",
+    "items": [
+     {
+      "text": "Under English law (“coverture”), a married woman’s legal existence was “suspended”: in law, husband and wife were one person, the husband.",
+      "src": "Britannica",
+      "use": "possession · control",
+      "care": "link to the poem is our reading"
+     },
+     {
+      "text": "Divorce needed an Act of Parliament. Of about 320 divorce Acts from 1700 to 1857, “only four were granted to women”.",
+      "src": "The National Archives",
+      "use": "power and control",
+      "care": "link to the poem is our reading"
+     },
+     {
+      "text": "A woman’s reputation depended on sexual “purity”: one who strayed could “lose her good name, be barred from society, and decried as ‘fallen’”. Men were judged far less harshly.",
+      "src": "Encyclopedia.com (Gale)",
+      "use": "desire · secrecy",
+      "care": "one source"
+     },
+     {
+      "text": "So Porphyria, visiting a man alone at night, is risking her reputation. The speaker calls her <q>“Perfectly pure and good”</q> only at the moment he kills her: he fixes her as the Victorian ideal by ending her life.",
+      "src": "our reading",
+      "use": "possession · desire",
+      "care": "our reading"
+     },
+     {
+      "text": "AQA examiners regret that “the opportunity to address gender issues as a way to access AO3 was sadly often missed” in a romantic-love question.",
+      "src": "AQA Nov 2021 examiners' report",
+      "use": "AO3",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "What critics and examiners say",
+    "items": [
+     {
+      "text": "AQA’s mark scheme contrasts happy love poems with “the more cynical presentation of love in ‘Porphyria’s Lover’”, and links it to the “negative effects” of strong or powerful feelings.",
+      "src": "AQA mark schemes 2018, Nov 2021, 2024",
+      "use": "romantic love · strong feelings",
+      "care": ""
+     },
+     {
+      "text": "One critic says he kills her to “possess Porphyria permanently” and that the last line “suggests a complete lack of conscience”.",
+      "src": "EBSCO",
+      "use": "possession",
+      "care": "one source"
+     },
+     {
+      "text": "Professor Landow notes the speaker says his love is “all in vain”, “but in fact she does think of him and she does come!” He twists the facts to suit himself.",
+      "src": "Victorian Web (George P. Landow)",
+      "use": "the speaker’s mind",
+      "care": "one source"
+     },
+     {
+      "text": "Examiners praised it as a partner: students “engaged with this, especially well alongside The Farmer’s Bride”.",
+      "src": "AQA Nov 2021 examiners' report",
+      "use": "choosing a partner",
+      "care": ""
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): don’t write a paragraph of history. Link context to the question in one sentence, e.g. In an age when a wife legally belonged to her husband, Browning shows where the idea of owning a woman can lead: <q>“That moment she was mine, mine, fair”</q>."
+ },
+ "comparisons": [
+  {
+   "partner": "Winter Swans",
+   "use_for": [
+    "Romantic love",
+    "Nature",
+    "Commitment"
+   ],
+   "aqa": "AQA: 2019 mark scheme (Winter Swans question) names Porphyria’s Lover; both are suggested partners in 2018, Nov 2021, 2022 and 2024",
+   "similar": [
+    "Both open with rain and a lake. Browning’s wind tries to <q>“vex the lake”</q>; Sheers begins after <q>“two days of rain”</q>, as the couple <q>“skirted the lake”</q>.",
+    "Both men stay silent when the woman speaks: <q>“When no voice replied”</q> and <q>“I didn’t reply”</q>.",
+    "Both end with the couple physically joined: her head on his shoulder, and their hands <q>“folded, one over the other”</q>."
+   ],
+   "different": [
+    "<b>Where silence leads:</b> Browning’s silence turns into murder; Sheers’s silence gives love room to heal.",
+    "<b>Who acts:</b> Porphyria makes every move until he kills her. In Winter Swans neither person acts: the hands move <q>“somehow”</q>, as if love does it.",
+    "<b>Endings:</b> <q>“all night long we have not stirred”</q> is the stillness of death; <q>“like a pair of wings settling after flight”</q> is the calm of two living people choosing each other.",
+    "<b>Nature:</b> the storm is destructive, <q>“for spite”</q>; the swans that <q>“mate for life”</q> are a hopeful symbol of lasting love."
+   ]
+  },
+  {
+   "partner": "The Farmer’s Bride",
+   "use_for": [
+    "Romantic love",
+    "Power and control",
+    "Desire"
+   ],
+   "aqa": "AQA: 2018 and 2024 mark schemes pair them; the Nov 2021 examiners' report said students “engaged with this, especially well alongside The Farmer’s Bride”",
+   "similar": [
+    "Both are told by a man about a woman he wants to control. The farmer <q>“turned the key upon her, fast”</q>; Browning’s lover says <q>“she was mine, mine”</q>.",
+    "Both men are fixated on the woman’s hair: <q>“her eyes, her hair, her hair!”</q> and <q>“all her yellow hair”</q>.",
+    "Neither woman really speaks for herself: <q>“I’ve hardly heard her speak at all.”</q> We only get the man’s side."
+   ],
+   "different": [
+    "<b>The woman:</b> the bride is <q>“afraid / Of love and me”</q>; Porphyria chooses to come <q>“through wind and rain”</q> because she loves him.",
+    "<b>The ending:</b> the farmer ends with only a stair between them (<q>“’Tis but a stair / Betwixt us”</q>), full of frustrated longing he has not acted on; Browning’s speaker acts on his desire and kills.",
+    "<b>Sympathy:</b> Mew’s farmer is lonely and partly pitiable; Browning’s speaker is calm, proud and terrifying."
+   ]
+  },
+  {
+   "partner": "Sonnet 29 – ‘I think of thee!’",
+   "use_for": [
+    "Romantic love",
+    "Desire",
+    "Longing"
+   ],
+   "aqa": "AQA: the 2022 mark scheme (Sonnet 29 question) names Porphyria’s Lover under “the negative powerful effects of love”; both are suggested in 2018 and 2024",
+   "similar": [
+    "Both speakers are obsessed with the person they love: <q>“my thoughts do twine and bud / About thee”</q> and <q>“Porphyria worshipped me”</q>.",
+    "Both use plant images: her thoughts grow round him like wild vines; he opens Porphyria’s dead eyelids <q>“As a shut bud that holds a bee”</q>."
+   ],
+   "different": [
+    "<b>Positive or negative:</b> Barrett Browning shows love’s joyful power; Browning shows its destructive power.",
+    "<b>What they want:</b> she wants her living lover beside her: <q>“Renew thy presence”</q>. He wants to stop time, so he kills his lover.",
+    "<b>Freedom:</b> her thoughts must <q>“burst, shattered, everywhere!”</q> to set him free; he traps Porphyria for ever."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present powerful feelings about love in ‘Porphyria’s Lover’ and in one other poem from ‘Love and relationships’. (AQA used this focus in June 2024.)",
+  "thesis": "Both Browning and Sheers show that powerful feelings can be hidden behind silence, but while Browning’s speaker lets love turn into a deadly wish to possess, Sheers shows quiet feelings gently drawing a couple back together.",
+  "para": "Both poets use stormy weather and silence to show powerful feelings, but these lead to opposite places. Browning’s speaker hears the wind <q>“vex the lake”</q> and listens <q>“with heart fit to break”</q>; when Porphyria calls him, <q>“no voice replied”</q>. His silence hides a jealousy that becomes control: <q>“That moment she was mine, mine, fair”</q>. The repeated possessive shows love twisted into ownership. Sheers also opens after <q>“two days of rain”</q>, with a couple <q>“silent and apart”</q>, and his speaker too admits <q>“I didn’t reply”</q>. However, this silence lets love return gently, until their hands fold <q>“like a pair of wings settling after flight”</q>. Where Browning’s couple are joined only in death, Sheers suggests that powerful feelings can perhaps heal a relationship rather than destroy it.",
+  "why": [
+   "Thesis answers the question in one sentence and names both poems’ ideas",
+   "Short quotations from both poems, with a method named (repeated possessive) and a clear link (weather and silence)",
+   "Compares throughout (“also”, “However”, “Where…”) and ends with a tentative judgement (“perhaps”)"
+  ]
+ }
+}

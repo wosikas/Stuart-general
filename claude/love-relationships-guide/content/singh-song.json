@@ -1,0 +1,449 @@
+{
+ "num": 5,
+ "slug": "singh-song",
+ "title": "Singh Song!",
+ "poet": "Daljit Nagra",
+ "poet_dates": "born 1966",
+ "published": "published 2007, in <i>Look We Have Coming to Dover!</i>",
+ "group": "Romantic love",
+ "anchor": false,
+ "copyright": true,
+ "facts": {
+  "type": "Dramatic monologue in 13 stanzas of uneven length, with refrains; written in “Punglish” (Punjabi-English)",
+  "exam": "Yes: printed in June 2018 (“romantic love”); also a suggested partner in the 2019, Nov 2021, 2022 and 2024 mark schemes",
+  "partner": "Porphyria's Lover (your anchor); Winter Swans also works well"
+ },
+ "themes": [
+  {
+   "name": "Romantic love",
+   "aqa": true,
+   "src": "AQA question June 2018 (“romantic love”); mark schemes 2019, Nov 2021, 2022, 2024"
+  },
+  {
+   "name": "Identity",
+   "aqa": true,
+   "src": "AQA mark scheme 2018 (“difference between people in a relationship … presented positively in ‘Singh Song!’”)"
+  },
+  {
+   "name": "Place and home",
+   "aqa": true,
+   "src": "AQA mark scheme 2019 (“the use of places, such as with ‘Singh Song!’”)"
+  },
+  {
+   "name": "Commitment",
+   "aqa": true,
+   "src": "AQA mark scheme 2018 (“ideas about the beginnings of a relationship”)"
+  },
+  {
+   "name": "Family (parent and child)",
+   "aqa": false,
+   "src": "our reading (the father and mother in the poem)"
+  },
+  {
+   "name": "Desire",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A young Sikh man runs one of his father's shops. Whenever the shop is empty, he locks up and sneaks upstairs to his new wife. Customers complain that it is the worst shop on the road. At midnight the couple sit together in the empty shop and look at the moon.",
+  "message": "New love makes everything else, even work and family duty, seem unimportant. The bride is rebellious and mixes two cultures, and her husband loves her for it. Their love is “priceless”.",
+  "why": "Nagra writes in “Punglish”, the Punjabi-flavoured English “of his parents' generation”. His parents ran a shop in Sheffield, and he said he wanted to write this poem “as an Indian Music Hall song.” <span class=\"src\">Poetry International; South Asian Britain (University of Bristol / British Library)</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "Say it aloud: <b>Singh Song</b> sounds like “sing-song”, a light, bouncy tune. That pun is our reading, but AQA's 2018 mark scheme points to “the use of ‘song’ and the exclamation mark, to suggest a positive, happy view of love”. <b>Singh</b> is also the speaker's name: Britannica explains that Sikh men of the Khalsa (the Sikh community) carry Singh (“lion”) as their last name.",
+  "src": "AQA mark scheme 2018; Britannica (Khalsa, one source); the pun is our reading"
+ },
+ "synopsis": {
+  "setup": "The speaker is a newly married young Sikh man who runs one of his father's shops in Britain. He tells us about his day, his new bride and the grumpy customers. He speaks in a Punjabi-English dialect, spelt as it sounds (for example “ov” for of, “vee” for we, “di” for the).",
+  "steps": [
+   {
+    "lines": "Lines 1–4",
+    "text": "He works in his father's shop from nine in the morning to nine at night. His father doesn't want him to take a break, but whenever the shop is empty he locks the door."
+   },
+   {
+    "lines": "Lines 5–9",
+    "text": "This is because his new bride is upstairs. They share chapattis and chutney and make love, which he compares, comically, to rowing through Putney."
+   },
+   {
+    "lines": "Lines 10–17",
+    "text": "When he comes back down with his apron untied, the customers complain: the lemons are limes, the bananas are plantain, the floor is dirty. They chant that it is the worst Indian shop on the whole Indian road."
+   },
+   {
+    "lines": "Lines 18–34",
+    "text": "Upstairs he hears his wife's high heels as she plays on the internet, on a Sikh dating site (the wordplay here is deliberately confusing). Then come three short stanzas that each begin “my bride”: she swears at his mum in Punjabi, makes fun of his dad, has a gun-like stare and a teddy-bear tummy, a red crew cut, a tartan sari and a donkey jacket."
+   },
+   {
+    "lines": "Lines 35–42",
+    "text": "The refrain returns. He comes back from tickling his bride, and the shoppers complain again: out-of-date milk, stale bread, special offers never in stock. Once more: the worst Indian shop."
+   },
+   {
+    "lines": "Lines 43–50",
+    "text": "Late at night, when the customers are asleep and the shopping precinct is quiet and cool, the couple creep downstairs. They sit on his silver stool behind the chocolate bars and look past the half-price signs at the moonlit UK."
+   },
+   {
+    "lines": "Lines 51–58",
+    "text": "Four two-line stanzas of dialogue. Each night she asks what he would charge for the moon; he says it is half the cost of her. She asks how much that comes to; he answers that she is “priceless”."
+   }
+  ],
+  "turn": "<b>The turning point (line 43):</b> <q>“Late in di midnight hour”</q>. The noise of the shop and the customers stops. The busy, comic poem slows down into a quiet, romantic scene, and for the first time the bride speaks.",
+  "ending": "On a joke about prices that becomes a declaration of love. In a shop where everything has a price, his wife is worth more than anything: <q>“Is priceless baby”</q>.",
+  "tone": "Comic, cheeky and fast in the shop scenes; tender, quiet and romantic in the moonlit ending."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–4",
+   "text": "<mark>I run just one ov my daddy’s shops</mark> … <mark>ven nobody in, I do di lock</mark>",
+   "note": "He runs the shop for his father (“daddy”), twelve hours a day. His father wants no breaks. The word “just” makes the job sound small. But he breaks the rule: when the shop is empty, he locks up."
+  },
+  {
+   "lines": "5–9",
+   "text": "<mark>my newly bride</mark> … <mark>vee share in chapatti</mark> … <mark>like vee rowing through Putney</mark>",
+   "note": "The reason: his new wife is upstairs. “Share” is repeated: they do everything together. The simile comparing lovemaking to rowing through an English place is silly and funny, and it mixes Indian food with an English setting."
+  },
+  {
+   "lines": "10–17",
+   "text": "<mark>Hey Singh, ver yoo bin?</mark> … <mark>in di worst Indian shop</mark> … <mark>on di whole Indian road</mark>",
+   "note": "He comes back with his “pinnie” (apron) untied, a hint of what he has been doing. The customers moan in a chant, like the chorus of a song. Their complaints are comic exaggerations (hyperbole)."
+  },
+  {
+   "lines": "18–21",
+   "text": "<mark>high heel tap di ground</mark> … <mark>her Sikh lover site</mark>",
+   "note": "He hears his wife's high heels above him while she is online, on a Sikh dating or chat site. The wording is full of deliberate mishearings, so it is hard to pin down exactly what she is doing; she is clearly independent and modern."
+  },
+  {
+   "lines": "22–34",
+   "text": "<mark>she effing at my mum</mark> … <mark>tiny eyes ov a gun</mark> … <mark>di tummy ov a teddy</mark> … <mark>she wear a Tartan sari</mark>",
+   "note": "Three stanzas begin “my bride”. She swears (“effing”) at his mum and mocks his dad: not the obedient daughter-in-law his family might expect. She is fierce (“gun”) and cuddly (“teddy”). Her clothes mix cultures: a tartan (Scottish) sari (Indian), a donkey jacket (a British workman's coat) and pumps. He clearly adores all of it."
+  },
+  {
+   "lines": "35–42",
+   "text": "<mark>Ven I return from di tickle ov my bride</mark> … <mark>Di milk is out ov date</mark>",
+   "note": "The refrain comes back with new complaints: old milk, stale bread, offers never in stock. The shop is failing because he cares more about his wife than his work."
+  },
+  {
+   "lines": "43–50",
+   "text": "<mark>Late in di midnight hour</mark> … <mark>sit on my silver stool</mark> … <mark>at di beaches ov di UK in di brightey moon</mark>",
+   "note": "The mood changes. At midnight the precinct (shopping area) is “concrete-cool” and the stairs are “whispering”. The couple sit together in the empty shop and look out past the half-price signs at the moonlit UK. The ordinary shop becomes a romantic place."
+  },
+  {
+   "lines": "51–58",
+   "text": "<mark>How much do yoo charge for dat moon baby?</mark> … <mark>Is half di cost ov yoo baby</mark> … <mark>Is priceless baby</mark>",
+   "note": "A little dialogue, repeated “each night”: a loving game. She asks the price of the moon, as if it were stock. He says the moon is worth half of her. When she asks what that comes to, he says she is “priceless”: love can't be bought."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "I run just one ov my daddy’s shops",
+   "means": "he works in a shop that belongs to his father.",
+   "why": "sets up the family pressure he lives under; “just” and “daddy’s” make him sound junior and not in charge of his own life.",
+   "tech": "first-person voice; dialect spelling"
+  },
+  {
+   "line": "LINE 9",
+   "q": "like vee rowing through Putney",
+   "means": "their lovemaking is compared to rowing a boat.",
+   "why": "a deliberately silly simile: the love is joyful and physical, and the poem refuses to be solemn about it.",
+   "tech": "simile; humour"
+  },
+  {
+   "line": "LINE 12",
+   "q": "Hey Singh, ver yoo bin?",
+   "means": "the customers demand to know where he has been.",
+   "why": "part of the refrain: it repeats like a chorus, and it shows the outside world interrupting the couple's private happiness.",
+   "tech": "refrain; direct speech"
+  },
+  {
+   "line": "LINE 16",
+   "q": "in di worst Indian shop",
+   "means": "the customers say his shop is the worst one around.",
+   "why": "the comic exaggeration shows his priorities: he would rather be a bad shopkeeper than a bad husband.",
+   "tech": "hyperbole; refrain"
+  },
+  {
+   "line": "LINES 28–29",
+   "q": "eyes ov a gun / and di tummy ov a teddy",
+   "means": "she has a fierce stare and a soft, cuddly body.",
+   "why": "two opposites side by side: she is tough and sweet at once, and he loves both sides of her.",
+   "tech": "juxtaposition; metaphor; alliteration (“tummy … teddy”)"
+  },
+  {
+   "line": "LINE 32",
+   "q": "she wear a Tartan sari",
+   "means": "her sari (Indian dress) is made of Scottish tartan.",
+   "why": "one image that mixes British and Indian culture; AQA's 2018 mark scheme suggests the poem presents “difference between people in a relationship” positively.",
+   "tech": "imagery; symbolism of clothing"
+  },
+  {
+   "line": "LINE 58",
+   "q": "Is priceless baby",
+   "means": "she is worth more than any amount of money.",
+   "why": "in a poem full of prices and stock, the final line puts love beyond money; it is the emotional climax.",
+   "tech": "dialogue; final line; wordplay on shop prices"
+  }
+ ],
+ "form": {
+  "heading": "The form: a comic song in one man's voice",
+  "explain": [
+   "A <b>dramatic monologue</b> is “a poem written in the form of a speech of an individual character”. The form is “chiefly associated with Robert Browning”, who wrote Porphyria's Lover. <span class=\"src\">Britannica</span>",
+   "A <b>refrain</b> is a “phrase, line, or group of lines repeated at intervals throughout a poem, generally at the end of the stanza.” It works like the chorus of a song. <span class=\"src\">Britannica</span>",
+   "Nagra said he wanted to write this poem “as an Indian Music Hall song.” (Music hall was a kind of popular comic stage show with songs.) <span class=\"src\">Poetry International</span> <span class=\"care\">one source</span>",
+   "<b>Dialect:</b> the way a group of people really speak. Nagra plays with the “‘Punglish’ dialect of his parents' generation” and its “convoluted syntax” (unusual word order). <span class=\"src\">Poetry International; Bloodaxe Books; South Asian Britain</span>"
+  ],
+  "this_poem": [
+   "<b>58 lines in 13 stanzas of different lengths</b> (from eight lines down to two). There is no regular rhyme scheme, though rhymes and half-rhymes pop up like song lyrics (“o’clock” / “lock”, “chutney” / “Putney”). <span class=\"care\">our count</span>",
+   "<b>Refrains:</b> the shoppers' chant (lines 10–17 and 35–42) and the words “my bride” (lines 22, 27, 30) repeat like a chorus. The poem is built like the song in its title. <span class=\"care\">our reading</span>",
+   "<b>Dialect spelling:</b> “ov”, “vee”, “di” make us hear the speaker's real voice. He is not mocked: he is the hero of his own love song. AQA's mark schemes name “dialect in ‘Singh Song!’” as a method to discuss.",
+   "<b>The ending changes shape:</b> after long, noisy stanzas, the last eight lines are four calm two-line stanzas of question and answer, repeated “each night”. Love settles into a gentle routine, like a couple talking in turn. <span class=\"care\">our reading</span>"
+  ],
+  "say": "A sentence you could use: Nagra builds the poem like a song, with the shoppers' complaints repeated as a comic refrain, but the noisy chorus gives way at midnight to quiet two-line stanzas of dialogue, so the form moves from the pressures of the shop to the private, priceless world of the couple."
+ },
+ "methods": [
+  {
+   "title": "Dialect and voice",
+   "text": "Spellings like <q>“ver yoo bin?”</q> and <q>“my newly bride”</q> let us hear the speaker. Nagra uses the Punjabi-English of his parents' generation. Using this voice in a love poem shows that love poetry can belong to anyone.",
+   "term": "Dialect",
+   "def": "the words, grammar and pronunciation of a particular group or region."
+  },
+  {
+   "title": "Refrain and repetition",
+   "text": "The customers' chant ends with <q>“in di worst Indian shop”</q> twice, and three stanzas start with <q>“my bride”</q>. The repetition makes the poem sound like a song, and sets the moaning shop against the adored bride.",
+   "term": "Refrain",
+   "def": "a line or phrase repeated through a poem, like a chorus."
+  },
+  {
+   "title": "Humour and exaggeration",
+   "text": "Lovemaking is <q>“like vee rowing through Putney”</q>; the customers list absurd complaints. The comedy makes the love feel joyful and real, not grand or tragic.",
+   "term": "Hyperbole",
+   "def": "deliberate exaggeration for effect."
+  },
+  {
+   "title": "Contrasts that combine",
+   "text": "The bride has <q>“tiny eyes ov a gun”</q> but also <q>“di tummy ov a teddy”</q>, and she wears a <q>“Tartan sari”</q>. Opposites sit side by side, just as two cultures sit together in their marriage.",
+   "term": "Juxtaposition",
+   "def": "placing two different things side by side to make us compare them."
+  }
+ ],
+ "context": {
+  "timeline": [
+   {
+    "date": "Late 1950s",
+    "text": "Nagra's Sikh Punjabi parents come to Britain for work"
+   },
+   {
+    "date": "1966",
+    "text": "Nagra born in Yiewsley, London; the family home was “near Heathrow airport”"
+   },
+   {
+    "date": "Teens",
+    "text": "Family moves to Sheffield and buys a general store; he later helps in the shop",
+    "care": "exact year not found"
+   },
+   {
+    "date": "1988",
+    "text": "Studies at Royal Holloway, University of London",
+    "care": "one source"
+   },
+   {
+    "date": "2004",
+    "text": "Title poem ‘Look We Have Coming to Dover!’ wins the Forward Prize for Best Single Poem"
+   },
+   {
+    "date": "2007",
+    "text": "<i>Look We Have Coming to Dover!</i> (Faber) published, including Singh Song!; wins the Forward Prize for Best First Collection",
+    "hi": true
+   },
+   {
+    "date": "2008",
+    "text": "Wins the Arts Council Decibel Award"
+   },
+   {
+    "date": "2018",
+    "text": "Singh Song! printed on the AQA GCSE paper"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Nagra is",
+    "items": [
+     {
+      "text": "Born in 1966 in Yiewsley, London. He grew up in “a working-class Sikh Punjabi family in Yiewsley and later Sheffield”. His publisher says he was “born and brought up in West London and Sheffield”.",
+      "src": "South Asian Britain (University of Bristol / British Library); Bloodaxe Books",
+      "use": "identity · place and home",
+      "care": ""
+     },
+     {
+      "text": "His parents came from Punjab, in India, in the late 1950s, “drawn by the promise of jobs.” Nagra says: “The British advertised in Punjab because Sikhs were seen as hard workers”.",
+      "src": "Claire Armitstead interview, Guardian News & Media (read via Gulf News); South Asian Britain",
+      "use": "identity · family",
+      "care": "the quotation is one source"
+     },
+     {
+      "text": "In Sheffield his parents ran a shop. He spent “a couple of years helping out in the shop” before discovering poetry through William Blake.",
+      "src": "Claire Armitstead interview, Guardian News & Media (read via Gulf News); South Asian Britain",
+      "use": "place and home · family",
+      "care": ""
+     },
+     {
+      "text": "He became a secondary school English teacher, and is now Professor of Creative Writing at Brunel University.",
+      "src": "Poetry Archive; Poetry International; South Asian Britain",
+      "use": "",
+      "care": "Brunel: one source"
+     }
+    ]
+   },
+   {
+    "title": "The book it comes from",
+    "items": [
+     {
+      "text": "Singh Song! is in his first collection, <i>Look We Have Coming to Dover!</i> (Faber, 2007). It won the 2007 Forward Prize for Best First Collection.",
+      "src": "Poetry International; Poetry Archive; Bloodaxe Books; AQA anthology",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "He was the first poet to win the Forward Prize for both a first collection and, three years earlier, for its title poem.",
+      "src": "Poetry Archive; Bloodaxe Books",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Nagra described the book as “obsessed with Asian-ness”: it has “Punjabi-inflected English, narratives involving casual racism”, and characters looking for “ladoos or saris”.",
+      "src": "Poetry Archive",
+      "use": "identity",
+      "care": "one source"
+     },
+     {
+      "text": "A critic says that “behind the poems' knockabout humour there is often an underlying sadness.” Notice the customers' insults in Singh Song!",
+      "src": "Poetry International (Naomi Wood)",
+      "use": "identity · romantic love",
+      "care": "one source; the link to the customers is our reading"
+     }
+    ]
+   },
+   {
+    "title": "His voice: “Punglish”",
+    "items": [
+     {
+      "text": "He writes in “Punglish”: English as spoken by Punjabi immigrants, “the ‘Punglish’ dialect of his parents' generation”.",
+      "src": "Poetry International; Bloodaxe Books; South Asian Britain",
+      "use": "identity",
+      "care": ""
+     },
+     {
+      "text": "His dramatic monologues are full of “mishearings and linguistic confusions”, like “cardigan arrest” for cardiac arrest. Lines 18–21 of Singh Song! work like this.",
+      "src": "Poetry International",
+      "use": "form · identity",
+      "care": "one source; the link to lines 18–21 is our reading"
+     },
+     {
+      "text": "Nagra said of this poem: “I wanted to write [it] as an Indian Music Hall song.” That explains the chorus-like refrains and the comedy.",
+      "src": "Poetry International",
+      "use": "form · romantic love",
+      "care": "one source"
+     },
+     {
+      "text": "AQA's mark schemes twice point to “dialect in ‘Singh Song!’” as a method for showing “character and feelings”.",
+      "src": "AQA mark schemes Nov 2021 and 2024",
+      "use": "form",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "Shops, work and family",
+    "items": [
+     {
+      "text": "After the Second World War, “Britain looked to its colonies to recruit workers who could remedy labour shortages”.",
+      "src": "South Asian Britain (quotation); Claire Armitstead interview, Guardian News & Media (read via Gulf News)",
+      "use": "identity · family",
+      "care": ""
+     },
+     {
+      "text": "Nagra links his parents' generation to independence: “The great achievement of that first generation was to get their independence.” His relatives bought shops because it was “a good way to make a living.”",
+      "src": "Claire Armitstead interview, Guardian News & Media (read via Gulf News)",
+      "use": "family · place and home",
+      "care": "one source"
+     },
+     {
+      "text": "In the poem the son must keep his father's shop open twelve hours a day, while his new bride rebels against his parents. The clash between family duty and romantic love is our reading, not a sourced fact.",
+      "src": "the poem (lines 1–4, 22–26)",
+      "use": "romantic love · family",
+      "care": "our reading"
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Nagra's parents came from Punjab and ran a shop, and he writes in the “Punglish” of their generation. In Singh Song! he gives that voice a love song: a young shopkeeper torn between his father's rule of no <q>“break”</q> and a bride who mixes cultures in a <q>“Tartan sari”</q>. The love poem celebrates a modern British Asian marriage, and it chooses love over business: she is <q>“priceless”</q>."
+ },
+ "comparisons": [
+  {
+   "partner": "Porphyria's Lover",
+   "use_for": [
+    "Romantic love",
+    "Desire",
+    "Power and control"
+   ],
+   "aqa": "AQA: June 2018 mark scheme (Singh Song! question): “the happiness in this poem compared with the more cynical presentation of love in ‘Porphyria’s Lover’”",
+   "similar": [
+    "Both are told by a male lover in the first person, in a voice that reveals his character. Both men call the woman theirs: <q>“my bride”</q> and <q>“That moment she was mine, mine, fair,”</q>",
+    "Both women break the rules of their world. The bride swears <q>“in all di colours of Punjabi”</q> and wears a <q>“Tartan sari”</q>; Porphyria comes alone through the storm to her lover's cottage.",
+    "Both end with the couple sitting together at night: <q>“sit on my silver stool,”</q> and <q>“And thus we sit together now,”</q>"
+   ],
+   "different": [
+    "<b>Happy vs cynical:</b> Nagra's love is joyful and comic. Browning's lover kills to keep a moment: <q>“And strangled her.”</q>",
+    "<b>Her voice:</b> the bride speaks in the final stanzas: <q>“How much do yoo charge for dat moon baby?”</q> Porphyria never speaks directly, and the poem ends on God's silence: <q>“And yet God has not said a word!”</q>",
+    "<b>Owning vs valuing:</b> Browning's speaker wants to possess her for ever. Nagra's speaker says she can't be priced or owned: <q>“Is priceless baby”</q>"
+   ]
+  },
+  {
+   "partner": "Winter Swans",
+   "use_for": [
+    "Romantic love",
+    "Place and home",
+    "Commitment"
+   ],
+   "aqa": "AQA: June 2018 mark scheme: “contrast between happiness and sadness, possibly in ‘Winter Swans’”, “comparison of places, such as in ‘Winter Swans’” and “the beginnings of relationships compared with more established relationships, such as in ‘Winter Swans’”",
+   "similar": [
+    "Both are about a couple finding a quiet moment together away from other pressures, and both end on a calm, settled image: the moonlit shop and hands <q>“like a pair of wings settling after flight.”</q>",
+    "Both use a place to show the relationship: the shop and the <q>“precinct”</q> at midnight, and the lake where the couple walk <q>“silent and apart,”</q>"
+   ],
+   "different": [
+    "<b>Beginning vs established:</b> Nagra's couple are newlyweds in the first rush of love (<q>“my newly bride”</q>). Sheers's couple seem to be mending a relationship after a difficult time <span class=\"care\">our reading</span>.",
+    "<b>Talk vs silence:</b> Nagra's couple chat and joke every night; Sheers's couple barely speak, and the speaker <q>“didn't reply”</q>.",
+    "<b>Tone:</b> Singh Song! is loud and comic; Winter Swans is quiet and tense until the end."
+   ]
+  },
+  {
+   "partner": "Sonnet 29 – ‘I think of thee!’",
+   "use_for": [
+    "Romantic love",
+    "Desire",
+    "Commitment"
+   ],
+   "aqa": "AQA: June 2018 mark scheme: “ideas about innocence and hope for the future, compared with ‘Sonnet 29’”; June 2022 mark scheme (Sonnet 29 question) names Singh Song! for “the positive powerful effects of love”",
+   "similar": [
+    "Both speakers are full of joy and want to be physically close to the one they love. Barrett Browning feels <q>“this deep joy to see and hear thee”</q>; Nagra's speaker sneaks upstairs to his bride whenever he can.",
+    "Both say the loved one is worth more than anything else: <q>“Who art dearer, better!”</q> and <q>“Is priceless baby”</q>"
+   ],
+   "different": [
+    "<b>Formal vs comic:</b> Sonnet 29 is a strict 14-line sonnet in old-fashioned language (<q>“I think of thee!”</q>). Singh Song! is a loose, comic song in modern dialect.",
+    "<b>Apart vs together:</b> Barrett Browning's speaker is apart from her lover and longs for his presence. Nagra's couple are together every night.",
+    "<b>Nature vs the shop:</b> she uses an extended nature image (vines and a <q>“palm-tree”</q>); Nagra finds romance in an ordinary shop, among <q>“di chocolate bars”</q>."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "Compare how poets present romantic love in ‘Singh Song!’ and in one other poem from ‘Love and relationships’. (AQA, June 2018)",
+  "thesis": "Both poets use a male speaker who calls the woman his own, but Nagra presents romantic love as joyful and freeing, while Browning presents it as a possessive desire that destroys the woman it claims to love.",
+  "para": "Both speakers describe the woman as belonging to them. Nagra's speaker begins three stanzas with <q>“my bride”</q>, and Browning's lover insists <q>“That moment she was mine, mine, fair,”</q>. However, the effect is completely different. Nagra's repetition works like a song's chorus, celebrating a bride who swears <q>“in all di colours of Punjabi”</q> and wears a <q>“Tartan sari”</q>: he loves her because she is free and different. Browning's repeated <q>“mine”</q> reveals a need to control, which ends in murder. The endings make this clear. Nagra's bride speaks, asking the price of the moon, and he answers that she is <q>“priceless”</q>, beyond buying or owning. Browning's speaker, by contrast, sits beside a silent corpse, and <q>“God has not said a word!”</q>",
+  "why": [
+   "The thesis answers the question (romantic love) and states the key difference in one sentence",
+   "Short quotations from both poems, with methods named (repetition, refrain, dialogue, endings)",
+   "Compares throughout (“Both”, “However”, “by contrast”) and links to the poets' purpose: joy versus possession"
+  ]
+ }
+}

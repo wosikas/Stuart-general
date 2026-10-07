@@ -1,0 +1,458 @@
+{
+ "num": 7,
+ "slug": "when-we-two-parted",
+ "title": "When We Two Parted",
+ "poet": "Lord Byron",
+ "poet_dates": "1788–1824",
+ "published": "published 1816, in <i>Poems</i>",
+ "group": "Heartbreak and distance",
+ "anchor": false,
+ "copyright": false,
+ "facts": {
+  "type": "Four eight-line stanzas; very short lines; rhyme ababcdcd",
+  "exam": "Not yet printed, but suggested as a partner in AQA’s 2018 and 2019 mark schemes, and named among the “effective choices” in the Nov 2021 examiners’ report",
+  "partner": "Porphyria's Lover (your anchor); Neutral Tones also works well"
+ },
+ "themes": [
+  {
+   "name": "Romantic love",
+   "aqa": true,
+   "src": "AQA mark schemes 2018 (“romantic love”) and 2019 (“the less hopeful ‘When We Two Parted’”); Nov 2021 examiners’ report"
+  },
+  {
+   "name": "Rejection and heartbreak",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Loss and grief",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Separation and distance",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Time",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "The speaker remembers breaking up with a secret lover years ago, both of them silent and crying. Now he hears other people gossiping about her. Nobody knows they were lovers, so he has to grieve in secret.",
+  "message": "A secret love brings double pain. You lose the person, and you cannot even grieve in public. The hurt of being betrayed lasts for years.",
+  "why": "Byron published the poem in 1816, the year his own marriage collapsed amid scandal and he left England for good. One critical source says Byron later put a false date, 1808, on the poem, and that his later letters linked it to a married woman, Lady Frances Wedderburn Webster, whose name he wanted to protect. <span class=\"src\">Britannica; Gale, <i>Poetry for Students</i></span> <span class=\"care\">the 1808 date and the Webster link are one source</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "The title is also the first line, so the poem starts at the moment of breaking up. <b>“We two”</b> stresses that there were only two people in this love: nobody else knew. <b>“Parted”</b> is in the past tense: the love is already over before the poem begins, and the rest of the poem deals with the damage.",
+  "src": "our reading"
+ },
+ "synopsis": {
+  "setup": "The speaker (“I”) talks to a former lover (“thou”, old-fashioned for “you”). He looks back at the day they broke up, then describes how he feels now, and finally imagines meeting her again.",
+  "steps": [
+   {
+    "lines": "Lines 1–4",
+    "text": "When the couple parted, they were silent and crying, and “Half broken-hearted”. They were to be cut off from each other for years."
+   },
+   {
+    "lines": "Lines 5–8",
+    "text": "Her cheek grew pale and cold, and her kiss was even colder. Looking back, he sees that moment predicted the sorrow he feels now."
+   },
+   {
+    "lines": "Lines 9–12",
+    "text": "The cold morning dew on his forehead felt like a warning of his present pain."
+   },
+   {
+    "lines": "Lines 13–16",
+    "text": "Now she has broken her promises (“vows”), and her reputation has become cheap. When he hears people talk about her, he shares her shame."
+   },
+   {
+    "lines": "Lines 17–24",
+    "text": "Her name, said in front of him, sounds like a funeral bell, and he shudders. He asks why he loved her so much. People don't know he knew her, and knew her “too well”. He will regret her for a long time, too deeply to put into words."
+   },
+   {
+    "lines": "Lines 25–28",
+    "text": "The reason for his silence: they met in secret, so he must grieve in secret. He is hurt that she could forget him and deceive him."
+   },
+   {
+    "lines": "Lines 29–32",
+    "text": "He imagines meeting her again after many years. How would he greet her? “With silence and tears”: exactly as they parted."
+   }
+  ],
+  "turn": "<b>The key reveal (line 25):</b> <q>“In secret we met”</q>. Only now do we learn why he cannot speak about his pain: nobody ever knew about the relationship.",
+  "ending": "The ending loops back to the start: <q>“In silence and tears”</q> (line 2) becomes <q>“With silence and tears”</q> (line 32). Years have passed, but nothing has changed. He is trapped in his grief.",
+  "tone": "Quiet, sad and bitter. Mournful, like a funeral, but also accusing: he blames her for forgetting and deceiving him."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–4",
+   "text": "When we two parted<br><mark>In silence and tears</mark>,<br><mark>Half broken-hearted</mark><br><mark>To sever for years</mark>,",
+   "note": "The break-up. Neither of them speaks; both cry. “Sever” means to cut apart, a violent word: the parting is like a wound."
+  },
+  {
+   "lines": "5–8",
+   "text": "<mark>Pale grew thy cheek and cold</mark>,<br><mark>Colder thy kiss</mark>;<br>Truly that hour <mark>foretold</mark><br>Sorrow to this.",
+   "note": "Her pale, cold face and colder kiss sound like a dead body: their love is dying. “Foretold” means predicted: that moment was a sign of the sorrow he feels now."
+  },
+  {
+   "lines": "9–12",
+   "text": "The dew of the morning<br><mark>Sank chill on my brow</mark> –<br>It felt like <mark>the warning</mark><br>Of what I feel now.",
+   "note": "The cold dew on his forehead (“brow”) felt like a warning. Nature seems to predict the pain to come; the dew is also like cold sweat or tears."
+  },
+  {
+   "lines": "13–16",
+   "text": "<mark>Thy vows are all broken</mark>,<br>And <mark>light is thy fame</mark>;<br>I hear thy name spoken,<br>And <mark>share in its shame</mark>.",
+   "note": "The poem moves to the present. She has broken her promises. “Light is thy fame” means her reputation has become cheap: people are gossiping about her. He feels her shame as his own."
+  },
+  {
+   "lines": "17–20",
+   "text": "They name thee before me,<br><mark>A knell in mine ear</mark>;<br><mark>A shudder comes o'er me</mark> –<br><mark>Why wert thou so dear?</mark>",
+   "note": "When people say her name in front of him, it sounds like a “knell”: the slow bell rung for a death or funeral. He shudders, and asks why he loved her so much."
+  },
+  {
+   "lines": "21–24",
+   "text": "They know not I knew thee,<br>Who <mark>knew thee too well</mark> –<br><mark>Long, long shall I rue thee</mark>,<br><mark>Too deeply to tell</mark>.",
+   "note": "The gossips have no idea he knew her, and “knew thee too well” hints at a close, physical relationship. To “rue” is to regret bitterly. His pain is too deep to put into words."
+  },
+  {
+   "lines": "25–28",
+   "text": "<mark>In secret we met</mark> –<br><mark>In silence I grieve</mark>,<br>That <mark>thy heart could forget</mark>,<br><mark>Thy spirit deceive</mark>.",
+   "note": "The secret is out: they met in secret, so he must grieve in silence. The two lines start the same way (“In…”), linking the secret love to the secret pain. He accuses her of forgetting him and deceiving him."
+  },
+  {
+   "lines": "29–32",
+   "text": "If I should meet thee<br><mark>After long years</mark>,<br><mark>How should I greet thee?</mark> –<br><mark>With silence and tears</mark>.",
+   "note": "He imagines meeting her years from now. He answers his own question: he would greet her just as they parted, silently and in tears. The poem ends where it began."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 2",
+   "q": "In silence and tears",
+   "means": "they parted without speaking, both crying.",
+   "why": "sets up the two key ideas of the poem: secrecy (silence) and grief (tears). The phrase comes back in the last line.",
+   "tech": "sibilance (repeated “s” sounds); repetition"
+  },
+  {
+   "line": "LINE 6",
+   "q": "Colder thy kiss",
+   "means": "her kiss was even colder than her pale cheek.",
+   "why": "a kiss should be warm and loving; this one feels like kissing a corpse. The love is dying at the moment they part.",
+   "tech": "cold imagery; comparative (“colder”)"
+  },
+  {
+   "line": "LINE 13",
+   "q": "Thy vows are all broken",
+   "means": "she has broken all her promises.",
+   "why": "“vows” suggests serious, even marriage-like promises. Blaming “thy” vows puts the fault on her, not him.",
+   "tech": "direct address; accusation"
+  },
+  {
+   "line": "LINE 16",
+   "q": "share in its shame",
+   "means": "when he hears her gossiped about, he feels the shame too.",
+   "why": "shows the public side of heartbreak: her damaged reputation hurts him, but he cannot say why.",
+   "tech": "sibilance; alliteration"
+  },
+  {
+   "line": "LINE 18",
+   "q": "A knell in mine ear",
+   "means": "her name sounds like a funeral bell to him.",
+   "why": "turns the end of love into a death. He is in mourning, but nobody around him knows it.",
+   "tech": "metaphor; sound imagery; semantic field of death"
+  },
+  {
+   "line": "LINE 25",
+   "q": "In secret we met",
+   "means": "their relationship was hidden.",
+   "why": "explains everything: because the love was secret, the grief must be too (“In silence I grieve”).",
+   "tech": "short, blunt statement; parallel line openings"
+  },
+  {
+   "line": "LINE 32",
+   "q": "With silence and tears",
+   "means": "if they meet again, he will greet her the way they parted.",
+   "why": "the circular ending shows he cannot move on. Years later he is stuck in the same moment.",
+   "tech": "circular structure; repetition"
+  }
+ ],
+ "form": {
+  "heading": "The form: short, tight stanzas that end where they began",
+  "explain": [
+   "The poem is built from “a longer, eight-line stanza, with a correspondingly extended rhyme pattern of <i>ababcdcd</i>”: lines 1 and 3 rhyme, 2 and 4 rhyme, and so on. <span class=\"src\">Gale, <i>Poetry for Students</i></span>",
+   "Each line has “primarily … two accented syllables” (two strong beats): for example, <b>WHEN</b> we two <b>PART</b>ed. <span class=\"src\">Gale, <i>Poetry for Students</i></span> <span class=\"care\">one source; our count agrees</span>",
+   "<b>Circular structure:</b> when a poem ends by returning to its opening words or ideas. <b>Rhetorical question:</b> a question asked for effect rather than to get an answer."
+  ],
+  "this_poem": [
+   "<b>32 lines:</b> four stanzas of eight lines each. Every line is short, only four to seven syllables. <span class=\"care\">our count</span>",
+   "<b>Short, choked lines:</b> the speaker never says much at once. The clipped lines sound like someone holding back tears, which suits a man who must grieve “In silence”. <span class=\"care\">our reading</span>",
+   "<b>Falling rhymes:</b> many rhymes end on a soft, unstressed syllable: “parted / hearted”, “broken / spoken”, “knew thee / rue thee”. They fade away like a sigh. <span class=\"care\">our check and reading</span>",
+   "<b>Past, present, future:</b> stanza 1 is the parting; stanzas 2 and 3 are “now”; stanza 4 imagines meeting “After long years”. The pain stretches across his whole life. <span class=\"care\">our reading</span>",
+   "<b>Circular ending:</b> “silence and tears” appears in both the first and last stanzas, “emphasizing the progressive accumulation of pain and regret”. <span class=\"src\">Gale, <i>Poetry for Students</i></span>"
+  ],
+  "say": "A sentence you could use: Byron's circular structure, which returns at the end to “silence and tears”, suggests the speaker is trapped: years after the parting, his grief has not moved on at all."
+ },
+ "methods": [
+  {
+   "title": "Cold and death imagery",
+   "text": "Her cheek is <q>“Pale”</q> and <q>“cold”</q>, the kiss <q>“Colder”</q>, the dew <q>“chill”</q>, and her name a <q>“knell”</q> (funeral bell). The relationship is presented as a death that he still mourns.",
+   "term": "Semantic field",
+   "def": "a group of words linked to the same topic, here cold and death."
+  },
+  {
+   "title": "Silence and secrecy",
+   "text": "“Silence” appears three times: <q>“In silence and tears”</q>, <q>“In silence I grieve”</q>, <q>“With silence and tears”</q>. Because <q>“In secret we met”</q>, he can never talk about his loss.",
+   "term": "Repetition",
+   "def": "using a word or phrase more than once to make it stand out."
+  },
+  {
+   "title": "Speaking straight to her",
+   "text": "He addresses her as <q>“thy”</q> and <q>“thee”</q> all the way through, and accuses her: <q>“Thy vows are all broken”</q>, <q>“Thy spirit deceive”</q>. The poem feels like a letter he can never send.",
+   "term": "Direct address",
+   "def": "when a poem speaks to a “you” (here “thou / thee / thy”)."
+  },
+  {
+   "title": "Questions he cannot answer",
+   "text": "<q>“Why wert thou so dear?”</q> shows he is still confused by his feelings. <q>“How should I greet thee?”</q> gets an answer, but it is hopeless: <q>“With silence and tears”</q>.",
+   "term": "Rhetorical question",
+   "def": "a question asked for effect, not to get a reply."
+  }
+ ],
+ "warn": "Examiners warn: don't let the Byron gossip take over your answer. AQA’s 2022 report says AO3 “is much more appropriately addressed by focusing on ideas such as the power of love to make someone obsessive, very unhappy, grief-stricken, unbalanced, etc” than on details of a poet’s life.",
+ "context": {
+  "timeline": [
+   {
+    "date": "1788",
+    "text": "Byron born in London, 22 January"
+   },
+   {
+    "date": "1798",
+    "text": "Aged 10, inherits the title and family estates, including Newstead Abbey"
+   },
+   {
+    "date": "1808",
+    "text": "The date Byron later put on the poem; one source says this date was false",
+    "care": "one source"
+   },
+   {
+    "date": "1812",
+    "text": "<i>Childe Harold</i> makes him famous overnight"
+   },
+   {
+    "date": "1813",
+    "text": "Flirtation with Lady Frances Webster, a married woman"
+   },
+   {
+    "date": "Jan 1815",
+    "text": "Marries Annabella Milbanke; she leaves him a year later amid rumours"
+   },
+   {
+    "date": "1816",
+    "text": "When We Two Parted published in <i>Poems</i>; Byron leaves England in April, never to return",
+    "hi": true
+   },
+   {
+    "date": "1824",
+    "text": "Dies at Missolonghi, Greece, aged 36"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Byron was",
+    "items": [
+     {
+      "text": "A British Romantic poet “whose poetry and personality captured the imagination of Europe, making him one of the first great literary celebrities.”",
+      "src": "Britannica",
+      "use": "romantic love",
+      "care": ""
+     },
+     {
+      "text": "After <i>Childe Harold</i> (1812) he said: “I awoke one morning and found myself famous.”",
+      "src": "Westminster Abbey; Britannica",
+      "use": "reputation · gossip",
+      "care": ""
+     },
+     {
+      "text": "His lover Lady Caroline Lamb called him “mad, bad, and dangerous to know”. He became famous for his love affairs, “both real and rumored”.",
+      "src": "Britannica; Westminster Abbey",
+      "use": "romantic love · secrecy",
+      "care": ""
+     },
+     {
+      "text": "He created “the brooding, rebellious Byronic hero”: a dark, moody, passionate outsider. The grieving, secretive speaker of this poem fits that type.",
+      "src": "Britannica",
+      "use": "heartbreak",
+      "care": "the link to this poem is our reading"
+     },
+     {
+      "text": "Because of “the open profligacy of his life” (his scandalous lifestyle), the Dean of Westminster refused to bury him in the Abbey. A memorial stone was only added in 1969.",
+      "src": "Westminster Abbey",
+      "use": "reputation · shame",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "The story behind the poem",
+    "items": [
+     {
+      "text": "First published in Byron's collection <i>Poems</i> in 1816.",
+      "src": "Coleridge and Prothero edition of Byron's <i>Works</i>; Gale, <i>Poetry for Students</i>",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "One critical guide says Byron dated the poem 1808 and that this was false: “the poem is falsely attributed by Byron as having been written in 1808.”",
+      "src": "Gale, <i>Poetry for Students</i>",
+      "use": "secrecy",
+      "care": "one source"
+     },
+     {
+      "text": "The same source says Byron's later letters show he did this “to protect the name and reputation of the poem's subject, Lady Frances Wedderburn Webster”. In a letter of 1823, it says, Byron linked the poem to his 1813 flirtation with her. She was married.",
+      "src": "Gale, <i>Poetry for Students</i>; Britannica (the 1813 flirtation)",
+      "use": "secrecy · romantic love",
+      "care": "one source for the date, the letters and the link to the poem"
+     },
+     {
+      "text": "The same source says that in 1816 Lady Frances “was scandalously linked with the Duke of Wellington”. If the poem is about her, that would fit <q>“Thy vows are all broken, / And light is thy fame”</q>: the speaker could be hearing gossip about her new affair.",
+      "src": "Gale, <i>Poetry for Students</i>",
+      "use": "rejection · heartbreak",
+      "care": "one source; the link to the lines is our reading"
+     },
+     {
+      "text": "If that source is right, the poem hides its own secret: even the date is a cover story, just as the speaker hides the affair.",
+      "src": "our reading",
+      "use": "secrecy",
+      "care": "our reading"
+     }
+    ]
+   },
+   {
+    "title": "1816: Byron's own year of scandal",
+    "items": [
+     {
+      "text": "Byron married Annabella Milbanke in January 1815.",
+      "src": "Britannica",
+      "use": "commitment",
+      "care": ""
+     },
+     {
+      "text": "In January 1816 she left him “amid swirling rumors” about his relationship with his half-sister Augusta. The couple legally separated.",
+      "src": "Britannica",
+      "use": "separation · heartbreak",
+      "care": ""
+     },
+     {
+      "text": "In April 1816 he “went abroad … never to return to England.”",
+      "src": "Britannica; Gale, <i>Poetry for Students</i>",
+      "use": "separation and distance",
+      "care": ""
+     },
+     {
+      "text": "So a poem about gossip, shame and a ruined name appeared in the same year that Byron's own name was the centre of public scandal.",
+      "src": "our reading",
+      "use": "rejection · reputation",
+      "care": "our reading"
+     }
+    ]
+   },
+   {
+    "title": "Byron's drafts",
+    "items": [
+     {
+      "text": "Byron's handwritten draft (manuscript) shows changes. Lines 9–10 first read “The damp of the morning / Clung chill on my brow”, which Byron crossed out. In print “damp” became the softer, more natural “dew”.",
+      "src": "Coleridge and Prothero edition of Byron's <i>Works</i>",
+      "use": "nature · form",
+      "care": "one source; “softer, more natural” is our reading"
+     },
+     {
+      "text": "The draft had “Thy vow hath been broken”. The printed “Thy vows are all broken” is stronger: every promise is broken.",
+      "src": "Coleridge and Prothero edition of Byron's <i>Works</i>",
+      "use": "rejection",
+      "care": "one source; the comparison is our reading"
+     },
+     {
+      "text": "The draft had an extra stanza that Byron left out of the printed poem.",
+      "src": "Coleridge and Prothero edition of Byron's <i>Works</i>",
+      "use": "secrecy",
+      "care": "one source"
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Byron was one of the first literary celebrities, and in 1816, the year this poem was published, his own name was at the centre of gossip and scandal. The poem's speaker suffers the same kind of public talk: <q>“I hear thy name spoken, / And share in its shame”</q>. Because the love was secret, he cannot grieve openly. One source says Byron later linked the poem to a married woman and gave it a false date to protect her; treat that with care. Either way, the poem shows how a hidden love can make heartbreak lonelier and last longer."
+ },
+ "comparisons": [
+  {
+   "partner": "Porphyria's Lover",
+   "use_for": [
+    "Romantic love",
+    "Rejection and heartbreak",
+    "Loss and grief"
+   ],
+   "aqa": "AQA: Nov 2021 examiners’ report names both among the “effective choices” for “strong feelings in romantic relationships”; both are suggested partners in the 2018 and 2019 mark schemes",
+   "similar": [
+    "Both loves are hidden from society. Byron's speaker says <q>“In secret we met”</q>; Porphyria cannot free her love <q>“From pride, and vainer ties”</q>, so it stays secret too.",
+    "Both male speakers are silent at a key moment: <q>“In silence I grieve”</q> and <q>“When no voice replied,”</q>",
+    "Both use images of death for love: Byron's lover is <q>“Pale”</q> and <q>“cold”</q>; Browning's speaker kills his lover and sits with her body."
+   ],
+   "different": [
+    "<b>Grief vs violence:</b> Byron's speaker turns his pain inward and suffers alone. Browning's speaker turns his feelings into violence to keep her: <q>“That moment she was mine, mine, fair,”</q>",
+    "<b>Two kisses:</b> Byron's living lover gives a kiss that is <q>“Colder”</q>; Browning's dead lover is given a <q>“burning kiss”</q>. One shows love dying; the other shows a dead woman forced to seem alive.",
+    "<b>Who is blamed:</b> Byron blames her for betraying him: <q>“Thy spirit deceive.”</q> Browning's speaker blames her for being <q>“Too weak”</q> to give herself to him.",
+    "<b>Form:</b> Byron writes in short, tight stanzas; Browning's poem runs on as one long block, like the speaker's unstoppable thoughts."
+   ]
+  },
+  {
+   "partner": "Neutral Tones",
+   "use_for": [
+    "Rejection and heartbreak",
+    "Romantic love",
+    "Memory"
+   ],
+   "aqa": "AQA: June 2018 mark scheme names them together (“such as compared with ‘When We Two Parted’, or ‘Neutral Tones’”); June 2022 examiners’ report lists both among popular choices that “worked well”",
+   "similar": [
+    "Both look back bitterly at the end of a relationship and speak to the ex-lover directly (“thee”, “Your”).",
+    "Both describe the lover's face as if dead: <q>“Pale grew thy cheek and cold,”</q> and <q>“The smile on your mouth was the deadest thing”</q>",
+    "Both blame deceit: <q>“Thy spirit deceive.”</q> and <q>“keen lessons that love deceives,”</q>",
+    "Both are circular: Byron returns to <q>“silence and tears”</q>; Hardy returns to <q>“a pond edged with greyish leaves.”</q>"
+   ],
+   "different": [
+    "<b>Public vs private:</b> Byron's pain is made worse by gossip: <q>“I hear thy name spoken,”</q> Hardy's poem involves only the two of them.",
+    "<b>Setting:</b> Hardy fixes the memory in a bleak place: <q>“We stood by a pond that winter day,”</q> Byron gives almost no setting, only the cold <q>“dew of the morning”</q>.",
+    "<b>Lesson vs longing:</b> Hardy draws a general lesson about love; Byron's speaker is still personally attached: <q>“Long, long shall I rue thee,”</q>"
+   ]
+  },
+  {
+   "partner": "Winter Swans",
+   "use_for": [
+    "Romantic love",
+    "Separation and distance"
+   ],
+   "aqa": "AQA: June 2019 mark scheme: “possible comparison of the hope in ‘Winter Swans’ with the less hopeful ‘When We Two Parted’”",
+   "similar": [
+    "Both couples are silent at a painful moment: <q>“In silence and tears,”</q> and <q>“silent and apart,”</q>",
+    "Both use cold settings to match the mood: Byron's <q>“chill”</q> dew and Sheers's winter lake."
+   ],
+   "different": [
+    "<b>Apart vs together:</b> Byron's couple part <q>“To sever for years,”</q> Sheers's couple's hands <q>“swum the distance between us”</q>.",
+    "<b>Ending:</b> Sheers ends in calm hope, <q>“settling after flight.”</q> Byron ends in endless grief, <q>“With silence and tears.”</q>",
+    "<b>Nature:</b> Byron's dew is a <q>“warning”</q> of pain; Sheers's swans, which <q>“mate for life”</q>, are a model of lasting love."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present strong feelings in romantic relationships in ‘When We Two Parted’ and in one other poem from ‘Love and relationships’. (AQA used this focus in Nov 2021.)",
+  "thesis": "Both Byron and Browning present strong feelings that must stay hidden, but Byron's speaker turns his pain inward into lonely grief, while Browning's speaker turns his outward into violence.",
+  "para": "Both poets present strong feelings that cannot be shown in public. Byron's speaker reveals <q>“In secret we met”</q>, so now <q>“In silence I grieve”</q>; the repeated “In” links the secret love to the secret pain. Porphyria, too, cannot free her <q>“struggling passion”</q> from <q>“pride, and vainer ties”</q>. However, the speakers react in opposite ways. Byron's speaker turns his feelings inward: the metaphor <q>“A knell in mine ear”</q> shows love dying inside him like a funeral. Browning's speaker turns his outward into possession: <q>“That moment she was mine, mine, fair,”</q>. Even the kisses contrast. <q>“Colder thy kiss”</q> shows a living love grown cold, while the <q>“burning kiss”</q> is forced on a corpse. Byron's feelings hurt only himself; Browning's destroy someone else.",
+  "why": [
+   "Thesis answers the question in one sentence and names a clear difference",
+   "Short quotations from both poems, with methods named (repetition, metaphor, the contrasting kisses)",
+   "Compares throughout (“too”, “However”, “while”) and ends on a sharp judgement"
+  ]
+ }
+}

@@ -1,0 +1,404 @@
+{
+ "num": 8,
+ "slug": "neutral-tones",
+ "title": "Neutral Tones",
+ "poet": "Thomas Hardy",
+ "poet_dates": "1840–1928",
+ "published": "written 1867, published 1898",
+ "group": "Heartbreak and distance",
+ "anchor": false,
+ "copyright": false,
+ "facts": {
+  "type": "Lyric: four 4-line stanzas (quatrains), rhyme ABBA",
+  "exam": "Yes: printed in June 2024 (“powerful feelings about love”); also a suggested partner in the 2018, Nov 2021 and 2022 mark schemes",
+  "partner": "Porphyria’s Lover (your anchor); Winter Swans also works well"
+ },
+ "themes": [
+  {
+   "name": "Romantic love",
+   "aqa": true,
+   "src": "AQA question June 2024; mark schemes 2018, Nov 2021, 2022"
+  },
+  {
+   "name": "Rejection and heartbreak",
+   "aqa": true,
+   "src": "AQA mark schemes: “the ending of a relationship” (2018), “sadness” (Nov 2021)"
+  },
+  {
+   "name": "Memory",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Nature",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Loss and grief",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A speaker remembers standing by a pond with the person he loved, on a cold winter day, when he realised their love had died.",
+  "message": "Love can die, and its end can stay with you for years. Ever since, every betrayal reminds him of that one grey scene.",
+  "why": "Hardy dated it 1867, when he was 26 or 27. He had been working for an architect in London since 1862. He couldn't get his poems published, so it waited over 30 years to appear. <span class=\"src\">Britannica; Wessex Poems 1898</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "“Neutral tones” are colourless shades: greys, whites, dull browns. The title sounds like a painter's word, and the poem is painted in exactly these colours: a <q>“white”</q> sun, <q>“grey”</q> leaves. “Neutral” also means showing no feeling, like a relationship where love has drained away.",
+  "src": "our reading"
+ },
+ "synopsis": {
+  "setup": "A speaker (“We”, “me”) talks to a former lover as “you”. The poem never says whether either of them is a man or a woman; this guide says “he” and “she” to keep things clear. He is looking back on one winter day, long ago, when they stood together by a pond. We never hear her side.",
+  "steps": [
+   {
+    "lines": "Lines 1–4",
+    "text": "They stood by a pond on a winter day. The sun was pale white, as if God had told it off (<q>“chidden of God”</q>). A few grey leaves from an ash tree lay on the dead, <q>“starving”</q> ground."
+   },
+   {
+    "lines": "Lines 5–6",
+    "text": "She looked at him with bored, wandering eyes, as if he were an old, dull puzzle she had stopped caring about: <q>“tedious riddles of years ago”</q>."
+   },
+   {
+    "lines": "Lines 7–8",
+    "text": "They exchanged a few words, going back and forth, about which of them had lost more by loving the other. Love has become a contest."
+   },
+   {
+    "lines": "Lines 9–10",
+    "text": "Her smile was <q>“the deadest thing”</q>: it had just enough life left in it to die. Her love was fading in front of him."
+   },
+   {
+    "lines": "Lines 11–12",
+    "text": "A bitter grin passed over her face, like a dark bird flying past: a bad sign (an omen) of what was to come."
+   },
+   {
+    "lines": "Lines 13–16",
+    "text": "Since then, life has taught him that <q>“love deceives”</q> and hurts. Every time, he sees the same picture again: her face, the sun, a tree, and the pond edged with grey leaves."
+   }
+  ],
+  "turn": "<b>The turning point (line 13):</b> <q>“Since then,”</q> jumps from the memory to the present. The first three stanzas are that one day; the last stanza shows how it has haunted him ever since.",
+  "ending": "Back where it began: the pond, the leaves, the sun and her face. The poem goes in a circle, as if he is trapped in the memory and can't move on.",
+  "tone": "Cold, bitter and flat. There is no shouting or tears: the feelings are as drained as the colours."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–4",
+   "text": "We stood by a <mark>pond that winter day</mark>,<br>And the <mark>sun was white, as though chidden of God</mark>,<br>And a few leaves lay on the <mark>starving sod</mark>;<br>– They had fallen from an ash, and were <mark>grey</mark>.",
+   "note": "The setting: a pond in winter. <b>“chidden”</b> = scolded, told off: even the sun seems to be punished by God. <b>“sod”</b> = earth, ground; it is <b>“starving”</b>, so nothing can grow. Everything is grey, white and dead."
+  },
+  {
+   "lines": "5–8",
+   "text": "<mark>Your eyes on me were as eyes that rove</mark><br>Over <mark>tedious riddles of years ago</mark>;<br>And some <mark>words played between us to and fro</mark><br>On which <mark>lost the more by our love</mark>.",
+   "note": "Her eyes <b>“rove”</b> (wander) over him as if he were a boring old puzzle (<b>“tedious riddles”</b>). Their words go back and forth like a game, arguing about who <b>“lost the more”</b> by loving. Love has turned into a contest."
+  },
+  {
+   "lines": "9–12",
+   "text": "The <mark>smile on your mouth was the deadest thing</mark><br><mark>Alive enough to have strength to die</mark>;<br>And a <mark>grin of bitterness</mark> swept thereby<br>Like an <mark>ominous bird a-wing</mark>…",
+   "note": "A smile should be warm, but hers is <b>“the deadest thing”</b>, with just enough life left to die. A bitter grin crosses her face like a bird flying past (<b>“a-wing”</b> = in flight). <b>“ominous”</b> = warning that something bad is coming."
+  },
+  {
+   "lines": "13–16",
+   "text": "Since then, <mark>keen lessons that love deceives</mark>,<br>And <mark>wrings with wrong</mark>, have shaped to me<br>Your face, and the <mark>God curst sun</mark>, and a tree,<br>And a <mark>pond edged with greyish leaves</mark>.",
+   "note": "Years later. <b>“keen”</b> = sharp, painful. He has learned that love lies and <b>“wrings”</b> (twists, squeezes) people with pain. Each new lesson brings back the same picture: her face, the cursed sun, the tree and the pond. The poem ends where it began."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "We stood by a pond that winter day,",
+   "means": "they stood still together by a pond in winter.",
+   "why": "winter = love gone cold; “stood” is still, as if the relationship is going nowhere."
+  },
+  {
+   "line": "LINE 2",
+   "q": "And the sun was white, as though chidden of God,",
+   "means": "the sun was pale, as if God had told it off.",
+   "tech": "pathetic fallacy: the weather matches the cold feelings; even God seems against them."
+  },
+  {
+   "line": "LINE 3",
+   "q": "starving sod",
+   "means": "the ground is dead and bare.",
+   "tech": "alliteration and personification; nothing can grow here, like their love."
+  },
+  {
+   "line": "LINE 6",
+   "q": "tedious riddles of years ago",
+   "means": "she looks at him like a boring old puzzle.",
+   "why": "she is tired of him; he is no longer interesting or new to her."
+  },
+  {
+   "line": "LINE 8",
+   "q": "On which lost the more by our love.",
+   "means": "they argued about who lost most by loving.",
+   "why": "love has become a competition with only losers."
+  },
+  {
+   "line": "LINES 9–10",
+   "q": "The smile on your mouth was the deadest thing / Alive enough to have strength to die;",
+   "means": "her smile had just enough life left to die.",
+   "tech": "paradox: something dead that is still dying; love fading before his eyes."
+  },
+  {
+   "line": "LINES 11–12",
+   "q": "And a grin of bitterness swept thereby / Like an ominous bird a-wing…",
+   "means": "a bitter look crossed her face like a dark bird.",
+   "tech": "simile; the bird is an omen of the end."
+  },
+  {
+   "line": "LINE 13",
+   "q": "keen lessons that love deceives,",
+   "means": "life has taught him painfully that love lies.",
+   "why": "one bad day has turned into a belief about all love."
+  }
+ ],
+ "form": {
+  "heading": "The form: four neat quatrains that go round in a circle",
+  "explain": [
+   "A <b>quatrain</b> is a stanza (verse) of four lines. An <b>ABBA</b> rhyme scheme means lines 1 and 4 rhyme, and lines 2 and 3 rhyme: the outer lines wrap around the inner pair.",
+   "A <b>lyric</b> is a short poem expressing one speaker's feelings. Hardy himself warned readers that his poems were often “dramatic or personative”, meaning the “I” may be a character, not Hardy himself. <span class=\"src\">Hardy's Preface to Wessex Poems, 1898</span> <span class=\"care\">one source</span>",
+   "<b>Pathetic fallacy</b> is the “poetic practice of attributing human emotion or responses to nature”. The term was coined by the critic John Ruskin. <span class=\"src\">Britannica</span>"
+  ],
+  "this_poem": [
+   "<b>Four quatrains, 16 lines, rhyming ABBA in every stanza</b> (<q>“day”</q> / <q>“grey”</q>, <q>“God”</q> / <q>“sod”</q>). The fourth line of each stanza is set in (indented). <span class=\"src\">our count from the anthology</span>",
+   "<b>The ABBA pattern closes in on itself:</b> each stanza ends on the same sound family it started with. That suits a speaker who can't escape. <span class=\"care\">our reading</span>",
+   "<b>The whole poem is circular too:</b> stanza 4 repeats the face, the sun, the tree and the pond with its leaves from stanza 1. He keeps coming back to the same moment. <span class=\"care\">our reading</span>",
+   "<b>Three stanzas of past, one of present:</b> <q>“Since then,”</q> moves to years later, but the last line takes us straight back to the pond.",
+   "<b>Not quite a perfect rhyme:</b> <q>“rove”</q> and <q>“love”</q> look alike but don't sound alike. Even “love” fails to match. <span class=\"care\">our reading</span>"
+  ],
+  "say": "A sentence you could use: Hardy's tight ABBA quatrains wrap each stanza back on itself, and the final stanza returns to the same pond, sun and leaves as the first, so the form traps the speaker inside one painful memory he cannot escape."
+ },
+ "methods": [
+  {
+   "title": "Nature mirrors the dead love",
+   "text": "The <q>“white”</q> sun, <q>“starving sod”</q> and <q>“grey”</q> leaves fallen from the tree show a world with no warmth or life, just like the relationship.",
+   "term": "Pathetic fallacy",
+   "def": "giving human feelings to nature, so the setting reflects the mood (Britannica)."
+  },
+  {
+   "title": "Death imagery",
+   "text": "Her smile is <q>“the deadest thing”</q>; the leaves have <q>“fallen”</q>; the bird is <q>“ominous”</q>. Love is presented as something that dies.",
+   "term": "Semantic field",
+   "def": "a group of words linked by the same topic, here death and decay."
+  },
+  {
+   "title": "A curse from above",
+   "text": "The sun is <q>“chidden of God”</q> at the start and <q>“God curst”</q> at the end. Hardy suggests the universe, even God, is against the lovers.",
+   "term": "Imagery",
+   "def": "descriptive language that creates a picture in the reader's mind."
+  },
+  {
+   "title": "Talking to “you”",
+   "text": "<q>“Your eyes”</q>, <q>“your mouth”</q>, <q>“Your face”</q>: he speaks straight to her, but she never answers. It feels like an accusation she can't reply to.",
+   "term": "Direct address",
+   "def": "speaking straight to a person as “you”. AQA's 2024 mark scheme points to the “direct address in ‘Neutral Tones’”."
+  }
+ ],
+ "warn": "Examiners warn: AQA's 2022 report says comments on “poetic construction”, such as the ABBA rhyme scheme, risk “becoming rather descriptive”. Don't just say “it rhymes ABBA”: say what the circular, closed-in shape shows about the speaker's feelings.",
+ "context": {
+  "timeline": [
+   {
+    "date": "1840",
+    "text": "Hardy born at Higher Bockhampton, Dorset; father a stonemason"
+   },
+   {
+    "date": "1862",
+    "text": "Moves to London to work for an architect; writes poems no one will publish"
+   },
+   {
+    "date": "1867",
+    "text": "Dates Neutral Tones 1867, aged 26 or 27",
+    "hi": true
+   },
+   {
+    "date": "1868",
+    "text": "Completes his first novel, which is rejected; he turns to prose"
+   },
+   {
+    "date": "1874",
+    "text": "<i>Far from the Madding Crowd</i>; marries Emma Gifford"
+   },
+   {
+    "date": "1895",
+    "text": "<i>Jude the Obscure</i>: savage reviews; he stops writing novels"
+   },
+   {
+    "date": "1898",
+    "text": "<i>Wessex Poems</i>, his first poetry book, includes Neutral Tones",
+    "hi": true
+   },
+   {
+    "date": "1928",
+    "text": "Dies; ashes in Westminster Abbey, heart buried in Dorset"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Hardy was",
+    "items": [
+     {
+      "text": "Born in 1840 at Higher Bockhampton, Dorset, son of a stonemason and builder. He trained as an architect.",
+      "src": "Britannica; Thomas Hardy Society; Westminster Abbey",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Famous first as a novelist: <i>Far from the Madding Crowd</i> (1874), <i>Tess of the d'Urbervilles</i> (1891), <i>Jude the Obscure</i> (1895). Many are set in “Wessex”, his name for the south-west of England.",
+      "src": "Britannica; Thomas Hardy Society; Westminster Abbey",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Poetry was his “preferred form”. After the angry reaction to <i>Jude</i>, he wrote no more novels and spent his last 30 years writing only poems.",
+      "src": "RPO (University of Toronto); Britannica; Penguin",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "He “rejected the Victorian belief in a benevolent God”, and much of his poetry is a bleak lament on human life. Britannica speaks of his “stoical pessimism”. In our reading, that fits a sun <q>“chidden of God”</q> and <q>“God curst”</q>.",
+      "src": "poets.org; Britannica",
+      "use": "powerful feelings · heartbreak",
+      "care": "our reading"
+     }
+    ]
+   },
+   {
+    "title": "How the poem came about",
+    "items": [
+     {
+      "text": "In 1862 Hardy moved to London to work as an architect's draughtsman. In his spare time he studied and wrote poetry.",
+      "src": "Britannica; Thomas Hardy Society",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Hardy dated the poem “1867”. Britannica names it among his poems of the 1860s, and says that “when none of them achieved immediate publication, Hardy reluctantly turned to prose.”",
+      "src": "Wessex Poems (1898 edition); Britannica; Victorian Web",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "It was first published over 30 years later, in his first poetry collection, <i>Wessex Poems</i> (1898). It is one of his earliest poems, not a late one.",
+      "src": "Wessex Poems 1898; RPO; Thomas Hardy Society",
+      "use": "memory · time",
+      "care": ""
+     },
+     {
+      "text": "No reliable source tells us who the woman was. Hardy said his poems were often “dramatic or personative”, so don't claim it is his own break-up. And it isn't about his wife Emma: he met her in 1870, three years after the date on the poem.",
+      "src": "Hardy's 1898 Preface; Thomas Hardy Society",
+      "use": "heartbreak",
+      "care": "Preface: one source"
+     },
+     {
+      "text": "Text check: Hardy's own editions read “riddles solved years ago” and “God-curst”. The AQA anthology prints <q>“riddles of years ago”</q> and <q>“God curst”</q>. Always quote the anthology.",
+      "src": "Wessex Poems 1898 and 1919; AQA anthology",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "Love, nature and a cold universe",
+    "items": [
+     {
+      "text": "The Romantic poets often used nature to show love (Shelley's <q>“moonbeams kiss the sea”</q>). Hardy turns this upside down: his nature is grey, starving and cursed.",
+      "src": "our reading",
+      "use": "nature · romantic love",
+      "care": "our reading"
+     },
+     {
+      "text": "One critic says that in Hardy “nature is essentially neutral, unsympathetic to human goings on”. Another says this poem shows “the pervading sadness of life — human as well as natural”. Is nature mirroring him, or simply not caring?",
+      "src": "Victorian Web (Banerjee, citing Hoffpauir)",
+      "use": "nature · powerful feelings",
+      "care": "one source"
+     },
+     {
+      "text": "AQA's 2022 report says AO3 works best through ideas like “the power of love to make someone obsessive, very unhappy, grief-stricken”, rather than poets' life stories. Here: one failed love has made the speaker bitter about all love.",
+      "src": "AQA 2022 examiners' report",
+      "use": "powerful feelings about love",
+      "care": ""
+     },
+     {
+      "text": "AQA's 2024 mark scheme (this poem's question) suggests AO3 ideas about “different types of strong feelings and their effects on relationships and/or on the self”.",
+      "src": "AQA 2024 mark scheme",
+      "use": "powerful feelings about love",
+      "care": ""
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Hardy wrote this at 26 or 27, unable to get his poems published, and he rejected the Victorian belief in a kind God. In the poem even the sun is <q>“God curst”</q>: the end of love seems part of a cold, uncaring universe <span class=\"care\">our reading</span>. Link this to how a powerful feeling such as heartbreak can shape someone's view of love for life: <q>“keen lessons that love deceives”</q>."
+ },
+ "comparisons": [
+  {
+   "partner": "Porphyria’s Lover",
+   "use_for": [
+    "Romantic love",
+    "Rejection and heartbreak",
+    "Nature"
+   ],
+   "aqa": "AQA: Nov 2021 mark scheme (“negative effects of strong feelings, eg ‘Porphyria’s Lover’ or ‘Neutral Tones’”); 2022 mark scheme (“the negative powerful effects of love, such as ‘Neutral Tones’ or ‘Porphyria’s Lover’”); 2024 mark scheme (this poem's question) names Porphyria’s Lover. Your anchor poem.",
+   "similar": [
+    "Both open with cold, hostile weather that matches the mood: <q>“the sun was white, as though chidden of God,”</q> and <q>“The sullen wind was soon awake,”</q>",
+    "Both are told by a man looking back on one moment with a woman, and we never hear her side.",
+    "Both bring God in at the end: Hardy's <q>“God curst sun”</q> and Browning's <q>“And yet God has not said a word!”</q> In both, God seems distant or against them."
+   ],
+   "different": [
+    "<b>Who ends the love:</b> in Hardy the love simply dies, slowly: <q>“the deadest thing / Alive enough to have strength to die;”</q> In Browning the man kills her to keep her love: <q>“And strangled her.”</q>",
+    "<b>The woman:</b> Hardy's woman is bored and bitter (<q>“grin of bitterness”</q>); Porphyria comes to him lovingly through the storm.",
+    "<b>Smiles:</b> Hardy's lover's smile is dead though she is alive; Porphyria is dead but her head is <q>“smiling”</q>. Both twist a smile into something chilling.",
+    "<b>Tone:</b> bitter and drained against calm, proud madness: <q>“I am quite sure she felt no pain.”</q>"
+   ]
+  },
+  {
+   "partner": "Winter Swans",
+   "use_for": [
+    "Romantic love",
+    "Nature",
+    "Separation and distance"
+   ],
+   "aqa": "AQA: 2024 mark scheme (this poem's question) suggests Winter Swans first, for “bleak and more positive views of love”, “hope for the future in ‘Winter Swans’” and “direct address in ‘Neutral Tones’ compared with ‘Winter Swans’”",
+   "similar": [
+    "Almost the same scene: a couple by water in winter, cold towards each other: <q>“We stood by a pond that winter day,”</q> and <q>“as we skirted the lake, silent and apart,”</q>",
+    "Both speak to the partner as “you”, and both use nature to show the state of the relationship."
+   ],
+   "different": [
+    "<b>Ending:</b> Sheers's couple come back together, hands <q>“like a pair of wings settling after flight.”</q> Hardy's love stays dead, and the poem circles back to <q>“a pond edged with greyish leaves.”</q>",
+    "<b>Nature:</b> Sheers's swans, who <q>“mate for life”</q>, give the couple hope. Hardy's nature only shows what is lost: <q>“starving sod”</q>, grey leaves.",
+    "<b>Birds:</b> Sheers's swans are a sign of lasting love; Hardy's <q>“ominous bird”</q> is a sign that love is ending."
+   ]
+  },
+  {
+   "partner": "When We Two Parted",
+   "use_for": [
+    "Rejection and heartbreak",
+    "Memory",
+    "Romantic love"
+   ],
+   "aqa": "AQA: 2018 mark scheme names both together (“such as compared with ‘When We Two Parted’, or ‘Neutral Tones’”); 2022 report lists both among the popular partners that “worked well”",
+   "similar": [
+    "Both look back bitterly on the end of a love affair, and the pain has lasted for years: <q>“Since then, keen lessons that love deceives,”</q> and <q>“Long, long shall I rue thee,”</q>",
+    "Both show the lover growing cold, with death-like images: <q>“Pale grew thy cheek and cold,”</q> and <q>“the deadest thing”</q>.",
+    "Both are circular: Byron starts and ends with <q>“silence and tears”</q>; Hardy starts and ends at the pond."
+   ],
+   "different": [
+    "<b>Betrayal:</b> Byron's lover has broken her promises and is talked about in public (<q>“Thy vows are all broken,”</q>). Hardy's love just fades; no scandal.",
+    "<b>Secrecy:</b> Byron's affair was secret (<q>“In secret we met –”</q>); Hardy's scene is a quiet private memory.",
+    "<b>Feelings:</b> Byron still feels love and shame; Hardy seems drained of feeling, as “neutral” as his colours."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present powerful feelings about love in ‘Neutral Tones’ and in one other poem from ‘Love and relationships’. (This is AQA's real June 2024 question.)",
+  "thesis": "Both Hardy and Browning show love turning into something deadly, but in Neutral Tones love dies slowly on its own, leaving bitterness, while Browning's speaker kills to stop love from changing.",
+  "para": "Both poets use nature to show how powerful feelings can turn love cold. Hardy opens with a sun <q>“chidden of God”</q> and <q>“starving sod”</q>: pathetic fallacy makes the whole landscape as lifeless as the relationship. Browning's storm is more violent, <q>“The sullen wind was soon awake,”</q> hinting at the anger inside his speaker. The biggest difference is how love ends. Hardy's paradox, <q>“the deadest thing / Alive enough to have strength to die;”</q>, shows love fading slowly, leaving the speaker bitter for years. Browning's lover cannot bear that change, so he acts: <q>“That moment she was mine, mine, fair,”</q> then <q>“And strangled her.”</q> Hardy's heartbreak hurts only the speaker; Browning's obsession destroys someone else.",
+  "why": [
+   "Opens with a clear comparison that answers the question about powerful feelings",
+   "Short quotations from both poems, each explained, with methods named (pathetic fallacy, paradox)",
+   "Compares all the way through and ends with an overall judgement about the two kinds of feeling"
+  ]
+ }
+}

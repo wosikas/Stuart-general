@@ -1,0 +1,436 @@
+{
+ "num": 10,
+ "slug": "mother-any-distance",
+ "title": "Mother, any distance",
+ "poet": "Simon Armitage",
+ "poet_dates": "born 1963",
+ "published": "published 1993 (Book of Matches)",
+ "group": "Family",
+ "anchor": true,
+ "copyright": true,
+ "facts": {
+  "type": "Loose sonnet: 15 lines in three stanzas (4 + 4 + 7)",
+  "exam": "Yes: June 2017",
+  "partner": "Follower (your backup anchor); Walking Away also works well"
+ },
+ "themes": [
+  {
+   "name": "Growing up",
+   "aqa": true,
+   "src": "AQA question June 2017; mark scheme 2025"
+  },
+  {
+   "name": "Family (parent and child)",
+   "aqa": true,
+   "src": "AQA mark schemes (specimen, Nov 2020, 2023)"
+  },
+  {
+   "name": "Time",
+   "aqa": true,
+   "src": "AQA specimen mark scheme (“the passage of time”)"
+  },
+  {
+   "name": "Memory",
+   "aqa": true,
+   "src": "AQA mark schemes Nov 2020, 2023, 2025"
+  },
+  {
+   "name": "Separation and distance",
+   "aqa": false,
+   "src": "our reading (AQA's 2017 mark scheme mentions the tape measure as “connection / distance”)"
+  },
+  {
+   "name": "Place and home",
+   "aqa": false,
+   "src": "our reading (AQA's 2017 mark scheme mentions “the home as metaphor for security”)"
+  }
+ ],
+ "cards": {
+  "story": "A young man is moving into his first home. His mother comes to help him measure the rooms with a tape measure. As he climbs higher, the tape stretches between them.",
+  "message": "Growing up means moving away from a parent. The bond still holds, but it gets stretched thin, and the child has to risk going it alone.",
+  "why": "Armitage based it on a real day: his mum helped him measure a rented house when he left home. He calls it “a rite of passage poem.” <span class=\"src\">Oak National Academy video</span> <span class=\"care\">Armitage's own words; one source</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "The poem has no real title. Armitage says it “doesn't have a title because it's taken from a sequence of poems called ‘Book of Matches.’” <span class=\"care\">Armitage's own words; one source</span> So we call it by its first words. That makes the opening <q>“Mother,”</q> a direct address: the whole poem is spoken to her. And the first idea we meet is <b>distance</b>. <span class=\"care\">the last two sentences are our reading</span>",
+  "src": "Oak National Academy video; AQA anthology"
+ },
+ "synopsis": {
+  "setup": "The speaker is a young man talking straight to his mother (<q>“You”</q>). He has just got his own place, and she has come round to help. It is written in the present tense, so we feel we are there.",
+  "steps": [
+   {
+    "lines": "Lines 1–2",
+    "text": "He tells her that measuring anything longer than a hand-span (<q>“a single span”</q>) needs two people. It sounds like a practical rule, but it also hints that he still needs her."
+   },
+   {
+    "lines": "Lines 3–4",
+    "text": "She helps him measure windows, curtain boxes (<b>pelmets</b>) and doors. The empty house seems enormous: its walls are <q>“acres”</q> and its floors are <q>“prairies”</q>."
+   },
+   {
+    "lines": "Lines 5–8",
+    "text": "She holds the end of the tape (<q>“the zero-end”</q>). He takes the reel, calls the numbers back to her, then goes upstairs. The tape keeps unrolling, as if it is measuring the years between them. Then two one-word sentences: <q>“Anchor. Kite.”</q>"
+   },
+   {
+    "lines": "Lines 9–11",
+    "text": "Alone upstairs, he moves through the empty bedrooms like an astronaut (<q>“space-walk”</q>). He climbs the ladder into the loft. The tape is stretched as far as it will go: <q>“breaking point”</q>. Something <q>“has to give;”</q>."
+   },
+   {
+    "lines": "Lines 12–15",
+    "text": "Two floors down, his mother is still holding on to the very end of the tape. He reaches for a hatch that opens onto the sky. The poem ends with two choices: he might fall, or he might fly."
+   }
+  ],
+  "turn": "<b>The turning point (line 9):</b> after the first two stanzas (8 lines, the length of a sonnet's first part), the son goes on alone. <q>“I space-walk”</q> starts the stanza with “I”, not “You”. Mother and son are now apart, joined only by the tape.",
+  "ending": "On an open question. The last line, <q>“to fall or fly.”</q>, gives two opposite futures and does not choose. Independence is exciting and frightening at the same time.",
+  "tone": "It starts practical and almost jokey, with lists of things to measure. It becomes tense as the tape stretches, and ends hopeful but nervous, poised at the edge of the sky."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–2",
+   "text": "<mark>Mother, any distance</mark> … <mark>a second pair of hands.</mark>",
+   "note": "A <b>span</b> is the distance across a stretched hand. Anything longer needs two people to measure it. On the surface it's a practical rule. Underneath, it says he still can't manage alone: he needs her “hands”."
+  },
+  {
+   "lines": "3–4",
+   "text": "<mark>You come to help me measure</mark> … <mark>the prairies of the floors.</mark>",
+   "note": "A list of things to measure: windows, pelmets (boxes that hide curtain rails), doors. Then the house grows huge. <b>Acres</b> and <b>prairies</b> (vast open grasslands in North America) are exaggerations: to a young man on his own, the house feels as big as a wilderness. The rhyme “doors / floors” makes this opening neat and steady."
+  },
+  {
+   "lines": "5–8",
+   "text": "<mark>You at the zero-end, me with the spool of tape</mark> … <mark>unreeling</mark> … <mark>Anchor. Kite.</mark>",
+   "note": "She holds the start of the tape; he holds the reel and calls out the measurements <b>“back to base”</b> (like a mission talking to control). He climbs the stairs and the tape keeps unrolling, measuring the years between them as well as the metres. The stanza ends with two single words. Who is the anchor and who is the kite? Armitage says: “I don't say who is who in the poem or what it means.” <span class=\"src\">Oak National Academy video</span> <span class=\"care\">Armitage's own words; one source</span>"
+  },
+  {
+   "lines": "9–11",
+   "text": "<mark>I space-walk through the empty bedrooms</mark> … <mark>to breaking point, where something</mark> … <mark>has to give;</mark>",
+   "note": "Now it's “I”. The empty rooms are like outer space and he floats through them like an astronaut on a spacewalk. He climbs to the loft and the tape reaches its limit. <b>“breaking point”</b> is about the tape, but also about the relationship: something must change. Line 11 is only three words long, as if the line itself has snapped."
+  },
+  {
+   "lines": "12–15",
+   "text": "<mark>your fingertips still pinch</mark> … <mark>the last one-hundredth of an inch</mark> … <mark>to fall or fly.</mark>",
+   "note": "His mother is two floors down, still gripping the very end of the tape with her fingertips. She won't let go. He reaches towards a loft hatch that opens onto <b>“an endless sky”</b>. The poem ends on a rhyme (sky / fly), but not on an answer: he might fail, or he might soar."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "Mother, any distance greater than a single span",
+   "means": "anything bigger than a hand-width needs two people to measure.",
+   "why": "it opens by talking straight to her, and the first big idea is “distance”. The practical rule hides an emotional one: he still needs her help."
+  },
+  {
+   "line": "LINE 4",
+   "q": "the acres of the walls, the prairies of the floors.",
+   "means": "the empty house feels vast.",
+   "tech": "hyperbole (exaggeration) and metaphor: adult independence feels like a huge, open wilderness."
+  },
+  {
+   "line": "LINE 5",
+   "q": "You at the zero-end, me with the spool of tape",
+   "means": "she holds the start of the tape; he holds the reel.",
+   "why": "she is where he began (“zero”). He carries the rest of the tape, the future, away from her."
+  },
+  {
+   "line": "LINES 7–8",
+   "q": "unreeling years between us.",
+   "means": "the tape measures time as well as rooms.",
+   "tech": "extended metaphor: the tape measure stands for their bond. AQA's 2017 mark scheme points to “the use of the tape measure to present connection / distance”."
+  },
+  {
+   "line": "LINE 8",
+   "q": "Anchor. Kite.",
+   "means": "one of them holds steady; the other wants to fly.",
+   "why": "two one-word sentences. Armitage calls them the “best line” in the poem and says he likes “the economy of those two words on their own”. He asks: is an anchor safe, or holding him back? Is a kite free, or still tied? <span class=\"src\">Oak National Academy video</span> <span class=\"care\">Armitage's own words; one source</span>"
+  },
+  {
+   "line": "LINE 9",
+   "q": "I space-walk through the empty bedrooms",
+   "means": "he floats alone through the rooms, like an astronaut.",
+   "tech": "metaphor. Armitage says the space imagery is “generational”: he grew up when men were walking on the Moon. <span class=\"src\">Oak National Academy video</span> <span class=\"care\">Armitage's own words; one source</span> The tape is like an astronaut's lifeline. <span class=\"care\">this last sentence is our reading</span>"
+  },
+  {
+   "line": "LINES 12–13",
+   "q": "your fingertips still pinch the last one-hundredth of an inch",
+   "means": "she is holding on to the very end of the tape.",
+   "why": "“still” and the tiny measurement show how hard she finds letting go. Her grip is loving, but it may also be holding him back."
+  },
+  {
+   "line": "LINES 14–15",
+   "q": "an endless sky to fall or fly.",
+   "means": "outside lies a huge, open future, and he could fail or succeed.",
+   "tech": "alliteration (“fall … fly”) and a final rhyming couplet (sky / fly). The poem ends on a choice, not an answer."
+  }
+ ],
+ "form": {
+  "heading": "The form: a sonnet that stretches to 15 lines",
+  "explain": [
+   "A <b>sonnet</b> is traditionally a 14-line poem, usually in iambic pentameter (lines of ten syllables with a da-DUM beat). <span class=\"src\">Britannica; Poetry Archive</span>",
+   "Sonnets were traditionally love poems, and they often have a <b>volta</b> (turn): a shift in thought partway through. <span class=\"src\">Britannica; Poetry Archive</span>",
+   "The Poetry Archive says that calling a poem a sonnet means it “stands in relation to the long tradition of sonnets”, not that it follows every rule. <span class=\"src\">Poetry Archive</span> <span class=\"care\">one source</span>"
+  ],
+  "this_poem": [
+   "It comes from the first part of <i>Book of Matches</i> (1993), which Armitage's publisher describes as “a series of sonnets”, each meant to have “the urgency of a struck match”. <span class=\"src\">Faber blurb (via bookseller); Oak National Academy</span> <span class=\"care\">one source each</span>",
+   "But this one has <b>15 lines</b>, not 14, and no regular rhyme scheme. Oak National Academy says it “does not strictly follow the sonnet form but does use many of its conventions”, such as the closing rhyming couplet. <span class=\"src\">our count; Oak National Academy</span>",
+   "<b>Why 15?</b> The extra line pushes past the sonnet's limit, just as the son pushes past the end of the tape. The form reaches <q>“breaking point”</q> too. <span class=\"care\">our reading</span>",
+   "<b>Where it turns:</b> the first 8 lines are “You” and “me” together. Line 9 starts with “I”, alone. That is where a traditional sonnet turns. <span class=\"care\">our reading</span>",
+   "<b>Line lengths:</b> lines get long and run on (enjambment) as the tape unreels, then line 11 shrinks to three words. The shape of the lines acts out stretching and snapping. <span class=\"care\">our reading</span>",
+   "<b>A love poem, but a mother's:</b> a sonnet is the classic form for romantic love; Armitage uses it for a son's love for his mother. <span class=\"care\">our reading</span>"
+  ],
+  "say": "A sentence you could use: Armitage writes a loose sonnet, a form linked with love, but stretches it to fifteen lines; like the tape measure pulled to “breaking point”, the poem goes just past its limit, showing a son pulling away from his mother while still connected to her."
+ },
+ "methods": [
+  {
+   "title": "The tape measure as the bond between them",
+   "text": "The whole poem grows out of one ordinary object. The tape joins mother and son, but the further he goes, the thinner and tighter it gets, until it nearly breaks. AQA's 2017 mark scheme names “the tape measure to present connection / distance”.",
+   "term": "Extended metaphor",
+   "def": "one comparison that is kept going and developed through a whole poem."
+  },
+  {
+   "title": "Space and flight imagery",
+   "text": "<q>“back to base”</q>, <q>“space-walk”</q>, <q>“endless sky”</q>, <q>“fly”</q>. Growing up is shown as an exciting but dangerous journey into the unknown. Armitage calls the spacewalk “a kind of dream of what I might become”. <span class=\"src\">Oak National Academy video</span> <span class=\"care\">Armitage's own words; one source</span> AQA's mark schemes point to “imagery of flight/freedom” in this poem.",
+   "term": "Imagery",
+   "def": "words that create a picture in the reader's mind."
+  },
+  {
+   "title": "Pronouns: from “You” and “me” to “I”",
+   "text": "Stanzas 1 and 2 are full of <q>“You”</q> and “me” working together. Stanza 3 opens with <q>“I”</q>: the son is on his own. The mother returns only as <q>“your fingertips”</q>, far below.",
+   "term": "Direct address",
+   "def": "speaking straight to someone as “you”, as if they are listening."
+  },
+  {
+   "title": "Short sentences and an open ending",
+   "text": "<q>“Anchor. Kite.”</q> are two complete sentences of one word each. They stop the long, flowing lines dead and make us think. The poem then ends with two choices, <q>“fall or fly”</q>, and never says which happens.",
+   "term": "Ambiguity",
+   "def": "when words can mean more than one thing, so the reader has to decide."
+  }
+ ],
+ "warn": "Examiners warn: this poem is about a parent and child, so keep it for family or growing-up questions. When the question was about romantic relationships, AQA's November 2021 report said “Mother any distance and Walking Away were not really appropriate choices and comparison was difficult to address.”",
+ "context": {
+  "timeline": [
+   {
+    "date": "1963",
+    "text": "Armitage born; grows up in Marsden, near Huddersfield, West Yorkshire"
+   },
+   {
+    "date": "July 1969",
+    "text": "First Moon landing: Armitage's generation grows up in “the space age”"
+   },
+   {
+    "date": "1989",
+    "text": "First collection, Zoom!"
+   },
+   {
+    "date": "1993",
+    "text": "Book of Matches published by Faber, including Mother, any distance",
+    "hi": true
+   },
+   {
+    "date": "to 1994",
+    "text": "Works as a probation officer in Greater Manchester"
+   },
+   {
+    "date": "2017",
+    "text": "Printed on the AQA GCSE exam (June 2017 series): “growing up”",
+    "hi": true
+   },
+   {
+    "date": "2019",
+    "text": "Armitage becomes Poet Laureate, after Carol Ann Duffy"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Armitage is",
+    "items": [
+     {
+      "text": "Born in 1963 and grew up in Marsden, a village near Huddersfield in West Yorkshire. He still lives in West Yorkshire.",
+      "src": "Britannica; simonarmitage.com",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Britannica says his poetry “typically conveys a deadpan humor” (jokes told with a straight face), even on dark subjects. Look at the jokey exaggeration of <q>“prairies of the floors.”</q>",
+      "src": "Britannica",
+      "use": "voice · tone",
+      "care": "one source"
+     },
+     {
+      "text": "He became Poet Laureate in 2019, taking over from Carol Ann Duffy, who wrote Before You Were Mine, another poem about a mother.",
+      "src": "Britannica; simonarmitage.com",
+      "use": "family · comparison link",
+      "care": ""
+     },
+     {
+      "text": "He also wrote Remains (Power and conflict). Both poems use everyday speech to show a huge feeling.",
+      "src": "AQA anthology",
+      "use": "",
+      "care": "the link is our reading"
+     }
+    ]
+   },
+   {
+    "title": "Book of Matches (1993)",
+    "items": [
+     {
+      "text": "His third collection, published by Faber in 1993, after Zoom! (1989) and Kid (1992).",
+      "src": "simonarmitage.com; Britannica",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "The publisher says the poems are “more obviously personal”, and that the first part, “Book of Matches”, “is a series of sonnets”, each giving “the urgency of a struck match”.",
+      "src": "Faber blurb (via bookseller and Goodreads)",
+      "use": "memory · form",
+      "care": "Faber's own page was blocked"
+     },
+     {
+      "text": "The title links to a game: telling a story from your life in the time it takes a match to burn out. So each poem captures one brief moment.",
+      "src": "Oak National Academy",
+      "use": "memory · time",
+      "care": "one source"
+     },
+     {
+      "text": "A reference book describes that opening sequence as “autobiographical”, “mostly childhood reminiscences” (memories), including this tribute to his mother.",
+      "src": "Contemporary Poets (Encyclopedia.com)",
+      "use": "family · memory",
+      "care": "one source"
+     }
+    ]
+   },
+   {
+    "title": "The real day behind the poem: Armitage in his own words",
+    "items": [
+     {
+      "text": "When he left home he moved to a rented house nearby, and “my mum came along to help me measure up for carpets and curtains, and she'd brought with her a tape measure”.",
+      "src": "Armitage, Oak National Academy video",
+      "use": "family · growing up",
+      "care": "Armitage's own words; one source"
+     },
+     {
+      "text": "“It's a rite of passage poem. It's a poem about leaving home. It's a poem about growing up.” A <b>rite of passage</b> is a moment that marks a big change in life.",
+      "src": "Armitage, Oak National Academy video",
+      "use": "growing up",
+      "care": "Armitage's own words; one source"
+     },
+     {
+      "text": "On <q>“Anchor. Kite.”</q>, he asks: “Is my mother the anchor? And if she is, is that a good thing?” and “Am I the kite?” He leaves both readings open: safe and secure, or held back.",
+      "src": "Armitage, Oak National Academy video",
+      "use": "growing up · family",
+      "care": "Armitage's own words; one source"
+     },
+     {
+      "text": "He grew up in “the space age”, when “there was somebody walking on the moon” on TV. The first Moonwalk was on 20 July 1969, when he was six.",
+      "src": "Armitage, Oak National Academy video; NASA (date)",
+      "use": "growing up",
+      "care": "Armitage's own words; one source; the 1969 date is from NASA"
+     },
+     {
+      "text": "He says the poem was written when he was “nearer to it”, and that today he is “not sure” he would write it.",
+      "src": "Armitage, Oak National Academy video",
+      "use": "memory · time",
+      "care": "Armitage's own words; one source"
+     }
+    ]
+   },
+   {
+    "title": "What AQA says about this poem",
+    "items": [
+     {
+      "text": "June 2017 printed it with the question: “Compare how poets present growing up”.",
+      "src": "AQA question paper June 2017",
+      "use": "growing up",
+      "care": ""
+     },
+     {
+      "text": "The 2017 mark scheme suggests “ideas about parenting”, such as “freedom, or support, or constriction” (being held too tightly). Armitage's anchor and kite questions fit all three.",
+      "src": "AQA mark scheme 2017",
+      "use": "family · growing up",
+      "care": ""
+     },
+     {
+      "text": "AQA's 2020 and 2023 mark schemes compare the “parental view in ‘Walking Away’” with the “view of child in ‘Mother, Any Distance’”.",
+      "src": "AQA mark schemes Nov 2020, June 2023",
+      "use": "family",
+      "care": ""
+     },
+     {
+      "text": "In 2023, Follower and this poem “were by far the most popular choices of second poem” for a parent and child question.",
+      "src": "AQA examiners' report 2023",
+      "use": "family",
+      "care": ""
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Armitage based the poem on a real day when his mum helped him measure his first rented house, and he calls it “a rite of passage poem.” By turning an ordinary tape measure into the bond between them, he shows growing up as a gradual stretching rather than a clean break: the son reaches for the sky while his mother still holds on to “the last one-hundredth of an inch”."
+ },
+ "comparisons": [
+  {
+   "partner": "Follower",
+   "use_for": [
+    "Family (parent and child)",
+    "Growing up",
+    "Time"
+   ],
+   "aqa": "AQA: specimen mark scheme (“speaker in ‘Follower’ and speaker in: ‘Mother, Any Distance’”); 2017 and 2023 mark schemes",
+   "similar": [
+    "Both are told by a son looking at a parent, using one practical job to show the whole relationship: measuring a house, and ploughing a field (<q>“My father worked with a horse-plough,”</q>).",
+    "Both children start out dependent. Heaney's boy <q>“stumbled in his hob-nailed wake,”</q>; Armitage's son needs <q>“a second pair of hands.”</q>",
+    "Both show time changing the relationship. AQA's specimen mark scheme suggests comparing “the passage of time and its impact on attitudes” in this poem."
+   ],
+   "different": [
+    "<b>Who leads:</b> Heaney's boy wants to be like his father: <q>“I wanted to grow up and plough,”</q>. Armitage's son wants to get away and <q>“fly.”</q>",
+    "<b>Ending:</b> Follower flips the roles; now the old father <q>“keeps stumbling”</q> behind the son. Mother, any distance ends before the change happens, at <q>“fall or fly.”</q>",
+    "<b>Parent:</b> Heaney's father is a strong, admired expert. Armitage's mother is a helper who won't let go, holding the tape with <q>“your fingertips”</q>.",
+    "<b>Form:</b> Follower uses regular four-line stanzas; Armitage's last stanza stretches to seven lines, and the poem to fifteen."
+   ]
+  },
+  {
+   "partner": "Walking Away",
+   "use_for": [
+    "Growing up",
+    "Family (parent and child)",
+    "Separation and distance"
+   ],
+   "aqa": "AQA: 2017 mark scheme; Nov 2020 and 2023 mark schemes (“parental view in ‘Walking Away’ compared with view of child in ‘Mother, Any Distance’”); Nov 2020 report (“many using ‘Mother, any distance’”)",
+   "similar": [
+    "Both show a child leaving a parent as a journey into space: Day Lewis's son is <q>“like a satellite”</q> <q>“Wrenched from its orbit”</q>; Armitage's son is like an astronaut: <q>“I space-walk”</q>.",
+    "Both use flight and nature: the son as <q>“a winged seed loosened from its parent stem,”</q> and as a <q>“Kite.”</q>",
+    "Both say that letting go is part of love: <q>“love is proved in the letting go.”</q> Armitage's mother is still learning this: her fingertips <q>“still pinch”</q>."
+   ],
+   "different": [
+    "<b>Point of view:</b> Walking Away is the parent's view, looking back eighteen years. Mother, any distance is the child's view, in the present tense.",
+    "<b>Age:</b> Day Lewis's son is a small boy walking to school. Armitage's speaker is a young adult leaving home.",
+    "<b>Ending:</b> Day Lewis reaches a calm conclusion: <q>“How selfhood begins with a walking away,”</q>. Armitage stops on an unanswered choice: <q>“fall or fly.”</q>"
+   ]
+  },
+  {
+   "partner": "Before You Were Mine",
+   "use_for": [
+    "Family (parent and child)",
+    "Time",
+    "Memory"
+   ],
+   "aqa": "AQA: 2017 mark scheme (“the passage of time on growing up, e.g. ‘Before You Were Mine’”); specimen mark scheme",
+   "similar": [
+    "Both speak straight to a mother as “you”, and both are about the distance between a mother and her child.",
+    "Both are by poets who became Poet Laureate (Duffy, then Armitage), and both use everyday speech and humour. <span class=\"care\">our reading</span>"
+   ],
+   "different": [
+    "<b>Time:</b> Duffy looks back to her mother's life before she was born: <q>“I’m not here yet.”</q> Armitage looks forward to his own life without his mother.",
+    "<b>Who holds on:</b> in Duffy, the child is possessive: <q>“my loud, possessive yell”</q>. In Armitage, it's the mother who clings to <q>“the last one-hundredth of an inch”</q>.",
+    "<b>Freedom:</b> Duffy imagines the freedom her mother had before motherhood; Armitage shows a son reaching for his own freedom: <q>“an endless sky”</q>."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present growing up in ‘Mother, any distance’ and in one other poem from ‘Love and relationships’. (AQA, June 2017)",
+  "thesis": "Both Armitage and Heaney show that growing up changes who depends on whom, but Armitage's son is trying to break away from his mother, while Heaney's boy longs to become his father.",
+  "para": "Both poets show a child who depends on a parent. Armitage's son needs <q>“a second pair of hands.”</q>, and Heaney's boy <q>“stumbled in his hob-nailed wake,”</q>: both are small beside a capable adult. However, Armitage's speaker grows up by moving away. The tape keeps <q>“unreeling years between us.”</q>, so the metaphor measures time as well as rooms, and the stretched tape reaches <q>“breaking point”</q>. Heaney's boy grows up by copying: <q>“I wanted to grow up and plough,”</q>. Their endings differ too. Heaney reverses the roles, with the father now <q>“stumbling”</q> behind his son. Armitage stops before any reversal, on the open choice <q>“to fall or fly.”</q>, showing growing up as an exciting but frightening risk.",
+  "why": [
+   "Thesis answers the question in one sentence and names the key difference (breaking away vs copying)",
+   "Short quotations from both poems, with the tape metaphor analysed (it measures time as well as rooms)",
+   "Compares structure (the two endings) as well as language, and keeps the focus on growing up"
+  ]
+ }
+}

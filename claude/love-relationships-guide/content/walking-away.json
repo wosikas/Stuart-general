@@ -1,0 +1,431 @@
+{
+ "num": 12,
+ "slug": "walking-away",
+ "title": "Walking Away",
+ "poet": "Cecil Day Lewis",
+ "poet_dates": "1904–1972",
+ "published": "published 1962, in The Gate and Other Poems",
+ "group": "Family",
+ "anchor": false,
+ "copyright": true,
+ "facts": {
+  "type": "Four five-line stanzas, ABACA rhyme",
+  "exam": "Yes: November 2020 (exam papers spell the poet “Cecil Day-Lewis”; the anthology has “Cecil Day Lewis”)",
+  "partner": "Mother, any distance (your anchor); Follower also works well"
+ },
+ "themes": [
+  {
+   "name": "Family (parent and child)",
+   "aqa": true,
+   "src": "AQA Nov 2020 question (“family relationships”); specimen and 2023 mark schemes"
+  },
+  {
+   "name": "Growing up",
+   "aqa": true,
+   "src": "AQA 2017 mark scheme (“the change in a relationship between a parent and a child due to growing up e.g. the passage of time in ‘Walking Away’”)"
+  },
+  {
+   "name": "Time",
+   "aqa": true,
+   "src": "AQA 2017 mark scheme (“the passage of time in ‘Walking Away’”)"
+  },
+  {
+   "name": "Memory",
+   "aqa": true,
+   "src": "AQA 2023 mark scheme (“particular memories to suggest wider ideas, such as ‘Walking Away’”)"
+  },
+  {
+   "name": "Separation and distance",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Identity",
+   "aqa": false,
+   "src": "our reading (the poem’s word “selfhood”; the Nov 2020 mark scheme mentions “self/identity”)"
+  },
+  {
+   "name": "Nature",
+   "aqa": false,
+   "src": "our reading (seed, fledgling bird, autumn leaves)"
+  }
+ ],
+ "cards": {
+  "story": "A father remembers a day eighteen years ago. He watched his young son play his first game of football, then walk away from him towards the school. The boy looked small and lost, and the memory still hurts.",
+  "message": "Watching your child walk away is painful, but it is how a child becomes their own person. A parent’s love is shown by letting them go.",
+  "why": "Day Lewis wrote the poem for his eldest son, Sean <span class=\"care\">one source</span>. He knew schools from both sides: he boarded at school from 13, and later worked as a schoolteacher. <span class=\"src\">Agenda poetry journal; Poetry Archive; Old Shirburnian Society</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "<b>Walking away</b> is what the boy literally does in line 7: <q>“You walking away from me towards the school”</q>. The phrase comes back in line 19, but now it is a general truth about everyone: <q>“How selfhood begins with a walking away,”</q>. So the title starts as one small moment and ends as a lesson about life. The word “away” also ends lines 5, 11 and 19, like an echo of the boy leaving. <span class=\"care\">our reading</span>",
+  "src": "AQA anthology"
+ },
+ "synopsis": {
+  "setup": "The speaker is a father, talking to his son as “you”. (One source says Day Lewis wrote it for his eldest son.) He looks back to a day <q>“eighteen years ago”</q>. The poem moves from memory (stanzas 1–2) to thinking about what it means (stanzas 3–4).",
+  "steps": [
+   {
+    "lines": "Lines 1–5",
+    "text": "Nearly eighteen years ago to the day, on a sunny autumn day, the father watched his son play his <q>“first game of football”</q>. Afterwards the boy drifted off, like a satellite pulled out of its orbit."
+   },
+   {
+    "lines": "Lines 6–10",
+    "text": "The father can still see him walking away towards the school behind a group of boys. He looked like a baby bird let out too early into the wild, walking like someone who <q>“finds no path”</q>."
+   },
+   {
+    "lines": "Lines 11–15",
+    "text": "The unsure little figure drifted away like a seed blown from its plant. The father feels it says something he can’t quite put into words: about how nature gives and takes, and how hard experiences shape an unformed child, like fire hardening clay."
+   },
+   {
+    "lines": "Lines 16–18",
+    "text": "He admits he has had worse partings, but none that still <q>“Gnaws at my mind”</q> like this. Perhaps the moment roughly shows something only God could show perfectly."
+   },
+   {
+    "lines": "Lines 19–20",
+    "text": "The lesson: you become your own person (<q>“selfhood”</q>) by walking away, and a parent proves their love by letting go."
+   }
+  ],
+  "turn": "<b>The turning point (line 11):</b> <q>“That hesitant figure”</q>. The first two stanzas describe what he saw; from stanza 3 the father starts to ask what the moment means.",
+  "ending": "<b>How it ends:</b> with a calm, wise saying: <q>“love is proved in the letting go.”</q> The pain is not gone, but the father understands it. Letting go is not a lack of love; it is the proof of love.",
+  "tone": "<b>The tone:</b> tender, sad and thoughtful. AQA’s 2017 mark scheme speaks of the “sadness of the parent in ‘Walking Away’”. By the end the sadness turns into acceptance."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–5",
+   "text": "<mark>eighteen years ago, almost to the day</mark> … <mark>like a satellite</mark> … <mark>go drifting away</mark>",
+   "note": "The exact time (“almost to the day”) shows the memory is still sharp. Autumn leaves are “just turning” and the pitch lines are freshly painted (“new-ruled”): a new season and a new start. After his first match, the boy drifts away like a satellite torn out of its orbit around the father."
+  },
+  {
+   "lines": "6–10",
+   "text": "<mark>You walking away from me</mark> … <mark>the pathos of a half-fledged thing set free</mark>",
+   "note": "The father still pictures the boy walking off towards the school behind a “scatter of boys”. “Pathos” means something that makes you feel pity. “Half-fledged” means a young bird whose flight feathers have not fully grown: set free too soon into a “wilderness”, where he can’t find the path."
+  },
+  {
+   "lines": "11–15",
+   "text": "<mark>Like a winged seed loosened from its parent stem,</mark> … <mark>fire one’s irresolute clay</mark>",
+   "note": "The boy is like a sycamore seed spinning away from its tree: natural, but also a parting. The father struggles to put the lesson into words. Hard experiences (“Ordeals”) are like a kiln’s fire hardening soft, unformed clay: they shape who we become."
+  },
+  {
+   "lines": "16–20",
+   "text": "<mark>Gnaws at my mind still.</mark> … <mark>How selfhood begins with a walking away,</mark> … <mark>love is proved in the letting go.</mark>",
+   "note": "He has had worse goodbyes, but this one still “Gnaws” at him, like an animal chewing. He suggests only God could explain it perfectly. The last two lines give the lesson: becoming yourself starts with walking away, and love is shown by letting go."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINES 4–5",
+   "q": "like a satellite / Wrenched from its orbit",
+   "means": "the boy leaves his father’s side like a satellite torn out of its path round a planet.",
+   "why": "the father is the planet the child used to circle. “Wrenched” is violent: the parting feels sudden and painful, even though the boy is only <q>“drifting”</q> off.",
+   "tech": "simile; violent verb “Wrenched” set against gentle “drifting”"
+  },
+  {
+   "line": "LINE 8",
+   "q": "the pathos of a half-fledged thing set free",
+   "means": "the boy looked pitiful, like a young bird let out before its feathers have grown.",
+   "why": "“half-fledged” shows the father thinks his son is not ready. “set free” sounds positive, but the next words are “Into a wilderness”: freedom is also danger.",
+   "tech": "metaphor (bird imagery); oxymoron-like contrast of freedom and vulnerability"
+  },
+  {
+   "line": "LINE 10",
+   "q": "Who finds no path where the path should be.",
+   "means": "the boy walks as if he is lost, with no clear way forward.",
+   "why": "it shows the child’s uncertainty, and the father’s worry. The repeated “path” makes the missing guidance stand out: the father can’t walk it for him.",
+   "tech": "repetition; symbolism (the path of life)"
+  },
+  {
+   "line": "LINE 12",
+   "q": "Like a winged seed loosened from its parent stem,",
+   "means": "the boy floats away like a sycamore seed falling from its tree.",
+   "why": "the seed must leave the tree to grow into a new tree. So leaving is natural and necessary, even if it hurts. “parent” makes the link to the father clear.",
+   "tech": "simile; nature imagery"
+  },
+  {
+   "line": "LINE 15",
+   "q": "Ordeals which fire one’s irresolute clay.",
+   "means": "hard experiences shape and strengthen a person who is still soft and unformed.",
+   "why": "clay is hardened in a kiln’s fire to make something lasting. The father accepts that his son must face hard times to become strong.",
+   "tech": "metaphor (pottery)"
+  },
+  {
+   "line": "LINES 16–17",
+   "q": "none that so / Gnaws at my mind still.",
+   "means": "no other goodbye still troubles him as much as this one.",
+   "why": "“Gnaws” suggests an animal chewing: a slow, constant pain that eighteen years have not healed. It shows how deeply a parent feels a small moment.",
+   "tech": "metaphor; enjambment (the line breaks before “Gnaws”, so the word hits hard)"
+  },
+  {
+   "line": "LINE 20",
+   "q": "And love is proved in the letting go.",
+   "means": "a parent shows real love by allowing a child to leave.",
+   "why": "the poem’s final lesson, said like a proverb. It turns sadness into acceptance: letting go is not losing love, it proves it.",
+   "tech": "aphorism (a short, wise saying); alliteration of “l”"
+  }
+ ],
+ "form": {
+  "heading": "The form: four neat stanzas holding back strong feelings",
+  "explain": [
+   "The poem has 20 lines in four stanzas of five lines each. A five-line stanza is sometimes called a <b>quintain</b>. <span class=\"care\">our count</span>",
+   "Each stanza rhymes <b>ABACA</b>: lines 1, 3 and 5 rhyme, and lines 2 and 4 do not. For example, <q>“see”</q> / <q>“free”</q> / <q>“be.”</q> in stanza 2. <span class=\"care\">our check of the anthology text</span>",
+   "A regular, repeated pattern like this can make a poem feel controlled and calm. <span class=\"care\">our reading</span>"
+  ],
+  "this_poem": [
+   "<b>Control over feeling:</b> the father is in pain, but he speaks in a careful, ordered pattern. The form shows an adult trying to make sense of a hurt, not just pouring it out. <span class=\"care\">our reading</span>",
+   "<b>“away” keeps coming back:</b> the rhyme word <q>“away”</q> ends lines 5, 11 and 19. The boy keeps leaving, all through the poem, just as the memory keeps returning. <span class=\"care\">our reading</span>",
+   "<b>Running on:</b> stanza 1 does not stop at its end: the boy goes <q>“drifting away”</q> straight on into stanza 2. The sentence drifts across the gap, like the boy drifting off. <span class=\"care\">our reading</span>",
+   "<b>Memory, then meaning:</b> stanzas 1–2 describe the scene; stanzas 3–4 think about it. The poem ends on a rhyming, proverb-like line (<q>“show”</q> / <q>“go.”</q>), so the lesson lands with a sense of completion.",
+   "<b>Why it matters:</b> the steady form lets the father turn one painful memory into a calm truth about all parents and children."
+  ],
+  "say": "A sentence you could use: Day Lewis uses four regular five-line stanzas with an ABACA rhyme, so the father’s pain is held in a calm, controlled shape; the rhyme word “away” returns again and again, just as the memory of his son leaving still “Gnaws” at him."
+ },
+ "methods": [
+  {
+   "title": "Images of leaving orbit and flight",
+   "text": "The son is a <q>“satellite”</q> <q>“Wrenched from its orbit”</q>, then a <q>“half-fledged thing set free”</q>. The father is the centre the child used to circle; now the child is flying off into a <q>“wilderness”</q>.",
+   "term": "Simile",
+   "def": "a comparison using “like” or “as” (here, “like a satellite”)."
+  },
+  {
+   "title": "Nature imagery",
+   "text": "Autumn <q>“leaves just turning”</q>, a young bird, a <q>“winged seed”</q> blown from its <q>“parent stem”</q>: nature makes the parting feel natural, part of a cycle. AQA’s mark scheme for the Nov 2020 Walking Away question lists “imagery of the natural world” as a method worth comparing (its examples are other poems).",
+   "term": "Imagery",
+   "def": "descriptive language that creates a picture in the reader’s mind."
+  },
+  {
+   "title": "The fire and the clay",
+   "text": "<q>“Ordeals which fire one’s irresolute clay.”</q> Clay is soft until it is fired in a kiln. The father accepts that hard experiences, like that lonely walk, are what shape his son into a strong, finished person.",
+   "term": "Metaphor",
+   "def": "describing something as if it were something else, without “like” or “as”."
+  },
+  {
+   "title": "Speaking to “you”, then to everyone",
+   "text": "The father speaks straight to his son (<q>“I watched you play”</q>), which makes it personal. The ending switches to general truths with no “I” or “you”: <q>“love is proved in the letting go.”</q> One memory becomes a lesson for every parent.",
+   "term": "Direct address",
+   "def": "when a poem speaks straight to a person, using “you”."
+  }
+ ],
+ "warn": "Examiners warn: keep this poem for family or growing-up questions. When the question was about romantic relationships (November 2021), AQA’s report said “Mother any distance and Walking Away were not really appropriate choices and comparison was difficult to address.” When Walking Away was printed (November 2020), the report noted “a distinct lack of range” in second poems.",
+ "context": {
+  "timeline": [
+   {
+    "date": "1904",
+    "text": "Day Lewis born in Ireland, son of a clergyman"
+   },
+   {
+    "date": "c.1908",
+    "text": "His mother dies when he is four; he is looked after by his father and an aunt",
+    "care": "one source"
+   },
+   {
+    "date": "1917–1923",
+    "text": "Boards at Sherborne School, Dorset, from age 13",
+    "care": "dates: one source"
+   },
+   {
+    "date": "1928",
+    "text": "Marries Mary King (his first marriage)",
+    "care": "one source"
+   },
+   {
+    "date": "1957",
+    "text": "Sputnik 1, the first artificial satellite, is launched (general background)",
+    "care": "one source; any link to the poem is our reading"
+   },
+   {
+    "date": "1962",
+    "text": "Walking Away published in The Gate and Other Poems (Jonathan Cape)",
+    "hi": true
+   },
+   {
+    "date": "1968",
+    "text": "Becomes Poet Laureate"
+   },
+   {
+    "date": "1972",
+    "text": "Dies; buried near Thomas Hardy’s grave"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Day Lewis was",
+    "items": [
+     {
+      "text": "Born in Ireland in 1904, “the son of a Church of Ireland minister”. He was educated at Oxford.",
+      "src": "Britannica; Poetry Archive",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "His mother died “when Cecil was four years old”. He was looked after by his father, “with whom he had a difficult relationship”, and by an aunt. So he knew from childhood what losing a parent meant.",
+      "src": "Poetry Archive (Old Shirburnian Society also mentions his mother’s death)",
+      "use": "family · loss",
+      "care": "one source for the details"
+     },
+     {
+      "text": "In the 1930s he was one of a group of left-wing poets around W.H. Auden. He joined the Communist Party but left it in 1938. He also wrote popular detective novels as “Nicholas Blake”.",
+      "src": "Britannica; Poetry Archive",
+      "use": "",
+      "care": "year he left: one source"
+     },
+     {
+      "text": "He became Poet Laureate (the national poet) in 1968 and held the post until he died in 1972. He was buried near the grave of Thomas Hardy.",
+      "src": "Britannica; Poetry Archive (burial: one source)",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "The father and the son",
+    "items": [
+     {
+      "text": "A critic calls it a “poem for Day-Lewis’s eldest son Sean” and “one of his most popular and widely anthologized poems”.",
+      "src": "Agenda poetry journal (University of St Andrews site)",
+      "use": "family",
+      "care": "one source"
+     },
+     {
+      "text": "Day Lewis married Mary King in 1928. After their divorce he married the actress Jill Balcon in 1951.",
+      "src": "Old Shirburnian Society",
+      "use": "family",
+      "care": "one source"
+     },
+     {
+      "text": "The same critic says the poem turns “a seemingly casual and inconsequential moment” into “a gentle and wistful reflection on love’s attachments and detachments”.",
+      "src": "Agenda poetry journal",
+      "use": "memory · family",
+      "care": "one critic"
+     },
+     {
+      "text": "No reliable source dates the football game. The poem itself says only <q>“eighteen years ago”</q>, so don’t give a year in the exam.",
+      "src": "AQA anthology",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "Schools and leaving home",
+    "items": [
+     {
+      "text": "Day Lewis himself was sent away to board at Sherborne School in 1917, aged 13. The Poetry Archive says he “escaped his father” by going there.",
+      "src": "Old Shirburnian Society; Poetry Archive",
+      "use": "growing up · separation",
+      "care": "year: one source"
+     },
+     {
+      "text": "He worked as a teacher, including at a prep school (for younger boys) in Oxford and at Cheltenham College. So he knew school life from the inside.",
+      "src": "Old Shirburnian Society; Poetry Archive (“teaching in a private school”)",
+      "use": "growing up",
+      "care": "list of schools: one source"
+     },
+     {
+      "text": "In 1947 he and Mary took their son Nicholas to board at Sherborne, “like his father before him”. Leaving a son at school was part of this family’s life.",
+      "src": "Old Shirburnian Society",
+      "use": "separation · family",
+      "care": "one source; Nicholas is not the son in the poem"
+     },
+     {
+      "text": "So the father in the poem may understand both sides: the boy walking into a strange new world, and the parent left behind. That double view could explain why the moment still “Gnaws” at him.",
+      "src": "Poetry Archive; Old Shirburnian Society (facts)",
+      "use": "family · growing up",
+      "care": "our reading"
+     }
+    ]
+   },
+   {
+    "title": "The poem and its time",
+    "items": [
+     {
+      "text": "“Walking Away” appeared in <i>The Gate and Other Poems</i>, published by Jonathan Cape in London in 1962. AQA’s anthology credits this book.",
+      "src": "Eton College Library catalogue; Agenda; AQA anthology",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Sputnik 1 was the first of a series of Soviet “artificial Earth satellites”. Its launch on 4 October 1957 “inaugurated the space age.”",
+      "src": "Britannica",
+      "use": "",
+      "care": "one source"
+     },
+     {
+      "text": "So the poem was published in the early years of the space age, when satellites were in the news. Day Lewis compares the boy to a <q>“satellite”</q> spinning off beyond his father’s reach. Any link to Sputnik is our idea, not something the poet said.",
+      "src": "Britannica (date)",
+      "use": "separation · growing up",
+      "care": "our reading (we do not know exactly when he wrote the poem)"
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Day Lewis lost his mother when he was a young child and was sent away to boarding school at 13, so he knew what separation from a parent felt like. Writing as a father for his eldest son, Sean, he turns one small moment of a child walking away into a lesson every parent must learn: love means letting go. <span class=\"care\">“for his eldest son”: one source</span>"
+ },
+ "comparisons": [
+  {
+   "partner": "Mother, any distance",
+   "use_for": [
+    "Family (parent and child)",
+    "Growing up",
+    "Separation and distance"
+   ],
+   "aqa": "AQA: Nov 2020 and 2023 mark schemes (“parental view in ‘Walking Away’ compared with view of child in ‘Mother, Any Distance’”); Nov 2020 report (“many using ‘Mother, any distance’”)",
+   "similar": [
+    "Both show a child leaving a parent as a journey into space: the son <q>“like a satellite”</q> <q>“Wrenched from its orbit”</q>; Armitage’s son says <q>“I space-walk”</q>.",
+    "Both use images of flight for growing up: a <q>“half-fledged thing set free”</q>; Armitage’s <q>“Anchor. Kite.”</q> and <q>“to fall or fly.”</q>",
+    "Both say that letting go is part of love: <q>“love is proved in the letting go.”</q> Armitage’s mother is still learning this: her <q>“fingertips still pinch”</q>."
+   ],
+   "different": [
+    "<b>Point of view:</b> Walking Away is the parent’s view, looking back eighteen years. Mother, any distance is the child’s view, in the present tense.",
+    "<b>Age:</b> Day Lewis’s son is a small boy at school. Armitage’s speaker is a young adult moving into his own home.",
+    "<b>Ending:</b> Day Lewis reaches a calm lesson: <q>“How selfhood begins with a walking away,”</q>. Armitage stops on an open choice: <q>“to fall or fly.”</q>"
+   ]
+  },
+  {
+   "partner": "Follower",
+   "use_for": [
+    "Family (parent and child)",
+    "Growing up",
+    "Memory"
+   ],
+   "aqa": "AQA: specimen mark scheme (“contrast between view of child and view of parent in ‘Walking Away’”); 2017 (“that of the child in ‘Follower’, or that of the parent in ‘Walking Away’”), Nov 2020 and 2023 mark schemes",
+   "similar": [
+    "Both look back on a childhood moment years later: <q>“It is eighteen years ago”</q>; Heaney’s past tense, then <q>“But today”</q>.",
+    "Both end on a feeling that stays: the memory <q>“Gnaws at my mind still.”</q>; the father <q>“will not go away.”</q>",
+    "Both use nature for growing up: a <q>“winged seed loosened from its parent stem,”</q>; the boy in the ploughed field, <q>“In his broad shadow”</q>."
+   ],
+   "different": [
+    "<b>Point of view:</b> Day Lewis is the parent watching a child leave; Heaney is the child who admired his father: <q>“An expert.”</q>",
+    "<b>Who leaves whom:</b> Day Lewis’s son walks away from him. Heaney’s old father follows behind the son: <q>“my father who keeps stumbling”</q>.",
+    "<b>Ending:</b> Day Lewis ends with a wise lesson. Heaney ends with no lesson, just an uneasy image. <span class=\"care\">our reading</span>"
+   ]
+  },
+  {
+   "partner": "Before You Were Mine",
+   "use_for": [
+    "Family (parent and child)",
+    "Memory",
+    "Time"
+   ],
+   "aqa": "AQA: Nov 2020 mark scheme (“view of child in … ‘Before You Were Mine’”); 2025 mark scheme (“the child in ‘Before You Were Mine’ and the adult in ‘Walking Away’”); Nov 2020 report: most students used Mother, any distance or Before You Were Mine",
+   "similar": [
+    "Both look back across time at a family member: <q>“eighteen years ago”</q>; Duffy is <q>“ten years away”</q> from her mother’s youth.",
+    "Both speak straight to the family member as “you”: <q>“I watched you play”</q>; <q>“I see you, clear as scent”</q>.",
+    "Both are about a person becoming themselves, separate from the family: <q>“selfhood begins with a walking away,”</q>; the young mother who would dance and stay out late."
+   ],
+   "different": [
+    "<b>Point of view:</b> Day Lewis is the parent remembering the child; Duffy is the child imagining the parent before she was born.",
+    "<b>Possession:</b> Day Lewis learns to let go. Duffy’s title and her <q>“loud, possessive yell”</q> show a child who took over her mother’s life.",
+    "<b>Tone:</b> Walking Away is sad and thoughtful; Before You Were Mine is lively and glamorous: <q>“Cha cha cha!”</q>"
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present family relationships in ‘Walking Away’ and in one other poem from ‘Love and relationships’. (This is AQA’s real November 2020 question.)",
+  "thesis": "Both Day Lewis and Armitage present a family relationship stretched by a child’s need for independence, but Day Lewis writes as a parent who has learned to let go, while Armitage’s child is still pulling away from a mother who holds on.",
+  "para": "Both poets present a child leaving a parent as a journey into space. Day Lewis’s son goes <q>“like a satellite / Wrenched from its orbit”</q>, and the violent verb “Wrenched” shows how painful the parting feels to the father. Armitage’s son also leaves the parent’s world: <q>“I space-walk”</q>, linked to his mother only by the tape measure. Yet their perspectives differ. Day Lewis is the parent, looking back eighteen years, and he ends with a calm aphorism: <q>“love is proved in the letting go.”</q> Armitage is the child in the present, and his mother cannot yet let go: her <q>“fingertips still pinch”</q>. So Day Lewis presents letting go as the proof of love, while Armitage shows it as an unfinished struggle.",
+  "why": [
+   "The thesis answers the question (family relationships) and gives a clear difference in one sentence",
+   "Short quotations from both poems, with methods named (verb choice, aphorism) and their effects explained",
+   "Uses AQA’s own idea of comparing the “parental view in ‘Walking Away’” with the “view of child in ‘Mother, Any Distance’”"
+  ]
+ }
+}

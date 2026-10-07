@@ -1,0 +1,455 @@
+{
+ "num": 4,
+ "slug": "the-farmers-bride",
+ "title": "The Farmer’s Bride",
+ "poet": "Charlotte Mew",
+ "poet_dates": "1869–1928",
+ "published": "first printed in The Nation, 1912 or 1913; in Mew’s first book, 1916",
+ "group": "Romantic love",
+ "anchor": false,
+ "copyright": false,
+ "facts": {
+  "type": "Dramatic monologue (46 lines, six uneven stanzas, irregular rhyme)",
+  "exam": "Yes: printed in November 2021 (“strong feelings in romantic relationships”); also a suggested partner in the 2017, 2018, 2019, 2022 and 2024 mark schemes",
+  "partner": "Porphyria's Lover (your anchor); Neutral Tones also works well"
+ },
+ "themes": [
+  {
+   "name": "Romantic love",
+   "aqa": true,
+   "src": "AQA Nov 2021 question (“strong feelings in romantic relationships”); 2018 mark scheme (“the more cynical presentation of love”)"
+  },
+  {
+   "name": "Power and control",
+   "aqa": false,
+   "src": "our reading (AQA’s Nov 2021 mark scheme for this poem’s question mentions “ideas about control/repression”, and the examiners’ report mentions “gender issues”, but neither names the poem with this idea)"
+  },
+  {
+   "name": "Nature",
+   "aqa": true,
+   "src": "AQA 2022 and 2024 mark schemes (“nature imagery in ‘The Farmer’s Bride’”)"
+  },
+  {
+   "name": "Identity",
+   "aqa": true,
+   "src": "AQA 2018 mark scheme (“ideas about individuality and acceptance, possibly compared with ‘The Farmer’s Bride’”)"
+  },
+  {
+   "name": "Desire",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Possession",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A farmer tells how he married a very young girl three years ago. She became terrified of him and ran away. The men of the village hunted her down and locked her in. Now she lives in his house but will not let him near her, and he longs for her.",
+  "message": "A marriage without love or understanding traps both people. She has no voice and no way out; he has power over her but cannot make her love him, and his desire is building.",
+  "why": "Charlotte Mew was an English poet known for dramatic monologues. This poem was first printed in the magazine <i>The Nation</i> in 1912 or 1913 (sources disagree), then gave its name to her first book (1916). <span class=\"src\">EBSCO; Britannica; Representative Poetry Online (University of Toronto)</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "She is never named. The title calls her only <b>“The Farmer’s Bride”</b>: the apostrophe shows she belongs to him. <span class=\"care\">our reading</span> She is still a <b>bride</b>, not a wife, three years on. One critic says the last stanza implies “they are not sexually intimate”. <span class=\"care\">one source</span> So the marriage has never really begun. <span class=\"care\">our reading</span>",
+  "src": "EBSCO (Sandra J. Holstein)"
+ },
+ "synopsis": {
+  "setup": "The whole poem is spoken by the farmer, in his country dialect. He tells the story in the past tense, then switches to the present. His bride never gets to tell her side.",
+  "steps": [
+   {
+    "lines": "Lines 1–3",
+    "text": "Three summers ago he <q>“chose a maid”</q>, perhaps <q>“Too young”</q>. He was too busy with the harvest to <q>“bide and woo”</q> (wait and court her)."
+   },
+   {
+    "lines": "Lines 4–9",
+    "text": "After the wedding she became <q>“afraid / Of love and me and all things human”</q>. Her smile went out like a winter day ending. One autumn night <q>“she runned away.”</q>"
+   },
+   {
+    "lines": "Lines 10–19",
+    "text": "Villagers say she is out among the sheep. The men chase her across the fields by lantern-light, <q>“flying like a hare”</q>. They catch her, bring her home and lock her in: <q>“turned the key upon her, fast.”</q>"
+   },
+   {
+    "lines": "Lines 20–29",
+    "text": "Now (present tense) she does the housework <q>“like a mouse”</q>. She is happy with birds and animals, as long as men keep away. Her eyes beg <q>“Not near, not near!”</q> He has <q>“hardly heard her speak at all.”</q>"
+   },
+   {
+    "lines": "Lines 30–33",
+    "text": "He describes her beauty with nature similes: a young hare, a larch tree, violets. She is sweet <q>“To her wild self. But what to me?”</q>"
+   },
+   {
+    "lines": "Lines 34–41",
+    "text": "Winter closes in: brown oaks, a grey sky, frost. Christmas is coming, and he wishes there were <q>“Some other in the house than we!”</q> (a child)."
+   },
+   {
+    "lines": "Lines 42–46",
+    "text": "She sleeps alone in the attic. <q>“’Tis but a stair / Betwixt us.”</q> His desire bursts out: <q>“Oh! my God!”</q> He ends repeating <q>“her eyes, her hair, her hair!”</q>"
+   }
+  ],
+  "turn": "<b>The turning point (line 20):</b> <q>“She does the work about the house”</q>. The poem moves from past to present tense. The chase is over, but the story is not: she is trapped, and he is stuck waiting just below her.",
+  "ending": "Nothing is solved. Only a stair separates them, and his broken, exclamatory last lines suggest his desire is close to breaking out. The poem stops on that tension, which is what makes it so uneasy.",
+  "tone": "Plain and matter-of-fact at first, almost puzzled. It grows lonelier and more frustrated, ending in a rush of desperate longing."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam. The line numbers match the AQA anthology. Watch the tense: stanzas 1–2 are the past, stanzas 3–6 the present.",
+ "poem_blocks": [
+  {
+   "lines": "1–3",
+   "text": "<mark>Three Summers since I chose a maid,</mark><br><mark>Too young maybe</mark> – but more’s to do<br>At harvest-time than <mark>bide and woo.</mark>",
+   "note": "Three years ago he <b>“chose”</b> a girl (<b>“maid”</b>), as if picking something at market. He half-admits she was <b>“Too young”</b>, but brushes it aside: the harvest mattered more than taking time to court her."
+  },
+  {
+   "lines": "4–9",
+   "text": "When us was wed she <mark>turned afraid</mark><br><mark>Of love and me and all things human;</mark><br>Like the shut of a winter’s day<br><mark>Her smile went out</mark>, and ’twasn’t a woman –<br>More like a <mark>little frightened fay.</mark><br>One night, in the Fall, <mark>she runned away.</mark>",
+   "note": "Once married, she became afraid of love, of him, of all people. Her smile went out like a short winter day. To him she seemed not a woman but a scared <b>“fay”</b> (fairy). One autumn (<b>“Fall”</b>) night she ran away. Notice the dialect: <b>“us was wed”</b>, <b>“runned”</b>."
+  },
+  {
+   "lines": "10–13",
+   "text": "‘Out ’mong the sheep, her be,’ they said,<br>Should properly have been abed;<br>But sure enough she wasn’t there<br>Lying awake with her <mark>wide brown stare.</mark>",
+   "note": "People say she is out among the sheep, though she should be in bed. She was not there, where she would usually be lying awake, staring with wide eyes like a frightened animal."
+  },
+  {
+   "lines": "14–19",
+   "text": "So over seven-acre field and up-along across the down<br><mark>We chased her, flying like a hare</mark><br>Before our lanterns. To Church-Town<br><mark>All in a shiver and a scare</mark><br><mark>We caught her, fetched her home at last</mark><br><mark>And turned the key upon her, fast.</mark>",
+   "note": "The men chase her across the fields and hills (<b>“the down”</b>) like hunters after a <b>“hare”</b>. Note <b>“We”</b>: a group of men against one terrified girl. They catch her and lock her in. <b>“fast”</b> means both quickly and firmly shut."
+  },
+  {
+   "lines": "20–29",
+   "text": "<mark>She does the work about the house</mark><br>As well as most, but <mark>like a mouse:</mark><br>Happy enough to chat and play<br>With birds and rabbits and such as they,<br><mark>So long as men-folk keep away.</mark><br><mark>‘Not near, not near!’ her eyes beseech</mark><br>When one of us comes within reach.<br>The women say that beasts in stall<br>Look round like children at her call.<br><mark>I’ve hardly heard her speak at all.</mark>",
+   "note": "Present tense now. She does the housework, quiet as a mouse. She is happy with animals, but her eyes plead (<b>“beseech”</b>) with any man who comes close. Animals respond to her call like children, yet her husband has <b>“hardly heard her speak”</b>."
+  },
+  {
+   "lines": "30–33",
+   "text": "<mark>Shy as a leveret, swift as he,</mark><br><mark>Straight and slight as a young larch tree,</mark><br><mark>Sweet as the first wild violets</mark>, she,<br><mark>To her wild self. But what to me?</mark>",
+   "note": "A burst of similes for her beauty: a <b>“leveret”</b> (baby hare), a slim young tree, spring flowers. All are young and wild. Then a short, bitter question: she is sweet to herself, but what is she to him?"
+  },
+  {
+   "lines": "34–41",
+   "text": "<mark>The short days shorten and the oaks are brown,</mark><br>The blue smoke rises to the <mark>low grey sky,</mark><br><mark>One leaf in the still air falls slowly down,</mark><br>A magpie’s spotted feathers lie<br>On the black earth spread white with rime,<br>The berries redden up to Christmas-time.<br>What’s Christmas-time without there be<br><mark>Some other in the house than we!</mark>",
+   "note": "Winter: short days, grey sky, frost (<b>“rime”</b>), a single falling leaf. The dying year matches his lonely marriage. At Christmas, a family time, he wishes for <b>“Some other”</b> in the house: a child."
+  },
+  {
+   "lines": "42–46",
+   "text": "<mark>She sleeps up in the attic there</mark><br><mark>Alone, poor maid. ’Tis but a stair</mark><br><mark>Betwixt us. Oh! my God!</mark> the down,<br><mark>The soft young down of her</mark>, the brown,<br>The brown of her – <mark>her eyes, her hair, her hair!</mark>",
+   "note": "She sleeps alone in the attic, and only a stair is <b>“Betwixt”</b> (between) them. He breaks out: <b>“Oh! my God!”</b> He fixes on her <b>“down”</b> (soft, fine hair, like a young bird’s) and her brown eyes and hair. The repetitions and exclamations show desire he can barely control."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "Three Summers since I chose a maid,",
+   "means": "three years ago I picked a girl to marry.",
+   "why": "“chose” makes marriage his decision alone, like choosing livestock; she has no say from the very first line."
+  },
+  {
+   "line": "LINE 19",
+   "q": "And turned the key upon her, fast.",
+   "means": "we locked her in, securely.",
+   "tech": "double meaning: “fast” means quickly and firmly; the rhyme with “at last” clicks shut like the lock."
+  },
+  {
+   "line": "LINE 21",
+   "q": "As well as most, but like a mouse:",
+   "means": "she works hard but timidly and silently.",
+   "tech": "simile (one of the two similes AQA examiners singled out): she is small, quiet prey in her own home."
+  },
+  {
+   "line": "LINE 29",
+   "q": "I’ve hardly heard her speak at all.",
+   "means": "she almost never talks to me.",
+   "why": "she has no voice in the marriage or in the poem; he tells us this without asking why."
+  },
+  {
+   "line": "LINE 30",
+   "q": "Shy as a leveret, swift as he,",
+   "means": "as shy and quick as a baby hare.",
+   "tech": "simile (one of the two similes AQA examiners singled out): she is young, wild and ready to flee, like the “hare” he hunted."
+  },
+  {
+   "line": "LINES 43–44",
+   "q": "’Tis but a stair / Betwixt us.",
+   "means": "only one staircase separates us.",
+   "why": "she is physically close but emotionally out of reach; it hints at how easily he could cross that line."
+  },
+  {
+   "line": "LINE 46",
+   "q": "The brown of her – her eyes, her hair, her hair!",
+   "means": "he fixates on her eyes and hair.",
+   "tech": "repetition and exclamation: the rhythm breaks down as his desire builds (the examiners’ “mounting tension and frustration”)."
+  }
+ ],
+ "form": {
+  "heading": "The form: a dramatic monologue in a farmer’s voice",
+  "explain": [
+   "A <b>dramatic monologue</b> is a poem spoken by one character who is <b>not the poet</b>, at a critical moment. The speaker reveals more about himself than he means to. <span class=\"src\">Baylor University (M. H. Abrams)</span>",
+   "This poem is classed as a dramatic monologue, and Mew was known for them. <span class=\"src\">EBSCO; Representative Poetry Online (University of Toronto)</span>",
+   "Mew’s first book was praised for its “natural, direct language, including Wessex country dialect” (Wessex = Hardy’s name for south-west England). <span class=\"src\">Britannica</span> <span class=\"care\">one source</span>"
+  ],
+  "this_poem": [
+   "<b>His voice, his words:</b> dialect such as <q>“When us was wed”</q>, <q>“she runned away”</q> and <q>“’Tis”</q> makes him a real, uneducated countryman. One critic notes “the uneducated diction and expected roughness of the taciturn, working-class, male farmer”. <span class=\"src\">EBSCO</span>",
+   "<b>Past to present:</b> the first two stanzas are in the past tense; the last four shift to the present. <span class=\"src\">EBSCO</span> The story is not over: he is still living it. <span class=\"care\">our reading</span>",
+   "<b>Uneven stanzas:</b> 9, 10, 10, 4, 8 and 5 lines. The rhyme is irregular too (<b>maid / afraid</b>, <b>day / fay / away</b>, <b>house / mouse</b>). <span class=\"src\">our count</span> The form feels unsettled, like the marriage. <span class=\"care\">our reading</span>",
+   "<b>The longest line is the chase:</b> <q>“So over seven-acre field and up-along across the down”</q> (line 14) stretches out like the hunt itself. <span class=\"care\">our reading</span>",
+   "<b>The last stanza breaks apart:</b> <q>“Oh! my God!”</q>, dashes and repeated words. AQA examiners said better answers commented on “the mounting tension and frustration of the last verse”. <span class=\"src\">AQA Nov 2021 examiners' report</span>",
+   "AQA’s mark scheme for this poem suggests comparing “the use of first person to present a particular view of reality/self, eg with ‘Porphyria’s Lover’”. <span class=\"src\">AQA Nov 2021 mark scheme</span>"
+  ],
+  "say": "A sentence you could use: Mew uses a dramatic monologue so that we hear only the farmer, in his own plain dialect; the bride’s silence is built into the form, and his calm account of hunting and locking her up reveals more than he realises."
+ },
+ "methods": [
+  {
+   "title": "Woman as hunted animal",
+   "text": "She is <q>“flying like a hare”</q>, <q>“like a mouse”</q> and <q>“Shy as a leveret”</q>. He loves her beauty, but every comparison makes her small, wild prey, and him the hunter.",
+   "term": "Simile",
+   "def": "a comparison using “like” or “as”."
+  },
+  {
+   "title": "A silenced woman",
+   "text": "Only one of her ‘lines’ appears, and it is spoken by her eyes: <q>“‘Not near, not near!’ her eyes beseech”</q>. He admits <q>“I’ve hardly heard her speak at all.”</q> We have to guess her feelings from his account.",
+   "term": "First-person narrator",
+   "def": "the story is told by a character using “I”, so we see only his view."
+  },
+  {
+   "title": "Seasons that mirror the marriage",
+   "text": "He chose her in <q>“Summers”</q>; she ran away <q>“in the Fall”</q>; now <q>“The short days shorten”</q> under a <q>“low grey sky”</q>. The year dies as hope for the marriage fades.",
+   "term": "Pathetic fallacy",
+   "def": "when the weather or nature reflects a character’s feelings."
+  },
+  {
+   "title": "Desire breaking through",
+   "text": "The final lines repeat words (<q>“the down, / The soft young down of her”</q>, <q>“her hair, her hair!”</q>) and pile up exclamations. His controlled voice gives way to longing he cannot hide.",
+   "term": "Repetition and exclamation",
+   "def": "repeating words and using “!” to show rising emotion."
+  }
+ ],
+ "warn": "Examiners noted: “Most comments were in response to the first thirty lines of the poem, however better answers were able to recognise and comment on the mounting tension and frustration of the last verse.” They also said “the opportunity to address gender issues as a way to access AO3 was sadly often missed.” So: write about lines 42–46, and about a man’s power over a woman. <span class=\"src\">AQA Nov 2021 examiners' report</span>",
+ "context": {
+  "timeline": [
+   {
+    "date": "1869",
+    "text": "Charlotte Mew born in London"
+   },
+   {
+    "date": "1912 or 1913",
+    "text": "“The Farmer’s Bride” printed in the magazine <i>The Nation</i>",
+    "hi": true,
+    "care": "sources disagree: three say 1912, poets.org says March 1913"
+   },
+   {
+    "date": "By 1914",
+    "text": "Militant campaign for women’s votes at its peak: window-smashing and arson"
+   },
+   {
+    "date": "1916",
+    "text": "Her first book, <i>The Farmer’s Bride</i>, published by Harold Monro’s Poetry Bookshop"
+   },
+   {
+    "date": "1918",
+    "text": "Women over 30 who meet a property qualification get the vote"
+   },
+   {
+    "date": "1921",
+    "text": "New edition of <i>The Farmer’s Bride</i> with eleven new poems"
+   },
+   {
+    "date": "1928",
+    "text": "Mew dies in London; the same year women get the vote on equal terms with men"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Mew was",
+    "items": [
+     {
+      "text": "An English poet (1869–1928) whose work “spanned the Victorian and modernist periods” and is “notable for its rich dramatic monologues”.",
+      "src": "Representative Poetry Online (University of Toronto); Britannica",
+      "use": "form",
+      "care": ""
+     },
+     {
+      "text": "Her family life was hard: three brothers died young, and a brother and a sister were committed to mental hospitals.",
+      "src": "Britannica; EBSCO",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "She and her sister Anne vowed not to have children (one source says never to marry), fearing a family illness. A poet who chose not to marry wrote a poem about a marriage that should never have happened.",
+      "src": "Britannica; University of Victoria (DVPP)",
+      "use": "romantic relationships · control",
+      "care": "the link to the poem is our reading"
+     },
+     {
+      "text": "Her poetry “frequently revealed deep sadness, longing, loneliness, and fear”: exactly the feelings of the farmer and his bride.",
+      "src": "EBSCO",
+      "use": "strong feelings",
+      "care": "one source; the link to the farmer and his bride is our reading"
+     }
+    ]
+   },
+   {
+    "title": "How the poem first appeared",
+    "items": [
+     {
+      "text": "First printed in <i>The Nation</i> in 1912 (EBSCO; New York Review of Books) or March 1913 (poets.org). It was this poem that first made readers and writers notice her.",
+      "src": "EBSCO; New York Review of Books; poets.org",
+      "use": "",
+      "care": "sources disagree on the year"
+     },
+     {
+      "text": "It became the title poem of her first book, published in 1916 by Harold Monro’s Poetry Bookshop in London, and reissued with new poems in 1921.",
+      "src": "Representative Poetry Online; poets.org; Britannica; Project Gutenberg (1921 edition)",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Thomas Hardy, author of <b>Neutral Tones</b>, admired her work. The <i>New York Review of Books</i>, quoting Penelope Fitzgerald’s biography of Mew, reports he thought her “far and away the best living woman poet, who will be read when others are forgotten.”",
+      "src": "EBSCO; Representative Poetry Online (Hardy admired her); New York Review of Books, quoting Penelope Fitzgerald (the words)",
+      "use": "comparing with Neutral Tones",
+      "care": "the quotation: one source, reported second-hand"
+     },
+     {
+      "text": "The book was praised for its “natural, direct language, including Wessex country dialect”.",
+      "src": "Britannica",
+      "use": "language · voice",
+      "care": "one source"
+     }
+    ]
+   },
+   {
+    "title": "Women, marriage and power around 1912",
+    "items": [
+     {
+      "text": "When the poem appeared, women could not vote. By 1914 the campaign for votes for women was at its peak, with “the smashing of windows” and “arson attacks”.",
+      "src": "The National Archives; Britannica",
+      "use": "gender · power and control",
+      "care": "link to the poem is our reading"
+     },
+     {
+      "text": "Only in 1918 could women over 30 with property vote; equal voting rights came in 1928, the year Mew died.",
+      "src": "The National Archives; Britannica",
+      "use": "gender",
+      "care": ""
+     },
+     {
+      "text": "Ending a marriage was very hard: even after 1857, couples “were still unable to end a marriage” because of “incompatibility”. That an unhappy bride like this one had no easy way out is our reading.",
+      "src": "The National Archives",
+      "use": "control · romantic relationships",
+      "care": "link to the poem is our reading"
+     },
+     {
+      "text": "So the poem shows a young woman who is chosen, hunted, locked in and silenced, in a world where women had little power (our reading). Mew lets us hear the man, but we pity the woman.",
+      "src": "our reading",
+      "use": "gender · power and control",
+      "care": "our reading"
+     },
+     {
+      "text": "AQA’s mark scheme for this poem suggests AO3 “ideas about control/repression”, and examiners said “gender issues” were a missed chance for AO3.",
+      "src": "AQA Nov 2021 mark scheme and examiners' report",
+      "use": "AO3",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "What critics and examiners say",
+    "items": [
+     {
+      "text": "One critic calls the poem “a narrative about female fear, male bewilderment, and sexual misery.”",
+      "src": "New York Review of Books (Ange Mlinko)",
+      "use": "strong feelings · desire",
+      "care": "one source"
+     },
+     {
+      "text": "Another argues the farmer is “a multilayered, sympathetic character”, but notes “his inability to recognize his wife's reaction to his patriarchal power” (patriarchal = men holding power).",
+      "src": "EBSCO (Sandra J. Holstein)",
+      "use": "power and control",
+      "care": "one source"
+     },
+     {
+      "text": "The same critic says “The final stanza brings the buried emotion and repressed sexuality to the fore”, and that the poem’s power comes from his “anger and frustration at being denied his wife's affection.”",
+      "src": "EBSCO (Sandra J. Holstein)",
+      "use": "desire · strong feelings",
+      "care": "one source, but AQA agrees about the last verse"
+     },
+     {
+      "text": "Examiners said most students wrote about “the similes in the poem and their effect on the reader, [‘like a mouse’, ‘shy as a leveret’]”. On Porphyria’s Lover, they said students “engaged with this, especially well alongside The Farmer’s Bride”.",
+      "src": "AQA Nov 2021 examiners' report",
+      "use": "choosing a partner",
+      "care": ""
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): don’t write a history paragraph. Link one idea to the question, e.g. Written when women could not even vote, the poem shows a young wife with no voice at all: her husband admits <q>“I’ve hardly heard her speak at all.”</q>"
+ },
+ "comparisons": [
+  {
+   "partner": "Porphyria’s Lover",
+   "use_for": [
+    "Romantic love",
+    "Power and control",
+    "Desire"
+   ],
+   "aqa": "AQA: the Nov 2021 mark scheme for this poem names it first, and the examiners' report said students “engaged with this, especially well alongside The Farmer’s Bride”; also paired in 2018 and 2024",
+   "similar": [
+    "Both are dramatic monologues by a man about a woman he wants to own. The farmer <q>“chose a maid”</q>; Browning’s lover says <q>“That moment she was mine, mine, fair,”</q>.",
+    "Both men fixate on the woman’s hair: <q>“her eyes, her hair, her hair!”</q> and <q>“all her yellow hair”</q>.",
+    "Both women are silenced: we only hear them through the man. The bride’s words come from her eyes, <q>“‘Not near, not near!’”</q>; Porphyria is reported <q>“Murmuring how she loved me”</q>."
+   ],
+   "different": [
+    "<b>The woman’s feelings:</b> the bride is <q>“afraid / Of love and me”</q>; Porphyria loves her man and comes <q>“through wind and rain”</q> to see him.",
+    "<b>What the man does:</b> the farmer <q>“turned the key upon her, fast”</q>, trapping her alive; Browning’s lover acts on his wish to keep her: <q>“And strangled her.”</q>",
+    "<b>The ending:</b> the farmer ends in frustrated desire, only <q>“a stair”</q> away; Browning’s lover ends calm and satisfied: <q>“And yet God has not said a word!”</q>",
+    "<b>Sympathy:</b> one critic finds the farmer “sympathetic”; Browning’s speaker is chilling. Mew makes us pity both husband and wife."
+   ]
+  },
+  {
+   "partner": "Neutral Tones",
+   "use_for": [
+    "Romantic love",
+    "Nature",
+    "Rejection and heartbreak"
+   ],
+   "aqa": "AQA: the Nov 2021 mark scheme for this poem suggests “negative effects of strong feelings, eg ‘Porphyria’s Lover’ or ‘Neutral Tones’”; the 2024 mark scheme (Neutral Tones question) names The Farmer’s Bride as a partner",
+   "similar": [
+    "Both use bleak winter nature to show a dead relationship: <q>“The short days shorten and the oaks are brown,”</q> and <q>“a few leaves lay on the starving sod;”</q>.",
+    "Both paint the scene grey: <q>“the low grey sky”</q> and leaves that <q>“were grey.”</q> Colour drains away with love.",
+    "In both, the woman’s eyes show her feelings: <q>“her eyes beseech”</q> and <q>“Your eyes on me were as eyes that rove”</q>.",
+    "Hardy admired Mew, and both wrote in plain, everyday speech. <span class=\"src\">New York Review of Books</span> <span class=\"care\">one source</span>"
+   ],
+   "different": [
+    "<b>Ended or not:</b> Hardy looks back on a love that is over: <q>“keen lessons that love deceives”</q>. The farmer is still in his marriage, in the present tense, still hoping.",
+    "<b>Who is spoken to:</b> Hardy speaks to his former lover as <q>“Your”</q>; the farmer speaks about his wife as <q>“she”</q>, as if she is not there.",
+    "<b>Feeling:</b> Hardy’s feeling is cold bitterness, <q>“a grin of bitterness”</q>; the farmer’s is hot, growing desire: <q>“Oh! my God!”</q>"
+   ]
+  },
+  {
+   "partner": "Winter Swans",
+   "use_for": [
+    "Romantic love",
+    "Nature",
+    "Separation and distance"
+   ],
+   "aqa": "AQA: the 2019 mark scheme (Winter Swans question) names The Farmer’s Bride first; both are suggested partners in 2022 and 2024, and Winter Swans in Nov 2021",
+   "similar": [
+    "Both use animals to say something about love: the bride is <q>“Shy as a leveret”</q>; the swans <q>“mate for life”</q>.",
+    "Both measure the distance between a couple: <q>“’Tis but a stair / Betwixt us.”</q> and hands that <q>“swum the distance between us”</q>.",
+    "Both couples are cut off by silence: <q>“I’ve hardly heard her speak at all.”</q> and <q>“silent and apart”</q>."
+   ],
+   "different": [
+    "<b>Does the gap close?</b> In Winter Swans it does, gently, <q>“somehow”</q>; in The Farmer’s Bride it never closes.",
+    "<b>Touch:</b> Sheers’s couple end with hands <q>“folded, one over the other”</q>; the bride’s eyes beg <q>“Not near, not near!”</q>",
+    "<b>Mood of the ending:</b> calm and hopeful, <q>“like a pair of wings settling after flight”</q>, against the farmer’s frantic <q>“her hair, her hair!”</q>"
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present strong feelings in romantic relationships in ‘The Farmer’s Bride’ and in one other poem from ‘Love and relationships’. (AQA set exactly this question in November 2021.)",
+  "thesis": "Both Mew and Browning show strong feelings turning into a man’s wish to control a woman, but while Mew’s farmer is left trapped in frustrated longing, Browning’s lover acts on his desire and destroys the woman he loves.",
+  "para": "Both poets show strong feelings becoming a desire to own a woman. Mew’s farmer <q>“chose a maid”</q>, and when she flees he hunts her <q>“flying like a hare”</q> and <q>“turned the key upon her, fast.”</q> The simile turns his bride into prey, and the lock shows his power over her. Browning’s speaker goes further: <q>“That moment she was mine, mine, fair,”</q> where the repeated possessive shows love becoming ownership, just before he strangles her. However, Mew’s farmer cannot make his wife love him. His final lines, <q>“her eyes, her hair, her hair!”</q>, show desire mounting with nowhere to go, perhaps reflecting a time when women had little power in marriage. Where Browning’s lover sits calmly with a body, Mew leaves both husband and wife trapped by feelings neither can control.",
+  "why": [
+   "Thesis answers the question in one sentence and names a clear similarity and difference",
+   "Short quotations from both poems, with methods named (simile, repeated possessive) and the last verse covered, as examiners advised",
+   "Compares throughout (“goes further”, “However”, “Where…”) and links gender context to the question in one clause (AO3)"
+  ]
+ }
+}

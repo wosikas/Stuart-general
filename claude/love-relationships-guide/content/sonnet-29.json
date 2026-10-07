@@ -1,0 +1,428 @@
+{
+ "num": 2,
+ "slug": "sonnet-29",
+ "title": "Sonnet 29 – ‘I think of thee!’",
+ "poet": "Elizabeth Barrett Browning",
+ "poet_dates": "1806–1861",
+ "published": "published 1850, in Sonnets from the Portuguese",
+ "group": "Romantic love",
+ "anchor": false,
+ "copyright": false,
+ "facts": {
+  "type": "Petrarchan sonnet (14 lines, rhyme ABBAABBA CDCDCD)",
+  "exam": "Yes: printed in June 2022 (on the separate Covid-era poetry paper, “ideas about the power of love”); also a suggested partner in the 2018, 2019, Nov 2021 and 2024 mark schemes",
+  "partner": "Porphyria’s Lover (your anchor); Love’s Philosophy also works well"
+ },
+ "themes": [
+  {
+   "name": "Romantic love",
+   "aqa": true,
+   "src": "AQA question June 2022 (“the power of love”); mark scheme 2024 (“joy in ‘Sonnet 29 – I think of thee!’”)"
+  },
+  {
+   "name": "Desire",
+   "aqa": true,
+   "src": "AQA examiners' report June 2022 (“the speaker’s obsession with and suffocating passion for her lover”)"
+  },
+  {
+   "name": "Nature",
+   "aqa": true,
+   "src": "AQA examiners' report June 2022 (“the extended metaphor of the vines”)"
+  },
+  {
+   "name": "Commitment",
+   "aqa": true,
+   "src": "AQA mark scheme 2019 (“hope/lasting nature of romantic relationships, such as with ‘Sonnet 29’”)"
+  },
+  {
+   "name": "Longing",
+   "aqa": false,
+   "src": "our reading (2022 report mentions “fantasising about him”)"
+  },
+  {
+   "name": "Separation and distance",
+   "aqa": false,
+   "src": "our reading"
+  }
+ ],
+ "cards": {
+  "story": "A woman thinks about the man she loves while he is away. Her thoughts grow round him like wild vines round a tree, until she can hardly see him. She orders him to come back and shake them off.",
+  "message": "Love is so powerful it can take over your whole mind. But thinking about someone is no substitute for being with them: the real person is better than any daydream.",
+  "why": "Barrett Browning wrote the poem in secret while Robert Browning was courting her (1845–46). It is one of 44 love sonnets published in 1850 as <i>Sonnets from the Portuguese</i>. <span class=\"src\">Britannica; poets.org; Victorian Web</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "<b>“Sonnet 29”</b> means it is the 29th poem in a sequence of 44 love sonnets. In the original book it has only a number (XXIX); the anthology adds the first words, <b>“I think of thee!”</b>, as a subtitle. <span class=\"care\">anthology point: our reading</span> Watch how the last line answers the title: <q>“I do not think of thee”</q>. The poem travels from thinking about him to being with him. <b>Beware:</b> the sonnets were written in English, not Portuguese. The title <i>Sonnets from the Portuguese</i> was “a ruse to disguise the sonnets' personal nature”; it played on Robert’s pet name for her, “the Portuguese”.",
+  "src": "Britannica; Project Gutenberg text"
+ },
+ "synopsis": {
+  "setup": "The speaker talks directly to the man she loves (<q>“thee”</q>). He is not with her, so all she has are her thoughts about him.",
+  "steps": [
+   {
+    "lines": "Lines 1–4",
+    "text": "Her thoughts <q>“twine and bud”</q> round him, <q>“as wild vines, about a tree”</q>. They put out broad leaves until all you can see is <q>“the straggling green which hides the wood”</q>. Her thoughts now hide the real man."
+   },
+   {
+    "lines": "Lines 5–7",
+    "text": "The turn: <q>“Yet, O my palm-tree”</q>. She will not accept <q>“my thoughts instead of thee”</q>, because he is <q>“dearer, better!”</q> than anything she imagines."
+   },
+   {
+    "lines": "Lines 7–11",
+    "text": "She orders him to come back at once (<q>“instantly / Renew thy presence”</q>). Like a strong tree, he should shake his branches and strip his trunk bare, so the vines of her thoughts <q>“Drop heavily down, – burst, shattered, everywhere!”</q>"
+   },
+   {
+    "lines": "Lines 12–14",
+    "text": "When he is there, she feels <q>“deep joy”</q> just to see and hear him and to <q>“breathe within thy shadow a new air”</q>. Then she does not need to think of him: <q>“I am too near thee.”</q>"
+   }
+  ],
+  "turn": "<b>The turning point (line 5):</b> <q>“Yet, O my palm-tree, be it understood”</q>. Sonnets usually turn at line 9, but this one turns at line 5, as soon as she realises her thoughts are smothering him. AQA’s examiners report that many students wrote about “the unusual placing of the volta”.",
+  "ending": "The last line repeats the first, but in the negative: <q>“I think of thee!”</q> becomes <q>“I do not think of thee”</q>. Examiners report “some difference of opinion”. Some students saw that the real man’s presence is better than “any amount of reflection, dwelling or fantasising about him”. Others argued she has “gone off” him, or finds reality poorer than the fantasy. You can mention both.",
+  "tone": "Excited, passionate and commanding. It is full of exclamation marks and orders (<q>“Renew”</q>, <q>“Rustle”</q>), and it ends in calm, happy closeness."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam. The poem is one 14-line block; the notes follow its sense units.",
+ "poem_blocks": [
+  {
+   "lines": "1–4",
+   "text": "<mark>I think of thee!</mark> – <mark>my thoughts do twine and bud</mark><br>About thee, <mark>as wild vines, about a tree,</mark><br>Put out broad leaves, and soon there’s nought to see<br>Except <mark>the straggling green which hides the wood.</mark>",
+   "note": "The opening exclamation shows how excited she is. Her thoughts are like wild vines: they <b>“twine”</b> (wind round) and <b>“bud”</b> (grow) round him, the tree. Soon there is nothing to see but the messy (<b>“straggling”</b>) leaves, which hide the <b>“wood”</b> (the tree trunk). Her thoughts are growing so fast that they hide the real man. Love is powerful, but it could smother him."
+  },
+  {
+   "lines": "5–7",
+   "text": "<mark>Yet, O my palm-tree, be it understood</mark><br><mark>I will not have my thoughts instead of thee</mark><br>Who art <mark>dearer, better!</mark> Rather, instantly",
+   "note": "<b>“Yet”</b> marks the turn. She now calls him <b>“my palm-tree”</b>: a tall, proud, exotic tree, and <b>“my”</b> shows he belongs to her heart. She makes a firm statement: she will not settle for thoughts <b>“instead of”</b> him, because the real man is <b>“dearer, better!”</b>"
+  },
+  {
+   "lines": "8–11",
+   "text": "<mark>Renew thy presence;</mark> as a strong tree should,<br><mark>Rustle thy boughs and set thy trunk all bare,</mark><br>And let these <mark>bands of greenery which insphere thee</mark><br><mark>Drop heavily down, – burst, shattered, everywhere!</mark>",
+   "note": "A string of orders: come back (<b>“Renew thy presence”</b>), shake your branches (<b>“boughs”</b>), strip your trunk bare. The vines are now <b>“bands”</b>, like ropes, that <b>“insphere”</b> (wrap all round) him. She wants them to fall and break apart. The violent verbs <b>“burst, shattered”</b> show her thoughts being destroyed so the real man can be free."
+  },
+  {
+   "lines": "12–14",
+   "text": "Because, in this <mark>deep joy to see and hear thee</mark><br>And <mark>breathe within thy shadow a new air,</mark><br><mark>I do not think of thee – I am too near thee.</mark>",
+   "note": "<b>“Because”</b> gives her reason. When he is with her, she uses her senses (see, hear, breathe), not just her mind. Standing in his <b>“shadow”</b> she breathes <b>“a new air”</b>: love gives her fresh life. The last line answers the first: she no longer needs to think of him, because she is <b>“too near”</b>."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "my thoughts do twine and bud",
+   "means": "my thoughts wind round you and keep growing.",
+   "why": "starts the extended metaphor: love is alive and growing, but also clinging.",
+   "tech": "extended metaphor; verbs of growth"
+  },
+  {
+   "line": "LINE 2",
+   "q": "as wild vines, about a tree,",
+   "means": "like wild climbing plants wrapped round a tree.",
+   "why": "“wild” suggests her love is out of control; vines can strangle the tree they climb. AQA’s examiners saw students link it to her “obsession” and “suffocating passion”.",
+   "tech": "simile"
+  },
+  {
+   "line": "LINE 4",
+   "q": "the straggling green which hides the wood.",
+   "means": "the messy leaves that hide the tree trunk.",
+   "why": "her thoughts about him now hide the real man: the power of love to cloud your judgement.",
+   "tech": "imagery"
+  },
+  {
+   "line": "LINE 5",
+   "q": "Yet, O my palm-tree, be it understood",
+   "means": "But, my darling, let me make this clear.",
+   "why": "the turn (volta) comes early, at line 5. “O” is a passionate cry, and “my” shows how much he means to her.",
+   "tech": "volta; direct address"
+  },
+  {
+   "line": "LINE 6",
+   "q": "I will not have my thoughts instead of thee",
+   "means": "I refuse to have only thoughts in place of you.",
+   "why": "a firm, decisive statement: she wants the real person, not a fantasy. The woman takes charge.",
+   "tech": "declarative statement"
+  },
+  {
+   "line": "LINE 11",
+   "q": "Drop heavily down, – burst, shattered, everywhere!",
+   "means": "let my thoughts fall off and break apart.",
+   "why": "violent, explosive verbs: love is so strong it destroys what came before. The dash and exclamation make it sound sudden.",
+   "tech": "list of three; violent verbs; exclamation"
+  },
+  {
+   "line": "LINE 14",
+   "q": "I do not think of thee – I am too near thee.",
+   "means": "I don’t need to think about you, because I’m right beside you.",
+   "why": "turns the opening line round. Some students read it as joy at being together; others read it as disappointment. AQA’s examiners recorded both readings.",
+   "tech": "circular structure; repetition"
+  }
+ ],
+ "form": {
+  "heading": "The form: a Petrarchan sonnet with an early turn",
+  "explain": [
+   "A <b>sonnet</b> is a 14-line poem, usually in iambic pentameter (ten syllables, five beats per line). <span class=\"src\">Britannica; poets.org; Poetry Archive</span>",
+   "The <b>Petrarchan</b> (Italian) sonnet has an <b>octave</b> (8 lines) rhyming ABBAABBA and a <b>sestet</b> (6 lines). The octave sets up a problem; the sestet answers it. <span class=\"src\">Britannica; Poetry Archive; poets.org</span>",
+   "The <b>volta</b> (turn) is a shift in thought, “often indicated by such initial words as But, Yet, or And yet”. It usually comes between lines 8 and 9. <span class=\"src\">Britannica; poets.org</span>",
+   "Traditionally a <b>man</b> wrote the sonnets to an idealised woman: Petrarch wrote “317 sonnets, addressed to his idealized beloved, Laura”. Barrett Browning’s sequence revived the love sonnet in the 19th century. <span class=\"src\">Britannica</span>"
+  ],
+  "this_poem": [
+   "<b>Strict rhyme:</b> the octave rhymes <b>ABBAABBA</b> (bud, tree, see, wood …) and the sestet <b>CDCDCD</b> (bare, thee, everywhere …). It follows the Petrarchan pattern exactly. <span class=\"src\">our count from the anthology</span>",
+   "<b>An early turn:</b> the volta comes at line 5, with <q>“Yet”</q>, not at line 9. The vines take only four lines to grow too thick; she reacts at once. <span class=\"care\">our reading; many students wrote about “the unusual placing of the volta” (AQA June 2022 examiners' report)</span>",
+   "<b>Spilling over:</b> from <q>“Rather”</q> in line 7, one long sentence runs across the octave–sestet break to line 11. Her feelings will not stay inside the form’s neat boxes. <span class=\"care\">our reading</span>",
+   "<b>A woman in charge:</b> here the woman is the lover and speaker, and the man is the beloved (the tree). A student essay on the Victorian Web, quoting a critic, says writing love sonnets “from the female perspective” was seen as “not the sphere of a Victorian woman”. <span class=\"src\">Victorian Web</span> <span class=\"care\">one source; link to this poem is our reading</span>",
+   "<b>The ending circles back:</b> three of the sestet’s six lines end on <q>“thee”</q> (<q>“insphere thee”</q>, <q>“hear thee”</q>, <q>“near thee”</q>). The poem keeps landing on him, just as her mind does. <span class=\"care\">our reading</span>",
+   "<b>Keep form linked to meaning:</b> after comments on “the ABBA rhyme scheme”, examiners warn that comments on poetic construction can become “rather descriptive” and interrupt “a student’s focus on examining words, ideas and meanings”. <span class=\"src\">AQA June 2022 examiners' report</span>"
+  ],
+  "say": "A sentence you could use: Barrett Browning uses the traditional love sonnet but turns it early, at line 5 with “Yet”, as if the power of her love is too urgent to wait for line 9; the woman, not the man, is the one who speaks and commands."
+ },
+ "methods": [
+  {
+   "title": "The vine and the tree",
+   "text": "The whole octave is one picture: her thoughts are <q>“wild vines”</q> and he is the tree. It shows love as alive and growing, but also clinging and smothering. Most students in 2022 wrote about this image.",
+   "term": "Extended metaphor",
+   "def": "a comparison that is kept going over several lines or a whole poem."
+  },
+  {
+   "title": "Exclamations",
+   "text": "<q>“I think of thee!”</q>, <q>“dearer, better!”</q>, <q>“shattered, everywhere!”</q> The exclamation marks show how excited and overwhelmed she is. AQA’s mark scheme points to the “exclamatory language” of this poem.",
+   "term": "Exclamatory language",
+   "def": "sentences ending in “!” that show strong feeling."
+  },
+  {
+   "title": "Giving orders",
+   "text": "<q>“Renew thy presence”</q>, <q>“Rustle thy boughs”</q>, <q>“set thy trunk all bare”</q>. A woman commanding a man was unusual for the time. Love gives her power and confidence.",
+   "term": "Imperatives",
+   "def": "command verbs that tell someone what to do."
+  },
+  {
+   "title": "Thee, thee, thee",
+   "text": "She addresses him directly all the way through. <q>“thee”</q> comes in the first line’s exclamation and is the poem’s very last word; three lines of the sestet end on it. He is at the centre of everything she says, which shows how love fills her whole mind.",
+   "term": "Direct address",
+   "def": "speaking straight to someone, using “you” (here the old form “thee”)."
+  }
+ ],
+ "warn": "Examiners warn: “AO3 is much more appropriately addressed by focusing on ideas such as the power of love to make someone obsessive, very unhappy, grief-stricken, unbalanced, etc than writing about, for example, Browning’s father’s attitude, the sonnet written in Portuguese or Browning’s illness.” They also warn that comments on “the ABBA rhyme scheme” can become “rather descriptive”. <span class=\"src\">AQA June 2022 examiners' report</span>",
+ "context": {
+  "timeline": [
+   {
+    "date": "1806",
+    "text": "Elizabeth Barrett born in County Durham, the eldest of twelve children",
+    "care": "twelve children: one source"
+   },
+   {
+    "date": "c.1821",
+    "text": "Falls seriously ill at about 15; her health is permanently affected"
+   },
+   {
+    "date": "1844",
+    "text": "Her <i>Poems</i> are “enthusiastically received”: she is already a famous poet"
+   },
+   {
+    "date": "Jan 1845",
+    "text": "Robert Browning writes: “I love your verses with all my heart” … “and I love you too”"
+   },
+   {
+    "date": "1845–46",
+    "text": "Over 570 love letters, almost daily; she secretly begins the sonnets",
+    "hi": true
+   },
+   {
+    "date": "12 Sept 1846",
+    "text": "Secret wedding in London; a week later they leave for Italy"
+   },
+   {
+    "date": "1850",
+    "text": "<i>Sonnets from the Portuguese</i> published, including Sonnet 29",
+    "hi": true
+   },
+   {
+    "date": "1861",
+    "text": "Dies in Florence"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Elizabeth Barrett Browning was",
+    "items": [
+     {
+      "text": "Born in 1806 in County Durham, she was a famous poet before she met Robert Browning: her 1844 <i>Poems</i> were “enthusiastically received”.",
+      "src": "Britannica; Victorian Web",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "She wrote against injustice, including slavery (“The Runaway Slave at Pilgrim's Point”), and supported Italian freedom.",
+      "src": "Britannica; poets.org",
+      "use": "a strong, outspoken voice",
+      "care": ""
+     },
+     {
+      "text": "Her verse novel <i>Aurora Leigh</i> is “now considered an early feminist text”.",
+      "src": "Britannica",
+      "use": "a woman speaking for herself",
+      "care": ""
+     },
+     {
+      "text": "She was often ill and lived quietly in her strict father’s London house. Background only: AQA says her illness and her father are <b>not</b> good AO3 points on their own.",
+      "src": "Britannica; poets.org; AQA June 2022 examiners' report",
+      "use": "background",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "A secret courtship",
+    "items": [
+     {
+      "text": "In January 1845 the poet Robert Browning, a stranger, wrote to her: “I love your verses with all my heart, dear Miss Barrett” and ended “and I love you too.” They met that summer.",
+      "src": "Britannica; Victorian Web",
+      "use": "the power of love · romantic love",
+      "care": ""
+     },
+     {
+      "text": "They wrote to each other “almost daily” from January 1845 to September 1846: over 570 letters.",
+      "src": "Baylor University; poets.org",
+      "use": "longing · separation",
+      "care": "573 or 574: sources differ"
+     },
+     {
+      "text": "The courtship “was kept a close secret”. They married secretly on 12 September 1846 and left for Italy a week later.",
+      "src": "Britannica; The Browning Society",
+      "use": "the power of love · commitment",
+      "care": ""
+     },
+     {
+      "text": "Much of the courtship happened in letters and short visits, so she spent a lot of time thinking about him rather than with him. That is exactly the gap the poem explores.",
+      "src": "our reading",
+      "use": "longing · the power of love",
+      "care": "our reading"
+     }
+    ]
+   },
+   {
+    "title": "The story of the poem",
+    "items": [
+     {
+      "text": "The sonnets were “written in secret before her marriage”. She began them in 1845, the year the courtship started.",
+      "src": "poets.org; Victorian Web (chronology)",
+      "use": "romantic love",
+      "care": ""
+     },
+     {
+      "text": "She did not show them to Robert until after they were married (in 1847, says Britannica).",
+      "src": "Britannica",
+      "use": "",
+      "care": "the year: one source"
+     },
+     {
+      "text": "They were published in 1850 as <i>Sonnets from the Portuguese</i>, 44 sonnets in all. The title was “a ruse” to hide how personal they were, playing on Robert’s pet name for her.",
+      "src": "Britannica; The Browning Society",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "The sequence is “one of the most widely known collections of love lyrics in English”. Sonnet 43 begins “How do I love thee? Let me count the ways.”",
+      "src": "poets.org; Britannica",
+      "use": "the sonnet as a love poem",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "What examiners say (use this for AO3)",
+    "items": [
+     {
+      "text": "Students wrote about “the extended metaphor of the vines” and linked it to “the speaker’s obsession with and suffocating passion for her lover”.",
+      "src": "AQA June 2022 examiners' report",
+      "use": "the power of love · desire",
+      "care": ""
+     },
+     {
+      "text": "The mark scheme suggests writing about the power of love “as overwhelming, or transformative, or invoking of happiness”, and “the use of nature as image in poetry”.",
+      "src": "AQA June 2022 mark scheme",
+      "use": "the power of love · nature",
+      "care": ""
+     },
+     {
+      "text": "AQA links this poem with “joy” and “more positive views of love”, and with “hope/lasting nature of romantic relationships”.",
+      "src": "AQA mark schemes 2024 and 2019",
+      "use": "romantic love · commitment",
+      "care": ""
+     },
+     {
+      "text": "AO3 works best through ideas: “the power of love to make someone obsessive, very unhappy, grief-stricken, unbalanced, etc”. Love that affects “your whole being” is “a universal thing”.",
+      "src": "AQA June 2022 examiners' report",
+      "use": "AO3",
+      "care": ""
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): keep context tied to ideas. Barrett Browning wrote as a woman in a form traditionally used by men to praise women, so here the woman is the one who desires, speaks and gives orders. Link this to the power of love: it can take over your whole mind (the vines), but it can also make you bold and joyful when you are finally together."
+ },
+ "comparisons": [
+  {
+   "partner": "Porphyria’s Lover",
+   "use_for": [
+    "Romantic love",
+    "Desire",
+    "Power and control"
+   ],
+   "aqa": "AQA: the 2022 mark scheme (Sonnet 29 question) names Porphyria’s Lover under “the negative powerful effects of love”; the 2022 report says it “worked well”; both are suggested in 2018 and 2024",
+   "similar": [
+    "Both speakers are obsessed with the person they love: <q>“my thoughts do twine and bud”</q> and <q>“Porphyria worshipped me”</q>.",
+    "Both use plant images for love: her thoughts are <q>“wild vines”</q>; he opens Porphyria’s dead eyelids <q>“As a shut bud that holds a bee,”</q>.",
+    "Both are told in the first person, so we only hear one side of the relationship."
+   ],
+   "different": [
+    "<b>Positive or negative:</b> Barrett Browning shows love’s joyful power; Browning shows its destructive power.",
+    "<b>What they want:</b> she wants her living lover beside her: <q>“Renew thy presence;”</q>. He wants to freeze one moment: <q>“That moment she was mine, mine, fair,”</q>, so he kills her.",
+    "<b>Freedom or possession:</b> she lets her clinging thoughts <q>“burst, shattered, everywhere!”</q> to set him free; he traps Porphyria for ever: <q>“And all night long we have not stirred,”</q>.",
+    "<b>Closeness:</b> her ending, <q>“I am too near thee.”</q>, is two living people together; his is a man beside a corpse."
+   ]
+  },
+  {
+   "partner": "Love’s Philosophy",
+   "use_for": [
+    "Romantic love",
+    "Nature",
+    "Desire"
+   ],
+   "aqa": "AQA: 2022 mark scheme (Sonnet 29 question) names Love’s Philosophy for “imagery used to present ideas about the power of love”; Nov 2021 mark scheme names both for “positive effects of strong feelings”; 2022 report: “worked well”",
+   "similar": [
+    "Both use nature to show love wrapping two people together: <q>“In one another's being mingle”</q> and <q>“as wild vines, about a tree,”</q>.",
+    "Both speakers want the loved one’s physical presence, not just thoughts or words: <q>“If thou kiss not me?”</q> and <q>“Renew thy presence;”</q>."
+   ],
+   "different": [
+    "<b>Who speaks:</b> a man trying to persuade a woman, against a woman longing for a man who is away.",
+    "<b>Ending:</b> Shelley ends on an unanswered question; Barrett Browning ends together and joyful: <q>“I am too near thee.”</q>",
+    "<b>Tone:</b> Shelley pleads and argues; Barrett Browning commands (<q>“Rustle thy boughs”</q>).",
+    "<b>Form:</b> two neat 8-line stanzas against a 14-line sonnet, the traditional form for love poetry."
+   ]
+  },
+  {
+   "partner": "Neutral Tones",
+   "use_for": [
+    "Romantic love",
+    "Nature",
+    "Rejection and heartbreak"
+   ],
+   "aqa": "AQA: 2022 mark scheme (Sonnet 29 question) names Neutral Tones under “the negative powerful effects of love”; 2022 report: “worked well”",
+   "similar": [
+    "Both use a tree and plants to show love: Barrett Browning’s vines and <q>“palm-tree”</q>; Hardy’s leaves <q>“fallen from an ash, and were grey.”</q>",
+    "Both speakers talk straight to the lover (<q>“thee”</q>, <q>“Your eyes on me”</q>) and both are shaped by love’s power over the mind."
+   ],
+   "different": [
+    "<b>Living or dead:</b> her nature is growing (<q>“twine and bud”</q>); his is dying (<q>“the starving sod”</q>).",
+    "<b>Lesson learned:</b> she learns the real man is <q>“dearer, better!”</q> than her thoughts; he learns <q>“keen lessons that love deceives,”</q>.",
+    "<b>Ending:</b> her poem ends in closeness and <q>“deep joy”</q>; his ends with a memory of loss that returns to the pond where it began."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present ideas about the power of love in ‘Sonnet 29’ and in one other poem from ‘Love and relationships’. (AQA asked exactly this in June 2022.)",
+  "thesis": "Both Barrett Browning and Browning show love as a force strong enough to take over a person’s mind, but while Barrett Browning’s speaker breaks free of her obsession to enjoy her lover’s real presence, Browning’s speaker turns obsession into possession and destroys the woman he loves.",
+  "para": "Both poets show love as obsessive. Barrett Browning’s thoughts <q>“twine and bud”</q> round her lover <q>“as wild vines, about a tree,”</q>, suggesting a passion that grows until it hides <q>“the wood”</q>. Similarly, Browning’s speaker is consumed by the thought that <q>“Porphyria worshipped me”</q>. However, the two speakers respond in opposite ways. Barrett Browning orders her thoughts to <q>“burst, shattered, everywhere!”</q>: the violent verbs destroy her fantasy so that the real man can be free, and the poem ends in <q>“deep joy”</q>. Browning’s speaker instead wants to freeze a fantasy for ever: <q>“That moment she was mine, mine, fair”</q>. The repeated possessive shows love becoming ownership. Perhaps Barrett Browning suggests love is powerful enough to transform us, while Browning warns it can become dangerous when it turns into control.",
+  "why": [
+   "Thesis answers the question (the power of love) in one sentence and names both poems’ ideas",
+   "Short quotations from both poems, with methods named (extended metaphor, violent verbs, repeated possessive)",
+   "Compares throughout (“Similarly”, “However”, “instead”) and ends with a tentative judgement (“Perhaps”)"
+  ]
+ }
+}

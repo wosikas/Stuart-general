@@ -1,0 +1,467 @@
+{
+ "num": 11,
+ "slug": "follower",
+ "title": "Follower",
+ "poet": "Seamus Heaney",
+ "poet_dates": "1939–2013",
+ "published": "published 1966, in his first book, Death of a Naturalist",
+ "group": "Family",
+ "anchor": true,
+ "copyright": true,
+ "facts": {
+  "type": "Six quatrains (4-line stanzas), ABAB rhyme",
+  "exam": "Yes: specimen paper and June 2025 (the only poem AQA has printed twice)",
+  "partner": "Mother, any distance (your anchor); Walking Away also works well"
+ },
+ "themes": [
+  {
+   "name": "Family (parent and child)",
+   "aqa": true,
+   "src": "AQA specimen question (“attitudes towards a parent”); 2020 and 2023 mark schemes"
+  },
+  {
+   "name": "Growing up",
+   "aqa": true,
+   "src": "AQA June 2025 question (“feelings about growing up”); 2017 and 2023 mark schemes"
+  },
+  {
+   "name": "Memory",
+   "aqa": true,
+   "src": "AQA Nov 2020 mark scheme (“use of memory to present ideas”)"
+  },
+  {
+   "name": "Nature",
+   "aqa": true,
+   "src": "AQA Nov 2020 and 2023 mark schemes (“natural world in ‘Follower’”)"
+  },
+  {
+   "name": "Identity",
+   "aqa": true,
+   "src": "AQA Nov 2020 mark scheme (“attitude towards self in ‘Follower’”)"
+  },
+  {
+   "name": "Time",
+   "aqa": false,
+   "src": "our reading (AQA’s specimen mark scheme mentions “the passage of time”)"
+  },
+  {
+   "name": "Place and home",
+   "aqa": false,
+   "src": "our reading (AQA’s specimen mark scheme mentions “Heaney’s relationship with the land”)"
+  }
+ ],
+ "cards": {
+  "story": "A grown man remembers his father ploughing a field with a horse. As a small boy he stumbled along behind, admiring him and wanting to be just like him. Now the roles have flipped: his old father stumbles behind him.",
+  "message": "Children look up to their parents, but time turns the relationship round. The child who followed becomes the one who leads, and the parent becomes the follower.",
+  "why": "Heaney grew up on his family’s farm in County Derry. His father, Patrick, was “a farmer and cattle dealer”. Heaney did not become a farmer: he became a poet. <span class=\"src\">Britannica; Heaney estate</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "A <b>follower</b> is someone who walks behind, or who copies a leader. The boy literally follows his father up the field, and he wants to follow in his footsteps by becoming a farmer. Line 19 picks up the word: <q>“All I ever did was follow”</q>. Then the last stanza flips it: the old father is now the follower. A critic calls this “the double meaning of the title”. <span class=\"care\">one critic + our reading</span>",
+  "src": "English Association (Peter Cash); AQA anthology"
+ },
+ "synopsis": {
+  "setup": "The speaker is Heaney as an adult, looking back on his childhood on the family farm. He speaks in the first person (“I”, “My father”). Most of the poem is in the past tense; the last stanza jumps to “today”.",
+  "steps": [
+   {
+    "lines": "Lines 1–4",
+    "text": "His father ploughs a field with a horse. His shoulders are rounded and strong, like a ship’s sail filled with wind. The horse pulls hard when the father clicks his tongue."
+   },
+   {
+    "lines": "Lines 5–7",
+    "text": "He is <q>“An expert.”</q> He sets up the plough’s parts, the “wing” and the shining steel “sock” (the pointed blade). The turned earth (“sod”) rolls over in one piece, without breaking."
+   },
+   {
+    "lines": "Lines 8–12",
+    "text": "At the end of the field (the “headrig”), one tug on the reins turns the sweating “team” (the horse pulling the plough) round. His eye narrows as he aims the plough, <q>“Mapping the furrow exactly.”</q>"
+   },
+   {
+    "lines": "Lines 13–16",
+    "text": "The boy stumbles along behind in his father’s “hob-nailed wake” (the path left by his heavy boots), and sometimes falls. Sometimes his father carries him on his back, rising and dipping with each heavy step."
+   },
+   {
+    "lines": "Lines 17–20",
+    "text": "The boy wanted to grow up and plough like his father. But all he ever did was follow along in his father’s <q>“broad shadow”</q>."
+   },
+   {
+    "lines": "Lines 21–24",
+    "text": "He admits he was a nuisance, tripping, falling and chattering (“Yapping”). <q>“But today”</q> it is his father who keeps stumbling behind him, and <q>“will not go away.”</q>"
+   }
+  ],
+  "turn": "<b>The turning point (line 22):</b> <q>“But today”</q>. After five stanzas in the past, the poem jumps to the present, and the roles are reversed.",
+  "ending": "<b>How it ends:</b> the father, once strong and skilled, is now old and stumbling, and the grown son leads. <q>“will not go away.”</q> is ambiguous: it can sound irritated (an old parent who needs care and is a burden), or loving (his father stays in his mind and memory for good).",
+  "tone": "<b>The tone:</b> admiring and affectionate for most of the poem, with gentle self-mockery about the clumsy boy. The final lines are harder to read; AQA’s 2023 mark scheme calls the poem’s tone “more ambiguous”."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–4",
+   "text": "<mark>worked with a horse-plough,</mark> … <mark>shoulders globed like a full sail</mark>",
+   "note": "The opening line puts the father first, doing hard, skilled work. His shoulders are “globed” (rounded, swelling) like a sail full of wind: big, powerful and smooth. The horse strains forward at the click of his tongue, so even the animal obeys him."
+  },
+  {
+   "lines": "5–8",
+   "text": "<mark>An expert.</mark> … <mark>The sod rolled over without breaking.</mark>",
+   "note": "Two short words, a full stop: the boy’s verdict on his dad. Heaney then uses the real farming words (“wing”, “sock”, “headrig”) as if proud to know them. The earth turns over in one neat strip: perfect work."
+  },
+  {
+   "lines": "9–12",
+   "text": "<mark>the sweating team turned round</mark> … <mark>Mapping the furrow exactly.</mark>",
+   "note": "One pull on the reins (“a single pluck”) turns the horse and plough at the end of the field. The father narrows his eye and aims, like a surveyor drawing a map. “exactly.” ends the stanza: he never makes a mistake."
+  },
+  {
+   "lines": "13–16",
+   "text": "<mark>I stumbled in his hob-nailed wake,</mark> … <mark>Dipping and rising to his plod.</mark>",
+   "note": "Now the boy appears, and he is the opposite of his father: he stumbles and falls on the shiny turned earth. A “wake” is the trail behind a ship, which carries on the sail image. Sometimes the father carries him piggyback, rocking with each slow step, like a boat on waves."
+  },
+  {
+   "lines": "17–20",
+   "text": "<mark>I wanted to grow up and plough,</mark> … <mark>In his broad shadow round the farm.</mark>",
+   "note": "The boy’s dream: to copy his father’s ploughing pose, closing one eye and stiffening his arm. But he could only follow, always in his father’s shadow. The shadow shows how big the father seemed, and how small the boy felt."
+  },
+  {
+   "lines": "21–24",
+   "text": "<mark>I was a nuisance, tripping, falling,</mark> … <mark>But today</mark> … <mark>my father who keeps stumbling</mark>",
+   "note": "The boy was a pest who kept tripping and chattering. Then the time jumps to “today”: the father, now old, is the one who “keeps stumbling” behind his son, and “will not go away”. The roles have swapped completely."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 2",
+   "q": "His shoulders globed like a full sail strung",
+   "means": "his father’s shoulders are rounded and strong, like a sail filled with wind.",
+   "why": "the boy sees his father as huge and powerful, and he moves smoothly, like a ship. It shows deep admiration.",
+   "tech": "simile; sibilance (repeated “s” sounds: shoulders, sail, strung)"
+  },
+  {
+   "line": "LINE 5",
+   "q": "An expert.",
+   "means": "his father is a master at ploughing.",
+   "why": "a short, blunt sentence, like a child’s final judgement. It sums up the boy’s hero-worship in two words.",
+   "tech": "minor sentence (a sentence without a verb) and caesura (a pause mid-line)"
+  },
+  {
+   "line": "LINE 12",
+   "q": "Mapping the furrow exactly.",
+   "means": "he plans and ploughs a perfectly straight line.",
+   "why": "words of precision (“Mapping”, “exactly”) make ploughing sound like a science or an art. The father has total control.",
+   "tech": "metaphor (ploughing as map-making); semantic field of skill"
+  },
+  {
+   "line": "LINE 13",
+   "q": "I stumbled in his hob-nailed wake,",
+   "means": "the boy trips along behind in the path his father’s heavy boots leave.",
+   "why": "“stumbled” is the opposite of the father’s skill. A “wake” is the trail behind a ship, so the father is the great sailing ship and the boy is bobbing behind.",
+   "tech": "metaphor; contrast between father and son"
+  },
+  {
+   "line": "LINE 15",
+   "q": "Sometimes he rode me on his back",
+   "means": "sometimes his father carried him piggyback while ploughing.",
+   "why": "a rare moment of tenderness: the strong father carries the weak child. At the end, the burden is reversed.",
+   "tech": "imagery of carrying (foreshadowing the role reversal)"
+  },
+  {
+   "line": "LINE 17",
+   "q": "I wanted to grow up and plough,",
+   "means": "his childhood dream was to be a farmer like his father.",
+   "why": "this links straight to AQA’s 2025 focus, “feelings about growing up”. The past tense “wanted” hints that the dream never came true: Heaney became a poet.",
+   "tech": "past tense; first person"
+  },
+  {
+   "line": "LINES 19–20",
+   "q": "All I ever did was follow / In his broad shadow",
+   "means": "he never matched his father; he only trailed behind him.",
+   "why": "echoes the title. The “broad shadow” shows how much the father dominated the boy’s world, and how small and overshadowed the boy felt.",
+   "tech": "metaphor; enjambment (the sentence runs on into the next line, like the boy trailing on)"
+  },
+  {
+   "line": "LINES 22–23",
+   "q": "But today / It is my father who keeps stumbling",
+   "means": "now, in the present, his old father is the one tripping along behind him.",
+   "why": "the turning point. “stumbling” repeats the boy’s word from line 13, so father and son have swapped places. Growing up has reversed the relationship.",
+   "tech": "volta (turn); role reversal; change from past to present tense"
+  }
+ ],
+ "form": {
+  "heading": "The form: neat quatrains, like straight furrows",
+  "explain": [
+   "A <b>quatrain</b> is a stanza of four lines. “Follower” has six of them, and each “follows an abab rhyme scheme”: lines 1 and 3 rhyme, and lines 2 and 4 rhyme. <span class=\"src\">Poetry for Students (Gale); our check</span>",
+   "The lines have roughly four beats each. One critic says they can “almost” be read as iambic tetrameter (four da-DUM beats), but Heaney does not follow a strict metre. <span class=\"src\">Poetry for Students (Gale)</span> <span class=\"care\">one source</span>",
+   "A critic says Heaney “writes in ballad quatrains” to show that this role reversal happens to everyone. Ballads are old, simple story-poems, often from country life. <span class=\"src\">English Association (Peter Cash)</span> <span class=\"care\">one critic</span>"
+  ],
+  "this_poem": [
+   "<b>Half-rhymes:</b> many rhymes are close but not exact: <q>“plough”</q> / <q>“furrow”</q>, <q>“wake”</q> / <q>“back”</q>, <q>“falling”</q> / <q>“stumbling”</q>. A few are full rhymes, like <q>“sod”</q> / <q>“plod”</q>. The pattern is regular but slightly rough, like hand-ploughed earth. <span class=\"care\">our check + our reading</span>",
+   "<b>Regular stanzas, like furrows:</b> six even blocks, one after another, mirror the neat, straight lines the father ploughs. The form is as controlled as he is. <span class=\"care\">our reading</span>",
+   "<b>Running on:</b> lines and even stanzas flow into each other: <q>“a single pluck / Of reins”</q> runs from stanza 2 into stanza 3, like the plough moving on without stopping. <span class=\"care\">our reading</span>",
+   "<b>The turn comes late:</b> five stanzas of memory, then <q>“But today”</q> in the last stanza. Saving the twist for the end makes the reversal land as a shock.",
+   "<b>Why it matters:</b> the steady form is a picture of the father’s skill; the last stanza uses the same form to show him stumbling. The pattern stays the same, but the people in it have swapped places."
+  ],
+  "say": "A sentence you could use: Heaney’s six regular quatrains, with their steady ABAB rhyme, mirror the neat furrows of his father’s ploughing; but the final stanza’s turn, “But today”, uses that same pattern to show the roles reversed, so the form itself shows how time changes the relationship."
+ },
+ "methods": [
+  {
+   "title": "Imagery of the sea",
+   "text": "The father’s shoulders are <q>“like a full sail”</q>, and the boy stumbles in his <q>“wake”</q> (the trail behind a ship). The father is a great ship moving powerfully through the land; the boy is tossed about behind. AQA’s mark schemes point to the “natural world in ‘Follower’”.",
+   "term": "Extended metaphor",
+   "def": "one comparison carried on through several lines or a whole poem."
+  },
+  {
+   "title": "The language of skill",
+   "text": "Words like <q>“An expert.”</q>, <q>“Mapping”</q> and <q>“exactly.”</q>, and the specialist farm words “wing”, “sock” and “headrig”, show the father’s mastery. Heaney seems proud to know the proper words.",
+   "term": "Semantic field",
+   "def": "a group of words linked to the same topic (here, skill and precision) spread through a text."
+  },
+  {
+   "title": "Father against son",
+   "text": "The father is smooth and in control; the boy <q>“stumbled”</q>, <q>“Fell”</q>, was <q>“tripping, falling”</q>. Setting the two side by side makes the father seem even greater and the boy even smaller.",
+   "term": "Juxtaposition",
+   "def": "placing two things side by side to highlight the contrast between them."
+  },
+  {
+   "title": "The role reversal",
+   "text": "<q>“But today”</q> jumps from past to present. The boy’s word <q>“stumbled”</q> comes back as the father <q>“keeps stumbling”</q>. The same word, used for the other person, shows the relationship has turned round completely.",
+   "term": "Volta",
+   "def": "a turning point in a poem, where the mood or argument changes."
+  }
+ ],
+ "warn": "Examiners warn: in 2022 the question was about “the power of love” (romantic love). AQA’s report said choices such as Follower, Mother, any distance and Eden Rock “did not usually work as well and may have been selected because the students knew them well so wrote about them without considering their appropriateness.” Use Follower for family and growing-up questions, not romantic ones.",
+ "context": {
+  "timeline": [
+   {
+    "date": "1939",
+    "text": "Heaney born; grows up on the family farm, Mossbawn, County Derry"
+   },
+   {
+    "date": "1951",
+    "text": "Wins a scholarship to boarding school in Derry: leaves the farm"
+   },
+   {
+    "date": "1958",
+    "text": "General context: Northern Ireland now has more tractors than working horses",
+    "care": "one source"
+   },
+   {
+    "date": "May 1966",
+    "text": "Follower published in Death of a Naturalist, his first book",
+    "hi": true
+   },
+   {
+    "date": "1986",
+    "text": "His father, Patrick, dies",
+    "care": "one source"
+   },
+   {
+    "date": "1995",
+    "text": "Nobel Prize in Literature"
+   },
+   {
+    "date": "2013",
+    "text": "Heaney dies in Dublin, aged 74"
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Heaney was",
+    "items": [
+     {
+      "text": "Born on 13 April 1939 in County Derry, Northern Ireland. He grew up on the family farm, Mossbawn, the eldest of nine children.",
+      "src": "Heaney estate; Irish Times; Britannica",
+      "use": "family · place and home",
+      "care": ""
+     },
+     {
+      "text": "His father, Patrick Heaney, “was a farmer and cattle dealer”.",
+      "src": "Britannica; Heaney estate",
+      "use": "family",
+      "care": ""
+     },
+     {
+      "text": "At 12 he won a scholarship to St Columb’s College, a boarding school in Derry. He later called the move one from “the earth of farm labour to the heaven of education”, and also “a painful separation from his family”.",
+      "src": "Britannica (scholarship and both quotes); Heaney estate (St Columb’s, 1951)",
+      "use": "growing up · identity",
+      "care": "quote: one source"
+     },
+     {
+      "text": "He won the Nobel Prize in Literature in 1995 and died in Dublin in 2013.",
+      "src": "Britannica; Irish Times; Heaney estate (death in Dublin)",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "Heaney and his father",
+    "items": [
+     {
+      "text": "In “Digging”, the first poem in the same book, Heaney compares his father’s and grandfather’s spade with his own pen. The son will not farm; he will “dig” with words instead.",
+      "src": "Britannica; English Association",
+      "use": "growing up · identity",
+      "care": ""
+     },
+     {
+      "text": "In a 2001 interview, Heaney said that where he grew up, “the word ‘work’ … entailed physical labour”, and that he had spent 40 years “justifying” writing to himself “as a proper job”.",
+      "src": "Nigel Farndale interview, 1 April 2001 (published on the journalist’s own website)",
+      "use": "identity · growing up",
+      "care": "one source"
+     },
+     {
+      "text": "In the same interview he said of his father: “He knew everything about cattle”. About their bond: “Plenty left unsaid, but nothing left un-understood”.",
+      "src": "Nigel Farndale interview, 1 April 2001 (published on the journalist’s own website)",
+      "use": "family",
+      "care": "one source"
+     },
+     {
+      "text": "Patrick Heaney died in 1986 and “has been the subject of many of his son’s poems”.",
+      "src": "Nigel Farndale interview, 1 April 2001 (published on the journalist’s own website)",
+      "use": "family · memory",
+      "care": "one source"
+     },
+     {
+      "text": "So the poem’s boy who “wanted to grow up and plough” did not: he became a poet. You could read the ending as a son who has left his father’s world, yet still carries it with him.",
+      "src": "Britannica (facts)",
+      "use": "growing up · identity",
+      "care": "our reading"
+     }
+    ]
+   },
+   {
+    "title": "How the poem came about",
+    "items": [
+     {
+      "text": "“Follower” was first published in Heaney’s first book, <i>Death of a Naturalist</i> (Faber, May 1966), a collection of 34 poems.",
+      "src": "Poetry for Students (Gale); English Association; Irish Times",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Britannica says his early books, starting with this one, are about “a passing way of life—that of domestic rural life in Northern Ireland”. The Heaney estate says its poems “mined the author’s rural childhood”.",
+      "src": "Britannica; Heaney estate",
+      "use": "memory · time",
+      "care": "Britannica’s sentence covers his early books generally"
+     },
+     {
+      "text": "A critic says Heaney’s aim is “to illustrate the dramatic reversal of roles between his father and himself that the passage of time has brought about”.",
+      "src": "English Association (Peter Cash)",
+      "use": "family · time",
+      "care": "one source"
+     },
+     {
+      "text": "The same critic reads the ending as impatient: the son lacks the “patience” his father once had with him. Another critic sees the father’s dead tradition still standing “behind Heaney”. Both readings are open to you.",
+      "src": "English Association; Poetry for Students (Gale)",
+      "use": "family · growing up",
+      "care": "two critics disagree"
+     },
+     {
+      "text": "We found no statement by Heaney about this particular poem. AQA’s text is taken from his later selection, <i>Opened Ground</i>.",
+      "src": "AQA anthology",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "Horse-ploughing: a skill that was disappearing",
+    "items": [
+     {
+      "text": "General context: a plough cuts a strip of soil and the “mouldboard” turns it over. Heaney’s “sock” is an Irish dialect word for the ploughshare, the pointed blade. The “headrig” is the strip at the end of the field where the team turns.",
+      "src": "NI Community Heritage Archive (Limavady Museum); Poetry for Students (Gale); Dictionary.com (“headland”)",
+      "use": "nature",
+      "care": "one source each"
+     },
+     {
+      "text": "“Well trained horses” could turn “with effortless motion requiring little or no guidance from the ploughman”. The skill was in the partnership of man and horse.",
+      "src": "NI Community Heritage Archive (Limavady Museum)",
+      "use": "admiration",
+      "care": "one source"
+     },
+     {
+      "text": "It was slow, hard work. A farming article describing Ireland in 1926 notes that “a pair of horses and a plough turned over just one acre a day.”",
+      "src": "Irish Farmers Journal (Gerald Potterton, 2026)",
+      "use": "",
+      "care": "one source"
+     },
+     {
+      "text": "In Northern Ireland there were only 550 tractors in 1939, about 7,000 by the end of the Second World War, and “By 1958 there were more tractors than working horses.”",
+      "src": "Bangor Historical Society (Sandra Millsop’s report of a talk by Dr Jonathan Bell, Ulster Folk & Transport Museum)",
+      "use": "time · memory",
+      "care": "one source; general context only, not about Heaney’s farm"
+     },
+     {
+      "text": "So by 1966, the father’s horse-plough was an old way of farming. The poem preserves a skill that was vanishing, just as the father himself grows old.",
+      "src": "Britannica; Bangor Historical Society (tractor date: one source, general context)",
+      "use": "time · memory",
+      "care": "our reading"
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Heaney grew up on a farm where “work” meant physical labour, but he left for school and university and became a poet, not a farmer. Writing in 1966, when (one source says) tractors already outnumbered working horses in Northern Ireland, he looks back with admiration at his father’s vanishing skill, and at how growing up has reversed their roles."
+ },
+ "comparisons": [
+  {
+   "partner": "Mother, any distance",
+   "use_for": [
+    "Family (parent and child)",
+    "Growing up"
+   ],
+   "aqa": "AQA: specimen, Nov 2020, 2023 and 2025 mark schemes; 2023 report: Follower and Mother, any distance were “by far the most popular choices”",
+   "similar": [
+    "Both show a son growing away from a parent through one ordinary memory: ploughing a field, and measuring a house. Heaney’s father is <q>“An expert.”</q> at ploughing; Armitage’s measuring job needs <q>“a second pair of hands.”</q>",
+    "Both use a physical position to show the relationship: the boy behind his father in his <q>“broad shadow”</q>; the mother holding <q>“the zero-end”</q> while her son climbs away.",
+    "Both are told by the son in the first person, and both mix love with the need to be independent."
+   ],
+   "different": [
+    "<b>Time:</b> Armitage’s son is on the edge of leaving, choosing <q>“to fall or fly.”</q> Heaney has already grown up, and looks back at both past and present.",
+    "<b>Who needs whom:</b> Armitage’s mother still holds on: <q>“your fingertips still pinch”</q>. In Follower the roles have reversed: the old father now <q>“keeps stumbling”</q> behind the son.",
+    "<b>Form:</b> Follower is six neat, rhymed quatrains; Mother, any distance has uneven lines that stretch out and break off, like the tape measure <q>“unreeling”</q>. <span class=\"care\">our reading</span>"
+   ]
+  },
+  {
+   "partner": "Walking Away",
+   "use_for": [
+    "Family (parent and child)",
+    "Growing up"
+   ],
+   "aqa": "AQA: specimen (“contrast between view of child and view of parent in ‘Walking Away’”), 2017, 2023 and 2025 mark schemes",
+   "similar": [
+    "Both look back on a childhood memory years later: <q>“It is eighteen years ago”</q>; Heaney’s past tense, then <q>“But today”</q>.",
+    "Both end on a feeling that will not leave the speaker: the father <q>“will not go away.”</q>; the memory <q>“Gnaws at my mind still.”</q>",
+    "Both use nature imagery for growing up: the boy in the furrows; the son <q>“Like a winged seed loosened from its parent stem,”</q>"
+   ],
+   "different": [
+    "<b>Point of view:</b> AQA’s 2017 mark scheme contrasts “the child in ‘Follower’” with “the parent in ‘Walking Away’”. Heaney is the child looking up; Day Lewis is the father watching his son leave.",
+    "<b>Who leaves whom:</b> in Walking Away the child walks away from the parent. In Follower the son moves ahead and the parent follows behind.",
+    "<b>Ending:</b> Day Lewis ends with a wise lesson: <q>“love is proved in the letting go.”</q> Heaney ends with no lesson, only the uneasy image of his father stumbling behind."
+   ]
+  },
+  {
+   "partner": "Climbing My Grandfather",
+   "use_for": [
+    "Family (parent and child)",
+    "Nature"
+   ],
+   "aqa": "AQA: specimen, Nov 2020 (“imagery of the natural world in ‘Climbing My Grandfather’ or ‘Follower’”) and 2025 (“admiration for an adult family figure”) mark schemes",
+   "similar": [
+    "Both children admire a huge, strong adult and see his body as a landscape: shoulders like a <q>“full sail”</q>; a grandfather climbed like a mountain, with <q>“an earth-stained hand.”</q>",
+    "Both use an extended metaphor: sailing and map-making in Follower; mountain-climbing in Waterhouse’s poem.",
+    "Both adults are linked to the land: the father ploughing, the grandfather’s <q>“earth-stained”</q> hand."
+   ],
+   "different": [
+    "<b>Ending:</b> Waterhouse ends in warm safety, <q>“the slow pulse of his good heart.”</q> Heaney ends with the strong man grown old and stumbling.",
+    "<b>Time:</b> Waterhouse stays in one moment, in the present tense (<q>“I decide to do it free”</q>). Heaney jumps from past to present to show change.",
+    "<b>Form:</b> Climbing My Grandfather is one long unrhymed stanza, like a single climb; Follower is six rhymed quatrains."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present attitudes towards a parent in ‘Follower’ and in one other poem from ‘Love and relationships’. (This is AQA’s specimen question; in 2025 AQA asked about “feelings about growing up” in ‘Follower’.)",
+  "thesis": "Both Heaney and Armitage present a child’s attitude towards a parent as love and dependence that growing up changes, but Armitage’s son is only just breaking away, while Heaney looks back after the roles have completely reversed.",
+  "para": "Both poets show the child’s attitude through his position beside the parent. Heaney’s boy trails behind: <q>“I stumbled in his hob-nailed wake,”</q>, and the metaphor of a ship’s wake makes the father a great vessel and the boy small and helpless. Armitage’s son is linked to his mother too, as she holds <q>“the zero-end”</q> of the tape. Yet the endings differ. Armitage’s son climbs away towards <q>“an endless sky”</q>, about to <q>“fall or fly.”</q>, so his attitude is gratitude mixed with a need for freedom. Heaney has already grown up, and the volta <q>“But today”</q> reverses everything: <q>“It is my father who keeps stumbling”</q>. His admiration has turned into something more ambiguous: love, but perhaps also burden.",
+  "why": [
+   "The thesis answers the question (attitudes towards a parent) and gives a clear difference in one sentence",
+   "Short quotations from both poems, each with a named method (metaphor, volta) and its effect",
+   "Compares throughout (“Both”, “Yet the endings differ”) and uses AQA’s own idea that Follower’s tone is ambiguous"
+  ]
+ }
+}

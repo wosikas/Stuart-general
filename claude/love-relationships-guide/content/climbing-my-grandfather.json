@@ -1,0 +1,426 @@
+{
+ "num": 15,
+ "slug": "climbing-my-grandfather",
+ "title": "Climbing My Grandfather",
+ "poet": "Andrew Waterhouse",
+ "poet_dates": "1958–2001",
+ "published": "published 2000, in his first collection, In",
+ "group": "Family",
+ "anchor": false,
+ "copyright": true,
+ "facts": {
+  "type": "Free verse: 27 lines in one unbroken stanza",
+  "exam": "Not yet the printed poem; AQA has suggested it as a second poem three times (specimen, Nov 2020, June 2025)",
+  "partner": "Mother, any distance (your anchor); Follower also works well"
+ },
+ "themes": [
+  {
+   "name": "Family (parent and child)",
+   "aqa": true,
+   "src": "AQA mark schemes Nov 2020 (“feeling protected/protective”) and 2025 (“admiration for an adult family figure”); 2023 examiners' report"
+  },
+  {
+   "name": "Nature",
+   "aqa": true,
+   "src": "AQA mark schemes Nov 2020 (“imagery of the natural world”) and 2025 (“natural imagery”)"
+  },
+  {
+   "name": "Growing up",
+   "aqa": true,
+   "src": "AQA 2025 mark scheme (“the influence of strength on growing up”)"
+  },
+  {
+   "name": "Childhood",
+   "aqa": false,
+   "src": "our reading"
+  },
+  {
+   "name": "Memory",
+   "aqa": false,
+   "src": "our reading (one source, Oak National Academy, reads the poem as “reminiscing about a lost loved one”)"
+  },
+  {
+   "name": "Loss and grief",
+   "aqa": false,
+   "src": "one source (Oak National Academy); the poem itself does not say he has died"
+  }
+ ],
+ "cards": {
+  "story": "A child climbs all over their grandfather, from his shoes to the top of his head. The whole poem pretends the grandfather is a mountain, and the child is a climber going up it with no ropes.",
+  "message": "Getting to know someone you love is an adventure. Up close, the child learns their grandfather's body and his life story, and ends feeling safe and close to his <q>“good heart.”</q>",
+  "why": "Waterhouse lived in Northumberland and worked as a teacher and writer. The poet Jo Shapcott, quoted by his publisher, said his poems “bring together the landscape, the mind and the fragile connections between people”: here a person literally becomes a landscape. <span class=\"src\">Jo Shapcott, quoted by The Rialto (his publisher)</span> <span class=\"care\">one source</span>"
+ },
+ "title_note": {
+  "heading": "The title",
+  "text": "You climb mountains, not people. The odd verb tells us at once that this is an <b>extended metaphor</b>: the grandfather is the mountain. <b>“My”</b> makes it personal and loving. The title also hints at looking up to him: he is huge to a small child.",
+  "src": "our reading, from the AQA anthology text"
+ },
+ "synopsis": {
+  "setup": "A child speaks in the first person (“I”) and the present tense, as if the climb is happening now. The grandfather never speaks; apart from a smile and a moving pupil, he stays still, like a mountain.",
+  "steps": [
+   {
+    "lines": "Lines 1–4",
+    "text": "The child decides to climb <q>“free”</q>, with no safety equipment. They start at his old, cracked shoes (<b>brogues</b>) and scramble up his trousers, grabbing the cloth."
+   },
+   {
+    "lines": "Lines 5–12",
+    "text": "At his shirt they move sideways along his belt to his hand. His nails are broken but easy to grip. His skin feels <q>“like warm ice”</q>. On his arm the child finds an old scar and steps <q>“gently”</q> over the stitch marks."
+   },
+   {
+    "lines": "Lines 13–17",
+    "text": "The child rests on his strong shoulder, careful not to look down, because <q>“climbing has its dangers”</q>. Then up the loose skin of his neck to his smiling mouth."
+   },
+   {
+    "lines": "Lines 18–23",
+    "text": "Across his cheek to look into his brown eyes. Over his wrinkled forehead to his white hair, high up <q>“at this altitude”</q>, reaching for the top (<q>“the summit”</q>)."
+   },
+   {
+    "lines": "Lines 24–27",
+    "text": "At the top, out of breath, the child lies down, watches clouds and birds, feels his warmth, and senses <q>“the slow pulse of his good heart.”</q>"
+   }
+  ],
+  "turn": "<b>The turning point (line 13):</b> halfway up, at the shoulder, the child stops to rest and admits <q>“climbing has its dangers”</q>. Before this, the climb sounds easy; from here the poem admits risk, and by the top the child is <q>“gasping for breath”</q>. <span class=\"care\">our reading</span>",
+  "ending": "At the summit the climb stops. The child simply lies still, feeling the grandfather's heat and heartbeat. The adventure ends in calm, safety and love.",
+  "tone": "Playful and adventurous at first, then careful and respectful (<q>“gently”</q>), and finally peaceful and full of love. Oak National Academy hears sadness in it too, reading it as a memory of someone now gone <span class=\"care\">one source</span>. Our reading: the poem is in the present tense, and his heart is still beating at the end."
+ },
+ "poem_intro": "Highlighted words are the ones worth quoting in the exam.",
+ "poem_blocks": [
+  {
+   "lines": "1–4",
+   "text": "<mark>do it free, without a rope or net.</mark> … <mark>an easy scramble</mark>",
+   "note": "To <b>free-climb</b> means to climb “without using aids for support” <span class=\"src\">Merriam-Webster</span>. The child chooses no rope and no net: brave, or trusting that Grandad is safe. They begin at his old shoes (<b>brogues</b>), “dusty and cracked”, and scramble up his trousers, gripping the woven cloth."
+  },
+  {
+   "lines": "5–8",
+   "text": "<mark>traverse along his belt</mark> … <mark>earth-stained hand</mark>",
+   "note": "The shirt hangs over like a rock <b>overhang</b>, so the climber goes sideways. To <b>traverse</b> is to cross a slope at an angle <span class=\"src\">Merriam-Webster</span>. The line break after <q>“I change”</q> makes the line change direction too. His hand is stained with soil: he is a man who works outdoors, maybe a gardener or farmer. His broken nails <b>“give good purchase”</b>, a climbing term for a good grip."
+  },
+  {
+   "lines": "9–12",
+   "text": "<mark>like warm ice</mark> … <mark>the glassy ridge of a scar</mark>",
+   "note": "His finger skin is smooth and thick, <b>“like warm ice”</b>: an impossible mix of hot and cold. A shiny scar on his arm becomes a mountain ridge. The child places their feet <b>gently</b> in the old stitch marks: careful not to hurt him, and aware he has been hurt before."
+  },
+  {
+   "lines": "13–17",
+   "text": "<mark>At his still firm shoulder</mark> … <mark>for climbing has its dangers</mark>",
+   "note": "His shoulder is “still firm”: he is old, but still strong. The child rests in its shade and does not look down. The poem admits <b>danger</b> for the first time. Then up the loose skin of his neck to his smiling mouth, where the climber stops to “drink”, as a climber drinks at a mountain stream."
+  },
+  {
+   "lines": "18–23",
+   "text": "<mark>the screed cheek</mark> … <mark>reaching for the summit</mark>",
+   "note": "The cheek is called <b>“screed”</b>, like <b>scree</b>: loose stones on a mountain slope <span class=\"src\">Merriam-Webster</span> <span class=\"care\">the link to scree is our reading</span>. The child looks into his brown eyes and watches a pupil move: up close, the mountain is alive. The wrinkles on his forehead are <b>“well-spaced / and easy”</b> footholds. His white hair is like snow on a peak, <b>“at this altitude”</b> (height)."
+  },
+  {
+   "lines": "24–27",
+   "text": "<mark>clouds and birds circle</mark> … <mark>slow pulse of his good heart.</mark>",
+   "note": "At the top, out of breath, the child can only lie there. They see sky, clouds and birds, as from a real peak. But the last things are human: his <b>heat</b> and his heartbeat. The final word is “heart”: the real goal of the climb was to reach him."
+  }
+ ],
+ "quotes": [
+  {
+   "line": "LINE 1",
+   "q": "do it free, without a rope or net.",
+   "means": "the child chooses to climb with no safety gear.",
+   "why": "the line opens in the present tense (<q>“I decide”</q>), which puts us in the moment. Climbing without a rope shows bravery, but also total trust: the grandfather will keep the child safe."
+  },
+  {
+   "line": "LINE 7",
+   "q": "earth-stained hand",
+   "means": "his hand is marked with soil.",
+   "why": "it tells us his life story in two words: he has worked outdoors with the land. It also links him to nature, like the mountain he becomes.",
+   "tech": "compound adjective (two words joined with a hyphen)"
+  },
+  {
+   "line": "LINES 9–10",
+   "q": "smooth and thick / like warm ice",
+   "means": "his skin feels smooth and solid, like ice, yet it is warm and alive.",
+   "tech": "simile and oxymoron (“warm ice”: two opposite ideas together). He is solid like a mountain, but alive and warm."
+  },
+  {
+   "line": "LINE 11",
+   "q": "the glassy ridge of a scar",
+   "means": "a shiny raised scar looks like a mountain ridge.",
+   "why": "the climb uncovers his past pain. The child places their feet <q>“gently”</q>, showing care and respect for what he has been through."
+  },
+  {
+   "line": "LINE 13",
+   "q": "At his still firm shoulder, I rest for a while",
+   "means": "the child rests on his strong shoulder.",
+   "why": "“still” hints he is old, but strong enough to hold the child. AQA's 2025 mark scheme points to “the influence of strength on growing up” in this poem."
+  },
+  {
+   "line": "LINE 23",
+   "q": "reaching for the summit,",
+   "means": "stretching up to the very top of his head.",
+   "tech": "extended metaphor: the head is the mountain top. Reaching the summit is a big achievement; getting to know Grandad fully takes effort."
+  },
+  {
+   "line": "LINES 26–27",
+   "q": "knowing the slow pulse of his good heart.",
+   "means": "the child feels his steady heartbeat and senses his kindness.",
+   "why": "the poem ends on the heart, not the head: the goal was love. “slow” suggests calm and safety, but also age. “good” is a simple, child-like judgement of his whole character."
+  }
+ ],
+ "form": {
+  "heading": "The form: one long free-verse climb",
+  "explain": [
+   "<b>Free verse</b> is “poetry organized to the cadences of speech and image patterns rather than according to a regular metrical scheme”: no fixed rhythm and no rhyme scheme. <span class=\"src\">Britannica</span>",
+   "<b>Enjambment</b> is “the continuation of the sense of a phrase beyond the end of a line of verse”: the sentence runs over the line break. <span class=\"src\">Britannica</span>",
+   "An <b>extended metaphor</b> is “the repeated use of the same metaphorical idea throughout a text”. <span class=\"src\">Oak National Academy</span>"
+  ],
+  "this_poem": [
+   "<b>One unbroken stanza of 27 lines.</b> There is no break, just as a climber can't stop halfway up a cliff. The poem is one long climb from shoes to heart. <span class=\"src\">our count</span> <span class=\"care\">our reading</span>",
+   "<b>Bottom to top:</b> the order of the poem follows the body, feet first (<q>“brogues”</q>, line 2), shoulder in the middle (line 13), head and <q>“summit”</q> near the end (line 23). The structure is the route. <span class=\"care\">our reading</span>",
+   "<b>Enjambment for movement:</b> <q>“I change direction”</q> (lines 5–6) is split across the line break, so the sentence changes direction as the line does. Long run-on sentences feel like constant climbing; the full stops are like resting points. <span class=\"care\">our reading</span>",
+   "<b>Present tense, first person:</b> <q>“I decide”</q>, <q>“I discover”</q>, <q>“I rest”</q>. We climb with the child, step by step, as it happens.",
+   "<b>Another reading:</b> Oak National Academy suggests “The single, unbroken stanza could reflect the unending process of grieving for a loved one.” This treats the poem as a memory of a grandfather who has died. <span class=\"care\">one source (Oak National Academy)</span> Our reading: the poem does not say he has died. It is in the present tense, and his heart is still beating at the end. <span class=\"care\">our reading</span>"
+  ],
+  "say": "A sentence you could use: Waterhouse writes one long, unbroken stanza that climbs from the grandfather's “old brogues” to his “summit”, so the structure itself becomes the climb, ending not at his head but at “his good heart”."
+ },
+ "methods": [
+  {
+   "title": "The grandfather as a mountain",
+   "text": "Every detail of his body becomes part of a mountain: a <q>“ridge”</q>, a <q>“summit”</q>, <q>“altitude”</q>. Climbing words fill the poem: <q>“scramble”</q>, <q>“traverse”</q>, <q>“purchase”</q>. This makes him seem huge, strong and worth admiring, and it makes getting to know him a slow, careful adventure. AQA's specimen mark scheme names the “Use of metaphor in ‘Climbing My Grandfather’”.",
+   "term": "Extended metaphor",
+   "def": "one comparison that is kept going and developed through a whole poem."
+  },
+  {
+   "title": "Nature and the body",
+   "text": "His <q>“earth-stained hand”</q>, the <q>“clouds and birds”</q>, the scree-like cheek: the man and the landscape blend together. AQA's mark schemes point to “imagery of the natural world” (Nov 2020) and “natural imagery” (2025) in this poem.",
+   "term": "Imagery",
+   "def": "words that create a picture in the reader's mind."
+  },
+  {
+   "title": "Opposites side by side",
+   "text": "<q>“warm ice”</q>, <q>“an easy scramble”</q>. The grandfather is both hard and soft, old and strong, a mountain and a living man. These contrasts show how complicated a person is when you look closely. <span class=\"care\">our reading</span>",
+   "term": "Oxymoron",
+   "def": "two opposite words placed together, like “warm ice”."
+  },
+  {
+   "title": "Touch, sight and closeness",
+   "text": "The child grips, touches, stares into his eyes, drinks at his mouth and feels <q>“his heat”</q>. Nobody speaks. The love is shown through the senses and physical closeness, not words. <span class=\"care\">our reading</span>",
+   "term": "Sensory language",
+   "def": "words that appeal to the five senses (sight, sound, touch, taste, smell)."
+  }
+ ],
+ "context": {
+  "timeline": [
+   {
+    "date": "1958",
+    "text": "Waterhouse born in Lincolnshire; later lives in Northumberland, working as a teacher and freelance writer"
+   },
+   {
+    "date": "Jul–Aug 2000",
+    "text": "Writes “Long Live the Wildwood”, about creating forests, for the environmental magazine Resurgence",
+    "care": "one source"
+   },
+   {
+    "date": "2000",
+    "text": "First collection, In (The Rialto), including Climbing My Grandfather",
+    "hi": true
+   },
+   {
+    "date": "2000",
+    "text": "In wins the Forward Prize for Best First Collection"
+   },
+   {
+    "date": "Oct 2001",
+    "text": "Waterhouse dies"
+   },
+   {
+    "date": "2002",
+    "text": "2nd, the poems he was gathering when he died, is published"
+   },
+   {
+    "date": "By 2008",
+    "text": "New Writing North's Northern Writers' Awards include an Andrew Waterhouse Award, given in his honour"
+   },
+   {
+    "date": "2020, 2025",
+    "text": "AQA mark schemes (specimen, Nov 2020, June 2025) suggest it as a family partner poem",
+    "hi": true
+   }
+  ],
+  "cards": [
+   {
+    "title": "Who Waterhouse was",
+    "items": [
+     {
+      "text": "Born in Lincolnshire in 1958; he died in October 2001.",
+      "src": "The Rialto (author page and 2nd page)",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "He lived in Northumberland, in north-east England, “where he worked as a teacher and a freelance writer.”",
+      "src": "The Rialto; New Writing North",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "He wrote about the environment as well as poetry: in 2000 the environmental magazine Resurgence printed his article “Long Live the Wildwood”, with the line “There is a new longing to create forests.”",
+      "src": "Resurgence & Ecologist",
+      "use": "nature",
+      "care": "one source"
+     },
+     {
+      "text": "He published only one collection in his lifetime. A second book, <i>2nd</i>, collected the poems he was “gathering into a collection at the time of his death”.",
+      "src": "The Rialto",
+      "use": "",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "In (2000): a prize-winning first book",
+    "items": [
+     {
+      "text": "Climbing My Grandfather comes from <i>In</i>, published by The Rialto in 2000.",
+      "src": "AQA anthology; The Rialto",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "<i>In</i> won the Forward Prize for Best First Collection in 2000, a UK poetry prize for a poet's first book.",
+      "src": "Forward Arts Foundation (2000 winners list); The Rialto",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "The poet Jo Shapcott wrote: “The poems of Andrew Waterhouse bring together the landscape, the mind and the fragile connections between people.” This poem does exactly that: a family bond told through a landscape.",
+      "src": "Jo Shapcott, quoted by The Rialto",
+      "use": "nature · family",
+      "care": "one source (publisher’s page)"
+     },
+     {
+      "text": "The poet Michael Laskey praised “the pleasure they take in the language”. Look at the fun of climbing words such as <q>“traverse”</q> and <q>“purchase”</q>.",
+      "src": "Michael Laskey, quoted by The Rialto",
+      "use": "methods",
+      "care": "one source (publisher’s page)"
+     }
+    ]
+   },
+   {
+    "title": "Nature and place",
+    "items": [
+     {
+      "text": "New Writing North's Northern Writers' Awards include an Andrew Waterhouse Award, “given in honour of the talented Northumberland poet who died in 2001.”",
+      "src": "New Writing North",
+      "use": "",
+      "care": ""
+     },
+     {
+      "text": "Oak National Academy says Waterhouse often wrote about the natural world and about family relationships. This poem joins the two.",
+      "src": "Oak National Academy",
+      "use": "nature · family",
+      "care": "one source"
+     },
+     {
+      "text": "The climbing words are real mountaineering terms: to <b>free-climb</b> is to climb “without using aids for support”; to <b>traverse</b> is to cross a slope “at an angle”.",
+      "src": "Merriam-Webster",
+      "use": "methods",
+      "care": ""
+     }
+    ]
+   },
+   {
+    "title": "What AQA and teachers say about this poem",
+    "items": [
+     {
+      "text": "Nov 2020 mark scheme: compare “feeling protected/protective in ‘Mother, Any Distance’ or ‘Climbing My Grandfather’”.",
+      "src": "AQA mark scheme Nov 2020",
+      "use": "family",
+      "care": ""
+     },
+     {
+      "text": "June 2025 mark scheme: “admiration for an adult family figure, such as ‘Before You Were Mine’, or ‘Climbing My Grandfather’” and “the influence of strength on growing up”.",
+      "src": "AQA mark scheme 2025",
+      "use": "family · growing up",
+      "care": ""
+     },
+     {
+      "text": "In 2023 there were “lots of choices of ‘Eden Rock’, ‘Walking Away’ and ‘Climbing My Grandfather’” for a parent and child question.",
+      "src": "AQA examiners' report 2023",
+      "use": "family",
+      "care": ""
+     },
+     {
+      "text": "Oak National Academy reads the poem as “reminiscing about a lost loved one”, and the grandfather as “both comforting yet also mysterious”. That is one source. Our reading: the poem is in the present tense, and his heart is still beating at the end.",
+      "src": "Oak National Academy",
+      "use": "memory · loss",
+      "care": "one source (Oak); the counterpoint is our reading"
+     }
+    ]
+   }
+  ],
+  "ao3": "Putting it into an answer (AO3): Waterhouse lived in Northumberland and wrote about nature as well as people; the poet Jo Shapcott said his poems “bring together the landscape, the mind and the fragile connections between people”. In Climbing My Grandfather he turns a grandfather into a mountain, so a child's love and admiration become a journey through a landscape that ends at “his good heart”."
+ },
+ "comparisons": [
+  {
+   "partner": "Mother, any distance",
+   "use_for": [
+    "Family (parent and child)",
+    "Growing up",
+    "Separation and distance"
+   ],
+   "aqa": "AQA: specimen mark scheme (“Use of metaphor in ‘Climbing My Grandfather’ or ‘Mother, Any Distance’”); Nov 2020 mark scheme (“feeling protected/protective”)",
+   "similar": [
+    "Both turn one everyday activity into a whole extended metaphor: measuring a house (<q>“the spool of tape”</q>) and climbing a body (<q>“reaching for the summit,”</q>). AQA's specimen mark scheme pairs them for “Use of metaphor”.",
+    "Both are first person and present tense, and both climb upwards: Armitage's son will <q>“climb the ladder to the loft”</q>; Waterhouse's child climbs to Grandad's head.",
+    "Both end high up under the sky: <q>“an endless sky”</q> and <q>“watching clouds and birds circle,”</q>. Both involve risk: <q>“to fall or fly.”</q> and <q>“climbing has its dangers”</q>."
+   ],
+   "different": [
+    "<b>Direction:</b> Armitage's son climbs <i>away</i> from his mother to independence. Waterhouse's child climbs <i>towards</i> his grandfather, ending closer than ever, <q>“feeling his heat”</q>.",
+    "<b>Who holds on:</b> Armitage's mother clings: <q>“your fingertips still pinch”</q>. In Waterhouse, the child does the holding, <q>“trying to get a grip.”</q>",
+    "<b>Ending:</b> Armitage ends on an unanswered choice; Waterhouse ends in calm certainty: <q>“the slow pulse of his good heart.”</q>",
+    "<b>Form:</b> Armitage stretches a sonnet to 15 lines in three stanzas; Waterhouse writes one unbroken 27-line stanza."
+   ]
+  },
+  {
+   "partner": "Follower",
+   "use_for": [
+    "Family (parent and child)",
+    "Nature",
+    "Growing up"
+   ],
+   "aqa": "AQA: Nov 2020 mark scheme (“imagery of the natural world in ‘Climbing My Grandfather’ or ‘Follower’”); June 2025 mark scheme (Follower printed; this poem suggested)",
+   "similar": [
+    "Both children admire a strong older man who works the land: the grandfather's <q>“earth-stained hand”</q> and Heaney's father, <q>“An expert.”</q>",
+    "Both describe the man's body as something huge and natural: <q>“His shoulders globed like a full sail strung”</q> and the <q>“still firm shoulder”</q> where the child rests.",
+    "Both show a child physically on the adult: <q>“Sometimes he rode me on his back”</q>; Waterhouse's child climbs right up to the top."
+   ],
+   "different": [
+    "<b>Time:</b> Heaney looks back as an adult, and the roles reverse: <q>“It is my father who keeps stumbling”</q>. Waterhouse stays in the moment, with no reversal, though Grandad's <q>“loose skin”</q> hints at age.",
+    "<b>Feelings:</b> Heaney's ending is uneasy (<q>“will not go away.”</q>). Waterhouse's ending is peaceful and loving.",
+    "<b>Form:</b> Follower has six neat quatrains with rhyme, like straight furrows; Waterhouse's free verse runs on in one long climb."
+   ]
+  },
+  {
+   "partner": "Before You Were Mine",
+   "use_for": [
+    "Family (parent and child)",
+    "Memory"
+   ],
+   "aqa": "AQA: June 2025 mark scheme (“admiration for an adult family figure, such as ‘Before You Were Mine’, or ‘Climbing My Grandfather’”)",
+   "similar": [
+    "Both children study an older relative closely and admire them. Duffy's mother is a glamorous star (<q>“Marilyn.”</q>); Waterhouse's grandfather is a mountain.",
+    "Both use the present tense to make the scene feel alive now: <q>“I’m not here yet.”</q> and <q>“I decide”</q>."
+   ],
+   "different": [
+    "<b>How they know them:</b> Duffy imagines her mother's life before she was born. Waterhouse's child learns his grandfather through touch, finding <q>“the glassy ridge of a scar”</q>.",
+    "<b>Possession vs respect:</b> Duffy admits <q>“my loud, possessive yell”</q>; Waterhouse's child moves <q>“gently in the old stitches”</q>.",
+    "<b>Focus:</b> Duffy celebrates her mother's youth and freedom; Waterhouse celebrates his grandfather in old age, white-haired but <q>“still firm”</q>."
+   ]
+  }
+ ],
+ "exam_box": {
+  "question": "A likely question: Compare how poets present family relationships in ‘Climbing My Grandfather’ and in one other poem from ‘Love and relationships’. (AQA used this focus in Nov 2020)",
+  "thesis": "Both Waterhouse and Armitage use an extended metaphor of climbing upwards to show a child's bond with an older relative, but Waterhouse's child climbs towards closeness and safety, while Armitage's son climbs away towards risky independence.",
+  "para": "Both poets turn an ordinary activity into an extended metaphor for a family bond. Waterhouse's child climbs the grandfather like a mountain, <q>“reaching for the summit,”</q>, while Armitage's son climbs <q>“the ladder to the loft”</q> as the tape stretches. However, the direction of each climb differs. Waterhouse's child moves closer and closer, ending lying on the grandfather, <q>“feeling his heat”</q>, so the climb leads to trust and comfort. Armitage's son moves further away, until the tape reaches <q>“breaking point”</q>. Both admit danger, <q>“climbing has its dangers”</q> and <q>“to fall or fly.”</q>, but Waterhouse's ending is calm and certain, settling on <q>“his good heart.”</q>, whereas Armitage's is an open question. Waterhouse presents family as a safe place to reach; Armitage presents it as a place you must leave.",
+  "why": [
+   "Thesis answers the question in one sentence and names the key difference (climbing towards vs away)",
+   "Short quotations from both poems, and the shared method (extended metaphor of climbing) is compared directly",
+   "Compares the endings (structure) as well as language, and finishes with a clear judgement about family relationships"
+  ]
+ }
+}
