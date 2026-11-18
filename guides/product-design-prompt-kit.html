@@ -33,7 +33,7 @@ body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16p
 a{color:var(--blue)}
 :focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
 h1,h2,h3{font-family:var(--display);line-height:1.12;text-wrap:balance;margin:0}
-h1{font-size:clamp(2.2rem,5.5vw,3.6rem);font-weight:800;letter-spacing:-.02em}
+h1{font-size:clamp(2.1rem,4.2vw,2.9rem);font-weight:800;letter-spacing:-.02em}
 h2{font-size:clamp(1.6rem,3.2vw,2.1rem);font-weight:700;letter-spacing:-.01em}
 h3{font-size:1.2rem;font-weight:700}
 p{margin:0}
@@ -55,8 +55,8 @@ section{scroll-margin-top:24px;display:flex;flex-direction:column;gap:22px}
 
 .hero{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:48px;align-items:center}
 .hero-copy{display:flex;flex-direction:column;gap:20px}
-.specimen{display:grid;grid-template-columns:auto 230px;gap:24px;align-items:center}
-.phone{position:relative;width:250px;height:510px;border:9px solid var(--ink);border-radius:38px;background:#F3F4F7}
+.specimen{display:grid;grid-template-columns:auto 210px;gap:44px;align-items:center}
+.phone{position:relative;width:250px;height:510px;border:9px solid #1B1E27;border-radius:38px;background:#F3F4F7;box-shadow:0 0 0 1px var(--line)}
 .phone .screen{position:absolute;inset:0;border-radius:29px;overflow:hidden;background:#F3F4F7}
 .ph-status{height:34px;display:flex;justify-content:space-between;align-items:center;padding:0 22px;font:600 11px var(--body);color:#1a1d24}
 .ph-title{padding:6px 18px 10px;font:700 22px var(--display);color:#1a1d24}
@@ -80,6 +80,7 @@ section{scroll-margin-top:24px;display:flex;flex-direction:column;gap:22px}
 .redline.v::before,.redline.v::after{content:"";position:absolute;left:-5px;height:1px;width:9px;background:var(--accent)}
 .redline.v::before{top:0}.redline.v::after{bottom:0}
 .redline b{position:absolute;font:500 10px var(--mono);color:var(--accent);background:#fff;padding:0 3px;white-space:nowrap}
+.redline.v b{background:var(--bg)}
 .legend{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px;font-size:.86rem}
 .legend li{display:grid;grid-template-columns:22px 1fr;gap:10px;align-items:start}
 .legend .n{width:22px;height:22px;border-radius:50%;background:var(--accent);color:var(--accent-ink);font:600 11px var(--mono);display:flex;align-items:center;justify-content:center}
@@ -96,7 +97,7 @@ section{scroll-margin-top:24px;display:flex;flex-direction:column;gap:22px}
 .why{font-size:.95rem;color:var(--ink-2);max-width:70ch}
 
 .tbl-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:var(--r);background:var(--surface)}
-table{border-collapse:collapse;width:100%;min-width:760px;font-size:.9rem}
+table{border-collapse:collapse;width:100%;min-width:900px;font-size:.9rem}
 th,td{text-align:left;vertical-align:top;padding:11px 14px;border-bottom:1px solid var(--line)}
 th{font-family:var(--mono);font-weight:500;font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);background:var(--surface-2)}
 tr:last-child td{border-bottom:0}
@@ -119,8 +120,12 @@ td strong{font-weight:600}
 .field{display:flex;flex-direction:column;gap:5px}
 .field label,.fieldset-label{font-size:.8rem;font-weight:600;color:var(--ink-2)}
 .field input,.field select,.field textarea{font:inherit;font-size:.9rem;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:7px;padding:8px 10px;width:100%}
-.field textarea{min-height:64px;resize:vertical}
+.field textarea{min-height:88px;resize:vertical}
 .field .hint{font-size:.76rem;color:var(--ink-3)}
+.field select:disabled{opacity:.55}
+.checks label.off{opacity:.5;cursor:default}
+.todo{font-size:.84rem;color:var(--ink);background:var(--accent-soft);border-radius:8px;padding:9px 12px}
+.todo code{font-family:var(--mono);font-size:.8rem}
 .row2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
 .checks{display:flex;flex-direction:column;gap:6px}
 .checks label{display:flex;gap:9px;align-items:flex-start;font-size:.87rem;color:var(--ink);cursor:pointer}
@@ -158,6 +163,7 @@ td strong{font-weight:600}
 .term p{font-size:.88rem;color:var(--ink-2)}
 .term .say{font-family:var(--mono);font-size:.78rem;color:var(--ink);background:var(--code-bg);border-left:2px solid var(--accent);border-radius:0 6px 6px 0;padding:7px 10px}
 .gl-empty{color:var(--ink-3);font-size:.9rem}
+.more-wrap{display:flex;justify-content:center}
 
 .phrases{display:flex;flex-wrap:wrap;gap:8px}
 .phrase{font:400 .85rem var(--body);text-align:left;background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:8px 12px;cursor:pointer;max-width:100%}
@@ -179,12 +185,39 @@ td strong{font-weight:600}
 .trap .to{font-family:var(--mono);font-size:.8rem;color:var(--good)}
 .trap p{font-size:.86rem;color:var(--ink-2)}
 
-.reads{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
-.read{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px 16px;display:flex;flex-direction:column;gap:6px}
-.read h3{font-size:1rem}
-.read .by{font-size:.8rem;color:var(--ink-3)}
-.read p{font-size:.87rem;color:var(--ink-2)}
-.read .for{font-family:var(--mono);font-size:.7rem;color:var(--accent);text-transform:uppercase;letter-spacing:.05em}
+.path{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:12px;counter-reset:step}
+.path li{counter-increment:step;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px 16px;display:flex;flex-direction:column;gap:6px}
+.path li::before{content:"Step " counter(step);font-family:var(--mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;color:var(--accent)}
+.path strong{font-family:var(--display);font-size:1.05rem;font-weight:700}
+.path p{font-size:.88rem;color:var(--ink-2)}
+.path .links{display:flex;flex-direction:column;gap:3px;font-size:.88rem;margin-top:auto;padding-top:4px}
+.sub-h{font-family:var(--mono);font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3)}
+.r-controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.r-controls input[type=search]{font:inherit;font-size:.92rem;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:9px 12px;flex:1 1 240px;min-width:0}
+.r-controls select{font:inherit;font-size:.86rem;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:9px 10px}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--surface)}
+.seg button{font:600 .84rem var(--body);background:transparent;color:var(--ink-2);border:0;padding:9px 14px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.r-status{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+.linkbtn{font:600 .84rem var(--body);background:none;border:0;padding:0;color:var(--blue);cursor:pointer;text-decoration:underline}
+.r-groups{display:flex;flex-direction:column;gap:36px}
+.r-group{display:flex;flex-direction:column;gap:12px;scroll-margin-top:24px}
+.r-group-head{display:flex;flex-direction:column;gap:2px;border-top:2px solid var(--ink);padding-top:10px}
+.r-group-head h3{font-size:1.25rem}
+.r-group-head p{font-size:.9rem;color:var(--ink-2);max-width:70ch}
+.r-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.res{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px 16px;display:flex;flex-direction:column;gap:7px;min-width:0}
+.res-title{font-family:var(--display);font-weight:700;font-size:1.04rem;line-height:1.2;color:var(--ink);text-decoration:none;text-wrap:balance}
+.res-title:hover{color:var(--accent);text-decoration:underline}
+.res-title span{font-family:var(--body);font-weight:400;color:var(--ink-3);font-size:.85em}
+.res-by{font-size:.78rem;color:var(--ink-3);overflow-wrap:anywhere}
+.res p{font-size:.88rem;color:var(--ink-2)}
+.res-say{font-family:var(--mono);font-size:.78rem;line-height:1.5;text-align:left;color:var(--ink);background:var(--code-bg);border:0;border-left:2px solid var(--accent);border-radius:0 6px 6px 0;padding:7px 10px;cursor:pointer}
+.res-say:hover{background:var(--accent-soft)}
+.res-say small{display:block;font-size:.64rem;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.res-tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:auto;padding-top:4px}
+.rt{font-family:var(--mono);font-size:.66rem;letter-spacing:.04em;text-transform:uppercase;color:var(--ink-3);border:1px solid var(--line);border-radius:5px;padding:1px 6px}
+.rt.ess{color:var(--accent);border-color:var(--accent)}
 
 .toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--bg);font-size:.86rem;padding:9px 16px;border-radius:8px;z-index:50}
 footer{max-width:1200px;margin-inline:auto;color:var(--ink-3);font-size:.8rem;border-top:1px solid var(--line);padding-top:20px}
@@ -206,7 +239,7 @@ footer{max-width:1200px;margin-inline:auto;color:var(--ink-3);font-size:.8rem;bo
   .legend{width:100%}
   .row2{grid-template-columns:1fr}
   .anat-row{grid-template-columns:1fr;gap:2px}
-  .tpl-list,.gl-grid,.checklist,.traps,.reads{grid-template-columns:1fr}
+  .tpl-list,.gl-grid,.checklist,.traps,.r-grid,.path{grid-template-columns:1fr}
   main{gap:64px}
 }
 </style>
@@ -224,7 +257,7 @@ footer{max-width:1200px;margin-inline:auto;color:var(--ink-3);font-size:.8rem;bo
     <a href="#platforms">Web vs mobile</a>
     <a href="#review">Review checklist</a>
     <a href="#traps">Common traps</a>
-    <a href="#read">Go deeper</a>
+    <a href="#resources">Resource library</a>
   </nav>
 
   <main>
@@ -235,7 +268,7 @@ footer{max-width:1200px;margin-inline:auto;color:var(--ink-3);font-size:.8rem;bo
         <p class="lede">Experienced product designers don't ask for "a nice screen". They name the user, the job, the platform, the states and the stage of work, then judge the result against known principles. This kit gives you that vocabulary, the order to work in, and prompts you can copy.</p>
         <p class="muted">The running example is a quick-capture sheet for Loom: jot a note in seconds, with no filing decision. Swap in your own feature wherever you see brackets.</p>
         <div class="chips-toc" aria-label="Jump to section">
-          <a href="#think">Think</a><a href="#process">Artefacts</a><a href="#anatomy">Anatomy</a><a href="#builder">Builder</a><a href="#templates">Templates</a><a href="#vocab">Vocabulary</a><a href="#feedback">Feedback</a><a href="#platforms">Web vs mobile</a><a href="#review">Checklist</a><a href="#traps">Traps</a><a href="#read">Reading</a>
+          <a href="#think">Think</a><a href="#process">Artefacts</a><a href="#anatomy">Anatomy</a><a href="#builder">Builder</a><a href="#templates">Templates</a><a href="#vocab">Vocabulary</a><a href="#feedback">Feedback</a><a href="#platforms">Web vs mobile</a><a href="#review">Checklist</a><a href="#traps">Traps</a><a href="#resources">Resources</a>
         </div>
       </div>
 
@@ -259,10 +292,10 @@ footer{max-width:1200px;margin-inline:auto;color:var(--ink-3);font-size:.8rem;bo
           <span class="pin" style="top:92px;right:-12px">1</span>
           <span class="pin" style="top:180px;left:50%;transform:translateX(-50%)">2</span>
           <span class="pin" style="top:250px;right:-12px">3</span>
-          <span class="pin" style="top:386px;left:-12px">4</span>
-          <span class="pin" style="bottom:30px;left:-12px">5</span>
-          <span class="redline h" style="left:0;width:16px;bottom:66px"><b style="left:-3px;top:-17px">16</b></span>
-          <span class="redline v" style="right:24px;height:44px;bottom:18px"><b style="right:5px;top:14px">44</b></span>
+          <span class="pin" style="top:398px;left:-12px">4</span>
+          <span class="pin" style="bottom:29px;left:-12px">5</span>
+          <span class="redline h" style="left:0;width:16px;top:330px"><b style="left:0;top:5px">16</b></span>
+          <span class="redline v" style="right:-18px;height:44px;bottom:18px"><b style="left:7px;top:14px">44</b></span>
         </div>
         <ol class="legend">
           <li><span class="n">1</span><div><strong>Scrim</strong><span>Dims the page behind to signal a modal state.</span></div></li>
@@ -295,7 +328,7 @@ footer{max-width:1200px;margin-inline:auto;color:var(--ink-3);font-size:.8rem;bo
       </div>
       <div class="tbl-wrap">
         <table>
-          <thead><tr><th>Stage</th><th>Artefact</th><th>Question it answers</th><th>Ask for it when</th></tr></thead>
+          <thead><tr><th>Stage</th><th>Artefact</th><th>What it looks like</th><th>Question it answers</th><th>Ask for it when</th></tr></thead>
           <tbody id="deliv-body"></tbody>
         </table>
       </div>
@@ -324,12 +357,15 @@ footer{max-width:1200px;margin-inline:auto;color:var(--ink-3);font-size:.8rem;bo
       <div class="sec-head">
         <div class="eyebrow">04 · Tool</div>
         <h2>Prompt builder</h2>
-        <p class="lede">Fill in what you know and pick an artefact. The prompt updates as you type. Your entries are remembered in this browser only.</p>
+        <p class="lede">Fill in what you know and pick an artefact. The prompt updates as you type, and options that don't apply to the artefact switch off. Your entries are remembered in this browser only.</p>
       </div>
       <div class="builder">
         <form class="form" id="bform" autocomplete="off">
-          <div class="field"><label for="f-product">Product and feature</label>
-            <input id="f-product" value="Loom, a personal notes app. Feature: Quick Capture."></div>
+          <div class="field"><label for="f-product">Product</label>
+            <input id="f-product" value="Loom, a personal notes app"></div>
+          <div class="field"><label for="f-focus">Feature, screen or flow in focus</label>
+            <input id="f-focus" value="Quick Capture">
+            <span class="hint">For a component spec, name the component, such as "the note row".</span></div>
           <div class="field"><label for="f-user">Who the user is and their situation</label>
             <textarea id="f-user">People who jot ideas throughout the day, often one-handed and mid-task, and who hate deciding where a note belongs.</textarea></div>
           <div class="field"><label for="f-job">Job to be done and what success looks like</label>
@@ -339,8 +375,8 @@ footer{max-width:1200px;margin-inline:auto;color:var(--ink-3);font-size:.8rem;bo
             <div class="field"><label for="f-platform">Platform</label><select id="f-platform"></select></div>
           </div>
           <div class="row2">
-            <div class="field"><label for="f-fid">Fidelity</label><select id="f-fid"></select></div>
-            <div class="field"><label for="f-ds">Design system</label><select id="f-ds"></select></div>
+            <div class="field"><label for="f-fid">Fidelity</label><select id="f-fid"></select><span class="hint" id="fid-hint"></span></div>
+            <div class="field"><label for="f-ds">Design system</label><select id="f-ds"></select><span class="hint" id="ds-hint"></span></div>
           </div>
           <div class="field"><label for="f-cons">Constraints and references</label>
             <textarea id="f-cons">Must work offline and sync later. Brand feels calm and quiet. Reference: the speed of Apple Notes' lock-screen capture.</textarea>
@@ -354,6 +390,7 @@ footer{max-width:1200px;margin-inline:auto;color:var(--ink-3);font-size:.8rem;bo
             <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap"><span class="count" id="wc"></span><button type="button" class="btn ghost" id="reset">Reset</button><button type="button" class="btn" id="copy-built">Copy prompt</button></div>
           </div>
           <pre class="prompt-text" id="built" tabindex="0"></pre>
+          <p class="todo" id="todo" hidden></p>
         </div>
       </div>
     </section>
@@ -362,7 +399,7 @@ footer{max-width:1200px;margin-inline:auto;color:var(--ink-3);font-size:.8rem;bo
       <div class="sec-head">
         <div class="eyebrow">05 · Library</div>
         <h2>Template library</h2>
-        <p class="lede">Eighteen prompts, one per standard artefact. Replace the bracketed parts. Run them roughly in stage order, pasting each answer into the next prompt as context.</p>
+        <p class="lede"><span id="tpl-n">Twenty</span> prompts, one per standard artefact. Replace the bracketed parts. Run them roughly in stage order, pasting each answer into the next prompt as context.</p>
       </div>
       <div class="tpl-tabs" id="tpl-tabs" role="group" aria-label="Filter by stage"></div>
       <div class="tpl-list" id="tpl-list"></div>
@@ -380,6 +417,7 @@ footer{max-width:1200px;margin-inline:auto;color:var(--ink-3);font-size:.8rem;bo
       </div>
       <div class="gl-cats" id="gl-cats" role="group" aria-label="Filter by category"></div>
       <div class="gl-grid" id="gl-grid"></div>
+      <div class="more-wrap" id="gl-more"></div>
     </section>
 
     <section id="feedback">
@@ -423,17 +461,48 @@ footer{max-width:1200px;margin-inline:auto;color:var(--ink-3);font-size:.8rem;bo
       <div class="traps" id="trap-list"></div>
     </section>
 
-    <section id="read">
+    <section id="resources">
       <div class="sec-head">
-        <div class="eyebrow">11 · Go deeper</div>
-        <h2>Where to build real depth</h2>
-        <p class="lede">If you read only two, make them Refactoring UI for visual design and Don't Make Me Think for usability. Both are short and practical.</p>
+        <div class="eyebrow">11 · Knowledge</div>
+        <h2>Resource library</h2>
+        <p class="lede"><span id="r-total"></span> hand-picked links: the guidelines, books, galleries, tools and people that working product designers rely on. Each card ends with a line you can paste into a prompt. Last link check: 18 November 2026.</p>
       </div>
-      <div class="reads" id="reads"></div>
+
+      <div class="sub-h">Start here, in this order</div>
+      <ol class="path">
+        <li><strong>See the problems</strong><p>Learn the ten rules every design critique is scored against. After this you can say what is wrong with a screen.</p>
+          <div class="links"><a href="https://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank" rel="noopener noreferrer">10 Usability Heuristics ↗</a></div></li>
+        <li><strong>Learn the names</strong><p>Pick up the psychology principles designers cite by name, one page each.</p>
+          <div class="links"><a href="https://lawsofux.com/" target="_blank" rel="noopener noreferrer">Laws of UX ↗</a></div></li>
+        <li><strong>Judge the visuals</strong><p>Two free reads that turn "it looks off" into specific, fixable rules.</p>
+          <div class="links"><a href="https://www.learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html" target="_blank" rel="noopener noreferrer">7 Rules for Creating Gorgeous UI ↗</a><a href="https://anthonyhobday.com/sideprojects/saferules/" target="_blank" rel="noopener noreferrer">Visual design rules you can safely follow ↗</a></div></li>
+        <li><strong>Know the platform rules</strong><p>Read the comparison once. Then use Apple's and Google's guidelines as lookups for whatever you are designing.</p>
+          <div class="links"><a href="https://www.learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html" target="_blank" rel="noopener noreferrer">iOS vs. Android: The Complete Guide ↗</a><a href="https://developer.apple.com/design/human-interface-guidelines/" target="_blank" rel="noopener noreferrer">Apple Human Interface Guidelines ↗</a><a href="https://m3.material.io/" target="_blank" rel="noopener noreferrer">Material Design 3 ↗</a></div></li>
+        <li><strong>Collect references</strong><p>Find how real products solved your problem, and learn what each component is called.</p>
+          <div class="links"><a href="https://mobbin.com/" target="_blank" rel="noopener noreferrer">Mobbin ↗</a><a href="https://component.gallery/" target="_blank" rel="noopener noreferrer">The Component Gallery ↗</a></div></li>
+        <li><strong>Direct the AI</strong><p>Read the official prompting guide, then practise with the <a href="#builder">prompt builder</a> and judge each result with the <a href="#review">checklist</a>.</p>
+          <div class="links"><a href="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview" target="_blank" rel="noopener noreferrer">Prompt engineering overview ↗</a></div></li>
+      </ol>
+
+      <div class="sub-h">The full library</div>
+      <div class="r-controls">
+        <div class="seg" role="group" aria-label="How much to show">
+          <button type="button" id="r-ess" aria-pressed="true">Essentials</button>
+          <button type="button" id="r-all" aria-pressed="false">Everything</button>
+        </div>
+        <input type="search" id="r-q" placeholder="Search everything, e.g. forms, colour, onboarding, tokens" aria-label="Search resources">
+        <select id="r-type" aria-label="Filter by type"></select>
+        <select id="r-cost" aria-label="Filter by cost">
+          <option value="">Any cost</option><option value="Free">Free</option><option value="Freemium">Free tier, paid extras</option><option value="Paid">Paid</option>
+        </select>
+      </div>
+      <div class="gl-cats" id="r-cats" role="group" aria-label="Filter by topic"></div>
+      <div class="r-status"><span class="count" id="r-count"></span><span id="r-more"></span></div>
+      <div class="r-groups" id="r-groups"></div>
     </section>
   </main>
 </div>
-<footer>Product Design Prompt Kit. Figures follow Apple HIG, Material 3 and WCAG 2.2 as published. Check the live guidelines before shipping.</footer>
+<footer>Product Design Prompt Kit. Figures follow Apple HIG, Material 3 and WCAG 2.2 as published. On 18 November 2026, 186 of the 195 external links were confirmed live; the other nine sites block automated checks. Check the live guidelines before shipping.</footer>
 
 <script>
 (function(){
@@ -469,7 +538,7 @@ const D = [
   ask:'Write a one-page product design brief for [feature]. Include: the problem statement in the user\'s own words, target users and their context of use, the core job-to-be-done, how people cope today, the assumptions we are making ranked by risk, success metrics using the HEART framework (happiness, engagement, adoption, retention, task success), v1 scope, what is explicitly out of scope, and open questions.',
   output:'A structured document with a heading per part. Call out the single riskiest assumption.'},
  {id:'personas',stage:'Discover',name:'Proto-personas and job stories',answers:'Who exactly are we designing for, and in what situation?',when:'You have a rough audience but no research yet.',
-  ask:'Draft 2 to 3 proto-personas for [product], clearly labelled as assumptions to validate. For each: goals, frustrations, context of use (device, place, time pressure, one hand or two), tech comfort, and one job story written as "When [situation], I want to [motivation], so I can [outcome]." Then list which assumptions a user interview should test first.',
+  ask:'Draft 2 to 3 proto-personas for [product], clearly labelled as assumptions to validate. For each: goals, frustrations, context of use (device, place, time pressure, one hand or two), tech comfort, and one job story written as "When <situation>, I want to <motivation>, so I can <outcome>." Then list which assumptions a user interview should test first.',
   output:'One short card per persona, then a ranked list of assumptions to test.'},
  {id:'interview',stage:'Discover',name:'Interview guide',answers:'What should we ask real users so we learn rather than confirm?',when:'Before building, to test the brief.',
   ask:'Write a 30-minute user interview guide to learn how [users] currently [do the job]. Open with a warm-up, then past-behaviour questions ("Tell me about the last time you..."). Avoid leading, yes/no and hypothetical "would you use" questions. Add follow-up probes for each question and a wrap-up. Include a 5-question screener to recruit the right participants.',
@@ -481,7 +550,7 @@ const D = [
   ask:'Create a current-state journey map for [persona] doing [job]. Stages across the top. For each stage list: actions, touchpoints, thoughts, emotional state (low, neutral, high), pain points and opportunities. Highlight the moment of highest friction and explain why.',
   output:'A table with stages as columns, followed by the top three opportunities.'},
  {id:'stories',stage:'Define',name:'Requirements and user stories',answers:'What exactly is in v1, and how will we know each piece is done?',when:'The problem is agreed and you are scoping.',
-  ask:'Turn the brief for [feature] into v1 requirements. Write user stories as "As a [user], I want [action], so that [outcome]", each with acceptance criteria in Given/When/Then form. Prioritise with MoSCoW (must, should, could, won\'t) and list what is deliberately out of scope.',
+  ask:'Turn the brief for [feature] into v1 requirements. Write user stories as "As a <user>, I want <action>, so that <outcome>", each with acceptance criteria in Given/When/Then form. Prioritise with MoSCoW (must, should, could, won\'t) and list what is deliberately out of scope.',
   output:'A prioritised table of stories with acceptance criteria.'},
  {id:'ia',stage:'Define',name:'Information architecture',answers:'How is everything organised and named, and how do people move around?',when:'Before designing navigation or adding a new area.',
   ask:'Propose the information architecture for [product]: a sitemap as a nested list, the primary navigation model and why (tab bar, sidebar, hub-and-spoke, etc.), what lives in global versus local navigation, section names in users\' language rather than internal jargon, and where search fits. Give one alternative structure and the trade-off. Suggest a card-sorting study to validate the naming.',
@@ -490,7 +559,7 @@ const D = [
   ask:'Map the user flow for [task] from entry point to success. Show every screen and decision as a step. Do the happy path first, then branches for: first-time user, no network, validation errors, permission denied, empty data, interrupted mid-task, and undo. Count the taps on the happy path and suggest how to remove at least one.',
   output:'A numbered step list, then a Mermaid flowchart of the whole flow.'},
  {id:'wire',stage:'Develop',name:'Wireframes',answers:'What goes on each screen, in what priority?',when:'The flow is agreed and you want layouts that are cheap to change.',
-  ask:'Produce low-fidelity wireframes for [screens] in the flow above. Greyscale only, real content rather than lorem ipsum, and focus on layout, hierarchy and content priority. Annotate each screen with: the primary action, why key elements sit where they do, and what is hidden behind progressive disclosure.',
+  ask:'Produce low-fidelity wireframes for [screens]. Follow the agreed user flow if I have pasted one. Greyscale only, real content rather than lorem ipsum, and focus on layout, hierarchy and content priority. Annotate each screen with: the primary action, why key elements sit where they do, and what is hidden behind progressive disclosure.',
   output:'Simple HTML wireframes I can open in a browser, with numbered annotations beside each screen.'},
  {id:'hifi',stage:'Develop',name:'High-fidelity mockup',answers:'What does the finished screen look and feel like?',when:'Wireframes are approved.',
   ask:'Design the high-fidelity UI for [screen]. Establish clear visual hierarchy with exactly one primary action. Use an 8-point spacing scale, a defined type scale, and colour roles (primary, surface, on-surface, and semantic success, warning, error). Show these states side by side: default, empty, loading (skeleton), error and success.',
@@ -502,7 +571,7 @@ const D = [
   ask:'Define a starter design system for [product]. Design tokens for: colour (a primitive palette plus semantic roles, in light and dark), typography (type scale with size, line height and weight per step), spacing (4- or 8-point scale), corner radius, elevation, and motion (durations and easing). Then a core component list: button, text input, select, checkbox, switch, card, list row, tabs, modal or sheet, toast, empty state. Brand personality: [three adjectives].',
   output:'Tokens as JSON and as CSS custom properties, then a table of components with their variants.'},
  {id:'component',stage:'Develop',name:'Component spec',answers:'Exactly how does one component look and behave in every case?',when:'Handing a component to engineering, or standardising it.',
-  ask:'Write a full spec for the [component]. Include: anatomy (named parts), variants (for example primary, secondary, tertiary, destructive, and sizes), every state (default, hover, focus-visible, pressed, disabled, loading, selected, error), behaviour rules, content guidelines (label length, truncation), accessibility (role, keyboard interaction, screen-reader label, minimum target size) and do/don\'t examples.',
+  ask:'Write a full spec for [component]. Include: anatomy (named parts), variants (for example primary, secondary, tertiary, destructive, and sizes), every state (default, hover, focus-visible, pressed, disabled, loading, selected, error), behaviour rules, content guidelines (label length, truncation), accessibility (role, keyboard interaction, screen-reader label, minimum target size) and do/don\'t examples.',
   output:'A spec document plus a rendered HTML preview of every variant and state.'},
  {id:'motion',stage:'Develop',name:'Interaction and motion spec',answers:'What happens when the user acts, and how does it feel?',when:'Screens exist but feel static or unclear.',
   ask:'Specify the interactions for [feature]. For each interaction: the trigger, the immediate feedback (within 100 ms), the transition with duration and easing, and what happens on failure. Use optimistic UI where it is safe. Prefer undo over confirmation dialogs for reversible actions. Respect the reduced-motion setting.',
@@ -511,22 +580,32 @@ const D = [
   ask:'Write the microcopy for [flow]: screen titles, button labels (verb first, say what will happen), empty states (what this is, why it is empty, what to do next), error messages (what happened and how to fix it, no blame, no jargon), confirmations, tooltips and onboarding hints. Voice: [voice]. Give two options for each key string with character counts.',
   output:'A table of strings grouped by screen.'},
  {id:'heur',stage:'Deliver',name:'Heuristic review',answers:'What is wrong with this design, and how bad is it?',when:'After every significant AI output, or on your current app.',
-  ask:'Run a heuristic evaluation of [the attached screen or flow] against Nielsen\'s 10 usability heuristics. For each issue: the heuristic violated, where it occurs, severity from 0 (not a problem) to 4 (usability catastrophe), and a concrete fix. Then list the three changes that would most improve the experience.',
+  ask:'Run a heuristic evaluation of [screen], which I have attached or pasted below, against Nielsen\'s 10 usability heuristics. For each issue: the heuristic violated, where it occurs, severity from 0 (not a problem) to 4 (usability catastrophe), and a concrete fix. Then list the three changes that would most improve the experience.',
   output:'An issues table sorted by severity, then the top three fixes.'},
  {id:'a11y',stage:'Deliver',name:'Accessibility audit',answers:'Can everyone use it, including with a screen reader or keyboard?',when:'Before hand-off and before launch.',
-  ask:'Audit [screen] against WCAG 2.2 level AA. Check: text contrast (4.5:1 for normal text, 3:1 for large text and UI parts), focus order and visible focus, keyboard-only operation, screen-reader names and roles, target size, meaning conveyed by colour alone, text enlarged to 200% or Dynamic Type, and reduced motion.',
+  ask:'Audit [screen], which I have attached or pasted below, against WCAG 2.2 level AA. Check: text contrast (4.5:1 for normal text, 3:1 for large text and UI parts), focus order and visible focus, keyboard-only operation, screen-reader names and roles, target size, meaning conveyed by colour alone, text enlarged to 200% or Dynamic Type, and reduced motion.',
   output:'Issues with the WCAG success criterion number, severity and the fix.'},
  {id:'resp',stage:'Deliver',name:'Responsive and platform adaptation',answers:'How does this work on every screen size and platform?',when:'A design exists for one size only.',
   ask:'Adapt [screen] across breakpoints: mobile (about 375 px), tablet (about 768 px) and desktop (1280 px and up). Describe what reflows, what collapses into menus or sheets, what becomes hover versus tap, and how navigation changes (for example a bottom tab bar on mobile and a sidebar on desktop). On native, follow Apple HIG and Material 3 conventions respectively.',
   output:'The screen rendered at each breakpoint, with a list of changes between them.'},
  {id:'test',stage:'Deliver',name:'Usability test plan',answers:'Does it actually work for real people?',when:'You have a clickable prototype.',
-  ask:'Write a moderated usability test plan for [prototype]. Include: goals, criteria for 5 participants, 4 to 6 realistic task scenarios worded without hints, what to observe, a success criterion per task, post-task questions including the Single Ease Question, and how to synthesise findings afterwards.',
+  ask:'Write a moderated usability test plan for a prototype of [feature]. Include: goals, criteria for 5 participants, 4 to 6 realistic task scenarios worded without hints, what to observe, a success criterion per task, post-task questions including the Single Ease Question, and how to synthesise findings afterwards.',
   output:'A test script I can read aloud, plus a note-taking grid.'},
  {id:'handoff',stage:'Deliver',name:'Developer handoff spec',answers:'Can engineering build it without guessing?',when:'The design is final.',
   ask:'Prepare a developer handoff spec for [screen]: layout and spacing in tokens, component names mapped to our library, all states and edge cases, responsive behaviour, interaction and animation values, final copy strings, accessibility notes, analytics events to fire, and open questions for engineering.',
   output:'A spec document organised by screen region, with an open-questions list at the end.'}
 ];
-$('#deliv-body').innerHTML = D.map(d=>`<tr><td class="stage">${d.stage}</td><td><strong>${esc(d.name)}</strong></td><td>${esc(d.answers)}</td><td class="muted">${esc(d.when)}</td></tr>`).join('');
+const LOOKS = {
+ brief:'A one-page written document.', personas:'Short profile cards, one per type of user.', interview:'A question script with timings.',
+ compet:'A comparison table, usually with screenshots.', journey:'A wide table: stages across the top, feelings and pain points down the side.',
+ stories:'A prioritised list of one-line stories, each with pass-or-fail tests.', ia:'A tree diagram of screens, like an organisation chart.',
+ flow:'A boxes-and-arrows flowchart.', wire:'Grey box sketches of each screen, with no colour or styling.', hifi:'Pictures of finished screens, accurate to the pixel.',
+ proto:'Linked screens you can tap through as if the app existed.', system:'A reference of colours, type, spacing and components.',
+ component:'A sheet showing one component in every variant and state.', motion:'A table of triggers and responses, plus short demos.',
+ copy:'A spreadsheet of every string in the interface.', heur:'A list of problems ranked by severity.', a11y:'A list of problems, each tied to a WCAG rule.',
+ resp:'The same screen drawn at three widths.', test:'A script of tasks to give participants, and a note sheet.', handoff:'Annotated screens with measurements and behaviour notes.'
+};
+$('#deliv-body').innerHTML = D.map(d=>`<tr><td class="stage">${d.stage}</td><td><strong>${esc(d.name)}</strong></td><td>${esc(LOOKS[d.id]||'')}</td><td>${esc(d.answers)}</td><td class="muted">${esc(d.when)}</td></tr>`).join('');
 
 const anat = [
  ['Role','Act as a senior product designer.'],
@@ -570,55 +649,85 @@ const CHECKS = [
  ['rationale','Rationale for decisions',true,'For each key decision, give a one-line rationale tied to the user\'s goal or a named UX principle.'],
  ['questions','Clarifying questions first',true,'If anything critical is missing, ask me up to 3 clarifying questions before you start.']
 ];
+const DESIGN_ONLY = ['states','edges','a11y','dark'];
+const DESIGN_IDS = ['flow','wire','hifi','proto','system','component','motion','copy','resp','handoff'];
+const FID_IDS = ['proto','component','resp','motion'];
+const DS_IDS = ['wire','hifi','proto','component','motion','resp','handoff'];
 const fill = (sel, arr) => { $(sel).innerHTML = arr.map(a=>`<option value="${a[0]}">${esc(a[1])}</option>`).join(''); };
 $('#f-deliv').innerHTML = ['Discover','Define','Develop','Deliver'].map(st=>`<optgroup label="${st}">`+D.filter(d=>d.stage===st).map(d=>`<option value="${d.id}">${esc(d.name)}</option>`).join('')+'</optgroup>').join('');
 fill('#f-platform',PLAT); fill('#f-fid',FID); fill('#f-ds',DS);
-$('#f-checks').innerHTML = CHECKS.map(c=>`<label><input type="checkbox" id="c-${c[0]}" ${c[2]?'checked':''}> <span>${esc(c[1])}</span></label>`).join('');
+$('#f-checks').innerHTML = CHECKS.map(c=>`<label id="l-${c[0]}"><input type="checkbox" id="c-${c[0]}" ${c[2]?'checked':''}> <span>${esc(c[1])}</span></label>`).join('');
 
-const fieldIds = ['f-product','f-user','f-job','f-deliv','f-platform','f-fid','f-ds','f-cons'];
+const fieldIds = ['f-product','f-focus','f-user','f-job','f-deliv','f-platform','f-ds','f-cons'];
 const defaults = {};
 fieldIds.forEach(id=>defaults[id]=$('#'+id).value);
-defaults['f-deliv']='hifi'; defaults['f-platform']='ios'; defaults['f-fid']='mid'; defaults['f-ds']='native';
+defaults['f-deliv']='hifi'; defaults['f-platform']='ios'; defaults['f-ds']='native'; defaults.fid='mid';
 CHECKS.forEach(c=>defaults['c-'+c[0]]=c[2]);
+let userFid = 'mid';
 function applyState(st){
   fieldIds.forEach(id=>{ if(st[id]!=null) $('#'+id).value = st[id]; });
   CHECKS.forEach(c=>{ const k='c-'+c[0]; if(st[k]!=null) $('#'+k).checked = !!st[k]; });
+  if(st.fid) userFid = st.fid;
 }
-applyState(Object.assign({}, defaults, store.get('builder')||{}));
+applyState(Object.assign({}, defaults, store.get('builder2')||{}));
 
 function build(){
   const v = id => $('#'+id).value.trim();
   const d = D.find(x=>x.id===v('f-deliv')) || D[0];
   const plat = PLAT.find(p=>p[0]===v('f-platform')) || PLAT[0];
-  const fid = FID.find(p=>p[0]===v('f-fid')) || FID[1];
   const ds = DS.find(p=>p[0]===v('f-ds')) || DS[0];
-  const feature = v('f-product') || '[product and feature]';
-  const ask = d.ask.replace(/\[(feature|product)\]/g, feature.replace(/\.$/,''));
+
+  // fidelity: fixed by wireframes and mockups, a free choice for other visual artefacts, unused elsewhere
+  const fsel = $('#f-fid');
+  const fidLocked = d.id==='wire' || d.id==='hifi', fidUsed = FID_IDS.includes(d.id);
+  fsel.value = d.id==='wire' ? 'lo' : d.id==='hifi' ? 'hi' : userFid;
+  fsel.disabled = fidLocked || !fidUsed;
+  $('#fid-hint').textContent = fidLocked ? 'Set by the artefact you chose.' : fidUsed ? 'How finished the output should look.' : 'Not used for this artefact.';
+  const fid = FID.find(p=>p[0]===fsel.value) || FID[1];
+  const dsUsed = DS_IDS.includes(d.id);
+  $('#f-ds').disabled = !dsUsed;
+  $('#ds-hint').textContent = dsUsed ? '' : 'Not used for this artefact.';
+  const isDesign = DESIGN_IDS.includes(d.id);
+  DESIGN_ONLY.forEach(k=>{ $('#c-'+k).disabled = !isDesign; $('#l-'+k).classList.toggle('off', !isDesign); });
+
+  const product = (v('f-product') || '[product]').replace(/\.$/,'');
+  const focus = (v('f-focus') || '[feature or screen]').replace(/\.$/,'');
+  const map = {feature:focus, screen:focus, screens:focus, flow:focus, task:focus, component:focus, product:product,
+    users:'these users', persona:'the primary user described above', job:'this job', 'do the job':'get this job done',
+    voice:'as described under Constraints', 'three adjectives':'as described under Constraints'};
+  const ask = d.ask.replace(/\[([^\]]+)\]/g, (m,k)=> map[k]!==undefined ? map[k] : m);
+
   const L = [];
   L.push('Act as a senior product designer.','','CONTEXT');
-  L.push('Product: '+feature);
-  L.push('Users: '+(v('f-user')||'[who, and their situation]'));
+  L.push('Product: '+product);
+  L.push('In focus: '+focus);
+  L.push('Users: '+(v('f-user')||'[who the users are, and their situation]'));
   L.push('Job to be done: '+(v('f-job')||'[what they need to get done, and what success looks like]'));
   L.push('Platform: '+plat[2]);
   L.push('','TASK: '+d.name.toUpperCase(), ask);
-  if(['wire','hifi','proto','system','component','resp','motion'].includes(d.id)) L.push('','Fidelity: '+fid[2]);
-  L.push('Design system: '+ds[2]);
+  if(fidUsed) L.push('','Fidelity: '+fid[2]);
+  if(dsUsed) L.push((fidUsed?'':'\n')+'Design system: '+ds[2]);
   if(v('f-cons')) L.push('','CONSTRAINTS AND REFERENCES', v('f-cons'));
-  const extras = CHECKS.filter(c=>$('#c-'+c[0]).checked && c[0]!=='questions');
+  const extras = CHECKS.filter(c=>c[0]!=='questions' && $('#c-'+c[0]).checked && (isDesign || !DESIGN_ONLY.includes(c[0])));
   if(extras.length){ L.push('','REQUIREMENTS'); extras.forEach(c=>L.push('- '+c[3])); }
   L.push('','OUTPUT', d.output);
   if($('#c-questions').checked) L.push('', CHECKS[CHECKS.length-1][3]);
   const txt = L.join('\n');
   $('#built').textContent = txt;
   $('#wc').textContent = txt.split(/\s+/).filter(Boolean).length+' words';
-  const st={}; fieldIds.forEach(id=>st[id]=$('#'+id).value); CHECKS.forEach(c=>st['c-'+c[0]]=$('#c-'+c[0]).checked);
-  store.set('builder', st);
+  const left = [...new Set(txt.match(/\[[^\]\n]{2,60}\]/g)||[])];
+  const todo = $('#todo');
+  todo.hidden = !left.length;
+  todo.innerHTML = left.length ? 'Still to fill in before you send: '+left.map(x=>'<code>'+esc(x)+'</code>').join(', ') : '';
+  const st={fid:userFid}; fieldIds.forEach(id=>st[id]=$('#'+id).value); CHECKS.forEach(c=>st['c-'+c[0]]=$('#c-'+c[0]).checked);
+  store.set('builder2', st);
 }
-$('#bform').addEventListener('input', build);
-$('#bform').addEventListener('change', build);
+const onForm = e => { if(e.target && e.target.id==='f-fid') userFid = e.target.value; build(); };
+$('#bform').addEventListener('input', onForm);
+$('#bform').addEventListener('change', onForm);
 $('#bform').addEventListener('submit', e=>e.preventDefault());
 $('#copy-built').addEventListener('click', ()=>copyText($('#built').textContent, $('#built')));
-$('#reset').addEventListener('click', ()=>{ applyState(defaults); build(); toast('Reset to the example'); });
+$('#reset').addEventListener('click', ()=>{ userFid='mid'; applyState(defaults); build(); toast('Reset to the example'); });
 build();
 
 function tplText(d){
@@ -634,6 +743,7 @@ Output: ${d.output} Give a one-line rationale for each key decision.
 
 If anything critical is missing, ask me up to 3 clarifying questions before you start.`;
 }
+$('#tpl-n').textContent = D.length;
 let tplStage = 'All';
 $('#tpl-tabs').innerHTML = ['All','Discover','Define','Develop','Deliver'].map(s=>`<button type="button" data-s="${s}" aria-pressed="${s==='All'}">${s}</button>`).join('');
 function renderTpl(){
@@ -730,14 +840,18 @@ const G = [
  ['Laws','Von Restorff effect','The item that differs is the one remembered, so reserve distinctiveness for what matters.','Make only the primary action visually distinct.']
 ];
 const CAT_LABEL = {Strategy:'Strategy & research',Structure:'Structure & flow',Visual:'Layout & visual',System:'Design systems',Interaction:'Interaction',Mobile:'Mobile',Access:'Accessibility',Content:'Content',Validate:'Validation & handoff',Laws:'Laws of UX'};
-let gCat='All';
+let gCat='All', gAll=false;
 $('#gl-cats').innerHTML = ['All',...Object.keys(CAT_LABEL)].map(c=>`<button type="button" data-c="${c}" aria-pressed="${c==='All'}">${c==='All'?'All':CAT_LABEL[c]}</button>`).join('');
 function renderG(){
   const q = $('#gl-q').value.trim().toLowerCase();
-  const list = G.filter(g=>(gCat==='All'||g[0]===gCat) && (!q || (g[1]+' '+g[2]+' '+g[3]).toLowerCase().includes(q)));
-  $('#gl-count').textContent = list.length+' of '+G.length+' terms';
+  const found = G.filter(g=>(gCat==='All'||g[0]===gCat) && (!q || (g[1]+' '+g[2]+' '+g[3]).toLowerCase().includes(q)));
+  const short = !q && gCat==='All' && !gAll;
+  const list = short ? found.slice(0,12) : found;
+  $('#gl-count').textContent = (short ? 'First '+list.length : list.length)+' of '+G.length+' terms';
   $('#gl-grid').innerHTML = list.length ? list.map(g=>`<article class="term"><div class="term-top"><h3>${esc(g[1])}</h3><span class="cat">${CAT_LABEL[g[0]]}</span></div><p>${esc(g[2])}</p><div class="say">${esc(g[3])}</div></article>`).join('') : '<p class="gl-empty">No terms match. Try a broader word.</p>';
+  $('#gl-more').innerHTML = short ? `<button type="button" class="btn ghost" id="gl-more-btn">Show all ${G.length} terms</button>` : '';
 }
+$('#gl-more').addEventListener('click', e=>{ if(e.target.closest('button')){ gAll=true; renderG(); } });
 $('#gl-q').addEventListener('input', renderG);
 $('#gl-cats').addEventListener('click', e=>{ const b=e.target.closest('button'); if(!b) return; gCat=b.dataset.c; $('#gl-cats').querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed', String(x===b))); renderG(); });
 renderG();
@@ -819,18 +933,283 @@ const T = [
 ];
 $('#trap-list').innerHTML = T.map(t=>`<div class="trap"><div class="from">${esc(t[0])}</div><div class="to">${esc(t[1])}</div><p>${esc(t[2])}</p></div>`).join('');
 
-const R = [
- ['Refactoring UI','Adam Wathan and Steve Schoger','Visual design tactics for non-designers: hierarchy, spacing, colour, depth. The fastest route to judging UI.','Visual'],
- ['Don\'t Make Me Think','Steve Krug','Usability basics in a weekend read. Teaches you to spot friction.','Usability'],
- ['The Design of Everyday Things','Don Norman','Affordances, signifiers, feedback and mental models. Where much of the vocabulary comes from.','Foundations'],
- ['Laws of UX','Jon Yablonski · lawsofux.com','Short, illustrated psychology principles you can name in prompts.','Principles'],
- ['Apple Human Interface Guidelines','developer.apple.com/design','The rules for iOS. Read Foundations, Patterns and Components.','iOS'],
- ['Material Design 3','m3.material.io','The rules for Android, and a strong general component reference.','Android'],
- ['Nielsen Norman Group articles','nngroup.com/articles','Research-backed articles on almost every UX question.','Research'],
- ['Mobbin','mobbin.com','A library of real app screens and flows. Find references to name in prompts.','References'],
- ['WCAG 2.2 quick reference','w3.org/WAI/WCAG22/quickref','The accessibility success criteria, filterable by level.','Accessibility']
+const RES = [
+// ---------- Foundations ----------
+["found","Laws of UX","https://lawsofux.com/","Jon Yablonski","Reference","Free",1,"The psychology principles behind good interfaces, one clear page each. The quickest way to learn the names designers cite.","Which Laws of UX does this screen break? Name each one and fix it."],
+["found","10 Usability Heuristics for User Interface Design","https://www.nngroup.com/articles/ten-usability-heuristics/","Jakob Nielsen · NN/g","Article","Free",1,"The ten rules every heuristic review is scored against, with examples. Read it before you ask an AI to critique anything.","Review this flow against Nielsen's 10 heuristics, with severity from 0 to 4."],
+["found","NN/g article library","https://www.nngroup.com/articles/","Nielsen Norman Group","Reference","Free",0,"Thousands of research-backed articles. Search any pattern name here before you design it.","Follow NN/g guidance on bottom sheets and tell me where you deviate, and why."],
+["found","The Design of Everyday Things","https://jnd.org/books/","Don Norman","Book","Paid",0,"The origin of affordance, signifier, feedback and mental model. Chapters 1 and 2 give you most of the vocabulary.","Where does this design lack a signifier, and where is feedback missing?"],
+["found","Don't Make Me Think","https://sensible.com/dont-make-me-think/","Steve Krug","Book","Paid",1,"Usability basics in a weekend read. It trains you to notice friction, which is what makes your feedback prompts sharp.","Apply Krug's first law: what on this screen makes a new user stop and think?"],
+["found","Refactoring UI","https://www.refactoringui.com/","Adam Wathan & Steve Schoger","Book","Paid",1,"Visual design tactics for people who aren't designers: hierarchy, spacing, colour, depth. The fastest route to judging UI quality.","De-emphasise the secondary content instead of emphasising the primary action further."],
+["found","7 Rules for Creating Gorgeous UI","https://www.learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html","Erik Kennedy","Article","Free",1,"A free two-part crash course in visual design, written by an engineer who taught himself. Covers light, contrast, whitespace and text over images.","Light comes from the sky: check that every shadow and highlight is consistent."],
+["found","The Elements of User Experience","http://www.jjg.net/elements/pdf/elements.pdf","Jesse James Garrett","Reference","Free",0,"The original one-page diagram of the five planes used in section 01 of this kit.","Which plane is this decision on, and have the planes beneath it been settled?"],
+["found","The Double Diamond","https://www.designcouncil.org.uk/resources/the-double-diamond/","Design Council","Reference","Free",0,"The source of the Discover, Define, Develop, Deliver stages used throughout this kit.","We are in Define. Don't propose solutions yet; narrow the problem."],
+["found","Shape Up","https://basecamp.com/shapeup","Ryan Singer · Basecamp","Book","Free",0,"How to shape work before design starts: appetite, breadboards and fat-marker sketches. Free to read online.","Breadboard this feature: places, affordances and connection lines, with no visuals."],
+["found","Checklist Design","https://www.checklist.design/","George Hatzis","Reference","Free",0,"Checklists of what a login page, a modal, a table and dozens of other pages and components should contain.","Check this sign-up flow against a best-practice checklist and list what is missing."],
+["found","Design Principles","https://principles.design/","Ben Brignell","Reference","Free",0,"An open collection of product design principles from many teams. Useful raw material for writing your own.","Draft five design principles for Loom, each naming the trade-off it settles."],
+["found","Government Design Principles","https://www.gov.uk/guidance/government-design-principles","UK Government Digital Service","Guideline","Free",0,"Ten short principles, starting with user needs and doing less. A model of how to write principles that settle arguments.","Apply 'do the hard work to make it simple': what complexity can the system absorb?"],
+["found","Growth.design case studies","https://growth.design/case-studies","Dan Benoni & Louis-Xavier Lavallée","Case studies","Free",1,"Comic-style teardowns of real product flows, each tied to named psychology principles. Enjoyable and dense with vocabulary.","Tear down our onboarding in the style of a Growth.design case study."],
+["found","Built for Mars","https://builtformars.com/","Peter Ramsey","Case studies","Free",0,"Long, careful UX case studies of well-known apps, counting clicks and naming each friction point.","Count the steps in this flow and benchmark it against the best in class."],
+["found","Deceptive Patterns","https://www.deceptive.design/","Harry Brignull","Reference","Free",0,"A catalogue of manipulative interface tricks, with the laws they break. Know them so you can refuse them.","Check this cancellation flow for deceptive patterns and remove any you find."],
+["found","Humane by Design","https://humanebydesign.com/","Jon Yablonski","Reference","Free",0,"Principles for products that respect attention and wellbeing. A good fit for a calm notes app.","Review this notification design against humane design principles."],
+["found","Interaction Design Foundation: topics","https://ixdf.org/literature/topics","IxDF","Reference","Free",0,"Encyclopaedia-style explanations of almost every UX term, each with further reading.","Explain this concept the way IxDF would, then apply it to my screen."],
+["found","GOV.UK Service Manual","https://www.gov.uk/service-manual","UK Government Digital Service","Guideline","Free",0,"How a mature team runs design from discovery to live service. Plain, practical and tested at national scale.","What would a GOV.UK service assessment ask about this design at alpha stage?"],
+
+// ---------- Platform guidelines ----------
+["platform","Apple Human Interface Guidelines","https://developer.apple.com/design/human-interface-guidelines/","Apple","Guideline","Free",1,"The rulebook for iOS, iPadOS and macOS. Read Foundations first, then the component page for whatever you are designing.","Follow Apple HIG for sheets: detents, grabber, and dismissal behaviour."],
+["platform","Apple HIG: Patterns","https://developer.apple.com/design/human-interface-guidelines/patterns","Apple","Guideline","Free",0,"Apple's guidance on whole behaviours: onboarding, searching, entering data, managing notifications, going full screen.","Design the first-run experience to match HIG onboarding guidance."],
+["platform","Apple Design Resources","https://developer.apple.com/design/resources/","Apple","Kit","Free",0,"Official Figma and Sketch UI kits, templates and fonts for every Apple platform.","Use components that exist in Apple's iOS UI kit before inventing custom ones."],
+["platform","Apple design videos","https://developer.apple.com/videos/design/","Apple","Video","Free",0,"WWDC design sessions. Search for 'Designing Fluid Interfaces' and 'Essential Design Principles'.","Apply the principles from Apple's Essential Design Principles talk to this flow."],
+["platform","Material Design 3","https://m3.material.io/","Google","Guideline","Free",1,"The rulebook for Android and a strong general reference. Each component page has anatomy, specs and do/don't examples.","Use Material 3 components and tokens; cite the component spec you followed."],
+["platform","Material 3: Components","https://m3.material.io/components","Google","Guideline","Free",0,"Every Material component with usage guidance, measurements and accessibility notes.","Use a Material 3 modal bottom sheet and follow its spec for the drag handle."],
+["platform","Android: design for mobile","https://developer.android.com/design/ui/mobile","Google","Guideline","Free",0,"Android-specific layout, navigation, widgets and system behaviours such as edge-to-edge and predictive back.","Support Android edge-to-edge and predictive back in this layout."],
+["platform","Fluent 2","https://fluent2.microsoft.design/","Microsoft","Guideline","Free",0,"Microsoft's system for Windows, web and cross-platform apps. Strong on dense, productivity-style interfaces.","Use Fluent 2 patterns for this dense desktop table view."],
+["platform","iOS vs. Android App UI Design: The Complete Guide","https://www.learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html","Erik Kennedy","Article","Free",1,"A side-by-side comparison of navigation, controls, typography and conventions on the two platforms. Expands the table in this kit.","List every place this iOS design must change to feel native on Android."],
+["platform","Learn Responsive Design","https://web.dev/learn/design","Google · web.dev","Course","Free",0,"A free course on layouts that adapt: media queries, fluid type, responsive images and interaction differences.","Make this layout fluid between breakpoints, not just fixed at three sizes."],
+["platform","Responsive Web Design","https://alistapart.com/article/responsive-web-design/","Ethan Marcotte · A List Apart","Article","Free",0,"The 2010 article that named the idea. Short, and still the clearest statement of why layouts should flex.","Design mobile-first, then enhance for wider screens."],
+["platform","Web Interface Guidelines","https://vercel.com/design/guidelines","Vercel","Guideline","Free",0,"A terse, opinionated checklist of details that make web interfaces feel good: focus, forms, loading, motion and touch.","Audit this web UI against Vercel's Web Interface Guidelines."],
+["platform","How Do Users Really Hold Mobile Devices?","https://www.uxmatters.com/mt/archives/2013/02/how-do-users-really-hold-mobile-devices.php","Steven Hoober · UXmatters","Article","Free",0,"The field study behind the thumb zone: how people actually grip and touch their phones.","Place the three most frequent actions where a one-handed thumb reaches."],
+["platform","Mobile UX: study guide","https://www.nngroup.com/articles/mobile-ux-study-guide/","NN/g","Reference","Free",0,"An index of NN/g's mobile articles and videos, grouped by topic.","Follow NN/g mobile guidance for this form: input types, labels and keyboards."],
+
+// ---------- Design systems ----------
+["systems","GOV.UK Design System","https://design-system.service.gov.uk/","UK Government Digital Service","Guideline","Free",1,"Every component and pattern comes with the research behind it. The best example of plain, accessible, tested design.","Use the GOV.UK 'one thing per page' pattern for this multi-step form."],
+["systems","shadcn/ui","https://ui.shadcn.com/","shadcn","Kit","Free",1,"The component set most AI builders reach for by default. Knowing its component names lets you ask for them directly.","Build with shadcn/ui: Sheet, Command, Toast and Skeleton. No custom components."],
+["systems","The Component Gallery","https://component.gallery/","Iain Bean","Reference","Free",1,"Every common component, what it is called in each major design system, and links to all their versions. Invaluable for naming things.","What do the major design systems call this pattern, and how do they handle it?"],
+["systems","IBM Carbon","https://www.carbondesignsystem.com/","IBM","Guideline","Free",0,"A rigorous enterprise system. Especially good on data tables, forms and dense layouts.","Use Carbon's data table patterns: sorting, batch actions and inline edit."],
+["systems","Atlassian Design System","https://atlassian.design/","Atlassian","Guideline","Free",0,"Clear foundations for tokens, spacing and colour roles, with good writing on naming.","Name colour tokens by role, the way Atlassian does, not by hue."],
+["systems","Adobe Spectrum","https://spectrum.adobe.com/","Adobe","Guideline","Free",0,"A system built for creative tools. Good on colour, density scales and complex controls.","Offer medium and large scale variants, as Spectrum does for touch."],
+["systems","GitHub Primer","https://primer.style/","GitHub","Guideline","Free",0,"A developer-tool system with thoughtful UI patterns for lists, navigation and saving.","Follow Primer's guidance on saving patterns: explicit save versus autosave."],
+["systems","U.S. Web Design System","https://designsystem.digital.gov/","U.S. General Services Administration","Guideline","Free",0,"Accessible components and design principles with usability guidance on each one.","Use USWDS form guidance: labels above fields, hints, and error placement."],
+["systems","Radix Primitives","https://www.radix-ui.com/primitives","WorkOS","Kit","Free",0,"Unstyled, accessible building blocks that shadcn/ui sits on. The docs show correct keyboard behaviour for each.","Match the keyboard interaction Radix documents for this dropdown menu."],
+["systems","Tailwind CSS","https://tailwindcss.com/","Tailwind Labs","Tool","Free",0,"The utility CSS framework most AI builders output. Its default spacing, type and colour scales are a ready-made token set.","Use only Tailwind's default spacing scale; no arbitrary pixel values."],
+["systems","Atomic Design","https://atomicdesign.bradfrost.com/table-of-contents/","Brad Frost","Book","Free",0,"The book that gave design systems their vocabulary: atoms, molecules, organisms, templates, pages. Free to read online.","Break this screen into atoms, molecules and organisms, and name each."],
+["systems","Design Tokens Community Group","https://www.designtokens.org/","W3C Community Group","Reference","Free",0,"The emerging standard file format for design tokens, so tools and code can share them.","Output tokens in the Design Tokens Community Group JSON format."],
+["systems","Material 3: Design tokens","https://m3.material.io/foundations/design-tokens/overview","Google","Guideline","Free",0,"The clearest explanation of reference, system and component tokens, and why the layers matter.","Structure tokens in three tiers: reference, system and component."],
+["systems","Design Systems Repo","https://designsystemsrepo.com/","Jad Limcaco","Gallery","Free",0,"A directory of public design systems, plus articles and talks on building them.","Show me how three public design systems specify a toast."],
+["systems","Design System Checklist","https://www.designsystemchecklist.com/","Arturo Ríos","Reference","Free",0,"A checklist of everything a design system should define, from colour to tooling.","Which items on a design system checklist are we missing for v1?"],
+["systems","Storybook","https://storybook.js.org/","Storybook","Tool","Free",0,"The standard workshop for building and documenting components in isolation, one state at a time.","Write a Storybook story for every variant and state of this component."],
+["systems","Open UI","https://open-ui.org/","W3C Community Group","Reference","Free",0,"Research into how components behave across design systems, feeding new web standards.","What does Open UI's research say about how a combobox should behave?"],
+
+// ---------- Pattern and flow galleries ----------
+["gallery","Mobbin","https://mobbin.com/","Mobbin","Gallery","Freemium",1,"The largest searchable library of real app screens and full flows, for iOS, Android and web. The best source of references to name in prompts.","Model the capture flow on how Things 3 and Bear handle quick entry."],
+["gallery","Page Flows","https://pageflows.com/","Page Flows","Gallery","Freemium",0,"Screen recordings of complete user flows such as onboarding, upgrading and cancelling, from well-known products.","Compare our onboarding with three recorded flows and list the differences."],
+["gallery","Refero","https://refero.design/","Refero","Gallery","Freemium",0,"A large, well-tagged library of web app screens, searchable by page type and component.","Find the common structure of settings pages and apply it here."],
+["gallery","Nicelydone","https://nicelydone.club/","Nicelydone","Gallery","Freemium",0,"Flows and components from SaaS products, tagged by pattern.","How do leading SaaS products design their upgrade prompts?"],
+["gallery","UI Patterns","https://ui-patterns.com/patterns","Anders Toxboe","Reference","Free",0,"A pattern library that explains the problem each pattern solves and when to use it, not just what it looks like.","Which named UI pattern solves this problem, and when should it not be used?"],
+["gallery","GOV.UK patterns","https://design-system.service.gov.uk/patterns/","UK Government Digital Service","Guideline","Free",0,"Tested solutions to whole tasks: asking for names, dates and addresses, confirming, checking answers.","Use the GOV.UK 'check answers' pattern before the user submits."],
+["gallery","Baymard Institute","https://baymard.com/blog","Baymard Institute","Reference","Freemium",0,"Large-scale usability research on forms, search, checkout and navigation. The benchmark for any form you design.","Apply Baymard's form findings: single column, labels above, inline validation."],
+["gallery","UserOnboard","https://www.useronboard.com/user-onboarding-teardowns/","Samuel Hulick","Case studies","Free",0,"Slide-by-slide teardowns of how popular apps welcome new users.","Tear down our first-run experience screen by screen, in the UserOnboard style."],
+["gallery","Figma Community","https://www.figma.com/community","Figma","Gallery","Free",0,"Free UI kits, wireframe kits, icon sets and templates you can copy and adapt.","Start from a community wireframe kit, not a blank canvas."],
+["gallery","Land-book","https://land-book.com/","Land-book","Gallery","Free",0,"A curated gallery of landing pages, filterable by style and industry.","Give me three landing page structures used by notes and productivity apps."],
+["gallery","Recent","https://recent.design/","Recent (formerly Godly)","Gallery","Free",0,"High-end web design references, strong on motion and art direction.","Use this site's typographic restraint as the reference for our marketing page."],
+["gallery","Lapa Ninja","https://www.lapa.ninja/","Lapa Ninja","Gallery","Free",0,"Thousands of landing pages with full-page screenshots, by category.","What sections do the best SaaS landing pages include, in what order?"],
+["gallery","Dribbble","https://dribbble.com/","Dribbble","Gallery","Free",0,"Visual design shots. Good for style direction, weak for real usability, so treat it as mood, not evidence.","Borrow the visual tone of this shot, but keep the layout from our wireframe."],
+
+// ---------- Research and strategy ----------
+["research","The Mom Test","https://www.momtestbook.com/","Rob Fitzpatrick","Book","Paid",1,"How to ask customers questions they can't answer politely and falsely. The best short book on interviewing.","Rewrite these interview questions so they pass the Mom Test."],
+["research","UX Research Cheat Sheet","https://www.nngroup.com/articles/ux-research-cheat-sheet/","NN/g","Article","Free",1,"Which research method to use at each stage of a project, on one page.","Which research method fits where we are, and what would it cost us to skip it?"],
+["research","Why You Only Need to Test with 5 Users","https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/","Jakob Nielsen · NN/g","Article","Free",0,"The reasoning behind small, frequent usability tests. Explains why five people find most problems.","Plan three rounds of five-person tests, not one large study."],
+["research","Journey Mapping 101","https://www.nngroup.com/articles/journey-mapping-101/","NN/g","Article","Free",0,"What a journey map contains, with a worked example and common variations.","Build a journey map with the lanes NN/g describes: actions, mindsets, emotions, opportunities."],
+["research","Card Sorting","https://www.nngroup.com/articles/card-sorting-definition/","NN/g","Article","Free",0,"How to find out how users group and name things, the basis of good navigation.","Design an open card sort for our note types, with 30 cards."],
+["research","Know Your Customers' Jobs to Be Done","https://hbr.org/2016/09/know-your-customers-jobs-to-be-done","Clayton Christensen et al. · HBR","Article","Freemium",0,"The article that made jobs-to-be-done mainstream, including the milkshake story.","What job is someone hiring Quick Capture to do, and what do they fire to do it?"],
+["research","Designing features using Job Stories","https://www.intercom.com/blog/using-job-stories-design-features-ui-ux/","Alan Klement · Intercom","Article","Free",0,"The article that introduced the job story format used in this kit: when, I want to, so I can.","Write job stories, not user stories, for this feature."],
+["research","Measuring the User Experience on a Large Scale","https://research.google/pubs/measuring-the-user-experience-on-a-large-scale-user-centered-metrics-for-web-applications/","Kerry Rodden, Hilary Hutchinson & Xin Fu · Google","Article","Free",0,"The original paper behind the HEART framework and the goals-signals-metrics process.","For each HEART category, give me a goal, a signal and a metric."],
+["research","Personas vs. Jobs-to-Be-Done","https://www.nngroup.com/articles/personas-jobs-be-done/","NN/g","Article","Free",0,"When to describe who the user is, when to describe what they are trying to do, and why you usually want both.","Give me one persona and the three jobs they hire this product for."],
+["research","Product Talk","https://www.producttalk.org/","Teresa Torres","Blog","Free",0,"Continuous discovery: weekly customer conversations and opportunity solution trees that link outcomes to ideas.","Draw an opportunity solution tree from this outcome down to testable ideas."],
+["research","The Design Sprint","https://www.gv.com/sprint/","GV","Reference","Free",0,"A five-day process for going from a problem to a tested prototype. Useful as a template for compressing work.","Run a compressed design sprint on this problem: map, sketch, decide, prototype, test."],
+["research","IDEO Design Kit: Methods","https://www.designkit.org/methods.html","IDEO.org","Reference","Free",0,"Step-by-step instructions for dozens of human-centred design methods.","Run the 'Five Whys' on this user complaint."],
+["research","UX Research Field Guide","https://www.userinterviews.com/ux-research-field-guide","User Interviews","Reference","Free",0,"A free, well-organised guide to planning, recruiting, running and synthesising research.","Write a research plan with objectives, method, participants and timeline."],
+["research","GOV.UK: User research","https://www.gov.uk/service-manual/user-research","UK Government Digital Service","Guideline","Free",0,"Practical guides to every research activity, written for teams doing it for the first time.","Write a discussion guide the way the GOV.UK Service Manual recommends."],
+["research","Usability test script","https://sensible.com/download-files/","Steve Krug","Kit","Free",0,"The free test script, checklist and consent form from Rocket Surgery Made Easy. Ready to use as written.","Adapt Krug's usability test script for our capture prototype."],
+["research","MeasuringU","https://measuringu.com/blogs/","Jeff Sauro & Jim Lewis","Blog","Free",0,"The reference for UX measurement: the System Usability Scale, the Single Ease Question, sample sizes.","Add the System Usability Scale to the end of the test and explain how to score it."],
+["research","SVPG articles","https://www.svpg.com/articles/","Marty Cagan · Silicon Valley Product Group","Blog","Free",0,"How strong product teams work: discovery versus delivery, the four product risks, empowered teams.","Assess this idea against the four risks: value, usability, feasibility, viability."],
+["research","Maze","https://maze.co/","Maze","Tool","Freemium",0,"Run unmoderated tests on prototypes and get task success rates and click paths.","Write three Maze missions with success paths for this prototype."],
+["research","Lyssna","https://www.lyssna.com/","Lyssna","Tool","Freemium",0,"Quick tests with real people: five-second tests, first-click tests, preference tests and surveys.","Design a five-second test for this home screen: what should people recall?"],
+["research","Optimal Workshop","https://www.optimalworkshop.com/","Optimal Workshop","Tool","Freemium",0,"The standard tools for card sorting and tree testing, to validate navigation before you build it.","Write ten tree-test tasks to validate this sitemap."],
+
+// ---------- Visual craft ----------
+["visual","Visual design rules you can safely follow every time","https://anthonyhobday.com/sideprojects/saferules/","Anthony Hobday","Article","Free",1,"About thirty concrete rules, each with a picture: near-black not black, spacing in multiples, nested corner radii. Perfect for turning into prompt constraints.","Follow Anthony Hobday's safe rules; list any you chose to break."],
+["visual","Practical Typography","https://practicaltypography.com/","Matthew Butterick","Book","Free",1,"Read 'Typography in ten minutes' and 'Summary of key rules'. They cover line length, line spacing and font choice, which is most of what matters.","Keep body text to 45 to 90 characters per line with line spacing of 120 to 145%."],
+["visual","Color in UI Design: A (Practical) Framework","https://www.learnui.design/blog/color-in-ui-design-a-practical-framework.html","Erik Kennedy","Article","Free",0,"How to build a whole interface from one hue by varying brightness and saturation.","Derive all UI colours from one brand hue plus neutrals, with darker and lighter variations."],
+["visual","Google Fonts Knowledge","https://fonts.google.com/knowledge","Google","Reference","Free",0,"Clear lessons on choosing and pairing type, readability and variable fonts.","Pair one display face with one text face and justify the pairing."],
+["visual","Typescale","https://typescale.com/","Jeremy Church","Tool","Free",0,"Pick a base size and ratio, preview the whole scale and export it.","Use a 1.25 ratio type scale from a 16 px base, five steps."],
+["visual","Utopia","https://utopia.fyi/","James Gilyead & Trys Mudford","Tool","Free",0,"Fluid type and spacing scales that grow smoothly with the screen, with no breakpoints.","Use fluid type with clamp() between 375 and 1280 px viewports."],
+["visual","Fontshare","https://www.fontshare.com/","Indian Type Foundry","Tool","Free",0,"High-quality typefaces that are free for commercial use. An alternative to the over-used defaults.","Suggest two free typefaces that feel calm and literary, not techy."],
+["visual","Fonts In Use","https://fontsinuse.com/","Fonts In Use","Gallery","Free",0,"Real-world typography, indexed by typeface and industry.","Show how this typeface is used in editorial products."],
+["visual","Material 3: Color system","https://m3.material.io/styles/color/system/overview","Google","Guideline","Free",0,"How colour roles work: primary, surface, container and the 'on' colours that sit on top of them.","Define colour roles as primary, on-primary, surface and on-surface."],
+["visual","Radix Colors","https://www.radix-ui.com/colors","WorkOS","Tool","Free",0,"Twelve-step colour scales where each step has a defined job, with matched dark-mode scales.","Use a 12-step scale: steps 1–2 backgrounds, 6–8 borders, 11–12 text."],
+["visual","Realtime Colors","https://www.realtimecolors.com/","Juxtopposed","Tool","Free",0,"Try a palette and font pairing on a realistic page layout instantly.","Propose text, background, primary, secondary and accent colours I can preview."],
+["visual","Leonardo","https://leonardocolor.io/","Adobe","Tool","Free",0,"Generate colour scales by target contrast ratio, so accessibility is built into the palette.","Generate a palette where every step is defined by its contrast against the background."],
+["visual","OKLCH Color Picker","https://oklch.com/","Evil Martians","Tool","Free",0,"A picker for the OKLCH colour space, where equal lightness numbers look equally light.","Define the palette in OKLCH so lightness steps are perceptually even."],
+["visual","Coolors","https://coolors.co/","Coolors","Tool","Freemium",0,"A fast palette generator with contrast checking and colour-blindness preview.","Give me three palette options, each with a neutral scale and one accent."],
+["visual","Lucide","https://lucide.dev/","Lucide","Kit","Free",0,"A clean, consistent open-source icon set. The default in shadcn/ui.","Use Lucide icons at 20 px with a 1.5 px stroke throughout."],
+["visual","Phosphor Icons","https://phosphoricons.com/","Phosphor","Kit","Free",0,"A flexible icon family in six weights, including duotone and fill.","Use Phosphor regular for default and fill for the selected tab."],
+["visual","Material Symbols","https://fonts.google.com/icons","Google","Kit","Free",0,"Google's variable icon set, with adjustable weight, fill and optical size.","Use Material Symbols rounded, weight 400, filled when active."],
+["visual","SF Symbols","https://developer.apple.com/sf-symbols/","Apple","Kit","Free",0,"Apple's icon library, designed to align with the system font. Required knowledge for native iOS.","Use SF Symbols names for every icon so they match Dynamic Type."],
+["visual","Heroicons","https://heroicons.com/","Tailwind Labs","Kit","Free",0,"Outline and solid icons from the makers of Tailwind.","Use Heroicons outline at 24 px for navigation."],
+["visual","Every Layout","https://every-layout.dev/","Heydon Pickering & Andy Bell","Reference","Freemium",0,"A small set of composable layout patterns that adapt without breakpoints: stack, cluster, sidebar, switcher.","Compose this page from stack, cluster and sidebar layout primitives."],
+["visual","Space in Design Systems","https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62","Nathan Curtis · EightShapes","Article","Free",0,"The classic article on naming and applying spacing: inset, stack and inline.","Define inset, stack and inline spacing tokens and use only those."],
+["visual","From Data to Viz","https://www.data-to-viz.com/","Yan Holtz & Conor Healy","Reference","Free",0,"A decision tree for choosing the right chart from the shape of your data.","Which chart type fits this data, and which common mistake should we avoid?"],
+
+// ---------- Interaction and motion ----------
+["motion","Designing Fluid Interfaces","https://developer.apple.com/videos/play/wwdc2018/803/","Apple · WWDC 2018","Video","Free",1,"The talk that explains why iOS gestures feel right: interruptible, direct and responsive from the first frame.","Make the sheet interruptible and redirectable mid-gesture."],
+["motion","Invisible Details of Interaction Design","https://rauno.me/craft/interaction-design","Rauno Freiberg","Article","Free",0,"A close reading of small interaction decisions in iOS and elsewhere, and why each one is right.","Explain the interaction details that would make this gesture feel natural."],
+["motion","7 Practical Animation Tips","https://emilkowal.ski/ui/7-practical-animation-tips","Emil Kowalski","Article","Free",0,"Short, concrete rules: scale buttons on press, don't animate from zero, keep it under 300 ms.","Apply these animation rules: ease-out, under 300 ms, and scale from 0.95 not 0."],
+["motion","Material 3: Motion","https://m3.material.io/styles/motion/overview/how-it-works","Google","Guideline","Free",0,"Easing and duration tokens, and the transition patterns that explain where things come from and go to.","Use Material's standard easing and duration tokens for every transition."],
+["motion","Apple HIG: Motion","https://developer.apple.com/design/human-interface-guidelines/motion","Apple","Guideline","Free",0,"When to animate, when not to, and how to honour Reduce Motion.","Add purposeful motion only, and give a Reduce Motion alternative for each."],
+["motion","Easings","https://easings.net/","Andrey Sitnik & Ivan Solovev","Reference","Free",0,"A visual cheat sheet of easing curves with the code for each.","Use easeOutCubic for entrances and easeInCubic for exits."],
+["motion","Response Times: The 3 Important Limits","https://www.nngroup.com/articles/response-times-3-important-limits/","Jakob Nielsen · NN/g","Article","Free",0,"The 0.1 second, 1 second and 10 second thresholds that decide what feedback each wait needs.","Specify the feedback for waits under 0.1 s, under 1 s and over 1 s."],
+["motion","Skeleton Screens 101","https://www.nngroup.com/articles/skeleton-screens/","NN/g","Article","Free",0,"When a skeleton helps, when a spinner or progress bar is better, and how to design each.","Use a skeleton for the list load and a progress bar for the export."],
+["motion","Bottom Sheets: Definition and UX Guidelines","https://www.nngroup.com/articles/bottom-sheet/","NN/g","Article","Free",0,"Modal versus non-modal sheets, and the usability problems to avoid. Directly relevant to the Quick Capture example.","Follow NN/g bottom sheet guidelines: clear dismissal and no stacked sheets."],
+["motion","Confirmation Dialogs Can Prevent User Errors (If Not Overused)","https://www.nngroup.com/articles/confirmation-dialog/","NN/g","Article","Free",0,"When to confirm, when to offer undo, and how to word the dialog.","Use undo for reversible actions; confirm only what can't be reversed."],
+["motion","Microinteractions in User Experience","https://www.nngroup.com/articles/microinteractions/","NN/g","Article","Free",0,"A short explanation of Dan Saffer's model: every microinteraction has a trigger, rules, feedback, and loops and modes.","Specify this microinteraction as trigger, rules, feedback, and loops and modes."],
+["motion","Motion","https://motion.dev/","Motion","Tool","Freemium",0,"The animation library AI builders most often use for React and plain JavaScript.","Implement transitions with Motion using spring physics, not fixed durations."],
+["motion","LottieFiles","https://lottiefiles.com/","LottieFiles","Tool","Freemium",0,"A library of lightweight vector animations for empty states, success moments and loaders.","Add one small Lottie animation to the success state, nowhere else."],
+
+// ---------- Content and UX writing ----------
+["content","Mailchimp Content Style Guide","https://styleguide.mailchimp.com/","Mailchimp","Guideline","Free",1,"The model voice-and-tone guide. Shows how to stay one personality while adapting tone to the reader's mood.","Write in a voice that is plain and warm, never cute. Adapt tone to error versus success."],
+["content","Error-Message Guidelines","https://www.nngroup.com/articles/error-message-guidelines/","NN/g","Article","Free",1,"How to write errors that are visible, precise and constructive, with a scoring rubric.","Each error says what happened and how to fix it, next to the field, with no blame."],
+["content","Designing Empty States in Complex Applications","https://www.nngroup.com/articles/empty-state-interface-design/","NN/g","Article","Free",0,"Three jobs an empty state can do: confirm status, teach, and offer a direct path to the first action.","Design the empty state to explain, teach and offer one starting action."],
+["content","Material 3: Content design","https://m3.material.io/foundations/content-design/overview","Google","Guideline","Free",0,"Google's UX writing guidance: style, word choice, notifications and alt text.","Follow Material content design: sentence case, second person, no exclamation marks."],
+["content","Apple HIG: Writing","https://developer.apple.com/design/human-interface-guidelines/writing","Apple","Guideline","Free",0,"Apple's guidance on clear, consistent interface text, including buttons and alerts.","Write alert titles as short questions or statements, with verb buttons."],
+["content","Writing to GOV.UK standards","https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/","UK Government Digital Service","Guideline","Free",0,"How to write for the way people actually read on screens: front-loaded, plain and scannable.","Rewrite this at a reading age of nine, front-loading the key words."],
+["content","Microsoft Writing Style Guide","https://learn.microsoft.com/en-us/style-guide/welcome/","Microsoft","Guideline","Free",0,"A complete style guide with top-ten tips and word lists for interface text.","Apply Microsoft's top ten tips: bigger ideas, fewer words."],
+["content","Hemingway Editor","https://hemingwayapp.com/","Hemingway","Tool","Freemium",0,"Highlights long sentences, passive voice and hard words. Paste interface text in to check its reading level.","Simplify all strings to grade 6 reading level."],
+["content","Strategic Writing for UX","https://www.torreypodmajersky.com/","Torrey Podmajersky","Book","Paid",0,"The standard book on UX writing, with patterns for titles, buttons, errors and empty states.","Create a voice chart: concepts, vocabulary, verbosity, grammar and punctuation."],
+
+// ---------- Accessibility ----------
+["a11y","WCAG 2.2 Quick Reference","https://www.w3.org/WAI/WCAG22/quickref/","W3C","Guideline","Free",1,"Every success criterion, filterable by level, with techniques for meeting each. The source you cite in audits.","Audit against WCAG 2.2 AA and cite the success criterion number for each issue."],
+["a11y","Designing for Web Accessibility","https://www.w3.org/WAI/tips/designing/","W3C WAI","Guideline","Free",1,"Ten illustrated tips that cover most accessibility issues a designer controls.","Check this design against the W3C's ten tips for designing for accessibility."],
+["a11y","The A11Y Project Checklist","https://www.a11yproject.com/checklist/","The A11Y Project","Reference","Free",0,"A plain-language checklist organised by content, layout, forms, media and controls.","Run this page through the A11Y Project checklist and report failures."],
+["a11y","ARIA Authoring Practices Guide: Patterns","https://www.w3.org/WAI/ARIA/apg/patterns/","W3C","Guideline","Free",0,"The correct keyboard and screen-reader behaviour for every common widget: dialog, tabs, combobox, menu.","Implement the dialog to the ARIA Authoring Practices pattern, including focus trap."],
+["a11y","WebAIM Contrast Checker","https://webaim.org/resources/contrastchecker/","WebAIM","Tool","Free",0,"Enter two colours and see whether they pass at each level and text size.","List every text and background pair with its contrast ratio."],
+["a11y","Who Can Use","https://www.whocanuse.com/","Corey Ginnivan","Tool","Free",0,"Shows how a colour pair looks to people with each type of vision, and how many people that is.","Check the palette under the common colour-vision deficiencies."],
+["a11y","Inclusive Components","https://inclusive-components.design/","Heydon Pickering","Reference","Free",0,"Deep dives into building one component at a time accessibly: toggles, menus, tooltips, cards.","Build the toggle as Inclusive Components recommends, with the correct role and state."],
+["a11y","Microsoft Inclusive Design","https://inclusive.microsoft.design/","Microsoft","Guideline","Free",0,"The permanent, temporary and situational disability model: designing for one arm also serves a parent holding a child.","List permanent, temporary and situational constraints for this feature."],
+["a11y","Apple HIG: Accessibility","https://developer.apple.com/design/human-interface-guidelines/accessibility","Apple","Guideline","Free",0,"VoiceOver, Dynamic Type, contrast, reduced motion and target sizes on Apple platforms.","Support VoiceOver labels, Dynamic Type up to the largest size, and Reduce Motion."],
+["a11y","Dos and don'ts on designing for accessibility","https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/","UK Home Office","Reference","Free",0,"Six posters of simple dos and don'ts for different groups of users. Easy to remember and to quote.","Apply the GOV.UK dos and don'ts for users with low vision and dyslexia."],
+["a11y","Learn Accessibility","https://web.dev/learn/accessibility","Google · web.dev","Course","Free",0,"A free, thorough course covering everything from semantics to testing.","Explain how to test this page with a keyboard and a screen reader."],
+["a11y","axe DevTools","https://www.deque.com/axe/devtools/","Deque","Tool","Freemium",0,"The standard browser extension for automated accessibility testing of built pages.","Fix every issue an axe scan would flag on this page."],
+["a11y","WAVE","https://wave.webaim.org/","WebAIM","Tool","Free",0,"Paste a URL and see accessibility errors marked on the page itself.","Predict what WAVE would flag here: missing labels, contrast, heading order."],
+["a11y","Stark","https://www.getstark.co/","Stark","Tool","Freemium",0,"Accessibility checks inside Figma and the browser: contrast, vision simulation, focus order.","Annotate focus order and landmarks on this design."],
+
+// ---------- Designing AI features ----------
+["ai","People + AI Guidebook","https://pair.withgoogle.com/guidebook/","Google PAIR","Guideline","Free",1,"The most complete guide to designing AI features: mental models, explainability, feedback, and failing gracefully.","Design this AI feature so users can see why it suggested something and correct it."],
+["ai","Guidelines for Human-AI Interaction","https://www.microsoft.com/en-us/haxtoolkit/ai-guidelines/","Microsoft HAX Toolkit","Guideline","Free",1,"Eighteen guidelines grouped by moment: initially, during interaction, when wrong, over time.","Check this AI feature against the 18 Human-AI Interaction guidelines."],
+["ai","The Shape of AI","https://www.shapeof.ai/","Emily Campbell","Reference","Free",0,"A pattern library for AI interfaces: suggestions, citations, regeneration, controls and trust markers.","Which Shape of AI patterns fit a 'suggest, don't decide' assistant?"],
+["ai","Apple HIG: Generative AI","https://developer.apple.com/design/human-interface-guidelines/generative-ai","Apple","Guideline","Free",0,"Apple's guidance on designing responsible generative features: transparency, control and handling errors.","Keep people in control: show AI output as a suggestion they accept or dismiss."],
+["ai","Apple HIG: Machine learning","https://developer.apple.com/design/human-interface-guidelines/machine-learning","Apple","Guideline","Free",0,"How to design around predictions: confidence, corrections, implicit and explicit feedback.","Design for wrong predictions: easy correction and no penalty."],
+["ai","Carbon for AI","https://www.carbondesignsystem.com/building-blocks/foundations/carbon-for-ai","IBM","Guideline","Free",0,"How a design system marks AI-generated content and exposes explanations consistently.","Mark AI-generated content with a consistent label and an explanation on demand."],
+["ai","NN/g: Artificial Intelligence","https://www.nngroup.com/topic/ai/","NN/g","Reference","Free",0,"Research on how people actually use AI products, including prompt behaviours and trust.","What does usability research say about how people really use AI assistants?"],
+
+// ---------- AI design tools and prompting ----------
+["tools","Prompt engineering overview","https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview","Anthropic","Guideline","Free",1,"The official guide to prompting Claude: be clear and direct, give examples, assign a role, let it think.","Before answering, think through the user's goal and the constraints step by step."],
+["tools","Mermaid Live Editor","https://mermaid.live/","Mermaid","Tool","Free",1,"Paste the Mermaid flowchart that the user flow template produces and see it drawn instantly.","Output the flow as a Mermaid flowchart I can paste into mermaid.live."],
+["tools","Claude","https://claude.ai/","Anthropic","Tool","Freemium",0,"Generates working prototypes, wireframes and design documents as artifacts you can open and iterate on.","Build this as a single HTML artifact I can click through."],
+["tools","Figma Make","https://www.figma.com/make/","Figma","Tool","Freemium",0,"Prompt-to-prototype inside Figma, able to start from your existing designs and libraries.","Use my attached Figma frame as the starting point; keep its styles."],
+["tools","v0","https://v0.app/","Vercel","Tool","Freemium",0,"Generates React interfaces with shadcn/ui and Tailwind from a prompt or screenshot.","Generate this screen with shadcn/ui components and show all states."],
+["tools","Lovable","https://lovable.dev/","Lovable","Tool","Freemium",0,"Builds full web apps from prompts, with a visual editor for point-and-click changes.","Build the capture flow end to end with mock data, no backend."],
+["tools","Bolt","https://bolt.new/","StackBlitz","Tool","Freemium",0,"Prompt-to-app in the browser, good for quick throwaway prototypes.","Scaffold a clickable prototype of these four screens."],
+["tools","Stitch","https://stitch.google.com/","Google","Tool","Free",0,"Generates mobile and web UI designs from prompts and exports to Figma or code.","Generate three layout variations of this screen for comparison."],
+["tools","Prompt engineering guide","https://developers.openai.com/api/docs/guides/prompt-engineering","OpenAI","Guideline","Free",0,"OpenAI's prompting guidance. The principles carry across tools.","Give the model the context, the format, and an example of good output."],
+["tools","Figma","https://www.figma.com/","Figma","Tool","Freemium",0,"The industry-standard design tool. Even if AI drafts the screens, this is where teams refine and hand off.","Structure the output so it maps to Figma frames, components and variants."],
+["tools","Figma Resource Library","https://www.figma.com/resource-library/","Figma","Reference","Free",0,"Short explainers on almost every design topic, with templates.","Explain wireframing the way Figma's resource library does, then apply it."],
+["tools","Excalidraw","https://excalidraw.com/","Excalidraw","Tool","Free",0,"Hand-drawn style whiteboard for quick flows and low-fidelity sketches. The roughness signals 'not final'.","Describe the wireframe as boxes I can sketch in Excalidraw."],
+["tools","tldraw","https://www.tldraw.com/","tldraw","Tool","Free",0,"A fast infinite canvas for sketching flows and wireframes.","Lay out the flow as a left-to-right diagram of screens and arrows."],
+["tools","Whimsical","https://whimsical.com/","Whimsical","Tool","Freemium",0,"Flowcharts, wireframes and mind maps with tidy defaults.","Give me the flow as a list of nodes and connections I can redraw."],
+["tools","Balsamiq Wireframing Academy","https://balsamiq.com/learn/","Balsamiq","Course","Free",0,"Free lessons on wireframing and UI design fundamentals, with a control-by-control guide.","Wireframe at Balsamiq fidelity: boxes, labels and real text only."],
+["tools","Penpot","https://penpot.app/","Penpot","Tool","Free",0,"An open-source design tool built on web standards, so designs map closely to CSS.","Express layout as flex and grid so it maps directly to code."],
+["tools","Framer","https://www.framer.com/","Framer","Tool","Freemium",0,"Design and publish real websites with strong interaction and animation tools.","Design the marketing page as sections I can rebuild in Framer."],
+
+// ---------- Courses and practice ----------
+["learn","Practical UI","https://www.practical-ui.com/","Adham Dannaway","Book","Paid",1,"A logic-driven visual design handbook with clear rules and before-and-after examples. A strong companion to Refactoring UI.","Give a logical reason for every visual decision, not a taste judgement."],
+["learn","Google UX Design Certificate","https://www.coursera.org/professional-certificates/google-ux-design","Google · Coursera","Course","Paid",0,"A structured beginner course through the whole process, from research to high-fidelity prototypes.","Walk me through this project the way a UX course capstone would."],
+["learn","Interaction Design Foundation courses","https://ixdf.org/courses","IxDF","Course","Paid",0,"University-style courses on every UX topic, for a flat membership fee.","Teach me this topic in five short lessons with an exercise each."],
+["learn","Learn UI Design","https://www.learnui.design/","Erik Kennedy","Course","Paid",0,"A thorough video course on visual design, taught through practical frameworks.","Critique this design the way a UI design tutor would, with specific fixes."],
+["learn","Shift Nudge","https://shiftnudge.com/","Matt D. Smith","Course","Paid",0,"A well-regarded interface design course focused on visual craft.","Push this layout from adequate to polished: what five nudges would you make?"],
+["learn","Uxcel","https://uxcel.com/","Uxcel","Course","Freemium",0,"Bite-sized interactive lessons and skill tests, good for a few minutes a day.","Quiz me on design vocabulary with ten multiple-choice questions."],
+["learn","Design basics","https://www.figma.com/resource-library/design-basics/","Figma","Course","Free",0,"A free introduction to design principles, colour, typography and layout.","Explain the design principle at work here in one paragraph."],
+["learn","Daily UI","https://www.dailyui.co/","Daily UI","Course","Free",0,"A design brief by email every weekday. Use each one as a prompt-writing exercise.","Today's brief: write the prompt first, then judge the output with the checklist."],
+["learn","Hack Design","https://hackdesign.org/","Hack Design","Course","Free",0,"A free curated curriculum of readings, one lesson a week.","Summarise this lesson's readings and give me one exercise."],
+["learn","NN/g on YouTube","https://www.youtube.com/@NNgroup","Nielsen Norman Group","Video","Free",0,"Hundreds of three-minute videos, each explaining one UX concept.","Explain this concept in three minutes, as an NN/g video would."],
+["learn","Figma on YouTube","https://www.youtube.com/@Figma","Figma","Video","Free",0,"Tutorials and Config conference talks from leading design teams.","Summarise how a leading team approaches this, as a Config talk would."],
+["learn","Steve Schoger on YouTube","https://www.youtube.com/@SteveSchoger","Steve Schoger","Video","Free",0,"Screen recordings of real interfaces being redesigned, with the reasoning spoken aloud.","Redesign this screen step by step and narrate each change."],
+
+// ---------- Voices worth following ----------
+["voices","Lenny's Newsletter","https://www.lennysnewsletter.com/","Lenny Rachitsky","Blog","Freemium",0,"The most-read product newsletter. Deep interviews on product, growth and design practice.","How would a strong product team frame this decision?"],
+["voices","LukeW","https://www.lukew.com/ff/","Luke Wroblewski","Blog","Free",1,"Two decades of short, evidence-led notes on forms, mobile and now AI interfaces.","Apply mobile-first thinking: what stays when the screen is small?"],
+["voices","The Looking Glass","https://lg.substack.com/","Julie Zhuo","Blog","Freemium",0,"Essays on design judgement and critique from Facebook's former head of design.","Run a design critique: what is this trying to do, and does it succeed?"],
+["voices","The Linear Method","https://linear.app/method","Linear","Guideline","Free",0,"How a team known for craft plans, scopes and builds. Short and opinionated.","Scope this to something we could ship well in one cycle."],
+["voices","Brad Frost","https://bradfrost.com/blog/","Brad Frost","Blog","Free",0,"Ongoing writing on design systems and, recently, on AI in design system work.","How should a design system change when AI generates the screens?"],
+["voices","UX Collective","https://uxdesign.cc/","UX Collective","Blog","Freemium",0,"A large, curated publication of practitioner essays and an annual state-of-UX report.","What are the current debates on this topic among practitioners?"],
+["voices","Smashing Magazine","https://www.smashingmagazine.com/","Smashing Magazine","Blog","Free",0,"Long, practical articles on design patterns, accessibility and front-end.","Give me the practical guidelines for this pattern, with edge cases."],
+["voices","Sidebar","https://sidebar.io/","Sacha Greif","Blog","Free",0,"Five good design links every day. A low-effort way to stay current.","What should I read this week to get better at judging interfaces?"],
+["voices","Dense Discovery","https://www.densediscovery.com/","Kai Brach","Blog","Free",0,"A thoughtful weekly on design, technology and culture.","What is the considered, humane version of this feature?"],
+["voices","Figma Blog","https://www.figma.com/blog/","Figma","Blog","Free",0,"Design practice, tool updates and interviews with working teams.","How are teams combining AI generation with their design systems?"],
+["voices","Jakob Nielsen on UX","https://jakobnielsenphd.substack.com/","Jakob Nielsen","Blog","Free",0,"The usability pioneer's current writing, much of it on AI and the future of UX work.","How does this classic usability rule change when the interface is conversational?"],
+["voices","Design Tools Survey","https://uxtools.co/survey/","UX Tools","Reference","Free",0,"An annual survey of which tools designers actually use for each job.","Which tools do most teams use for this job today?"],
+
+// ---------- Close to home: notes and knowledge tools ----------
+["notes","Local-first software","https://www.inkandswitch.com/essay/local-first/","Ink & Switch","Article","Free",1,"The essay that set out seven ideals for software where you own your data and it works offline. Directly relevant to sync and export.","Assess this design against the seven local-first ideals."],
+["notes","File over app","https://stephango.com/file-over-app","Steph Ango","Article","Free",0,"A short argument by Obsidian's CEO that durable files matter more than the app that edits them.","How does this feature keep the user's notes usable without our app?"],
+["notes","Maggie Appleton","https://maggieappleton.com/","Maggie Appleton","Blog","Free",1,"Illustrated essays on digital gardens, tools for thought, and interfaces for language models.","Design the AI as a collaborator in the margins, not an author."],
+["notes","Evergreen notes","https://notes.andymatuschak.org/Evergreen_notes","Andy Matuschak","Reference","Free",0,"Working notes on note-taking itself, presented in an influential sliding-pane interface.","What does this design do to help notes compound over time?"],
+["notes","How can we develop transformative tools for thought?","https://numinous.productions/ttft/","Andy Matuschak & Michael Nielsen","Article","Free",0,"A long essay on what makes a thinking tool powerful, with spaced repetition as the worked example.","What is the 'powerful idea' this note feature lets a person do that they couldn't before?"],
+["notes","Ink & Switch","https://www.inkandswitch.com/","Ink & Switch","Reference","Free",0,"An independent research lab publishing detailed design studies of future tools for thought.","What would a research-lab prototype of this idea explore first?"]
 ];
-$('#reads').innerHTML = R.map(r=>`<div class="read"><span class="for">${r[3]}</span><h3>${esc(r[0])}</h3><span class="by">${esc(r[1])}</span><p>${esc(r[2])}</p></div>`).join('');
+const RCAT = [
+ ['found','Foundations','Read these first. They hold the principles everything else rests on.'],
+ ['platform','Platform guidelines','The rulebooks for iOS, Android and the web. Name one in a prompt and the AI follows its conventions.'],
+ ['systems','Design systems','How mature teams define components and tokens. Borrow their names and their rules.'],
+ ['gallery','Pattern and flow galleries','Real screens from real products. Find a reference, then name it in your prompt.'],
+ ['research','Research and strategy','How to find out what people need before any screen exists, and how to test afterwards.'],
+ ['visual','Visual craft','Type, colour, spacing and icons: the rules, and the tools that apply them.'],
+ ['motion','Interaction and motion','How an interface responds, moves and waits.'],
+ ['content','Content and UX writing','The words in the interface, which do as much work as the layout.'],
+ ['a11y','Accessibility','Standards, checklists and checkers, so that everyone can use what you build.'],
+ ['ai','Designing AI features','Guidance for features where the product itself uses AI.'],
+ ['tools','AI tools and prompting','Where to run your prompts, and how to write them well.'],
+ ['learn','Courses and practice','Structured ways to go deeper once the basics are in place.'],
+ ['voices','Voices to follow','People and publications that keep you current.'],
+ ['notes','Notes and knowledge tools','Thinking specific to Loom\'s field: tools for thought, ownership of data, and AI alongside notes.']
+];
+const COST_LABEL = {Free:'Free', Freemium:'Free tier', Paid:'Paid'};
+let rView='ess', rCat='all';
+const hostOf = u => { try{ return new URL(u).hostname.replace(/^www\./,''); }catch(e){ return ''; } };
+$('#r-total').textContent = RES.length;
+$('#r-ess').textContent = 'Essentials ('+RES.filter(r=>r[6]).length+')';
+$('#r-all').textContent = 'Everything ('+RES.length+')';
+$('#r-type').innerHTML = '<option value="">Any type</option>'+[...new Set(RES.map(r=>r[4]))].sort().map(t=>`<option>${esc(t)}</option>`).join('');
+$('#r-cats').innerHTML = `<button type="button" data-c="all" aria-pressed="true">All topics</button>`+RCAT.map(c=>`<button type="button" data-c="${c[0]}" aria-pressed="false">${esc(c[1])}</button>`).join('');
+function renderR(){
+  const q = $('#r-q').value.trim().toLowerCase(), ty = $('#r-type').value, co = $('#r-cost').value;
+  const base = r => (rCat==='all'||r[0]===rCat) && (!ty||r[4]===ty) && (!co||r[5]===co) && (!q || (r[1]+' '+r[3]+' '+r[4]+' '+r[7]+' '+r[8]).toLowerCase().includes(q));
+  const pool = RES.map((r,i)=>[r,i]).filter(x=>base(x[0]));
+  const essOnly = rView==='ess' && !q;
+  const shown = essOnly ? pool.filter(x=>x[0][6]) : pool;
+  $('#r-count').textContent = 'Showing '+shown.length+' of '+RES.length+(q && rView==='ess' ? ' (search covers everything)' : '');
+  const hidden = pool.length - shown.length;
+  $('#r-more').innerHTML = essOnly && hidden>0 ? `<button type="button" class="linkbtn" id="r-more-btn">Show ${hidden} more in this view</button>` : '';
+  const card = ([r,i]) => `<article class="res">
+    <a class="res-title" href="${esc(r[2])}" target="_blank" rel="noopener noreferrer">${esc(r[1])} <span aria-hidden="true">↗</span></a>
+    <div class="res-by">${esc(r[3])} · ${esc(hostOf(r[2]))}</div>
+    <p>${esc(r[7])}</p>
+    <button type="button" class="res-say" data-i="${i}" title="Copy this line"><small>In a prompt</small>${esc(r[8])}</button>
+    <div class="res-tags">${r[6]?'<span class="rt ess">Essential</span>':''}<span class="rt">${esc(r[4])}</span><span class="rt">${COST_LABEL[r[5]]||esc(r[5])}</span></div>
+  </article>`;
+  const groups = RCAT.map(c=>[c, shown.filter(x=>x[0][0]===c[0])]).filter(g=>g[1].length);
+  $('#r-groups').innerHTML = groups.length ? groups.map(([c,items])=>`<div class="r-group"><div class="r-group-head"><h3>${esc(c[1])}</h3><p>${esc(c[2])}</p></div><div class="r-grid">${items.map(card).join('')}</div></div>`).join('') : '<p class="gl-empty">Nothing matches. Clear a filter or try a broader word.</p>';
+}
+function setView(v){ rView=v; $('#r-ess').setAttribute('aria-pressed', String(v==='ess')); $('#r-all').setAttribute('aria-pressed', String(v==='all')); renderR(); }
+$('#r-ess').addEventListener('click', ()=>setView('ess'));
+$('#r-all').addEventListener('click', ()=>setView('all'));
+$('#r-more').addEventListener('click', e=>{ if(e.target.closest('button')) setView('all'); });
+$('#r-q').addEventListener('input', renderR);
+$('#r-type').addEventListener('change', renderR);
+$('#r-cost').addEventListener('change', renderR);
+$('#r-cats').addEventListener('click', e=>{ const b=e.target.closest('button'); if(!b) return; rCat=b.dataset.c; $('#r-cats').querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed', String(x===b))); renderR(); });
+$('#r-groups').addEventListener('click', e=>{ const b=e.target.closest('.res-say'); if(b) copyText(RES[b.dataset.i][8], b); });
+renderR();
 
 const links = [...document.querySelectorAll('nav.toc a')];
 if('IntersectionObserver' in window){
