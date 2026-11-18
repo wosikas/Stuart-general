@@ -1,0 +1,22 @@
+# Design resources - Notes and knowledge tools
+
+Part of [[11 Resource library]] in the [[Product Design Prompt Kit]].
+
+Thinking specific to Loom's field: tools for thought, ownership of data, and AI alongside notes.
+
+14 links. A star marks an essential. Last link check: 18 November 2026.
+
+- **[Local-first software](https://www.inkandswitch.com/essay/local-first/)** ★ (Ink & Switch; article; free). The essay that set out seven ideals for software where you own your data and it works offline. Directly relevant to sync and export. *In a prompt:* "Assess this design against the seven local-first ideals."
+- **[File over app](https://stephango.com/file-over-app)** (Steph Ango; article; free). A short argument by Obsidian's CEO that durable files matter more than the app that edits them. *In a prompt:* "How does this feature keep the user's notes usable without our app?"
+- **[Maggie Appleton](https://maggieappleton.com/)** ★ (Maggie Appleton; blog; free). Illustrated essays on digital gardens, tools for thought, and interfaces for language models. *In a prompt:* "Design the AI as a collaborator in the margins, not an author."
+- **[Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)** (Andy Matuschak; reference; free). Working notes on note-taking itself, presented in an influential sliding-pane interface. *In a prompt:* "What does this design do to help notes compound over time?"
+- **[How can we develop transformative tools for thought?](https://numinous.productions/ttft/)** (Andy Matuschak & Michael Nielsen; article; free). A long essay on what makes a thinking tool powerful, with spaced repetition as the worked example. *In a prompt:* "What is the 'powerful idea' this note feature lets a person do that they couldn't before?"
+- **[Ink & Switch](https://www.inkandswitch.com/)** (Ink & Switch; reference; free). An independent research lab publishing detailed design studies of future tools for thought. *In a prompt:* "What would a research-lab prototype of this idea explore first?"
+- **[Introduction to the Zettelkasten Method](https://zettelkasten.de/introduction/)** (Sascha Fast; article; free). A full explanation of the linked-notes method that Obsidian, Roam and much of the field are built around. *In a prompt:* "How would this feature serve someone who keeps a Zettelkasten?"
+- **[Building a Second Brain: the introductory guide](https://fortelabs.com/blog/basboverview/)** (Tiago Forte; article; free). The capture, organise, distil, express method, and the PARA folder system many of Loom's likely users follow. *In a prompt:* "Map this feature to capture, organise, distil and express."
+- **[A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)** (Maggie Appleton; article; free). Where the idea of tending notes in public came from, and the principles behind it. *In a prompt:* "How could notes here grow from rough to finished, and show their stage?"
+- **[The data model behind Notion's flexibility](https://www.notion.com/blog/data-model-behind-notion)** (Notion; article; free). How Notion's blocks work underneath. A lesson in how a data model shapes what an interface can do. *In a prompt:* "What does our data model make easy, and what does it make impossible?"
+- **[Malleable software](https://www.inkandswitch.com/essay/malleable-software/)** (Ink & Switch; article; free). An essay on software that people can reshape for themselves, and what that requires of the design. *In a prompt:* "Which parts of this should users be able to change for themselves?"
+- **[Malleable software in the age of LLMs](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html)** (Geoffrey Litt; article; free). How language models could let ordinary people modify their own tools. Relevant to any AI door into a notes app. *In a prompt:* "Let the user describe a small change to how this works, and have the tool adapt."
+- **[Geoffrey Litt](https://www.geoffreylitt.com/)** (Geoffrey Litt; blog; free). Research and prototypes on personal software, AI-assisted tools and notes as a medium. *In a prompt:* "What would a researcher of personal software prototype here first?"
+- **[thesephist](https://thesephist.com/)** (Linus Lee; blog; free). Essays and experiments on AI interfaces for reading, writing and thinking. *In a prompt:* "How could the interface show what the model understood, not just what it wrote?"
